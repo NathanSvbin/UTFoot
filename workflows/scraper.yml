@@ -1,0 +1,36 @@
+name: Scraping automatique des championnats
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # Toutes les heures
+  workflow_dispatch:       # Pour lancer manuellement
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 chardet
+
+      - name: Run scraping script
+        run: python scrape.py
+
+      - name: Commit and push updated JSON
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add classement/classements.json
+          git commit -m "Mise à jour automatique du classement ($(date))" || echo "Rien à commit"
+          git push
