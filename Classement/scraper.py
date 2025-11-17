@@ -77,7 +77,7 @@ def main():
     all_data = []
 
     # 🔽 Lire les championnats depuis le CSV
-    championnats = lire_championnats_csv("../Championnat/championnat_finale.csv")
+    championnats = lire_championnats_csv("Championnat/championnat_finale.csv")
 
     for nom, url in championnats:
         try:
@@ -102,5 +102,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
