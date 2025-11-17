@@ -1,0 +1,237 @@
+Id,Championnat,Id_Pays
+1,Premier League,4
+2,LaLiga,15
+3,Serie A,27
+4,Bundesliga,2
+5,Ligue 1,18
+7,Championship,4
+6,Série A,88
+8,Liga Portugal,40
+11,MLS,95
+10,Süper Lig,50
+9,Eredivisie,37
+12,Saudi Pro League,53
+13,Premier Liga,43
+14,Torneo Apertura,86
+15,Torneo Clausura,86
+16,Jupiler Pro League,7
+17,Liga MX Clausura,99
+18,Liga MX Apertura,99
+19,Super League 1,21
+20,Serie B,27
+21,2. Bundesliga,2
+22,LaLiga2,15
+23,Stars League,54
+24,Super League,48
+25,Premier Liga,51
+26,UAE Pro League,55
+27,Chance Liga,41
+28,Bundesliga,5
+29,Ekstraklasa,39
+30,Premiership,14
+31,Superliga,13
+32,Ligue 2,18
+33,Eliteserien,36
+34,J1 League,56
+35,League One,4
+36,Super liga Srbije,44
+37,Allsvenskan,49
+38,SuperLiga,45
+39,Série B,88
+40,SuperSport HNL,12
+41,Liga DIMAYOR II,91
+42,Liga DIMAYOR I,91
+43,efbet Liga,10
+44,Liga Primera,90
+45,Liga AUF Apertura,105
+46,Liga AUF Clausura,105
+47,Liga AUF Intermedio,105
+48,LigaPro Serie A,93
+49,Premier League,112
+50,Egyptian League Cup,112
+51,1.Lig,50
+52,Ligat ha'Al,26
+53,Liga Portugal 2,40
+54,NB I.,22
+55,Betway Premiership,110
+56,Carling Knockout,120
+57,Cyprus League,11
+58,3. Liga,2
+59,Keuken Kampioen Divisie,37
+60,J2 League,56
+61,Super League,57
+62,1.Division,13
+63,Liga 1 Apertura,104
+64,Liga 1 Clausura,104
+65,Challenger Pro League,8
+66,Persian Gulf League,58
+67,K League 1,59
+68,Primera División Apertura,102
+69,Primera División Clausura,102
+70,Botola Pro Inwi,116
+71,Serie C - C,27
+72,Premyer Liqa,6
+73,Primera Nacional,86
+74,Serie C - A,27
+75,Niké Liga,45
+76,Serie C - B,27
+77,Ligue 1,109
+78,Primera Federación - Gr. I,15
+79,USLC,95
+80,MTN8,110
+81,League Two,4
+82,Iraq Stars League,60
+83,Primera Federación - Gr. II,15
+84,Liga Expansión MX Cl.,99
+85,Liga Expansión MX Ap.,99
+86,A-League Men,61
+87,K League 2,59
+88,Superliga,81
+89,División Profesional,87
+90,Egyptian Super Cup,112
+91,Betclic 1 Liga,40
+92,Premier Liga,28
+93,Saudi First Division League,53
+94,Ligue 1,121
+95,Thai League,63
+96,OBOS-ligaen,36
+97,Super League,64
+98,Super League 2,21
+99,Superettan,49
+100,Liga FUTVE Apertura,106
+101,Liga FUTVE Clausura,106
+102,Libyan Premier League,115
+103,Liga de Ascenso,90
+104,1.Division,36
+105,2. Division A (Phase 2),11
+106,2. Liga,5
+107,Prva Liga,46
+108,Ch. National,18
+109,ChNL,51
+110,Vysshaya Liga,43
+111,Premijer Liga BiH,9
+112,2. Division A (Phase 1),11
+113,Liga 2,42
+114,V.League 1,65
+115,Super League,66
+116,Premier League,4
+117,Challenge League,48
+118,Kategoria Superiore,1
+119,Veikkausliiga,17
+120,Virsliga,30
+121,Indian Super League,64
+122,Torneo Competencia,105
+123,Segunda División,105
+124,Torneo DIMAYOR II,91
+125,Torneo DIMAYOR I,91
+126,A Lyga,31
+127,Premier League Opening Round,34
+128,Segunda Federación - Gr. III,15
+129,Primera División Apertura,92
+130,Primera División Clausura,101
+131,League One,57
+132,Persha Liga,51
+133,Prva liga Srbije,44
+134,Liga 2,107
+135,Superliga e Kosovës,29
+136,Prva liga,35
+137,NB II.,22
+138,Regionalliga Südwest,2
+139,Liga Leumit,26
+140,Regionalliga West,2
+141,Jindal League,67
+142,Azadegan League,58
+143,Vtora Liga,10
+144,Segunda Federación - Gr. IV,15
+145,Regionalliga Bayern,2
+146,Erovnuli Liga,19
+147,Regionalliga Nord-Est,2
+148,First Division,34
+149,USL1,95
+150,Liga Guate Apertura,96
+151,Liga Guate Clausura,96
+152,Supercoupe Tunisienne,121
+153,Liga Pro Serie B,93
+154,Lebanese Premier League,68
+155,Serie D - B,27
+156,Besta deild,25
+157,2.Lig Beyaz,50
+158,Qatari Second Division,54
+159,Kyrgyz Premier League,69
+160,Jordanian Pro League,70
+161,Liga Panameña Apertura,101
+162,Liga Panameña Clausura,101
+163,Thai League 2,63
+164,2.Lig Kirmizi,50
+165,Premier Division,24
+166,Liga Nacional Apertura,97
+167,Segunda Federación - Gr. II,15
+168,Regionalliga Nord,2
+169,Premium Liiga,16
+170,Primera División Apertura,94
+171,Primera División Clausura,94
+172,Serie D - H,27
+173,Championship,85
+174,Segunda Federación - Gr. V,15
+175,Meridianbet 1. CFL,35
+176,Prva NL,46
+177,Premiership,24
+178,BGL Ligue,32
+179,Serie D - F,27
+180,Serie D - E,27
+181,Super Liga,33
+182,Serie D - C,27
+183,Pershaya Liga,8
+184,National League Championship,71
+185,Serie D - D,27
+186,Segunda Federación - Gr. I,15
+187,Premier League,114
+188,CanPL,89
+189,Hong Kong Premier League,72
+190,Vysshaya Liga,73
+191,Serie D - A,27
+192,National League - North,71
+193,Primera Divisió,3
+194,Supercoupe d'Algérie,109
+195,Premier League,82
+196,Serie D - G,27
+197,Druga Liga,12
+198,Serie D - I,27
+199,Prva liga FBIH,9
+200,Fiji Premier League,74
+201,Myanmar National League,75
+202,II. Liga,45
+203,C. Premier League,57
+204,Kategoria e Parë,1
+205,Bangladesh PL,76
+206,Cymru Premier,38
+207,Liga FUTVE 2,106
+208,Betri-deildin,52
+209,Prva Liga RS,44
+210,PFL,77
+211,I-League,64
+212,Liga 3,42
+213,National League - Central,71
+214,Lengjudeild,25
+215,Copa Simón Bolívar (-2024),87
+216,Gibraltar Football League,20
+217,National League - South,71
+218,Camp. Sammarinese,47
+219,Promotion League,48
+220,Uzbekistan Pro Liga,81
+221,First League,33
+222,Pervaya Liga,43
+223,Norsk Tipping-Ligaen avd. 2,36
+224,Ykkösliiga,17
+225,National League,14
+226,MSFL,41
+227,Liga Primera Apertura,100
+228,CFL,10
+229,Lao League 1,78
+230,2. Division B,11
+231,Football Premier League,66
+232,Premier League,113
+233,NPFL,117
+234,Uganda Premier League,118
+235,Ligue 1,119
+236,D1 Comores,111
