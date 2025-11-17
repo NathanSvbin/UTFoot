@@ -4,6 +4,9 @@ import json
 import os
 import csv
 
+print("Répertoire courant :", os.getcwd())
+print("Fichiers dans Championnat :", os.listdir("Championnat"))
+
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
@@ -99,4 +102,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
