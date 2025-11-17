@@ -3,7 +3,7 @@ name: Scraping automatique FootIQ
 on:
   schedule:
     - cron: "*/10 * * * *"   # Toutes les 10 minutes
-  workflow_dispatch:         # Lancement manuel
+  workflow_dispatch:
 
 jobs:
   scrape:
@@ -11,8 +11,9 @@ jobs:
 
     steps:
       - name: Checkout
-      # On récupère les fichiers du repo
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -30,6 +31,6 @@ jobs:
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
-          git add Classement/classements.json || true
-          git commit -m "Mise à jour automatique du classement ($(date))" || echo "Aucune modification"
+          git add Classement/classements.json
+          git diff --cached --quiet || git commit -m "Mise à jour automatique du classement ($(date))"
           git push
