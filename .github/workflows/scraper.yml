@@ -2,7 +2,7 @@ name: Scraping automatique des championnats
 
 on:
   schedule:
-    - cron: "0 * * * *"   # Toutes les heures
+    - cron: "*/10 * * * *"   # Toutes les 10 minutes
   workflow_dispatch:       # Pour lancer manuellement
 
 jobs:
