@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+        <link rel="stylesheet" type="text/css" href="../assets/CSS/championnat.css">
+        <title>Champion­nats</title>
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg">
+                <div class="container-fluid">
+                    <a class="navbar-brand" href="#">Footastique</a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="../index.html">Accueil</a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link" href="../Match/match.hmtl">Match</a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link" href="championnat.html">Championnat</a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link" href="../Classement/classment.html">Classement</a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link" href="#">Mon Compte</a>
+                        </li>
+                    </ul>
+                    <form class="d-flex" role="search" method="GET" action="recherche.php">
+                        <input class="form-control me-2" type="search" placeholder="Recherche" aria-label="Search"/>
+                        <button class="btn btn-outline-success" type="submit">Recherche</button>
+                    </form>
+                </div>
+            </div>
+        </nav>
+        <h1 style="text-align:center;">Liste des Championnats</h1>
+
+        <!-- Zone où le tableau va s'afficher -->
+        <div id="championnats">Chargement...</div>
+
+        <script>
+            // appelle le PHP distant
+            fetch("http://eyesmanga.fr/FootIQ/Championnat/get_championnats.php")
+                .then(response => response.text())
+                .then(html => {
+                    document.getElementById("championnats").innerHTML = html;
+                })
+                .catch(error => {
+                    document.getElementById("championnats").innerHTML = 
+                        "<p>Erreur lors du chargement.</p>";
+                    console.error(error);
+                });
+        </script>
+
+    </body>
+</html>
