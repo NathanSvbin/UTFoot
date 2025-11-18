@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap');
+
+body{
+    background-color: #D7E9ED;
+}
+
+.navbar-brand{
+  color: #D0662A;
+  font-family: "Rubik Glitch";
+}
+
+
+nav{
+    background-color: #58B6D0;
+}
+
+.btn{
+    background-color: #387586;
+    color: white;
+    border-color: white;
+}
+
+.btn:hover{
+    background-color: #438FA8;
+    color: white;
+    border-color: black;
+}
+
+.btn-outline-success {
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #58B6D0;
+    --bs-btn-active-border-color: black;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+}
