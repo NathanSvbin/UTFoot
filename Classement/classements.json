@@ -8192,18 +8192,6 @@
       },
       {
         "position": "12",
-        "nom": "Vila Nova FC",
-        "matchs": "38",
-        "victoires": "11",
-        "nuls": "14",
-        "defaites": "13",
-        "buts_pour": "38",
-        "buts_contre": "42",
-        "difference": "-4",
-        "points": "47"
-      },
-      {
-        "position": "13",
         "nom": "América-MG",
         "matchs": "37",
         "victoires": "12",
@@ -8212,6 +8200,18 @@
         "buts_pour": "41",
         "buts_contre": "43",
         "difference": "-2",
+        "points": "46"
+      },
+      {
+        "position": "13",
+        "nom": "Vila Nova FC",
+        "matchs": "38",
+        "victoires": "11",
+        "nuls": "13",
+        "defaites": "14",
+        "buts_pour": "38",
+        "buts_contre": "43",
+        "difference": "-5",
         "points": "46"
       },
       {
@@ -8264,6 +8264,18 @@
       },
       {
         "position": "18",
+        "nom": "Volta Redonda",
+        "matchs": "38",
+        "victoires": "9",
+        "nuls": "11",
+        "defaites": "18",
+        "buts_pour": "25",
+        "buts_contre": "41",
+        "difference": "-16",
+        "points": "38"
+      },
+      {
+        "position": "19",
         "nom": "Amazonas",
         "matchs": "37",
         "victoires": "8",
@@ -8272,18 +8284,6 @@
         "buts_pour": "37",
         "buts_contre": "53",
         "difference": "-16",
-        "points": "36"
-      },
-      {
-        "position": "19",
-        "nom": "Volta Redonda",
-        "matchs": "38",
-        "victoires": "8",
-        "nuls": "12",
-        "defaites": "18",
-        "buts_pour": "24",
-        "buts_contre": "41",
-        "difference": "-17",
         "points": "36"
       },
       {
