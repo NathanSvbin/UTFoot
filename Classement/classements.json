@@ -17443,14 +17443,14 @@
       {
         "position": "14",
         "nom": "FC Buxoro",
-        "matchs": "28",
+        "matchs": "29",
         "victoires": "6",
-        "nuls": "8",
+        "nuls": "9",
         "defaites": "14",
-        "buts_pour": "29",
-        "buts_contre": "47",
+        "buts_pour": "30",
+        "buts_contre": "48",
         "difference": "-18",
-        "points": "26"
+        "points": "27"
       },
       {
         "position": "15",
@@ -17467,14 +17467,14 @@
       {
         "position": "16",
         "nom": "Shurtan",
-        "matchs": "28",
+        "matchs": "29",
         "victoires": "3",
-        "nuls": "6",
+        "nuls": "7",
         "defaites": "19",
-        "buts_pour": "23",
-        "buts_contre": "53",
+        "buts_pour": "24",
+        "buts_contre": "54",
         "difference": "-30",
-        "points": "15"
+        "points": "16"
       }
     ]
   },
