@@ -34708,6 +34708,18 @@
     "equipes": [
       {
         "position": "1",
+        "nom": "Police",
+        "matchs": "7",
+        "victoires": "4",
+        "nuls": "2",
+        "defaites": "1",
+        "buts_pour": "12",
+        "buts_contre": "8",
+        "difference": "4",
+        "points": "14"
+      },
+      {
+        "position": "2",
         "nom": "KCCA FC",
         "matchs": "6",
         "victoires": "3",
@@ -34716,18 +34728,6 @@
         "buts_pour": "8",
         "buts_contre": "5",
         "difference": "3",
-        "points": "11"
-      },
-      {
-        "position": "2",
-        "nom": "Police",
-        "matchs": "6",
-        "victoires": "3",
-        "nuls": "2",
-        "defaites": "1",
-        "buts_pour": "10",
-        "buts_contre": "8",
-        "difference": "2",
         "points": "11"
       },
       {
@@ -34757,13 +34757,13 @@
       {
         "position": "5",
         "nom": "Entebbe UPPC",
-        "matchs": "6",
+        "matchs": "7",
         "victoires": "3",
         "nuls": "1",
-        "defaites": "2",
+        "defaites": "3",
         "buts_pour": "8",
-        "buts_contre": "6",
-        "difference": "2",
+        "buts_contre": "8",
+        "difference": "0",
         "points": "10"
       },
       {
@@ -34852,6 +34852,18 @@
       },
       {
         "position": "13",
+        "nom": "UPDF FC",
+        "matchs": "6",
+        "victoires": "2",
+        "nuls": "0",
+        "defaites": "4",
+        "buts_pour": "6",
+        "buts_contre": "8",
+        "difference": "-2",
+        "points": "6"
+      },
+      {
+        "position": "14",
         "nom": "Maroons FC",
         "matchs": "5",
         "victoires": "1",
@@ -34861,18 +34873,6 @@
         "buts_contre": "4",
         "difference": "-1",
         "points": "5"
-      },
-      {
-        "position": "14",
-        "nom": "UPDF FC",
-        "matchs": "5",
-        "victoires": "1",
-        "nuls": "0",
-        "defaites": "4",
-        "buts_pour": "5",
-        "buts_contre": "8",
-        "difference": "-3",
-        "points": "3"
       },
       {
         "position": "15",
@@ -34889,13 +34889,13 @@
       {
         "position": "16",
         "nom": "Calvary",
-        "matchs": "5",
+        "matchs": "6",
         "victoires": "0",
         "nuls": "1",
-        "defaites": "4",
+        "defaites": "5",
         "buts_pour": "5",
-        "buts_contre": "13",
-        "difference": "-8",
+        "buts_contre": "14",
+        "difference": "-9",
         "points": "1"
       }
     ]
