@@ -1572,6 +1572,18 @@
       },
       {
         "position": "8",
+        "nom": "FC São Paulo",
+        "matchs": "34",
+        "victoires": "12",
+        "nuls": "10",
+        "defaites": "12",
+        "buts_pour": "37",
+        "buts_contre": "36",
+        "difference": "1",
+        "points": "46"
+      },
+      {
+        "position": "9",
         "nom": "RB Bragantino",
         "matchs": "34",
         "victoires": "13",
@@ -1580,18 +1592,6 @@
         "buts_pour": "40",
         "buts_contre": "50",
         "difference": "-10",
-        "points": "45"
-      },
-      {
-        "position": "9",
-        "nom": "FC São Paulo",
-        "matchs": "33",
-        "victoires": "12",
-        "nuls": "9",
-        "defaites": "12",
-        "buts_pour": "37",
-        "buts_contre": "36",
-        "difference": "1",
         "points": "45"
       },
       {
@@ -1608,6 +1608,18 @@
       },
       {
         "position": "11",
+        "nom": "Corinthians",
+        "matchs": "34",
+        "victoires": "11",
+        "nuls": "10",
+        "defaites": "13",
+        "buts_pour": "35",
+        "buts_contre": "38",
+        "difference": "-3",
+        "points": "43"
+      },
+      {
+        "position": "12",
         "nom": "Grêmio",
         "matchs": "34",
         "victoires": "11",
@@ -1619,7 +1631,7 @@
         "points": "43"
       },
       {
-        "position": "12",
+        "position": "13",
         "nom": "Vasco da Gama",
         "matchs": "34",
         "victoires": "12",
@@ -1631,7 +1643,7 @@
         "points": "42"
       },
       {
-        "position": "13",
+        "position": "14",
         "nom": "Ceará SC",
         "matchs": "33",
         "victoires": "11",
@@ -1640,18 +1652,6 @@
         "buts_pour": "31",
         "buts_contre": "30",
         "difference": "1",
-        "points": "42"
-      },
-      {
-        "position": "14",
-        "nom": "Corinthians",
-        "matchs": "33",
-        "victoires": "11",
-        "nuls": "9",
-        "defaites": "13",
-        "buts_pour": "35",
-        "buts_contre": "38",
-        "difference": "-3",
         "points": "42"
       },
       {
@@ -13740,6 +13740,18 @@
       },
       {
         "position": "3",
+        "nom": "Nacional",
+        "matchs": "21",
+        "victoires": "8",
+        "nuls": "8",
+        "defaites": "5",
+        "buts_pour": "24",
+        "buts_contre": "17",
+        "difference": "7",
+        "points": "32"
+      },
+      {
+        "position": "4",
         "nom": "Club Sportivo Tr",
         "matchs": "21",
         "victoires": "8",
@@ -13751,7 +13763,7 @@
         "points": "32"
       },
       {
-        "position": "4",
+        "position": "5",
         "nom": "Club Sportivo 2",
         "matchs": "20",
         "victoires": "9",
@@ -13761,18 +13773,6 @@
         "buts_contre": "22",
         "difference": "3",
         "points": "32"
-      },
-      {
-        "position": "5",
-        "nom": "Nacional",
-        "matchs": "20",
-        "victoires": "8",
-        "nuls": "7",
-        "defaites": "5",
-        "buts_pour": "24",
-        "buts_contre": "17",
-        "difference": "7",
-        "points": "31"
       },
       {
         "position": "6",
@@ -13837,14 +13837,14 @@
       {
         "position": "11",
         "nom": "CS Ameliano",
-        "matchs": "20",
+        "matchs": "21",
         "victoires": "5",
-        "nuls": "3",
+        "nuls": "4",
         "defaites": "12",
         "buts_pour": "22",
         "buts_contre": "38",
         "difference": "-16",
-        "points": "18"
+        "points": "19"
       },
       {
         "position": "12",
