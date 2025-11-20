@@ -15466,16 +15466,16 @@
         "position": "12",
         "nom": "Paradou AC",
         "matchs": "12",
-        "victoires": "3",
-        "nuls": "2",
+        "victoires": "4",
+        "nuls": "1",
         "defaites": "7",
-        "buts_pour": "9",
+        "buts_pour": "10",
         "buts_contre": "13",
-        "difference": "-4",
-        "points": "11"
+        "difference": "-3",
+        "points": "13"
       },
       {
-        "position": "12",
+        "position": "13",
         "nom": "ES Sétif",
         "matchs": "10",
         "victoires": "2",
@@ -15515,12 +15515,12 @@
         "nom": "MC El Bayadh",
         "matchs": "12",
         "victoires": "0",
-        "nuls": "4",
-        "defaites": "8",
+        "nuls": "3",
+        "defaites": "9",
         "buts_pour": "5",
-        "buts_contre": "18",
-        "difference": "-13",
-        "points": "4"
+        "buts_contre": "19",
+        "difference": "-14",
+        "points": "3"
       }
     ]
   },
@@ -34032,7 +34032,7 @@
       },
       {
         "position": "10",
-        "nom": "Shagger",
+        "nom": "Shagger City",
         "matchs": "4",
         "victoires": "1",
         "nuls": "2",
