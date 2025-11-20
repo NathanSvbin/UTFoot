@@ -1513,13 +1513,13 @@
       {
         "position": "3",
         "nom": "Cruzeiro",
-        "matchs": "33",
+        "matchs": "34",
         "victoires": "18",
         "nuls": "10",
-        "defaites": "5",
+        "defaites": "6",
         "buts_pour": "46",
-        "buts_contre": "22",
-        "difference": "24",
+        "buts_contre": "23",
+        "difference": "23",
         "points": "64"
       },
       {
@@ -1693,14 +1693,14 @@
       {
         "position": "18",
         "nom": "Juventude",
-        "matchs": "33",
-        "victoires": "9",
+        "matchs": "34",
+        "victoires": "10",
         "nuls": "5",
         "defaites": "19",
-        "buts_pour": "29",
+        "buts_pour": "30",
         "buts_contre": "59",
-        "difference": "-30",
-        "points": "32"
+        "difference": "-29",
+        "points": "35"
       },
       {
         "position": "19",
