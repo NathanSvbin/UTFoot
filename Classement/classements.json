@@ -1489,13 +1489,13 @@
       {
         "position": "1",
         "nom": "Flamengo",
-        "matchs": "33",
+        "matchs": "34",
         "victoires": "21",
         "nuls": "8",
-        "defaites": "4",
+        "defaites": "5",
         "buts_pour": "69",
-        "buts_contre": "21",
-        "difference": "48",
+        "buts_contre": "23",
+        "difference": "46",
         "points": "71"
       },
       {
@@ -1525,13 +1525,13 @@
       {
         "position": "4",
         "nom": "Mirassol-SP",
-        "matchs": "33",
+        "matchs": "34",
         "victoires": "16",
         "nuls": "11",
-        "defaites": "6",
+        "defaites": "7",
         "buts_pour": "54",
-        "buts_contre": "33",
-        "difference": "21",
+        "buts_contre": "34",
+        "difference": "20",
         "points": "59"
       },
       {
@@ -1548,6 +1548,18 @@
       },
       {
         "position": "6",
+        "nom": "Fluminense",
+        "matchs": "34",
+        "victoires": "16",
+        "nuls": "6",
+        "defaites": "12",
+        "buts_pour": "40",
+        "buts_contre": "37",
+        "difference": "3",
+        "points": "54"
+      },
+      {
+        "position": "7",
         "nom": "EC Bahia",
         "matchs": "33",
         "victoires": "15",
@@ -1557,18 +1569,6 @@
         "buts_contre": "40",
         "difference": "4",
         "points": "53"
-      },
-      {
-        "position": "7",
-        "nom": "Fluminense",
-        "matchs": "33",
-        "victoires": "15",
-        "nuls": "6",
-        "defaites": "12",
-        "buts_pour": "38",
-        "buts_contre": "37",
-        "difference": "1",
-        "points": "51"
       },
       {
         "position": "8",
@@ -1609,14 +1609,14 @@
       {
         "position": "11",
         "nom": "Vasco da Gama",
-        "matchs": "33",
+        "matchs": "34",
         "victoires": "12",
-        "nuls": "6",
+        "nuls": "7",
         "defaites": "15",
         "buts_pour": "50",
         "buts_contre": "49",
         "difference": "1",
-        "points": "42"
+        "points": "43"
       },
       {
         "position": "12",
@@ -1645,17 +1645,29 @@
       {
         "position": "14",
         "nom": "Grêmio",
-        "matchs": "33",
+        "matchs": "34",
         "victoires": "10",
-        "nuls": "10",
+        "nuls": "11",
         "defaites": "13",
         "buts_pour": "35",
         "buts_contre": "43",
         "difference": "-8",
-        "points": "40"
+        "points": "41"
       },
       {
         "position": "15",
+        "nom": "Santos",
+        "matchs": "34",
+        "victoires": "10",
+        "nuls": "9",
+        "defaites": "15",
+        "buts_pour": "35",
+        "buts_contre": "48",
+        "difference": "-13",
+        "points": "39"
+      },
+      {
+        "position": "16",
         "nom": "Internacional",
         "matchs": "33",
         "victoires": "9",
@@ -1665,18 +1677,6 @@
         "buts_contre": "46",
         "difference": "-9",
         "points": "37"
-      },
-      {
-        "position": "16",
-        "nom": "Santos",
-        "matchs": "33",
-        "victoires": "9",
-        "nuls": "9",
-        "defaites": "15",
-        "buts_pour": "34",
-        "buts_contre": "48",
-        "difference": "-14",
-        "points": "36"
       },
       {
         "position": "17",
@@ -8197,8 +8197,8 @@
         "victoires": "11",
         "nuls": "14",
         "defaites": "13",
-        "buts_pour": "39",
-        "buts_contre": "43",
+        "buts_pour": "40",
+        "buts_contre": "44",
         "difference": "-4",
         "points": "47"
       },
@@ -8281,8 +8281,8 @@
         "victoires": "8",
         "nuls": "12",
         "defaites": "18",
-        "buts_pour": "25",
-        "buts_contre": "42",
+        "buts_pour": "26",
+        "buts_contre": "43",
         "difference": "-17",
         "points": "36"
       },
