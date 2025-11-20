@@ -5474,14 +5474,14 @@
       {
         "position": "3",
         "nom": "Shabab Al-Ahli",
-        "matchs": "7",
+        "matchs": "8",
         "victoires": "4",
-        "nuls": "2",
+        "nuls": "3",
         "defaites": "1",
         "buts_pour": "6",
         "buts_contre": "1",
         "difference": "5",
-        "points": "14"
+        "points": "15"
       },
       {
         "position": "4",
@@ -5533,6 +5533,18 @@
       },
       {
         "position": "8",
+        "nom": "Khor Fakkan",
+        "matchs": "8",
+        "victoires": "2",
+        "nuls": "3",
+        "defaites": "3",
+        "buts_pour": "11",
+        "buts_contre": "15",
+        "difference": "-4",
+        "points": "9"
+      },
+      {
+        "position": "9",
         "nom": "Ajman Club",
         "matchs": "7",
         "victoires": "3",
@@ -5544,7 +5556,7 @@
         "points": "9"
       },
       {
-        "position": "9",
+        "position": "10",
         "nom": "Al-Nasr",
         "matchs": "7",
         "victoires": "2",
@@ -5553,18 +5565,6 @@
         "buts_pour": "6",
         "buts_contre": "7",
         "difference": "-1",
-        "points": "8"
-      },
-      {
-        "position": "10",
-        "nom": "Khor Fakkan",
-        "matchs": "7",
-        "victoires": "2",
-        "nuls": "2",
-        "defaites": "3",
-        "buts_pour": "11",
-        "buts_contre": "15",
-        "difference": "-4",
         "points": "8"
       },
       {
