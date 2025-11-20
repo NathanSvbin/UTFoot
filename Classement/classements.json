@@ -13742,13 +13742,13 @@
         "position": "3",
         "nom": "Club Sportivo Tr",
         "matchs": "21",
-        "victoires": "9",
-        "nuls": "7",
+        "victoires": "8",
+        "nuls": "8",
         "defaites": "5",
         "buts_pour": "25",
-        "buts_contre": "20",
-        "difference": "5",
-        "points": "34"
+        "buts_contre": "21",
+        "difference": "4",
+        "points": "32"
       },
       {
         "position": "4",
@@ -13851,12 +13851,12 @@
         "nom": "Atl. Tembetary",
         "matchs": "21",
         "victoires": "3",
-        "nuls": "5",
-        "defaites": "13",
-        "buts_pour": "19",
+        "nuls": "6",
+        "defaites": "12",
+        "buts_pour": "20",
         "buts_contre": "35",
-        "difference": "-16",
-        "points": "14"
+        "difference": "-15",
+        "points": "15"
       }
     ]
   },
