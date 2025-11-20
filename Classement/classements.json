@@ -1518,8 +1518,8 @@
         "nuls": "10",
         "defaites": "6",
         "buts_pour": "46",
-        "buts_contre": "23",
-        "difference": "23",
+        "buts_contre": "24",
+        "difference": "22",
         "points": "64"
       },
       {
@@ -1697,9 +1697,9 @@
         "victoires": "10",
         "nuls": "5",
         "defaites": "19",
-        "buts_pour": "30",
+        "buts_pour": "31",
         "buts_contre": "59",
-        "difference": "-29",
+        "difference": "-28",
         "points": "35"
       },
       {
@@ -20012,6 +20012,18 @@
       },
       {
         "position": "2",
+        "nom": "Hvidovre",
+        "matchs": "17",
+        "victoires": "7",
+        "nuls": "8",
+        "defaites": "2",
+        "buts_pour": "24",
+        "buts_contre": "18",
+        "difference": "6",
+        "points": "29"
+      },
+      {
+        "position": "3",
         "nom": "Hilleröd",
         "matchs": "16",
         "victoires": "8",
@@ -20021,18 +20033,6 @@
         "buts_contre": "20",
         "difference": "5",
         "points": "29"
-      },
-      {
-        "position": "3",
-        "nom": "Hvidovre",
-        "matchs": "17",
-        "victoires": "6",
-        "nuls": "9",
-        "defaites": "2",
-        "buts_pour": "23",
-        "buts_contre": "18",
-        "difference": "5",
-        "points": "27"
       },
       {
         "position": "4",
@@ -20123,12 +20123,12 @@
         "nom": "Hobro IK",
         "matchs": "17",
         "victoires": "3",
-        "nuls": "7",
-        "defaites": "7",
+        "nuls": "6",
+        "defaites": "8",
         "buts_pour": "17",
-        "buts_contre": "27",
-        "difference": "-10",
-        "points": "16"
+        "buts_contre": "28",
+        "difference": "-11",
+        "points": "15"
       },
       {
         "position": "12",
