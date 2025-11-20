@@ -1493,9 +1493,9 @@
         "victoires": "21",
         "nuls": "8",
         "defaites": "5",
-        "buts_pour": "69",
+        "buts_pour": "70",
         "buts_contre": "23",
-        "difference": "46",
+        "difference": "47",
         "points": "71"
       },
       {
@@ -1527,12 +1527,12 @@
         "nom": "Mirassol-SP",
         "matchs": "34",
         "victoires": "16",
-        "nuls": "11",
-        "defaites": "7",
-        "buts_pour": "54",
+        "nuls": "12",
+        "defaites": "6",
+        "buts_pour": "55",
         "buts_contre": "34",
-        "difference": "20",
-        "points": "59"
+        "difference": "21",
+        "points": "60"
       },
       {
         "position": "5",
@@ -1554,8 +1554,8 @@
         "nuls": "6",
         "defaites": "12",
         "buts_pour": "40",
-        "buts_contre": "37",
-        "difference": "3",
+        "buts_contre": "38",
+        "difference": "2",
         "points": "54"
       },
       {
@@ -1608,18 +1608,30 @@
       },
       {
         "position": "11",
-        "nom": "Vasco da Gama",
+        "nom": "Grêmio",
         "matchs": "34",
-        "victoires": "12",
-        "nuls": "7",
-        "defaites": "15",
-        "buts_pour": "50",
-        "buts_contre": "49",
-        "difference": "1",
+        "victoires": "11",
+        "nuls": "10",
+        "defaites": "13",
+        "buts_pour": "37",
+        "buts_contre": "43",
+        "difference": "-6",
         "points": "43"
       },
       {
         "position": "12",
+        "nom": "Vasco da Gama",
+        "matchs": "34",
+        "victoires": "12",
+        "nuls": "6",
+        "defaites": "16",
+        "buts_pour": "50",
+        "buts_contre": "51",
+        "difference": "-1",
+        "points": "42"
+      },
+      {
+        "position": "13",
         "nom": "Ceará SC",
         "matchs": "33",
         "victoires": "11",
@@ -1631,7 +1643,7 @@
         "points": "42"
       },
       {
-        "position": "13",
+        "position": "14",
         "nom": "Corinthians",
         "matchs": "33",
         "victoires": "11",
@@ -1643,31 +1655,7 @@
         "points": "42"
       },
       {
-        "position": "14",
-        "nom": "Grêmio",
-        "matchs": "34",
-        "victoires": "10",
-        "nuls": "11",
-        "defaites": "13",
-        "buts_pour": "35",
-        "buts_contre": "43",
-        "difference": "-8",
-        "points": "41"
-      },
-      {
         "position": "15",
-        "nom": "Santos",
-        "matchs": "34",
-        "victoires": "10",
-        "nuls": "9",
-        "defaites": "15",
-        "buts_pour": "35",
-        "buts_contre": "48",
-        "difference": "-13",
-        "points": "39"
-      },
-      {
-        "position": "16",
         "nom": "Internacional",
         "matchs": "33",
         "victoires": "9",
@@ -1676,6 +1664,18 @@
         "buts_pour": "37",
         "buts_contre": "46",
         "difference": "-9",
+        "points": "37"
+      },
+      {
+        "position": "16",
+        "nom": "Santos",
+        "matchs": "34",
+        "victoires": "9",
+        "nuls": "10",
+        "defaites": "15",
+        "buts_pour": "35",
+        "buts_contre": "49",
+        "difference": "-14",
         "points": "37"
       },
       {
