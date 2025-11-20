@@ -34720,6 +34720,18 @@
       },
       {
         "position": "2",
+        "nom": "SC Villa Jogoo",
+        "matchs": "6",
+        "victoires": "4",
+        "nuls": "1",
+        "defaites": "1",
+        "buts_pour": "10",
+        "buts_contre": "5",
+        "difference": "5",
+        "points": "13"
+      },
+      {
+        "position": "3",
         "nom": "KCCA FC",
         "matchs": "6",
         "victoires": "3",
@@ -34731,31 +34743,31 @@
         "points": "11"
       },
       {
-        "position": "3",
-        "nom": "SC Villa Jogoo",
-        "matchs": "5",
+        "position": "4",
+        "nom": "Kitara",
+        "matchs": "6",
         "victoires": "3",
         "nuls": "1",
-        "defaites": "1",
-        "buts_pour": "8",
-        "buts_contre": "4",
-        "difference": "4",
-        "points": "10"
-      },
-      {
-        "position": "4",
-        "nom": "BUL Jinja",
-        "matchs": "6",
-        "victoires": "2",
-        "nuls": "4",
-        "defaites": "0",
-        "buts_pour": "6",
-        "buts_contre": "2",
+        "defaites": "2",
+        "buts_pour": "9",
+        "buts_contre": "5",
         "difference": "4",
         "points": "10"
       },
       {
         "position": "5",
+        "nom": "BUL Jinja",
+        "matchs": "7",
+        "victoires": "2",
+        "nuls": "4",
+        "defaites": "1",
+        "buts_pour": "6",
+        "buts_contre": "3",
+        "difference": "3",
+        "points": "10"
+      },
+      {
+        "position": "6",
         "nom": "Entebbe UPPC",
         "matchs": "7",
         "victoires": "3",
@@ -34767,7 +34779,31 @@
         "points": "10"
       },
       {
-        "position": "6",
+        "position": "7",
+        "nom": "Express",
+        "matchs": "7",
+        "victoires": "2",
+        "nuls": "3",
+        "defaites": "2",
+        "buts_pour": "7",
+        "buts_contre": "5",
+        "difference": "2",
+        "points": "9"
+      },
+      {
+        "position": "8",
+        "nom": "Lugazi",
+        "matchs": "7",
+        "victoires": "2",
+        "nuls": "3",
+        "defaites": "2",
+        "buts_pour": "9",
+        "buts_contre": "9",
+        "difference": "0",
+        "points": "9"
+      },
+      {
+        "position": "9",
         "nom": "Buhimba United",
         "matchs": "6",
         "victoires": "3",
@@ -34779,19 +34815,7 @@
         "points": "9"
       },
       {
-        "position": "7",
-        "nom": "Express",
-        "matchs": "6",
-        "victoires": "2",
-        "nuls": "2",
-        "defaites": "2",
-        "buts_pour": "7",
-        "buts_contre": "5",
-        "difference": "2",
-        "points": "8"
-      },
-      {
-        "position": "8",
+        "position": "10",
         "nom": "URA FC",
         "matchs": "6",
         "victoires": "1",
@@ -34801,30 +34825,6 @@
         "buts_contre": "4",
         "difference": "1",
         "points": "8"
-      },
-      {
-        "position": "9",
-        "nom": "Lugazi",
-        "matchs": "6",
-        "victoires": "2",
-        "nuls": "2",
-        "defaites": "2",
-        "buts_pour": "9",
-        "buts_contre": "9",
-        "difference": "0",
-        "points": "8"
-      },
-      {
-        "position": "10",
-        "nom": "Kitara",
-        "matchs": "5",
-        "victoires": "2",
-        "nuls": "1",
-        "defaites": "2",
-        "buts_pour": "8",
-        "buts_contre": "5",
-        "difference": "3",
-        "points": "7"
       },
       {
         "position": "11",
@@ -34841,13 +34841,13 @@
       {
         "position": "12",
         "nom": "NEC FC",
-        "matchs": "5",
+        "matchs": "6",
         "victoires": "1",
         "nuls": "3",
-        "defaites": "1",
-        "buts_pour": "5",
-        "buts_contre": "5",
-        "difference": "0",
+        "defaites": "2",
+        "buts_pour": "6",
+        "buts_contre": "7",
+        "difference": "-1",
         "points": "6"
       },
       {
