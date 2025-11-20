@@ -1517,8 +1517,8 @@
         "victoires": "18",
         "nuls": "10",
         "defaites": "6",
-        "buts_pour": "47",
-        "buts_contre": "24",
+        "buts_pour": "48",
+        "buts_contre": "25",
         "difference": "23",
         "points": "64"
       },
@@ -1697,8 +1697,8 @@
         "victoires": "10",
         "nuls": "5",
         "defaites": "19",
-        "buts_pour": "31",
-        "buts_contre": "60",
+        "buts_pour": "32",
+        "buts_contre": "61",
         "difference": "-29",
         "points": "35"
       },
@@ -7168,18 +7168,6 @@
     "equipes": [
       {
         "position": "1",
-        "nom": "Stockport",
-        "matchs": "15",
-        "victoires": "8",
-        "nuls": "4",
-        "defaites": "3",
-        "buts_pour": "22",
-        "buts_contre": "17",
-        "difference": "5",
-        "points": "28"
-      },
-      {
-        "position": "2",
         "nom": "Lincoln City",
         "matchs": "16",
         "victoires": "8",
@@ -7188,6 +7176,18 @@
         "buts_pour": "20",
         "buts_contre": "15",
         "difference": "5",
+        "points": "28"
+      },
+      {
+        "position": "2",
+        "nom": "Stockport",
+        "matchs": "16",
+        "victoires": "8",
+        "nuls": "4",
+        "defaites": "4",
+        "buts_pour": "22",
+        "buts_contre": "18",
+        "difference": "4",
         "points": "28"
       },
       {
@@ -7408,6 +7408,18 @@
       },
       {
         "position": "21",
+        "nom": "Peterborough",
+        "matchs": "15",
+        "victoires": "5",
+        "nuls": "1",
+        "defaites": "9",
+        "buts_pour": "16",
+        "buts_contre": "22",
+        "difference": "-6",
+        "points": "16"
+      },
+      {
+        "position": "22",
         "nom": "Blackpool",
         "matchs": "16",
         "victoires": "4",
@@ -7419,7 +7431,7 @@
         "points": "15"
       },
       {
-        "position": "22",
+        "position": "23",
         "nom": "Port Vale",
         "matchs": "16",
         "victoires": "3",
@@ -7429,18 +7441,6 @@
         "buts_contre": "19",
         "difference": "-8",
         "points": "14"
-      },
-      {
-        "position": "23",
-        "nom": "Peterborough",
-        "matchs": "14",
-        "victoires": "4",
-        "nuls": "1",
-        "defaites": "9",
-        "buts_pour": "15",
-        "buts_contre": "22",
-        "difference": "-7",
-        "points": "13"
       },
       {
         "position": "24",
@@ -13740,6 +13740,18 @@
       },
       {
         "position": "3",
+        "nom": "Club Sportivo Tr",
+        "matchs": "21",
+        "victoires": "9",
+        "nuls": "7",
+        "defaites": "5",
+        "buts_pour": "25",
+        "buts_contre": "20",
+        "difference": "5",
+        "points": "34"
+      },
+      {
+        "position": "4",
         "nom": "Club Sportivo 2",
         "matchs": "20",
         "victoires": "9",
@@ -13751,7 +13763,7 @@
         "points": "32"
       },
       {
-        "position": "4",
+        "position": "5",
         "nom": "Nacional",
         "matchs": "20",
         "victoires": "8",
@@ -13760,18 +13772,6 @@
         "buts_pour": "24",
         "buts_contre": "17",
         "difference": "7",
-        "points": "31"
-      },
-      {
-        "position": "5",
-        "nom": "Club Sportivo Tr",
-        "matchs": "20",
-        "victoires": "8",
-        "nuls": "7",
-        "defaites": "5",
-        "buts_pour": "24",
-        "buts_contre": "20",
-        "difference": "4",
         "points": "31"
       },
       {
@@ -13849,13 +13849,13 @@
       {
         "position": "12",
         "nom": "Atl. Tembetary",
-        "matchs": "20",
+        "matchs": "21",
         "victoires": "3",
         "nuls": "5",
-        "defaites": "12",
+        "defaites": "13",
         "buts_pour": "19",
-        "buts_contre": "34",
-        "difference": "-15",
+        "buts_contre": "35",
+        "difference": "-16",
         "points": "14"
       }
     ]
