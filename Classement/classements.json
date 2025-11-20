@@ -16104,6 +16104,18 @@
       },
       {
         "position": "2",
+        "nom": "Al-Shorta",
+        "matchs": "6",
+        "victoires": "5",
+        "nuls": "0",
+        "defaites": "1",
+        "buts_pour": "10",
+        "buts_contre": "3",
+        "difference": "7",
+        "points": "15"
+      },
+      {
+        "position": "3",
         "nom": "Al-Quwa Al-Jaw.",
         "matchs": "6",
         "victoires": "4",
@@ -16113,18 +16125,6 @@
         "buts_contre": "4",
         "difference": "4",
         "points": "13"
-      },
-      {
-        "position": "3",
-        "nom": "Al-Shorta",
-        "matchs": "5",
-        "victoires": "4",
-        "nuls": "0",
-        "defaites": "1",
-        "buts_pour": "7",
-        "buts_contre": "3",
-        "difference": "4",
-        "points": "12"
       },
       {
         "position": "4",
@@ -16140,18 +16140,6 @@
       },
       {
         "position": "5",
-        "nom": "Al-Karkh SC",
-        "matchs": "6",
-        "victoires": "3",
-        "nuls": "2",
-        "defaites": "1",
-        "buts_pour": "10",
-        "buts_contre": "8",
-        "difference": "2",
-        "points": "11"
-      },
-      {
-        "position": "6",
         "nom": "Diyala",
         "matchs": "6",
         "victoires": "3",
@@ -16163,7 +16151,7 @@
         "points": "11"
       },
       {
-        "position": "7",
+        "position": "6",
         "nom": "Al-Talaba SC",
         "matchs": "6",
         "victoires": "3",
@@ -16172,6 +16160,18 @@
         "buts_pour": "6",
         "buts_contre": "4",
         "difference": "2",
+        "points": "11"
+      },
+      {
+        "position": "7",
+        "nom": "Al-Karkh SC",
+        "matchs": "7",
+        "victoires": "3",
+        "nuls": "2",
+        "defaites": "2",
+        "buts_pour": "10",
+        "buts_contre": "11",
+        "difference": "-1",
         "points": "11"
       },
       {
