@@ -9024,6 +9024,18 @@
       },
       {
         "position": "9",
+        "nom": "Spartak Varna",
+        "matchs": "16",
+        "victoires": "3",
+        "nuls": "8",
+        "defaites": "5",
+        "buts_pour": "17",
+        "buts_contre": "21",
+        "difference": "-4",
+        "points": "17"
+      },
+      {
+        "position": "10",
         "nom": "Botev Plovdiv",
         "matchs": "15",
         "victoires": "5",
@@ -9033,18 +9045,6 @@
         "buts_contre": "23",
         "difference": "-3",
         "points": "17"
-      },
-      {
-        "position": "10",
-        "nom": "Spartak Varna",
-        "matchs": "15",
-        "victoires": "3",
-        "nuls": "7",
-        "defaites": "5",
-        "buts_pour": "17",
-        "buts_contre": "21",
-        "difference": "-4",
-        "points": "16"
       },
       {
         "position": "11",
@@ -9073,14 +9073,14 @@
       {
         "position": "13",
         "nom": "Beroe",
-        "matchs": "14",
+        "matchs": "15",
         "victoires": "3",
-        "nuls": "5",
+        "nuls": "6",
         "defaites": "6",
         "buts_pour": "14",
         "buts_contre": "24",
         "difference": "-10",
-        "points": "14"
+        "points": "15"
       },
       {
         "position": "14",
@@ -18106,6 +18106,18 @@
       },
       {
         "position": "3",
+        "nom": "Al-Bukiryah",
+        "matchs": "9",
+        "victoires": "6",
+        "nuls": "0",
+        "defaites": "3",
+        "buts_pour": "9",
+        "buts_contre": "11",
+        "difference": "-2",
+        "points": "18"
+      },
+      {
+        "position": "4",
         "nom": "Al-Diraiyah FC",
         "matchs": "8",
         "victoires": "5",
@@ -18117,7 +18129,7 @@
         "points": "17"
       },
       {
-        "position": "4",
+        "position": "5",
         "nom": "Al-Orobah",
         "matchs": "8",
         "victoires": "5",
@@ -18126,18 +18138,6 @@
         "buts_pour": "16",
         "buts_contre": "11",
         "difference": "5",
-        "points": "16"
-      },
-      {
-        "position": "5",
-        "nom": "Al-Bukiryah",
-        "matchs": "9",
-        "victoires": "5",
-        "nuls": "1",
-        "defaites": "3",
-        "buts_pour": "8",
-        "buts_contre": "11",
-        "difference": "-3",
         "points": "16"
       },
       {
@@ -18253,12 +18253,12 @@
         "nom": "Al-Adalah",
         "matchs": "9",
         "victoires": "1",
-        "nuls": "3",
-        "defaites": "5",
+        "nuls": "2",
+        "defaites": "6",
         "buts_pour": "9",
-        "buts_contre": "16",
-        "difference": "-7",
-        "points": "6"
+        "buts_contre": "17",
+        "difference": "-8",
+        "points": "5"
       },
       {
         "position": "16",
@@ -22088,6 +22088,18 @@
       },
       {
         "position": "2",
+        "nom": "FC Urartu",
+        "matchs": "14",
+        "victoires": "8",
+        "nuls": "4",
+        "defaites": "2",
+        "buts_pour": "23",
+        "buts_contre": "7",
+        "difference": "16",
+        "points": "28"
+      },
+      {
+        "position": "3",
         "nom": "Alashkert",
         "matchs": "13",
         "victoires": "9",
@@ -22099,28 +22111,16 @@
         "points": "28"
       },
       {
-        "position": "3",
-        "nom": "FC Urartu",
-        "matchs": "14",
-        "victoires": "7",
-        "nuls": "5",
-        "defaites": "2",
-        "buts_pour": "22",
-        "buts_contre": "7",
-        "difference": "15",
-        "points": "26"
-      },
-      {
         "position": "4",
         "nom": "Pyunik Erevan",
         "matchs": "12",
         "victoires": "7",
-        "nuls": "2",
-        "defaites": "3",
+        "nuls": "1",
+        "defaites": "4",
         "buts_pour": "19",
-        "buts_contre": "11",
-        "difference": "8",
-        "points": "23"
+        "buts_contre": "12",
+        "difference": "7",
+        "points": "22"
       },
       {
         "position": "5",
