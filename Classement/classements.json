@@ -2675,6 +2675,18 @@
       },
       {
         "position": "8",
+        "nom": "Al-Ittihad",
+        "matchs": "9",
+        "victoires": "3",
+        "nuls": "3",
+        "defaites": "3",
+        "buts_pour": "15",
+        "buts_contre": "14",
+        "difference": "1",
+        "points": "12"
+      },
+      {
+        "position": "9",
         "nom": "Al-Kholood",
         "matchs": "9",
         "victoires": "4",
@@ -2684,18 +2696,6 @@
         "buts_contre": "15",
         "difference": "-2",
         "points": "12"
-      },
-      {
-        "position": "9",
-        "nom": "Al-Ittihad",
-        "matchs": "8",
-        "victoires": "3",
-        "nuls": "2",
-        "defaites": "3",
-        "buts_pour": "15",
-        "buts_contre": "14",
-        "difference": "1",
-        "points": "11"
       },
       {
         "position": "10",
@@ -2724,14 +2724,14 @@
       {
         "position": "12",
         "nom": "Al-Riyadh",
-        "matchs": "8",
+        "matchs": "9",
         "victoires": "2",
-        "nuls": "2",
+        "nuls": "3",
         "defaites": "4",
         "buts_pour": "9",
         "buts_contre": "17",
         "difference": "-8",
-        "points": "8"
+        "points": "9"
       },
       {
         "position": "13",
@@ -5025,8 +5025,8 @@
         "victoires": "3",
         "nuls": "4",
         "defaites": "3",
-        "buts_pour": "19",
-        "buts_contre": "12",
+        "buts_pour": "20",
+        "buts_contre": "13",
         "difference": "7",
         "points": "13"
       },
@@ -5049,8 +5049,8 @@
         "victoires": "3",
         "nuls": "1",
         "defaites": "6",
-        "buts_pour": "11",
-        "buts_contre": "19",
+        "buts_pour": "12",
+        "buts_contre": "20",
         "difference": "-8",
         "points": "10"
       },
@@ -7492,9 +7492,9 @@
         "victoires": "9",
         "nuls": "3",
         "defaites": "4",
-        "buts_pour": "28",
+        "buts_pour": "29",
         "buts_contre": "18",
-        "difference": "10",
+        "difference": "11",
         "points": "30"
       },
       {
@@ -7541,8 +7541,8 @@
         "nuls": "2",
         "defaites": "8",
         "buts_pour": "22",
-        "buts_contre": "22",
-        "difference": "0",
+        "buts_contre": "23",
+        "difference": "-1",
         "points": "20"
       },
       {
@@ -10521,7 +10521,7 @@
         "buts_pour": "8",
         "buts_contre": "55",
         "difference": "-47",
-        "points": "-17"
+        "points": "-23"
       }
     ]
   },
@@ -18130,6 +18130,18 @@
       },
       {
         "position": "5",
+        "nom": "Al-Bukiryah",
+        "matchs": "9",
+        "victoires": "5",
+        "nuls": "1",
+        "defaites": "3",
+        "buts_pour": "8",
+        "buts_contre": "11",
+        "difference": "-3",
+        "points": "16"
+      },
+      {
+        "position": "6",
         "nom": "Al-Raed",
         "matchs": "8",
         "victoires": "4",
@@ -18138,18 +18150,6 @@
         "buts_pour": "15",
         "buts_contre": "9",
         "difference": "6",
-        "points": "15"
-      },
-      {
-        "position": "6",
-        "nom": "Al-Bukiryah",
-        "matchs": "9",
-        "victoires": "5",
-        "nuls": "0",
-        "defaites": "4",
-        "buts_pour": "7",
-        "buts_contre": "11",
-        "difference": "-4",
         "points": "15"
       },
       {
@@ -18238,18 +18238,6 @@
       },
       {
         "position": "14",
-        "nom": "Al-Adalah",
-        "matchs": "9",
-        "victoires": "2",
-        "nuls": "2",
-        "defaites": "5",
-        "buts_pour": "9",
-        "buts_contre": "15",
-        "difference": "-6",
-        "points": "8"
-      },
-      {
-        "position": "15",
         "nom": "Al-Anwar Club",
         "matchs": "9",
         "victoires": "1",
@@ -18259,6 +18247,18 @@
         "buts_contre": "11",
         "difference": "-5",
         "points": "7"
+      },
+      {
+        "position": "15",
+        "nom": "Al-Adalah",
+        "matchs": "9",
+        "victoires": "1",
+        "nuls": "3",
+        "defaites": "5",
+        "buts_pour": "9",
+        "buts_contre": "16",
+        "difference": "-7",
+        "points": "6"
       },
       {
         "position": "16",
@@ -22101,26 +22101,26 @@
       {
         "position": "3",
         "nom": "FC Urartu",
-        "matchs": "13",
+        "matchs": "14",
         "victoires": "7",
-        "nuls": "4",
+        "nuls": "5",
         "defaites": "2",
         "buts_pour": "22",
         "buts_contre": "7",
         "difference": "15",
-        "points": "25"
+        "points": "26"
       },
       {
         "position": "4",
         "nom": "Pyunik Erevan",
-        "matchs": "11",
+        "matchs": "12",
         "victoires": "7",
-        "nuls": "1",
+        "nuls": "2",
         "defaites": "3",
         "buts_pour": "19",
         "buts_contre": "11",
         "difference": "8",
-        "points": "22"
+        "points": "23"
       },
       {
         "position": "5",
@@ -26423,14 +26423,14 @@
       {
         "position": "2",
         "nom": "Fratria",
-        "matchs": "15",
+        "matchs": "16",
         "victoires": "11",
-        "nuls": "1",
+        "nuls": "2",
         "defaites": "3",
         "buts_pour": "30",
         "buts_contre": "11",
         "difference": "19",
-        "points": "34"
+        "points": "35"
       },
       {
         "position": "3",
@@ -26483,14 +26483,14 @@
       {
         "position": "7",
         "nom": "Pirin",
-        "matchs": "15",
+        "matchs": "16",
         "victoires": "6",
-        "nuls": "3",
+        "nuls": "4",
         "defaites": "6",
         "buts_pour": "23",
         "buts_contre": "21",
         "difference": "2",
-        "points": "21"
+        "points": "22"
       },
       {
         "position": "8",
