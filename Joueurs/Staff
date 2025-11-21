@@ -1,0 +1,116 @@
+import requests
+from bs4 import BeautifulSoup
+import csv
+import time
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0"
+}
+
+# ------------------------------------------------------------
+# EXTRACTION STAFF
+# ------------------------------------------------------------
+
+def extract_staff(url, id_club):
+    """
+    Extraction du staff depuis les pages /mitarbeiter/
+    Structure réelle:
+        <table class="inline-table">
+            <td class="hauptlink"><a href="...">Nom complet</a>
+    """
+    response = requests.get(url, headers=HEADERS)
+    if response.status_code != 200:
+        print(f"❌ Erreur HTTP {response.status_code} pour {url}")
+        return []
+
+    soup = BeautifulSoup(response.text, "html.parser")
+
+    tables = soup.find_all("table", class_="inline-table")
+    if not tables:
+        print(f"⚠️ Aucun staff trouvé pour {url}")
+        return []
+
+    staff_list = []
+
+    for table in tables:
+        cell = table.find("td", class_="hauptlink")
+        if not cell:
+            continue
+
+        a = cell.find("a", href=True)
+        if not a:
+            continue
+
+        full_name = a.get_text(strip=True)
+        link = "https://www.transfermarkt.fr" + a["href"]
+
+        parts = full_name.split(" ", 1)
+        prenom = parts[0]
+        nom = parts[1] if len(parts) > 1 else ""
+
+        staff_list.append((prenom, nom, link, id_club))
+        print("    →", prenom, nom, link)
+
+    return staff_list
+
+
+# ------------------------------------------------------------
+# LECTURE CLUBS
+# ------------------------------------------------------------
+
+def lire_equipes(fichier_csv):
+    """
+    Lecture du CSV equipe.csv :
+    Format attendu : Championnat, Club, Lien
+    id_club = numéro de ligne
+    """
+    equipes = []
+    with open(fichier_csv, "r", encoding="utf-8") as f:
+        reader = csv.reader(f)
+        next(reader)
+        for idx, row in enumerate(reader, start=1):
+            championnat = row[0].strip()
+            club = row[1].strip()
+            lien = row[2].strip()
+            equipes.append((idx, championnat, club, lien))
+    return equipes
+
+
+# ------------------------------------------------------------
+# PROGRAMME
+# ------------------------------------------------------------
+
+def main():
+    fichier_equipe = "Equipe/equipe.csv"
+    fichier_sortie = "staff.csv"
+
+    equipes = lire_equipes(fichier_equipe)
+    all_staff = []
+
+    for id_club, championnat, club, lien_club in equipes:
+        print(f"\n🔎 Traitement staff : {club} (ID {id_club})")
+
+        # CORRECTION : startseite → mitarbeiter
+        staff_url = lien_club.replace("/startseite/", "/mitarbeiter/")
+
+        print("  🧑‍🏫 Staff URL :", staff_url)
+
+        staff = extract_staff(staff_url, id_club)
+        all_staff.extend(staff)
+
+        print(f"  ✔️ {len(staff)} membres trouvés")
+
+        time.sleep(1.5)   # anti-ban Transfermarkt
+
+    # sauvegarde
+    with open(fichier_sortie, "w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerow(["prenom", "nom", "lien", "id_club"])
+        writer.writerows(all_staff)
+
+    print(f"\n💾 Fichier généré : {fichier_sortie}")
+    print("🏁 Terminé.\n")
+
+
+if __name__ == "__main__":
+    main()
