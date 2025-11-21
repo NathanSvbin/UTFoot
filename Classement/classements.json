@@ -33320,6 +33320,18 @@
       },
       {
         "position": "2",
+        "nom": "Lions Gibraltar",
+        "matchs": "12",
+        "victoires": "8",
+        "nuls": "1",
+        "defaites": "3",
+        "buts_pour": "25",
+        "buts_contre": "20",
+        "difference": "5",
+        "points": "25"
+      },
+      {
+        "position": "3",
         "nom": "Mons Calpe",
         "matchs": "11",
         "victoires": "8",
@@ -33329,18 +33341,6 @@
         "buts_contre": "12",
         "difference": "19",
         "points": "24"
-      },
-      {
-        "position": "3",
-        "nom": "Lions Gibraltar",
-        "matchs": "11",
-        "victoires": "7",
-        "nuls": "1",
-        "defaites": "3",
-        "buts_pour": "24",
-        "buts_contre": "20",
-        "difference": "4",
-        "points": "22"
       },
       {
         "position": "4",
@@ -33357,13 +33357,13 @@
       {
         "position": "5",
         "nom": "Europa FC",
-        "matchs": "9",
+        "matchs": "10",
         "victoires": "7",
         "nuls": "0",
-        "defaites": "2",
+        "defaites": "3",
         "buts_pour": "15",
-        "buts_contre": "7",
-        "difference": "8",
+        "buts_contre": "8",
+        "difference": "7",
         "points": "21"
       },
       {
