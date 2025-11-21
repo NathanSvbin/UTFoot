@@ -1,0 +1,3660 @@
+Id,Nom,Id_Championnat
+1,Arsenal FC,1
+2,Manchester City,1
+3,FC Liverpool,1
+4,Chelsea FC,1
+5,Tottenham Hotspur,1
+6,Newcastle United,1
+7,Manchester United,1
+8,Nottingham Forest,1
+9,Aston Villa,1
+10,Brighton & Hove Albion,1
+11,Crystal Palace,1
+12,AFC Bournemouth,1
+13,FC Brentford,1
+14,FC Everton,1
+15,West Ham United,1
+16,Wolverhampton Wanderers,1
+17,FC Fulham,1
+18,AFC Sunderland,1
+19,Leeds United,1
+20,Burnley FC,1
+21,Real Madrid,2
+22,FC Barcelone,2
+23,Atlético de Madrid,2
+24,Athletic Bilbao,2
+25,Villarreal CF,2
+26,Real Sociedad,2
+27,Real Betis Balompié,2
+28,FC Valencia,2
+29,Girona FC,2
+30,Celta Vigo,2
+31,Séville FC,2
+32,Espanyol Barcelona,2
+33,CA Osasuna,2
+34,Rayo Vallecano,2
+35,UD Levante,2
+36,RCD Mallorca,2
+37,Elche CF,2
+38,Deportivo Alavés,2
+39,FC Getafe,2
+40,Real Oviedo,2
+41,Inter Milan,3
+42,Juventus Turin,3
+43,SSC Napoli,3
+44,AC Milan,3
+45,Atalanta BC,3
+46,AS Roma,3
+47,ACF Fiorentina,3
+48,Como 1907,3
+49,FC Bologna,3
+50,Lazio Rome,3
+51,Torino FC,3
+52,Parma Calcio 1913,3
+53,Udinese Calcio,3
+54,US Sassuolo,3
+55,Genoa CFC,3
+56,Cagliari Calcio,3
+57,Pisa Sporting Club,3
+58,Hellas Verona,3
+59,US Cremonese,3
+60,US Lecce,3
+61,Bayern Munich,4
+62,Borussia Dortmund,4
+63,Bayer 04 Leverkusen,4
+64,Eintracht Francfort,4
+65,RB Leipzig,4
+66,VfB Stuttgart,4
+67,VfL Wolfsburg,4
+68,SV Werder Bremen,4
+69,TSG 1899 Hoffenheim,4
+70,SC Fribourg,4
+71,1.FSV Mainz 05,4
+72,Borussia Mönchengladbach,4
+73,FC Augsburg,4
+74,1.FC Union Berlin,4
+75,Hamburger SV,4
+76,1.FC Köln,4
+77,FC St. Pauli,4
+78,1.FC Heidenheim 1846,4
+79,Paris Saint-Germain,5
+80,Olympique de Marseille,5
+81,AS Monaco,5
+82,RC Strasbourg Alsace,5
+83,LOSC Lille,5
+84,Olympique Lyonnais,5
+85,OGC Nice,5
+86,Stade Rennais FC,5
+87,Paris FC,5
+88,RC Lens,5
+89,Toulouse FC,5
+90,Stade Brestois 29,5
+91,FC Nantes,5
+92,AJ Auxerre,5
+93,FC Lorient,5
+94,FC Metz,5
+95,Le Havre AC,5
+96,Angers SCO,5
+97,Ipswich Town,12
+98,FC Southampton,12
+99,Leicester City,12
+100,Sheffield United,12
+101,Middlesbrough FC,12
+102,Coventry City,12
+103,Norwich City,12
+104,Birmingham City,12
+105,West Bromwich Albion,12
+106,Swansea City,12
+107,Bristol City,12
+108,Stoke City,12
+109,Wrexham AFC,12
+110,FC Watford,12
+111,Hull City,12
+112,FC Millwall,12
+113,Derby County,12
+114,Queens Park Rangers,12
+115,Preston North End,12
+116,FC Portsmouth,12
+117,Blackburn Rovers,12
+118,Oxford United,12
+119,Charlton Athletic,12
+120,Sheffield Wednesday,12
+121,Sociedade Esportiva Palmeiras,10
+122,Clube Regatas Flamengo,10
+123,Botafogo de Futebol e Regatas,10
+124,Cruzeiro Esporte Clube,10
+125,Corinthians São Paulo,10
+126,Clube de Regatas Vasco da Gama,10
+127,Esporte Clube Bahia,10
+128,Clube Atlético Mineiro,10
+129,Fluminense Football Club,10
+130,Red Bull Bragantino,10
+131,FC São Paulo,10
+132,Grêmio Porto Alegre,10
+133,SC Internacional Porto Alegre,10
+134,Santos FC,10
+135,Fortaleza Esporte Clube,10
+136,Sport Club do Recife,10
+137,Ceará Sporting Club,10
+138,Esporte Clube Vitória,10
+139,Esporte Clube Juventude,10
+140,Mirassol Futebol Clube (SP),10
+141,Sporting CP,6
+142,FC Porto,6
+143,SL Benfica,6
+144,SC Braga,6
+145,FC Famalicão,6
+146,Rio Ave FC,6
+147,CD Santa Clara,6
+148,GD Estoril Praia,6
+149,FC Alverca,6
+150,Gil Vicente FC,6
+151,Casa Pia AC,6
+152,Moreirense FC,6
+153,Vitória Guimarães SC,6
+154,FC Arouca,6
+155,CD Tondela,6
+156,CD Nacional,6
+157,Avs Futebol,6
+158,CF Estrela Amadora,6
+159,Inter Miami CF,9
+160,Los Angeles FC,9
+161,FC Cincinnati,9
+162,Atlanta United FC,9
+163,Los Angeles Galaxy,9
+164,Portland Timbers,9
+165,Seattle Sounders FC,9
+166,Vancouver Whitecaps FC,9
+167,Columbus Crew,9
+168,New York City FC,9
+169,Charlotte FC,9
+170,Chicago Fire FC,9
+171,San Diego FC,9
+172,Austin FC,9
+173,Minnesota United FC,9
+174,Colorado Rapids,9
+175,Orlando City SC,9
+176,Nashville SC,9
+177,Real Salt Lake City,9
+178,Philadelphia Union,9
+179,New York Red Bulls,9
+180,St. Louis CITY SC,9
+181,New England Revolution,9
+182,Houston Dynamo FC,9
+183,San Jose Earthquakes,9
+184,Sporting Kansas City,9
+185,FC Dallas,9
+186,CF Montréal,9
+187,Toronto FC,9
+188,D.C. United,9
+189,Galatasaray,8
+190,Fenerbahce,8
+191,Besiktas JK,8
+192,Trabzonspor,8
+193,Basaksehir FK,8
+194,Samsunspor,8
+195,Caykur Rizespor,8
+196,Göztepe,8
+197,Antalyaspor,8
+198,Gaziantep FK,8
+199,Eyüpspor,8
+200,Kocaelispor,8
+201,Alanyaspor,8
+202,Konyaspor,8
+203,Genclerbirligi Ankara,8
+204,Kayserispor,8
+205,Fatih Karagümrük,8
+206,Kasimpasa,8
+207,PSV Eindhoven,7
+208,Feyenoord Rotterdam,7
+209,Ajax Amsterdam,7
+210,AZ Alkmaar,7
+211,FC Utrecht,7
+212,FC Twente Enschede,7
+213,NEC Nijmegen,7
+214,SC Heerenveen,7
+215,Go Ahead Eagles Deventer,7
+216,FC Groningen,7
+217,PEC Zwolle,7
+218,Sparta Rotterdam,7
+219,Fortuna Sittard,7
+220,Excelsior Rotterdam,7
+221,NAC Breda,7
+222,Heracles Almelo,7
+223,FC Volendam,7
+224,SC Telstar,7
+225,Al-Hilal SFC,11
+226,Al-Ahli SFC,11
+227,Al-Ittihad Club,11
+228,Al-Nassr FC,11
+229,Al-Qadsiah FC,11
+230,NEOM SC,11
+231,Al-Shabab FC,11
+232,Al-Taawoun FC,11
+233,Al-Ettifaq FC,11
+234,Al-Fateh SC,11
+235,Al-Kholood Club,11
+236,Al-Fayha FC,11
+237,Damac FC,11
+238,Al-Khaleej FC,11
+239,Al-Najma SC,11
+240,Al-Riyadh SC,11
+241,Al-Okhdood Club,11
+242,Al-Hazem SC,11
+243,Zenit St. Pétersbourg,13
+244,Spartak Moscou,13
+245,FK Krasnodar,13
+246,Dinamo Moscou,13
+247,Lokomotiv Moscou,13
+248,CSKA Moscou,13
+249,Rubin Kazan,13
+250,FK Rostov,13
+251,FK Sochi,13
+252,Krylya Sovetov Samara,13
+253,Akhmat Grozny,13
+254,Akron Togliatti,13
+255,Baltika Kaliningrad,13
+256,FC Pari Nizhniy Novgorod,13
+257,FK Orenburg,13
+258,Dinamo Makhachkala,13
+259,CA River Plate,14
+260,CA Boca Juniors,14
+261,Racing Club,14
+262,CA Independiente,14
+263,CA Vélez Sarsfield,14
+264,Club Estudiantes de La Plata,14
+265,CA Rosario Central,14
+266,CA Talleres,14
+267,AA Argentinos Juniors,14
+268,CA San Lorenzo de Almagro,14
+269,CA Lanús,14
+270,Club Atlético Belgrano,14
+271,CD Godoy Cruz Antonio Tomba,14
+272,CA Huracán,14
+273,Club Atlético Tigre,14
+274,Defensa y Justicia,14
+275,Club Atlético Platense,14
+276,Instituto ACC,14
+277,CA Unión (Santa Fe),14
+278,CS Independiente Rivadavia,14
+279,CA Barracas Central,14
+280,CA Newell's Old Boys,14
+281,CA Central Córdoba (SdE),14
+282,CA Banfield,14
+283,Club de Gimnasia y Esgrima La Plata,14
+284,Club Atlético Tucumán,14
+285,CA Sarmiento (Junín),14
+286,CA Aldosivi,14
+287,CA San Martín (San Juan),14
+288,Club Deportivo Riestra,14
+289,CA River Plate,15
+290,CA Boca Juniors,15
+291,Racing Club,15
+292,CA Independiente,15
+293,CA Vélez Sarsfield,15
+294,Club Estudiantes de La Plata,15
+295,CA Rosario Central,15
+296,CA Talleres,15
+297,AA Argentinos Juniors,15
+298,CA San Lorenzo de Almagro,15
+299,CA Lanús,15
+300,Club Atlético Belgrano,15
+301,CD Godoy Cruz Antonio Tomba,15
+302,CA Huracán,15
+303,Club Atlético Tigre,15
+304,Defensa y Justicia,15
+305,Club Atlético Platense,15
+306,Instituto ACC,15
+307,CA Unión (Santa Fe),15
+308,CS Independiente Rivadavia,15
+309,CA Barracas Central,15
+310,CA Newell's Old Boys,15
+311,CA Central Córdoba (SdE),15
+312,CA Banfield,15
+313,Club de Gimnasia y Esgrima La Plata,15
+314,Club Atlético Tucumán,15
+315,CA Sarmiento (Junín),15
+316,CA Aldosivi,15
+317,CA San Martín (San Juan),15
+318,Club Deportivo Riestra,15
+319,Club Brugge KV,16
+320,KRC Genk,16
+321,RSC Anderlecht,16
+322,Union Saint-Gilloise,16
+323,KAA La Gantoise,16
+324,Royal Antwerp FC,16
+325,KVC Westerlo,16
+326,Standard de Liège,16
+327,Cercle Bruges,16
+328,KV Mechelen,16
+329,R Charleroi SC,16
+330,Oud-Heverlee Leuven,16
+331,K. Saint-Trond VV,16
+332,FCV Dender EH,16
+333,Zulte Waregem,16
+334,RAAL La Louvière,16
+335,CF América,17
+336,CD Cruz Azul,17
+337,Deportivo Toluca,17
+338,Tigres UANL,17
+339,CF Monterrey,17
+340,Deportivo Guadalajara,17
+341,CF Pachuca,17
+342,Club Tijuana,17
+343,UNAM Pumas,17
+344,Club Necaxa,17
+345,Atlético de San Luis,17
+346,FC Juárez,17
+347,Club León FC,17
+348,Santos Laguna,17
+349,Atlas Guadalajara,17
+350,Mazatlán FC,17
+351,Puebla FC,17
+352,Querétaro FC,17
+353,CF América,18
+354,CD Cruz Azul,18
+355,Deportivo Toluca,18
+356,Tigres UANL,18
+357,CF Monterrey,18
+358,Deportivo Guadalajara,18
+359,CF Pachuca,18
+360,Club Tijuana,18
+361,UNAM Pumas,18
+362,Club Necaxa,18
+363,Atlético de San Luis,18
+364,FC Juárez,18
+365,Club León FC,18
+366,Santos Laguna,18
+367,Atlas Guadalajara,18
+368,Mazatlán FC,18
+369,Puebla FC,18
+370,Querétaro FC,18
+371,Olympiakós Le Pirée,19
+372,PAOK Thessaloniki,19
+373,Panathinaikos FC,19
+374,AEK Athènes,19
+375,Aris Salonique,19
+376,OFI Crète,19
+377,AE Kifisias,19
+378,Panetolikos GFS,19
+379,Panserraikos,19
+380,APO Levadiakos,19
+381,Asteras Aktor,19
+382,Atromitos Athen,19
+383,AE Larisa,19
+384,Volos NPS,19
+385,AC Monza,20
+386,Venezia FC,20
+387,Spezia Calcio,20
+388,Palerme FC,20
+389,FC Empoli,20
+390,UC Sampdoria,20
+391,Cesena FC,20
+392,US Catanzaro,20
+393,Modena FC,20
+394,SS Juve Stabia,20
+395,SSC Bari,20
+396,Frosinone Calcio,20
+397,Delfino Pescara 1936,20
+398,Mantova 1911,20
+399,Carrarese Calcio 1908,20
+400,AC Reggiana 1919,20
+401,US Avellino 1912,20
+402,FC Südtirol,20
+403,Calcio Padova,20
+404,Virtus Entella,20
+405,Hertha BSC,21
+406,Holstein Kiel,21
+407,VfL Bochum,21
+408,1.FC Nürnberg,21
+409,Hannover 96,21
+410,Fortuna Düsseldorf,21
+411,SC Paderborn 07,21
+412,FC Schalke 04,21
+413,1.FC Magdeburg,21
+414,1.FC Kaiserslautern,21
+415,SV Darmstadt 98,21
+416,Karlsruher SC,21
+417,SV 07 Elversberg,21
+418,SpVgg Greuther Fürth,21
+419,Eintracht Braunschweig,21
+420,Preußen Münster,21
+421,Arminia Bielefeld,21
+422,SG Dynamo Dresden,21
+423,UD Almería,22
+424,Deportivo de La Coruña,22
+425,UD Las Palmas,22
+426,Racing Santander,22
+427,Real Valladolid,22
+428,Sporting Gijón,22
+429,CD Leganés,22
+430,Real Zaragoza,22
+431,FC Granada,22
+432,CD Mirandés,22
+433,Cádiz CF,22
+434,Burgos CF,22
+435,SD Eibar,22
+436,Málaga CF,22
+437,Cultural Leonesa,22
+438,CD Castellón,22
+439,FC Córdoba,22
+440,Albacete Balompié,22
+441,FC Andorra,22
+442,SD Huesca,22
+443,AD Ceuta FC,22
+444,Real Sociedad B,22
+445,Al-Duhail SC,23
+446,Al-Rayyan SC,23
+447,Al-Sadd SC,23
+448,Al-Gharafa SC,23
+449,Al-Arabi SC,23
+450,Al-Wakrah SC,23
+451,Al-Ahli SC,23
+452,Qatar SC,23
+453,Umm Salal SC,23
+454,Al-Shamal SC,23
+455,Al-Sailiya SC,23
+456,Al-Shahania SC,23
+457,FC Bâle 1893,24
+458,BSC Young Boys,24
+459,FC Lugano,24
+460,FC Saint-Gall 1879,24
+461,FC Zürich,24
+462,FC Lausanne-Sport,24
+463,FC Lucerne,24
+464,Servette FC,24
+465,FC Sion,24
+466,Grasshopper Club Zurich,24
+467,FC Thun,24
+468,FC Winterthur,24
+469,Shakhtar Donetsk,25
+470,Dynamo Kyiv,25
+471,Polissya Zhytomyr,25
+472,Karpaty Lviv,25
+473,Metalist 1925 Kharkiv,25
+474,LNZ Cherkasy,25
+475,Kolos Kovalivka,25
+476,Kryvbas Kryvyi Rig,25
+477,Zorya Lugansk,25
+478,Rukh Lviv,25
+479,FK Oleksandriya,25
+480,NK Veres Rivne,25
+481,Obolon Kyiv,25
+482,Epicentr Kamyanets-Podilskyi,25
+483,FC Kudrivka,25
+484,SK Poltava,25
+485,Al-Jazira Club,26
+486,Al-Wasl FC,26
+487,Shabab Al-Ahli Club,26
+488,Sharjah FC,26
+489,Al-Wahda FC,26
+490,Al-Nasr SC (UAE),26
+491,Al-Ain FC,26
+492,Al-Bataeh CSC,26
+493,Khor Fakkan SSC,26
+494,FC Baniyas,26
+495,Kalba FC,26
+496,Ajman Club,26
+497,Dibba SCC,26
+498,Al-Dhafra FC,26
+499,SK Slavia Prague,27
+500,AC Sparta Prague,27
+501,FC Viktoria Plzen,27
+502,FC Banik Ostrava,27
+503,SK Sigma Olomouc,27
+504,FK Pardubice,27
+505,FC Slovan Liberec,27
+506,FC Hradec Kralove,27
+507,FK Mlada Boleslav,27
+508,FK Jablonec,27
+509,MFK Karvina,27
+510,FK Teplice,27
+511,FK Dukla Prague,27
+512,Bohemians Prague 1905,27
+513,1.FC Slovacko,27
+514,FC Zlin,27
+515,Red Bull Salzbourg,28
+516,SK Sturm Graz,28
+517,Rapid Vienne,28
+518,LASK,28
+519,Wolfsberger AC,28
+520,Austria de Vienne,28
+521,FC Blau-Weiss Linz,28
+522,TSV Hartberg,28
+523,SCR Altach,28
+524,WSG Tirol,28
+525,Grazer AK 1902,28
+526,SV Ried,28
+527,Lech Poznan,29
+528,Legia Varsovie,29
+529,Jagiellonia Bialystok,29
+530,Raków Częstochowa,29
+531,Widzew Lodz,29
+532,Cracovia,29
+533,Pogon Szczecin,29
+534,Lechia Gdansk,29
+535,Górnik Zabrze,29
+536,Radomiak Radom,29
+537,Zaglebie Lubin,29
+538,Motor Lublin,29
+539,Korona Kielce,29
+540,GKS Katowice,29
+541,Wisla Plock,29
+542,Arka Gdynia,29
+543,Piast Gliwice,29
+544,Bruk-Bet Termalica Nieciecza,29
+545,Celtic Glasgow,30
+546,Glasgow Rangers,30
+547,Aberdeen FC,30
+548,Hibernian FC,30
+549,Heart of Midlothian FC,30
+550,Dundee United FC,30
+551,Kilmarnock FC,30
+552,Motherwell FC,30
+553,Livingston FC,30
+554,Dundee FC,30
+555,St. Mirren FC,30
+556,Falkirk FC,30
+557,FC Midtjylland,31
+558,FC Copenhague,31
+559,Bröndby IF,31
+560,Aarhus GF,31
+561,FC Nordsjaelland,31
+562,Viborg FF,31
+563,Silkeborg IF,31
+564,Vejle Boldklub,31
+565,Randers FC,31
+566,Sönderjyske Fodbold,31
+567,Odense Boldklub,31
+568,FC Fredericia,31
+569,AS Saint-Étienne,32
+570,Stade de Reims,32
+571,Montpellier Hérault SC,32
+572,ESTAC Troyes,32
+573,EA Guingamp,32
+574,USL Dunkerque,32
+575,Amiens SC,32
+576,Red Star FC,32
+577,SC Bastia,32
+578,Grenoble Foot 38,32
+579,Pau FC,32
+580,Clermont Foot 63,32
+581,Rodez AF,32
+582,AS Nancy-Lorraine,32
+583,Stade Lavallois,32
+584,FC Annecy,32
+585,Le Mans FC,32
+586,US Boulogne,32
+587,FK Bodø/Glimt,33
+588,SK Brann,33
+589,Viking FK,33
+590,Molde FK,33
+591,Rosenborg BK,33
+592,Tromsø IL,33
+593,Sarpsborg 08 FF,33
+594,Vålerenga Fotball Elite,33
+595,Fredrikstad FK,33
+596,Sandefjord Fotball,33
+597,Strømsgodset IF,33
+598,Kristiansund BK,33
+599,FK Haugesund,33
+600,Bryne FK,33
+601,KFUM-Kameratene Oslo,33
+602,Hamarkameratene,33
+603,Kashima Antlers,34
+604,Urawa Red Diamonds,34
+605,Sanfrecce Hiroshima,34
+606,Vissel Kobe,34
+607,Gamba Osaka,34
+608,Cerezo Osaka,34
+609,Kawasaki Frontale,34
+610,Kashiwa Reysol,34
+611,FC Tokyo,34
+612,Machida Zelvia,34
+613,Nagoya Grampus,34
+614,Yokohama F. Marinos,34
+615,Kyoto Sanga,34
+616,Avispa Fukuoka,34
+617,Shimizu S-Pulse,34
+618,Albirex Niigata,34
+619,Yokohama FC,34
+620,Tokyo Verdy,34
+621,Fagiano Okayama,34
+622,Shonan Bellmare,34
+623,Luton Town,35
+624,Cardiff City,35
+625,Huddersfield Town,35
+626,Bolton Wanderers,35
+627,Plymouth Argyle,35
+628,Blackpool FC,35
+629,Wigan Athletic,35
+630,FC Reading,35
+631,Leyton Orient,35
+632,Wycombe Wanderers,35
+633,Rotherham United,35
+634,Port Vale FC,35
+635,Stockport County,35
+636,Peterborough United,35
+637,Barnsley FC,35
+638,FC Stevenage,35
+639,Lincoln City,35
+640,Burton Albion,35
+641,Exeter City,35
+642,Mansfield Town,35
+643,Bradford City,35
+644,Doncaster Rovers,35
+645,Northampton Town,35
+646,AFC Wimbledon,35
+647,Étoile Rouge de Belgrade,36
+648,FK Partizan Belgrad,36
+649,OFK Beograd,36
+650,FK Vojvodina Novi Sad,36
+651,FK TSC Backa Topola,36
+652,FK Cukaricki,36
+653,FK IMT Belgrad,36
+654,Zeleznicar Pancevo,36
+655,FK Radnicki 1923 Kragujevac,36
+656,FK Radnicki Nis,36
+657,FK Novi Pazar,36
+658,FK Spartak Subotica,36
+659,FK Napredak Krusevac,36
+660,FK Mladost Lucani,36
+661,FK Javor-Matis Ivanjica,36
+662,FK Radnik Surdulica,36
+663,Malmö FF,37
+664,Hammarby IF,37
+665,Djurgårdens IF,37
+666,AIK,37
+667,Mjällby AIF,37
+668,IF Elfsborg,37
+669,BK Häcken,37
+670,IK Sirius,37
+671,IFK Göteborg,37
+672,IF Brommapojkarna,37
+673,GAIS,37
+674,IFK Norrköping,37
+675,Degerfors IF,37
+676,Halmstads BK,37
+677,IFK Värnamo,37
+678,Östers IF,37
+679,FCSB,38
+680,CFR Cluj,38
+681,FC Rapid 1923,38
+682,Universitatea Craiova,38
+683,FC Universitatea Cluj,38
+684,FC Dinamo 1948,38
+685,FCV Farul Constanta,38
+686,FC Botoșani,38
+687,Petrolul Ploiesti,38
+688,UTA Arad,38
+689,FC Hermannstadt,38
+690,ACSC FC Arges,38
+691,AFC Unirea 04 Slobozia,38
+692,SC Otelul Galati,38
+693,FK Csikszereda Miercurea Ciuc,38
+694,FC Metaloglobus Bucharest,38
+695,Club Athletico Paranaense,39
+696,Clube do Remo (PA),39
+697,Coritiba FC,39
+698,Cuiabá Esporte Clube,39
+699,América Futebol Clube,39
+700,Atlético Clube Goianiense,39
+701,Grêmio Novorizontino,39
+702,Goiás EC,39
+703,Criciúma EC,39
+704,Clube de Regatas Brasil (AL),39
+705,Operário Ferroviário Esporte Clube,39
+706,Athletic Club,39
+707,Paysandu SC,39
+708,Amazonas FC,39
+709,Vila Nova Futebol Clube (GO),39
+710,Avaí FC,39
+711,Associação Chapecoense de Futebol,39
+712,Botafogo FC,39
+713,Ferroviária,39
+714,Volta Redonda Futebol Clube (RJ),39
+715,GNK Dinamo Zagreb,40
+716,HNK Hajduk Split,40
+717,HNK Rijeka,40
+718,NK Osijek,40
+719,NK Istra 1961,40
+720,NK Lokomotiva Zagreb,40
+721,NK Varazdin,40
+722,Slaven Belupo Koprivnica,40
+723,HNK Gorica,40
+724,HNK Vukovar 1991,40
+725,Atlético Nacional,41
+726,CD América de Cali,41
+727,Junior FC,41
+728,Millonarios FC,41
+729,Independiente Medellín,41
+730,Deportes Tolima,41
+731,Once Caldas,41
+732,Independiente Santa Fe,41
+733,CD La Equidad Seguros SA,41
+734,Deportivo Cali,41
+735,Fortaleza CEIF,41
+736,Atlético Bucaramanga,41
+737,Deportivo Pereira,41
+738,Rionegro Águilas,41
+739,Envigado FC,41
+740,Llaneros FC,41
+741,Deportivo Pasto,41
+742,Alianza FC,41
+743,Unión Magdalena,41
+744,Boyacá Chicó FC,41
+745,Atlético Nacional,42
+746,CD América de Cali,42
+747,Junior FC,42
+748,Millonarios FC,42
+749,Independiente Medellín,42
+750,Deportes Tolima,42
+751,Once Caldas,42
+752,Independiente Santa Fe,42
+753,CD La Equidad Seguros SA,42
+754,Deportivo Cali,42
+755,Fortaleza CEIF,42
+756,Atlético Bucaramanga,42
+757,Deportivo Pereira,42
+758,Rionegro Águilas,42
+759,Envigado FC,42
+760,Llaneros FC,42
+761,Deportivo Pasto,42
+762,Alianza FC,42
+763,Unión Magdalena,42
+764,Boyacá Chicó FC,42
+765,Ludogorets Razgrad,43
+766,Levski Sofia,43
+767,CSKA Sofia,43
+768,CSKA 1948,43
+769,Arda Kardzhali,43
+770,Botev Plovdiv,43
+771,Lokomotiv Sofia,43
+772,Slavia Sofia,43
+773,Botev Vratsa,43
+774,Dobrudzha Dobrich,43
+775,Lokomotiv Plovdiv,43
+776,Cherno More Varna,43
+777,Beroe Stara Zagora,43
+778,Septemvri Sofia,43
+779,Montana,43
+780,Spartak Varna,43
+781,Club Universidad de Chile,44
+782,CSD Colo-Colo,44
+783,CD Everton,44
+784,Huachipato FC,44
+785,CD O'Higgins,44
+786,CD Universidad Católica,44
+787,Unión Española,44
+788,Audax Italiano,44
+789,Coquimbo Unido,44
+790,CD Palestino,44
+791,Deportes La Serena,44
+792,Unión La Calera,44
+793,Club Deportes Iquique,44
+794,Deportes Limache,44
+795,CD Ñublense,44
+796,CD Cobresal,44
+797,CA Peñarol,45
+798,Club Nacional,45
+799,Liverpool FC Montevideo,45
+800,CA Boston River,45
+801,Defensor Sporting Club,45
+802,CA Juventud,45
+803,Racing Club de Montevideo,45
+804,Danubio FC,45
+805,Montevideo City Torque,45
+806,Cerro Largo FC,45
+807,CA River Plate Montevideo,45
+808,Club Plaza Colonia,45
+809,CA Cerro,45
+810,Montevideo Wanderers,45
+811,CA Progreso,45
+812,Miramar Misiones,45
+813,CA Peñarol,46
+814,Club Nacional,46
+815,Liverpool FC Montevideo,46
+816,CA Boston River,46
+817,Defensor Sporting Club,46
+818,CA Juventud,46
+819,Racing Club de Montevideo,46
+820,Danubio FC,46
+821,Montevideo City Torque,46
+822,Cerro Largo FC,46
+823,CA River Plate Montevideo,46
+824,Club Plaza Colonia,46
+825,CA Cerro,46
+826,Montevideo Wanderers,46
+827,CA Progreso,46
+828,Miramar Misiones,46
+829,CA Peñarol,47
+830,Club Nacional,47
+831,Liverpool FC Montevideo,47
+832,CA Boston River,47
+833,Defensor Sporting Club,47
+834,CA Juventud,47
+835,Racing Club de Montevideo,47
+836,Danubio FC,47
+837,Montevideo City Torque,47
+838,Cerro Largo FC,47
+839,CA River Plate Montevideo,47
+840,Club Plaza Colonia,47
+841,CA Cerro,47
+842,Montevideo Wanderers,47
+843,CA Progreso,47
+844,Miramar Misiones,47
+845,Independiente del Valle,48
+846,Barcelona SC Guayaquil,48
+847,LDU Quito,48
+848,SD Aucas,48
+849,CD Universidad Católica,48
+850,CS Emelec,48
+851,Orense SC,48
+852,Deportivo Cuenca,48
+853,CD Macará,48
+854,Manta FC,48
+855,Vinotinto FC,48
+856,Mushuc Runa SC,48
+857,Libertad FC,48
+858,Delfín SC,48
+859,CD El Nacional,48
+860,Técnico Universitario,48
+861,Al Ahly FC,49
+862,Pyramids FC,49
+863,Zamalek SC,49
+864,El Masry SC,49
+865,Bank El Ahly,49
+866,Cleopatra FC,49
+867,Modern Sport Club,49
+868,Zed FC,49
+869,Enppi SC,49
+870,Ittihad Alexandria SC,49
+871,Tala'ea El Geish,49
+872,Smouha SC,49
+873,Petrojet,49
+874,Harras El Hodoud,49
+875,Ismaily SC,49
+876,El Gouna FC,49
+877,Ghazl El Mahalla,49
+878,Pharco FC,49
+879,El Mokawloon SC,49
+880,Wadi Degla FC,49
+881,Kahraba Ismailia,49
+882,Bodrum FK,50
+883,Sivasspor,50
+884,Amed SK,50
+885,Manisa FK,50
+886,Istanbulspor,50
+887,Corum FK,50
+888,Hatayspor,50
+889,Van Spor FK,50
+890,Erzurumspor FK,50
+891,Pendikspor,50
+892,Esenler Erokspor,50
+893,Bandirmaspor,50
+894,Igdir FK,50
+895,Boluspor,50
+896,Sariyer,50
+897,Ümraniyespor,50
+898,Sakaryaspor,50
+899,Ankara Keciörengücü,50
+900,Serik Spor,50
+901,Adana Demirspor,50
+902,Maccabi Tel Aviv,51
+903,Maccabi Haifa,51
+904,Hapoel Beer Sheva,51
+905,Beitar Jerusalem,51
+906,Hapoel Tel Aviv,51
+907,Maccabi Netanya,51
+908,Hapoel Jerusalem,51
+909,FC Ashdod,51
+910,Maccabi Bnei Reineh,51
+911,Ironi Tiberias,51
+912,Hapoel Petah Tikva,51
+913,Ironi Kiryat Shmona,51
+914,Ihud Bnei Sakhnin,51
+915,Hapoel Haifa,51
+916,FC Porto B,52
+917,Sporting CP B,52
+918,UD Leiria,52
+919,CS Marítimo,52
+920,Académico Viseu FC,52
+921,GD Chaves,52
+922,SC União Torreense,52
+923,SC Farense,52
+924,SL Benfica B,52
+925,FC Penafiel,52
+926,FC Vizela,52
+927,Portimonense SAD,52
+928,FC Felgueiras 1932,52
+929,Leixões SC,52
+930,FC Paços de Ferreira,52
+931,CD Feirense,52
+932,UD Oliveirense,52
+933,Lusitânia FC Lourosa,52
+934,Ferencvárosi TC,53
+935,Újpest FC,53
+936,Puskás Akadémia FC,53
+937,ETO FC,53
+938,MTK Budapest,53
+939,Debreceni VSC,53
+940,Paksi FC,53
+941,Nyíregyháza Spartacus,53
+942,Diósgyőri VTK,53
+943,Zalaegerszegi TE FC,53
+944,Kisvárda FC,53
+945,Kazincbarcikai SC,53
+946,Mamelodi Sundowns FC,54
+947,Orlando Pirates,54
+948,Kaizer Chiefs,54
+949,Stellenbosch FC,54
+950,Siwelele Football Club,54
+951,Lamontville Golden Arrows,54
+952,Sekhukhune United FC,54
+953,AmaZulu FC,54
+954,Richards Bay FC,54
+955,Chippa United,54
+956,TS Galaxy FC,54
+957,Polokwane City FC,54
+958,Durban City Football Club,54
+959,Marumo Gallants FC,54
+960,Magesi FC,54
+961,Orbit College FC,54
+962,Pafos FC,55
+963,Aris Limassol,55
+964,Omonia Nicosie,55
+965,APOEL Nikosia,55
+966,Apollon Limassol,55
+967,AEK Larnaca,55
+968,AEL Limassol,55
+969,Anorthosis Famagusta,55
+970,Ethnikos Achnas,55
+971,Omonia Aradippou,55
+972,Krasava ENY,55
+973,Akritas Chlorakas,55
+974,Enosis Neon Paralimniou,55
+975,Olympiakos Nikosia,55
+976,VfB Stuttgart II,56
+977,FC Hansa Rostock,56
+978,1.FC Saarbrücken,56
+979,TSV 1860 München,56
+980,SV Wehen Wiesbaden,56
+981,SSV Jahn Regensburg,56
+982,TSG 1899 Hoffenheim II,56
+983,SSV Ulm 1846,56
+984,FC Ingolstadt 04,56
+985,Rot-Weiss Essen,56
+986,FC Energie Cottbus,56
+987,SV Waldhof Mannheim,56
+988,VfL Osnabrück,56
+989,MSV Duisburg,56
+990,Alemannia Aachen,56
+991,FC Erzgebirge Aue,56
+992,FC Viktoria Köln,56
+993,SC Verl,56
+994,1.FC Schweinfurt 05,56
+995,TSV Havelse,56
+996,Ajax Amsterdam U21,57
+997,Willem II Tilburg,57
+998,PSV Eindhoven U21,57
+999,FC Dordrecht,57
+1000,Almere City FC,57
+1001,RKC Waalwijk,57
+1002,SC Cambuur Leeuwarden,57
+1003,ADO Den Haag,57
+1004,Roda JC Kerkrade,57
+1005,FC Emmen,57
+1006,De Graafschap Doetinchem,57
+1007,FC Den Bosch,57
+1008,Helmond Sport,57
+1009,MVV Maastricht,57
+1010,TOP Oss,57
+1011,AZ Alkmaar U21,57
+1012,VVV-Venlo,57
+1013,FC Utrecht U21,57
+1014,FC Eindhoven,57
+1015,Vitesse Arnhem,57
+1016,Júbilo Iwata,58
+1017,V-Varen Nagasaki,58
+1018,JEF United Chiba,58
+1019,Hokkaido Consadole Sapporo,58
+1020,Sagan Tosu,58
+1021,Montedio Yamagata,58
+1022,RB Omiya Ardija,58
+1023,Vegalta Sendai,58
+1024,Tokushima Vortis,58
+1025,FC Imabari,58
+1026,Oita Trinita,58
+1027,Mito HollyHock,58
+1028,Ventforet Kofu,58
+1029,Ehime FC,58
+1030,Fujieda MYFC,58
+1031,Renofa Yamaguchi,58
+1032,Iwaki FC,58
+1033,Roasso Kumamoto,58
+1034,Blaublitz Akita,58
+1035,Kataller Toyama,58
+1036,Shanghai Port,59
+1037,Beijing Guoan,59
+1038,Shanghai Shenhua,59
+1039,Shandong Taishan,59
+1040,Zhejiang FC,59
+1041,Chengdu Rongcheng,59
+1042,Tianjin Jinmen Tiger,59
+1043,Yunnan Yukun,59
+1044,Qingdao West Coast,59
+1045,Henan FC,59
+1046,Dalian Yingbo,59
+1047,Shenzhen Peng City,59
+1048,Wuhan Three Towns,59
+1049,Meizhou Hakka,59
+1050,Qingdao Hainiu,59
+1051,Changchun Yatai,59
+1052,Ural Iekaterinbourg,60
+1053,Torpedo Moscou,60
+1054,Fakel Voronezh,60
+1055,Rodina Moscow,60
+1056,Arsenal Tula,60
+1057,Rotor Volgograd,60
+1058,Spartak Kostroma,60
+1059,SKA Khabarovsk,60
+1060,Neftekhimik Nizhnekamsk,60
+1061,Volga Uljanovsk,60
+1062,Shinnik Yaroslavl,60
+1063,FK Chelyabinsk,60
+1064,Enisey Krasnoyarsk,60
+1065,Chernomorets Novorossijsk,60
+1066,KamAZ Naberezhnye Chelny,60
+1067,FK Ufa,60
+1068,Sokol Saratov,60
+1069,Chaika Peschanokopskoe,60
+1070,Universitario de Deportes,61
+1071,Club Alianza Lima,61
+1072,Club Sporting Cristal,61
+1073,FBC Melgar,61
+1074,Cusco FC,61
+1075,Alianza Atlético Sullana,61
+1076,Sport Boys Association,61
+1077,Club Atlético Grau,61
+1078,Alianza Universidad,61
+1079,Sport Huancayo,61
+1080,Club Cienciano,61
+1081,Asociación Deportiva Tarma,61
+1082,CD Los Chankas,61
+1083,Universidad Técnica de Cajamarca,61
+1084,Deportivo Garcilaso,61
+1085,Club Juan Pablo II College,61
+1086,Ayacucho FC,61
+1087,Comerciantes Unidos,61
+1088,Deportivo Binacional,61
+1089,Universitario de Deportes,62
+1090,Club Alianza Lima,62
+1091,Club Sporting Cristal,62
+1092,FBC Melgar,62
+1093,Cusco FC,62
+1094,Alianza Atlético Sullana,62
+1095,Sport Boys Association,62
+1096,Club Atlético Grau,62
+1097,Alianza Universidad,62
+1098,Sport Huancayo,62
+1099,Club Cienciano,62
+1100,Asociación Deportiva Tarma,62
+1101,CD Los Chankas,62
+1102,Universidad Técnica de Cajamarca,62
+1103,Deportivo Garcilaso,62
+1104,Club Juan Pablo II College,62
+1105,Ayacucho FC,62
+1106,Comerciantes Unidos,62
+1107,KV Kortrijk,63
+1108,Beerschot VA,63
+1109,RWDM Brussels,63
+1110,Lommel SK,63
+1111,KAS Eupen,63
+1112,Jong Genk,63
+1113,RSCA Futures,63
+1114,SK Beveren,63
+1115,Club NXT,63
+1116,RFC Liège,63
+1117,Francs Borains,63
+1118,KSC Lokeren,63
+1119,Jong KAA Gent,63
+1120,Patro Eisden Maasmechelen,63
+1121,K Lierse SK,63
+1122,RFC Seraing,63
+1123,Olympic Charleroi,63
+1124,Esteghlal FC,64
+1125,Sepahan FC,64
+1126,Persepolis FC,64
+1127,Tractor FC,64
+1128,Gol Gohar Sirjan FC,64
+1129,Foolad FC,64
+1130,Kheybar Khorramabad FC,64
+1131,Malavan Bandar Anzali,64
+1132,Chadormalu SC,64
+1133,Zob Ahan Esfahan,64
+1134,Aluminium Arak FC,64
+1135,Fajr Sepasi Shiraz,64
+1136,Paykan FC,64
+1137,Mes Rafsanjan,64
+1138,Shams Azar Qazvin,64
+1139,Esteghlal Khuzestan,64
+1140,Ulsan HD FC,65
+1141,Jeonbuk Hyundai Motors,65
+1142,Daejeon Hana Citizen,65
+1143,FC Seoul,65
+1144,Gimcheon Sangmu,65
+1145,Pohang Steelers,65
+1146,Gangwon FC,65
+1147,Daegu FC,65
+1148,Jeju SK,65
+1149,FC Anyang,65
+1150,Suwon FC,65
+1151,Gwangju FC,65
+1152,Club Cerro Porteño,66
+1153,Olimpia Asunción,66
+1154,Club Libertad Asunción,66
+1155,Club Guaraní,66
+1156,Club Nacional Asunción,66
+1157,Sportivo Ameliano,66
+1158,Sportivo Luqueño,66
+1159,Club Sportivo 2 de Mayo,66
+1160,Club Sportivo Trinidense,66
+1161,Club General Caballero (JLM),66
+1162,Atlético Tembetary,66
+1163,Recoleta FC,66
+1164,Club Cerro Porteño,67
+1165,Olimpia Asunción,67
+1166,Club Libertad Asunción,67
+1167,Club Guaraní,67
+1168,Club Nacional Asunción,67
+1169,Sportivo Ameliano,67
+1170,Sportivo Luqueño,67
+1171,Club Sportivo 2 de Mayo,67
+1172,Club Sportivo Trinidense,67
+1173,Club General Caballero (JLM),67
+1174,Atlético Tembetary,67
+1175,Recoleta FC,67
+1176,Renaissance de Berkane,68
+1177,Wydad Casablanca,68
+1178,Raja Club Athletic,68
+1179,AS FAR Rabat,68
+1180,FUS Rabat,68
+1181,MAS Fès,68
+1182,Hassania d'Agadir,68
+1183,Olympique Safi,68
+1184,COD Meknès,68
+1185,Union Touarga Sportif,68
+1186,Ittihad Tanger,68
+1187,Difaâ El Jadida,68
+1188,Renaissance Zemamra,68
+1189,KACM Marrakech,68
+1190,Union Yacoub El-Mansour,68
+1191,Olympique Dcheira,68
+1192,Atalanta U23,69
+1193,Benevento Calcio,69
+1194,US Salernitana 1919,69
+1195,Catania FC,69
+1196,Cosenza Calcio,69
+1197,FC Trapani 1905,69
+1198,FC Crotone,69
+1199,Casertana FC,69
+1200,Audace Cerignola,69
+1201,Potenza Calcio,69
+1202,SS Monopoli 1966,69
+1203,Calcio Foggia 1920,69
+1204,Sorrento 1945,69
+1205,Giugliano Calcio 1928,69
+1206,Cavese 1919,69
+1207,AZ Picerno,69
+1208,Latina Calcio 1932,69
+1209,Casarano Calcio,69
+1210,Siracusa Calcio,69
+1211,ASD Team Altamura,69
+1212,Qarabağ FK,70
+1213,Sabah FK,70
+1214,Neftchi PFK,70
+1215,Zira FK,70
+1216,Turan-Tovuz IK,70
+1217,Araz-Nakhchivan,70
+1218,Sumqayit PFK,70
+1219,Kapaz PFK,70
+1220,FC Shamakhi,70
+1221,FC Imishli,70
+1222,FK Qabala,70
+1223,Karvan Yevlakh,70
+1224,Club Atlético San Martín (Tucumán),71
+1225,CA Gimnasia y Esgrima (Mendoza),71
+1226,CA Chacarita Juniors,71
+1227,CA Colón,71
+1228,AA Estudiantes (Río Cuarto),71
+1229,Club Ferro Carril Oeste,71
+1230,CA San Miguel,71
+1231,CA Atlanta,71
+1232,Quilmes AC,71
+1233,CA Patronato,71
+1234,CSD Tristan Suarez,71
+1235,CS Deportivo Madryn,71
+1236,CA Estudiantes,71
+1237,Club Almagro,71
+1238,Club Atlético Gimnasia y Esgrima (Jujuy),71
+1239,CA Temperley,71
+1240,CA Mitre,71
+1241,Club Deportivo Morón,71
+1242,CA Racing (Córdoba),71
+1243,CA Nueva Chicago,71
+1244,Arsenal FC,71
+1245,CA All Boys,71
+1246,Club Deportivo Maipú,71
+1247,CA Defensores de Belgrano,71
+1248,CA Agropecuario,71
+1249,CA Chaco For Ever,71
+1250,Club de Gimnasia y Tiro,71
+1251,CA Alvarado,71
+1252,CA San Telmo,71
+1253,CA Los Andes,71
+1254,CA Central Norte,71
+1255,Club Almirante Brown,71
+1256,CA Colegiales,71
+1257,CA Defensores Unidos (Zarate),71
+1258,CA Güemes,71
+1259,CA Talleres (Remedios de Escalada),71
+1260,Inter U23,72
+1261,AS Cittadella,72
+1262,LR Vicenza,72
+1263,Union Brescia,72
+1264,Novara FC,72
+1265,AC Trento,72
+1266,AS Giana Erminio,72
+1267,AC Renate,72
+1268,FC Lumezzane,72
+1269,Calcio Lecco 1912,72
+1270,Alcione Milano,72
+1271,FC Arzignano Valchiampo,72
+1272,US Triestina,72
+1273,Virtusvecomp Verona,72
+1274,FC Pro Vercelli 1892,72
+1275,Dolomiti Bellunesi,72
+1276,US Pergolettese 1932,72
+1277,UC AlbinoLeffe,72
+1278,CPR Ospitaletto,72
+1279,Aurora Pro Patria,72
+1280,Slovan Bratislava,73
+1281,DAC Dunajska Streda,73
+1282,MSK Zilina,73
+1283,Spartak Trnava,73
+1284,Zeleziarne Podbrezova,73
+1285,MFK Ruzomberok,73
+1286,AS Trencin,73
+1287,FC Kosice,73
+1288,FC Tatran Presov,73
+1289,Zemplin Michalovce,73
+1290,KFC Komarno,73
+1291,MFK Skalica,73
+1292,Juventus Next Gen,74
+1293,SS Arezzo,74
+1294,Ascoli Calcio,74
+1295,SEF Torres 1903,74
+1296,AC Perugia Calcio,74
+1297,Ternana Calcio,74
+1298,US Livorno 1915,74
+1299,Vis Pesaro 1898,74
+1300,Campobasso FC,74
+1301,US Città di Pontedera,74
+1302,AS Gubbio 1910,74
+1303,Pineto Calcio,74
+1304,AC Carpi,74
+1305,US Sambenedettese,74
+1306,Ravenna FC 1913,74
+1307,Forlì FC,74
+1308,Guidonia Montecelio 1937 FC,74
+1309,US Pianese,74
+1310,AC Bra,74
+1311,Rimini FC,74
+1312,CR Belouizdad,75
+1313,MC Alger,75
+1314,JS Kabylie,75
+1315,USM Alger,75
+1316,MC Oran,75
+1317,CS Constantine,75
+1318,Paradou AC,75
+1319,JS Saoura,75
+1320,ES Sétif,75
+1321,USM Khenchela,75
+1322,Olympique Akbou,75
+1323,ASO Chlef,75
+1324,MC El Bayadh,75
+1325,ES Mostaganem,75
+1326,MB Rouissat,75
+1327,ES Ben Aknoun,75
+1328,Real Madrid Castilla,76
+1329,CD Tenerife,76
+1330,Racing de Ferrol,76
+1331,SD Ponferradina,76
+1332,CD Lugo,76
+1333,Mérida AD,76
+1334,Zamora CF,76
+1335,CA Osasuna Promesas,76
+1336,Pontevedra CF,76
+1337,Ourense CF,76
+1338,CD Arenteiro,76
+1339,RC Celta Fortuna,76
+1340,Bilbao Athletic,76
+1341,Unionistas CF,76
+1342,Barakaldo CF,76
+1343,CD Guadalajara,76
+1344,Real Avilés Industrial,76
+1345,CP Cacereño,76
+1346,CF Talavera de la Reina,76
+1347,Arenas Club,76
+1348,Charleston Battery,77
+1349,San Antonio FC,77
+1350,Phoenix Rising FC,77
+1351,Louisville City FC,77
+1352,Sacramento Republic FC,77
+1353,Loudoun United FC,77
+1354,Lexington SC,77
+1355,Tampa Bay Rowdies,77
+1356,Birmingham Legion FC,77
+1357,Rhode Island FC,77
+1358,North Carolina FC,77
+1359,FC Tulsa,77
+1360,Las Vegas Lights FC,77
+1361,Orange County SC,77
+1362,Detroit City FC,77
+1363,Colorado Springs Switchbacks FC,77
+1364,New Mexico United,77
+1365,El Paso Locomotive FC,77
+1366,Monterey Bay FC,77
+1367,Indy Eleven,77
+1368,Hartford Athletic,77
+1369,Miami FC,77
+1370,Oakland Roots SC,77
+1371,Pittsburgh Riverhounds SC,77
+1372,Milton Keynes Dons,78
+1373,Bristol Rovers,78
+1374,Salford City,78
+1375,Notts County,78
+1376,Cambridge United,78
+1377,FC Chesterfield,78
+1378,Crawley Town,78
+1379,Crewe Alexandra,78
+1380,Fleetwood Town,78
+1381,Newport County,78
+1382,AFC Barrow,78
+1383,FC Walsall,78
+1384,Colchester United,78
+1385,Tranmere Rovers,78
+1386,Grimsby Town,78
+1387,Cheltenham Town,78
+1388,FC Gillingham,78
+1389,Swindon Town,78
+1390,Shrewsbury Town,78
+1391,Harrogate Town,78
+1392,Bromley FC,78
+1393,FC Barnet,78
+1394,Accrington Stanley,78
+1395,Oldham Athletic,78
+1396,Al-Karma,79
+1397,Al-Zawraa SC,79
+1398,Al-Quwa Al-Jawiya,79
+1399,Al-Shorta SC,79
+1400,Zakho SC,79
+1401,Al-Talaba SC,79
+1402,Duhok SC,79
+1403,Al-Mina'a SC,79
+1404,Erbil SC,79
+1405,Al-Naft SC,79
+1406,Al-Najaf FC,79
+1407,Naft Missan,79
+1408,Newroz SC,79
+1409,Al-Karkh SC,79
+1410,Al-Gharraf SC,79
+1411,Diyala SC,79
+1412,Amanat Baghdad,79
+1413,Al-Qasim SC,79
+1414,Al-Kahrbaa Club,79
+1415,Mosul SC,79
+1416,Atlético Madrileño,80
+1417,Hércules CF,80
+1418,FC Cartagena,80
+1419,Betis Deportivo Balompié,80
+1420,UD Ibiza,80
+1421,Real Murcia CF,80
+1422,Gimnàstic de Tarragona,80
+1423,CD Eldense,80
+1424,AD Alcorcón,80
+1425,Sevilla Atlético,80
+1426,Marbella FC,80
+1427,Antequera CF,80
+1428,CE Sabadell FC,80
+1429,Algeciras CF,80
+1430,SD Tarazona,80
+1431,Villarreal CF B,80
+1432,Atlético Sanluqueño CF,80
+1433,CE Europa,80
+1434,CD Teruel,80
+1435,Juventud Torremolinos CF,80
+1436,Club Atlético Morelia,81
+1437,Tampico Madero,81
+1438,Atlético La Paz,81
+1439,Mineros de Zacatecas,81
+1440,CD Leones Negros de la UdeG,81
+1441,Venados FC Yucatán,81
+1442,CF Atlante,81
+1443,CD Irapuato,81
+1444,CD Tapatío,81
+1445,Tepatitlán FC,81
+1446,Dorados de Sinaloa,81
+1447,Cancún FC,81
+1448,Correcaminos de la UAT,81
+1449,Alebrijes de Oaxaca,81
+1450,Tlaxcala FC,81
+1451,Club Atlético Morelia,82
+1452,Tampico Madero,82
+1453,Atlético La Paz,82
+1454,Mineros de Zacatecas,82
+1455,CD Leones Negros de la UdeG,82
+1456,Venados FC Yucatán,82
+1457,CF Atlante,82
+1458,CD Irapuato,82
+1459,CD Tapatío,82
+1460,Tepatitlán FC,82
+1461,Dorados de Sinaloa,82
+1462,Cancún FC,82
+1463,Correcaminos de la UAT,82
+1464,Alebrijes de Oaxaca,82
+1465,Tlaxcala FC,82
+1466,Sydney FC,83
+1467,Auckland FC,83
+1468,Perth Glory,83
+1469,Melbourne Victory,83
+1470,Western Sydney Wanderers,83
+1471,Melbourne City FC,83
+1472,Adelaide United,83
+1473,Wellington Phoenix,83
+1474,Macarthur FC,83
+1475,Brisbane Roar,83
+1476,Central Coast Mariners,83
+1477,Newcastle United Jets,83
+1478,Suwon Samsung Bluewings,84
+1479,Incheon United,84
+1480,Chungnam Asan,84
+1481,Jeonnam Dragons,84
+1482,Seoul E-Land,84
+1483,Busan IPark,84
+1484,Gyeongnam FC,84
+1485,Gimpo FC,84
+1486,Seongnam FC,84
+1487,Bucheon FC 1995,84
+1488,Cheonan City,84
+1489,Chungbuk Cheongju FC,84
+1490,Hwaseong FC,84
+1491,Ansan Greeners,84
+1492,Pakhtakor Tashkent,85
+1493,Nasaf Qarshi,85
+1494,Neftchi Fergana,85
+1495,FC OKMK Olmaliq,85
+1496,Sogdiana Jizzakh,85
+1497,Navbahor Namangan,85
+1498,FK Andijon,85
+1499,Dinamo Samarqand,85
+1500,Bunyodkor Tashkent,85
+1501,FC Buxoro,85
+1502,Surkhon Termiz,85
+1503,Mash'al Mubarek,85
+1504,FC Qizilqum,85
+1505,FK Kokand 1912,85
+1506,Xorazm Urganch,85
+1507,Shurtan Guzar,85
+1508,Bolívar La Paz,86
+1509,Club Always Ready,86
+1510,Blooming Santa Cruz,86
+1511,San Antonio Bulo Bulo,86
+1512,Gualberto Villarroel San José,86
+1513,The Strongest La Paz,86
+1514,Club Deportivo Oriente Petrolero,86
+1515,Club Deportivo Guabirá,86
+1516,Real Oruro,86
+1517,CA Nacional Potosí,86
+1518,CD Real Tomayapo,86
+1519,Universitario de Vinto,86
+1520,Club A.B.B.,86
+1521,Club Independiente Petrolero,86
+1522,Club Aurora,86
+1523,Club Jorge Wilstermann,86
+1524,Wisla Cracovie,87
+1525,LKS Lodz,87
+1526,Wieczysta Cracovie,87
+1527,Slask Wroclaw,87
+1528,Polonia Varsovie,87
+1529,Miedz Legnica,87
+1530,Ruch Chorzow,87
+1531,Stal Rzeszow,87
+1532,Polonia Bytom,87
+1533,GKS Tychy,87
+1534,Pogon Grodzisk Mazowiecki,87
+1535,Odra Opole,87
+1536,Chrobry Glogow,87
+1537,Stal Mielec,87
+1538,Gornik Leczna,87
+1539,Pogon Siedlce,87
+1540,Puszcza Niepolomice,87
+1541,Znicz Pruszkow,87
+1542,Kairat Almaty,88
+1543,FC Astana,88
+1544,Tobol Kostanay,88
+1545,FK Aktobe,88
+1546,Yelimay Semey,88
+1547,Ordabasy Shymkent,88
+1548,Zhenis Astana,88
+1549,Okzhetpes Kokshetau,88
+1550,Qyzyljar Petropavlovsk,88
+1551,Kaysar Kyzylorda,88
+1552,Zhetysu Taldykorgan,88
+1553,FK Atyrau,88
+1554,FK Ulytau Zhezkazgan,88
+1555,FK Turan,88
+1556,Al-Ula FC,89
+1557,Al-Diraiyah FC,89
+1558,Al-Raed SFC,89
+1559,Al-Faisaly FC,89
+1560,Al-Wehda FC,89
+1561,Abha Club,89
+1562,Al-Orobah FC,89
+1563,Al-Jabalain FC,89
+1564,Al-Tai FC,89
+1565,Al-Batin FC,89
+1566,Al-Bukiryah FC,89
+1567,Al-Arabi SC,89
+1568,Al-Zulfi SFC,89
+1569,Jeddah SC,89
+1570,Al-Adalah FC,89
+1571,Al-Jandal SC,89
+1572,Al-Jubail Club,89
+1573,Al-Anwar Club,89
+1574,Espérance sportive de Tunis,90
+1575,Club Africain,90
+1576,US Monastir,90
+1577,Etoile Sportive du Sahel,90
+1578,CS Sfaxien,90
+1579,Stade Tunisien,90
+1580,Club Athlétique Bizertin,90
+1581,ES Zarzis,90
+1582,Avenir Sportif de Gabès,90
+1583,Union Sportive de Ben Guerdane,90
+1584,Olympique Beja,90
+1585,AS Soliman,90
+1586,JS Kairouanaise,90
+1587,Etoile Sportive Metlaoui,90
+1588,Jeunesse Sportive Omrane,90
+1589,AS Marsa,90
+1590,Buriram United,91
+1591,BG Pathum United,91
+1592,True Bangkok United,91
+1593,Port FC,91
+1594,Ratchaburi FC,91
+1595,Kanchanaburi Power FC,91
+1596,Uthai Thani FC,91
+1597,Muangthong United,91
+1598,Chonburi FC,91
+1599,PT Prachuap FC,91
+1600,Lamphun Warriors,91
+1601,Rayong FC,91
+1602,Ayutthaya United,91
+1603,Singha Chiangrai United,91
+1604,Sukhothai FC,91
+1605,Nakhonratchasima Mazda FC,91
+1606,Stabæk Fotball,92
+1607,Lillestrøm SK,92
+1608,Odds BK,92
+1609,Aalesunds FK,92
+1610,IK Start,92
+1611,Kongsvinger IL,92
+1612,Egersunds IK,92
+1613,Moss FK,92
+1614,Ranheim IL,92
+1615,Sogndal IL,92
+1616,Åsane Fotball,92
+1617,Lyn 1896 FK,92
+1618,Skeid Oslo,92
+1619,Raufoss IL,92
+1620,IL Hødd,92
+1621,Mjøndalen IF,92
+1622,PERSIB Bandung,93
+1623,Persija Jakarta,93
+1624,Dewa United Banten FC,93
+1625,PSM Makassar,93
+1626,PSIM Yogyakarta,93
+1627,Persebaya Surabaya,93
+1628,Bhayangkara Presisi Lampung FC,93
+1629,Borneo FC Samarinda,93
+1630,Malut United FC,93
+1631,Bali United FC,93
+1632,Persik Kediri,93
+1633,Persita Tangerang,93
+1634,PERSIS Solo,93
+1635,Persijap Jepara,93
+1636,Arema FC,93
+1637,Madura United FC,93
+1638,Semen Padang FC,93
+1639,PSBS Biak,93
+1640,POT Iraklis Thessalonique,94
+1641,Panionios Athen,94
+1642,PS Kalamata,94
+1643,PAOK Thessaloniki B,94
+1644,Niki Volou,94
+1645,AO Egaleo,94
+1646,Athens Kallithea,94
+1647,Anagennisi Karditsas,94
+1648,Olympiakós Le Pirée B,94
+1649,PAE Chania,94
+1650,GS Ilioupolis,94
+1651,Asteras Aktor B,94
+1652,PAS Giannina,94
+1653,Ellas Syrou,94
+1654,GS Marko,94
+1655,Makedonikos Neapolis,94
+1656,AO Kavala,94
+1657,Nestos Chrysoupolis,94
+1658,Kampaniakos,94
+1659,Panargiakos APO,94
+1660,Kalmar FF,95
+1661,Västerås SK,95
+1662,Landskrona BoIS,95
+1663,Örgryte IS,95
+1664,Varbergs BoIS,95
+1665,Sandvikens IF,95
+1666,Helsingborgs IF,95
+1667,IK Oddevold,95
+1668,Östersunds FK,95
+1669,IK Brage,95
+1670,GIF Sundsvall,95
+1671,Falkenbergs FF,95
+1672,Örebro SK,95
+1673,Trelleborgs FF,95
+1674,Utsiktens BK,95
+1675,Umeå FC,95
+1676,Deportivo La Guaira,96
+1677,Carabobo FC,96
+1678,Universidad Central de Venezuela,96
+1679,Academia Puerto Cabello,96
+1680,Monagas SC,96
+1681,Deportivo Táchira,96
+1682,Caracas FC,96
+1683,Anzoátegui FC,96
+1684,Metropolitanos FC,96
+1685,Portuguesa FC,96
+1686,Estudiantes de Mérida,96
+1687,Zamora FC,96
+1688,Yaracuyanos FC,96
+1689,Dvo. Rayo Zuliano,96
+1690,Deportivo La Guaira,97
+1691,Carabobo FC,97
+1692,Universidad Central de Venezuela,97
+1693,Academia Puerto Cabello,97
+1694,Monagas SC,97
+1695,Deportivo Táchira,97
+1696,Caracas FC,97
+1697,Anzoátegui FC,97
+1698,Metropolitanos FC,97
+1699,Portuguesa FC,97
+1700,Estudiantes de Mérida,97
+1701,Zamora FC,97
+1702,Yaracuyanos FC,97
+1703,Dvo. Rayo Zuliano,97
+1704,Al-Ittihad SC,98
+1705,Al-Ahli SC,98
+1706,Al-Nasr SC,98
+1707,Al-Ahly SC,98
+1708,Asswehly SC,98
+1709,Al-Akhdar SC,98
+1710,Al-Hilal SC,98
+1711,Al-Ta'awon SC,98
+1712,Union Military SC,98
+1713,Libyan Stadium,98
+1714,Olympic Azzawiya SC,98
+1715,Al Sadaqa Shahat SC,98
+1716,Al-Tahaddy SC,98
+1717,Abelashhar SC,98
+1718,El Ettihad Al-Misraty SC,98
+1719,Al-Madina SC,98
+1720,Al Murooj,98
+1721,Al-Borouq FC,98
+1722,Al-Watan SC,98
+1723,Andalus FC,98
+1724,Shabab Al Ghar,98
+1725,Abu Salim SC,98
+1726,Khaleej Sirte SC,98
+1727,Assabah SC,98
+1728,Al Tersana Tripoli,98
+1729,Al-Majd SCC,98
+1730,Al Soqour Tobruk,98
+1731,Al-Khums SC,98
+1732,Al-Anwar Al-Abyar SC,98
+1733,Darnes SC,98
+1734,Al-Afreeki Sports Club,98
+1735,Ittihad Gharyan SC,98
+1736,CD Cobreloa,99
+1737,Deportes Copiapó,99
+1738,San Luis de Quillota,99
+1739,Santiago Wanderers,99
+1740,San Marcos de Arica,99
+1741,Universidad de Concepción,99
+1742,Deportes Concepción,99
+1743,Magallanes,99
+1744,Deportes Temuco,99
+1745,Curicó Unido,99
+1746,Rangers de Talca,99
+1747,Deportes Antofagasta,99
+1748,Deportes Recoleta,99
+1749,Santiago Morning,99
+1750,Deportes Santa Cruz,99
+1751,Unión San Felipe,99
+1752,Aalborg BK,100
+1753,Lyngby Boldklub,100
+1754,AC Horsens,100
+1755,Kolding IF,100
+1756,Esbjerg fB,100
+1757,Hobro IK,100
+1758,Hvidovre IF,100
+1759,Hilleröd Fodbold,100
+1760,HB Köge,100
+1761,Boldklubben af 1893,100
+1762,Aarhus Fremad,100
+1763,Middelfart Boldklub,100
+1764,Spartak Kostroma,101
+1765,Volga Uljanovsk,101
+1766,FK Chelyabinsk,101
+1767,Veles Moscou,101
+1768,FK Leningradets,101
+1769,Sibir Novosibirsk,101
+1770,Mashuk-KMV Pyatigorsk,101
+1771,Volgar Astrakhan,101
+1772,Tekstilshchik Ivanovo,101
+1773,Dinamo 2 Moskau,101
+1774,Rodina 2 Moscow,101
+1775,FK Kaluga,101
+1776,Kuban Krasnodar,101
+1777,Dinamo Kirov,101
+1778,Dinamo Vladivostok,101
+1779,Torpedo Miass,101
+1780,Irtysh Omsk,101
+1781,FK Murom,101
+1782,Avangard Kursk,101
+1783,Forte Taganrog,101
+1784,FC Liefering,102
+1785,Young Violets Austria Wien,102
+1786,SK Sturm Graz II,102
+1787,First Vienna FC,102
+1788,SKN St. Pölten,102
+1789,Admira Wacker,102
+1790,Schwarz-Weiß Bregenz,102
+1791,SK Rapid Wien II,102
+1792,SC Austria Lustenau,102
+1793,SK Austria Klagenfurt,102
+1794,SV Kapfenberg,102
+1795,SKU Amstetten,102
+1796,FC Hertha Wels,102
+1797,Floridsdorfer AC,102
+1798,SV Austria Salzburg,102
+1799,SV Stripfing,102
+1800,NK Maribor,103
+1801,NK Olimpija Ljubljana,103
+1802,NK Celje,103
+1803,NK Bravo,103
+1804,FC Koper,103
+1805,NS Mura,103
+1806,ND Primorje,103
+1807,NK Domzale,103
+1808,NK Aluminij Kidricevo,103
+1809,NK Radomlje,103
+1810,Valenciennes FC,104
+1811,SM Caen,104
+1812,FC Sochaux-Montbéliard,104
+1813,US Orléans,104
+1814,FC Rouen 1899,104
+1815,Dijon FCO,104
+1816,FC Versailles 78,104
+1817,Quevilly - Rouen Métropole,104
+1818,LB Châteauroux,104
+1819,Paris 13 Atletico,104
+1820,US Concarneau,104
+1821,FC Villefranche-Beaujolais,104
+1822,SC Aubagne Air Bel,104
+1823,Le Puy Foot 43 Auvergne,104
+1824,Football Bourg-en-Bresse Péronnas 01,104
+1825,Football Club Fleury 91,104
+1826,Stade Briochin,104
+1827,FC Zbrojovka Brno,105
+1828,FC Banik Ostrava B,105
+1829,SK Slavia Prague B,105
+1830,SK Artis Brno,105
+1831,AC Sparta Prague B,105
+1832,FC Sellier & Bellot Vlasim,105
+1833,FC SILON Taborsko,105
+1834,1.SK Prostejov,105
+1835,FC Vysocina Jihlava,105
+1836,SK Dynamo Ceske Budejovice,105
+1837,Slezsky FC Opava,105
+1838,SK Hanacka Slavia Kromeriz,105
+1839,MFK Chrudim,105
+1840,FK Pribram,105
+1841,FK Viktoria Zizkov,105
+1842,FK Viagem Usti nad Labem,105
+1843,ML Vitebsk,106
+1844,Dynamo Brest,106
+1845,Torpedo-BelAZ Zhodino,106
+1846,Dinamo Minsk,106
+1847,Neman Grodno,106
+1848,Slavia Mozyr,106
+1849,Isloch Minsk Region,106
+1850,FK Vitebsk,106
+1851,BATE Borisov,106
+1852,Arsenal Dzerzhinsk,106
+1853,FK Gomel,106
+1854,FK Slutsk,106
+1855,Naftan Novopolotsk,106
+1856,FK Minsk,106
+1857,FK Smorgon,106
+1858,FK Molodechno,106
+1859,FK Sarajevo,107
+1860,HSK Zrinjski Mostar,107
+1861,FK Borac Banja Luka,107
+1862,FK Zeljeznicar Sarajevo,107
+1863,FK Velez Mostar,107
+1864,NK Siroki Brijeg,107
+1865,FK Rudar Prijedor,107
+1866,FK Radnik Bijeljina,107
+1867,HSK Posusje,107
+1868,FK Sloga Meridian,107
+1869,Veles Moscou,108
+1870,FK Leningradets,108
+1871,Sibir Novosibirsk,108
+1872,Mashuk-KMV Pyatigorsk,108
+1873,FK Tyumen,108
+1874,Volgar Astrakhan,108
+1875,Tekstilshchik Ivanovo,108
+1876,Dinamo 2 Moskau,108
+1877,Rodina 2 Moscow,108
+1878,FK Kaluga,108
+1879,Kuban Krasnodar,108
+1880,Dinamo Kirov,108
+1881,Dinamo Vladivostok,108
+1882,Torpedo Miass,108
+1883,Irtysh Omsk,108
+1884,FK Murom,108
+1885,Alania Vladikavkaz,108
+1886,Avangard Kursk,108
+1887,Sepsi OSK Sf. Gheorghe,109
+1888,ACSM Politehnica Iasi,109
+1889,Concordia Chiajna,109
+1890,FC Voluntari,109
+1891,CSA Steaua,109
+1892,Corvinul Hunedoara,109
+1893,ACSM Resita,109
+1894,AFC Metalul Buzau,109
+1895,AFC Chindia Targoviste,109
+1896,FC Bihor 1902,109
+1897,CSM Slatina,109
+1898,ASA Târgu Mureș,109
+1899,CSM Ceahlaul Piatra Neamt,109
+1900,CSC 1599 Selimbar,109
+1901,CS Tunari,109
+1902,CS Afumati,109
+1903,CS Dinamo Bucuresti,109
+1904,CSM Olimpia Satu Mare,109
+1905,AFC Campulung Muscel 2022,109
+1906,FC Bacau,109
+1907,CSC Dumbravita,109
+1908,Gloria Bistrita,109
+1909,Thep Xanh Nam Dinh FC,110
+1910,Cong An Ha Noi FC,110
+1911,Ha Noi FC,110
+1912,Cong An Ho Chi Minh City FC,110
+1913,Ninh Binh FC,110
+1914,The Cong - Viettel FC,110
+1915,Becamex Ho Chi Minh City FC,110
+1916,Hai Phong FC,110
+1917,Dong A Thanh Hoa FC,110
+1918,Hong Linh Ha Tinh FC,110
+1919,Song Lam Nghe An FC,110
+1920,SHB Da Nang FC,110
+1921,Hoang Anh Gia Lai FC,110
+1922,PVF-CAND FC,110
+1923,Johor Darul Ta'zim,111
+1924,Selangor FC,111
+1925,Terengganu FC,111
+1926,Kuala Lumpur City FC,111
+1927,Sabah FC,111
+1928,Kuching City,111
+1929,Immigration FC,111
+1930,Penang FC,111
+1931,Kelantan The Real Warriors,111
+1932,Brunei DPMM FC,111
+1933,Negeri Sembilan FC,111
+1934,PDRM FC,111
+1935,Melaka FC,111
+1936,FC Noah Yerevan,112
+1937,FC Pyunik Erevan,112
+1938,FC Ararat-Armenia,112
+1939,FC Urartu Yerevan,112
+1940,Alashkert Yerevan,112
+1941,FC Ararat Erewan,112
+1942,Gandzasar Kapan,112
+1943,FC Shirak Gyumri,112
+1944,FC Van,112
+1945,BKMA Yerevan,112
+1946,FC Aarau,113
+1947,Neuchâtel Xamax FCS,113
+1948,Yverdon Sport FC,113
+1949,FC Vaduz,113
+1950,FC Stade-Lausanne-Ouchy,113
+1951,FC Stade Nyonnais,113
+1952,FC Wil 1900,113
+1953,Etoile Carouge FC,113
+1954,FC Rapperswil-Jona,113
+1955,AC Bellinzona,113
+1956,FK Partizani,114
+1957,Flamurtari FC,114
+1958,FC Dinamo City,114
+1959,KF Vllaznia,114
+1960,KF Egnatia,114
+1961,KF Tirana,114
+1962,KF Teuta,114
+1963,AF Elbasani,114
+1964,FK Bylis,114
+1965,KF Vora,114
+1966,Kuopion Palloseura,115
+1967,HJK Helsinki,115
+1968,Ilves Tampere,115
+1969,SJK Seinäjoki,115
+1970,FC Inter Turku,115
+1971,AC Oulu,115
+1972,Vaasan Palloseura,115
+1973,IF Gnistan,115
+1974,IFK Mariehamn,115
+1975,FF Jaro,115
+1976,FC Haka,115
+1977,FC KTP,115
+1978,FC RFS,116
+1979,Riga FC,116
+1980,FK Liepaja,116
+1981,FK Auda,116
+1982,BFC Daugavpils,116
+1983,FS Jelgava,116
+1984,FK Tukums 2000,116
+1985,FK Grobina,116
+1986,SK Super Nova,116
+1987,FK Metta,116
+1988,Mohun Bagan Super Giant,117
+1989,East Bengal FC,117
+1990,Kerala Blasters FC,117
+1991,FC Goa,117
+1992,Mumbai City FC,117
+1993,Bengaluru FC,117
+1994,Jamshedpur FC,117
+1995,NorthEast United FC,117
+1996,Punjab FC,117
+1997,Odisha FC,117
+1998,Chennaiyin FC,117
+1999,Mohammedan SC (Kolkata),117
+2000,Sporting Club Delhi,117
+2001,Inter Kashi FC,117
+2002,Albion FC,118
+2003,Club Deportivo Maldonado,118
+2004,CA Rentistas,118
+2005,Tacuarembó FC,118
+2006,CA Fénix,118
+2007,Central Español FC,118
+2008,Colón FC de Uruguay,118
+2009,Club Oriental,118
+2010,CA Atenas de San Carlos,118
+2011,La Luz FC,118
+2012,CS Cerrito,118
+2013,Uruguay Montevideo FC,118
+2014,Rampla Juniors FC,118
+2015,CA Artigas,118
+2016,Albion FC,119
+2017,Club Deportivo Maldonado,119
+2018,CA Rentistas,119
+2019,Tacuarembó FC,119
+2020,CA Fénix,119
+2021,Central Español FC,119
+2022,Colón FC de Uruguay,119
+2023,Club Oriental,119
+2024,CA Atenas de San Carlos,119
+2025,La Luz FC,119
+2026,CS Cerrito,119
+2027,Uruguay Montevideo FC,119
+2028,Rampla Juniors FC,119
+2029,CA Artigas,119
+2030,Cúcuta Deportivo,120
+2031,CD Real Cartagena,120
+2032,Jaguares de Córdoba,120
+2033,CD Atlético Huila,120
+2034,Boyacá Patriotas FC,120
+2035,Deportes Quindío,120
+2036,Orsomarso SC,120
+2037,Real Cundinamarca,120
+2038,Barranquilla FC,120
+2039,Real Santander,120
+2040,Internacional de Palmira,120
+2041,Bogotá FC,120
+2042,Atlético FC,120
+2043,Club Boca Juniors de Cali,120
+2044,Leones FC,120
+2045,Tigres FC,120
+2046,Cúcuta Deportivo,121
+2047,CD Real Cartagena,121
+2048,Jaguares de Córdoba,121
+2049,CD Atlético Huila,121
+2050,Boyacá Patriotas FC,121
+2051,Deportes Quindío,121
+2052,Orsomarso SC,121
+2053,Real Cundinamarca,121
+2054,Barranquilla FC,121
+2055,Real Santander,121
+2056,Internacional de Palmira,121
+2057,Bogotá FC,121
+2058,Atlético FC,121
+2059,Club Boca Juniors de Cali,121
+2060,Leones FC,121
+2061,Tigres FC,121
+2062,FK Kauno Žalgiris,122
+2063,FA Šiauliai,122
+2064,FK Žalgiris Vilnius,122
+2065,FC Hegelmann,122
+2066,FK Sūduva Marijampolė,122
+2067,FK Banga Gargždai,122
+2068,FC Džiugas Telšiai,122
+2069,FK Panevėžys,122
+2070,DFK Dainava Alytus,122
+2071,FK Riteriai,122
+2072,Floriana FC,123
+2073,Hamrun Spartans,123
+2074,Birkirkara FC,123
+2075,Hibernians FC,123
+2076,Sliema Wanderers,123
+2077,Valletta FC,123
+2078,Zabbar St. Patrick FC,123
+2079,Gzira United FC,123
+2080,Marsaxlokk FC,123
+2081,Naxxar Lions FC,123
+2082,Mosta FC,123
+2083,Tarxien Rainbows,123
+2084,FC Barcelone Atlètic,124
+2085,UE Sant Andreu,124
+2086,Valencia Mestalla,124
+2087,Terrassa FC,124
+2088,CD Atlético Baleares,124
+2089,CD Alcoyano,124
+2090,Torrent CF,124
+2091,UE Olot,124
+2092,RCD Espanyol B,124
+2093,CD Ibiza Islas Pitiusas,124
+2094,UD Barbastro,124
+2095,CE Atlètic Lleida,124
+2096,CE Andratx,124
+2097,UE Porreres,124
+2098,Girona FC B,124
+2099,Reus FC Reddis,124
+2100,UD Poblense,124
+2101,CD Castellón B,124
+2102,LD Alajuelense,125
+2103,CS Herediano,125
+2104,Deportivo Saprissa,125
+2105,AD Municipal Liberia,125
+2106,CS Cartaginés,125
+2107,Sporting FC,125
+2108,Municipal Pérez Zeledón,125
+2109,AD San Carlos,125
+2110,Puntarenas FC,125
+2111,Guadalupe FC,125
+2112,LD Alajuelense,126
+2113,CS Herediano,126
+2114,Deportivo Saprissa,126
+2115,Puntarenas FC,126
+2116,AD San Carlos,126
+2117,CS Cartaginés,126
+2118,Santos de Guápiles FC,126
+2119,Sporting FC,126
+2120,AD Municipal Liberia,126
+2121,AD Guanacasteca,126
+2122,Municipal Pérez Zeledón,126
+2123,Santa Ana FC,126
+2124,Liaoning Tieren,127
+2125,Chongqing Tonglianglong,127
+2126,Shaanxi Union,127
+2127,Nantong Zhiyun,127
+2128,Guangdong GZ-Power,127
+2129,Yanbian Longding,127
+2130,Foshan Nanshi,127
+2131,Suzhou Dongwu,127
+2132,Shijiazhuang Gongfu,127
+2133,Dalian K'un City,127
+2134,Qingdao Red Lions,127
+2135,Shanghai Jiading Huilong,127
+2136,Shenzhen Juniors,127
+2137,Guangxi Pingguo,127
+2138,Dingnan United,127
+2139,Nanjing City,127
+2140,Bukovyna Chernivtsi,128
+2141,Chornomorets Odessa,128
+2142,Livyi Bereg Kyiv,128
+2143,Ingulets Petrove,128
+2144,Metalist Kharkiv,128
+2145,Viktoriya Sumy,128
+2146,Vorskla Poltava,128
+2147,Agrobiznes Volochysk,128
+2148,Feniks-Mariupol,128
+2149,Prykarpattya-Blago Ivano-Frankivsk,128
+2150,Podillya Khmelnytskyi,128
+2151,UCSA Tarasivka,128
+2152,Nyva Ternopil,128
+2153,SK Metalurg Zaporizhya,128
+2154,FK Chernigiv,128
+2155,Probiy Gorodenka,128
+2156,FK Jedinstvo Ub,129
+2157,Graficar Belgrad,129
+2158,FK Macva Sabac,129
+2159,FK Smederevo 1924,129
+2160,FK Dubocica Leskovac,129
+2161,FK Vozdovac,129
+2162,OFK Vrsac,129
+2163,FK Zemun,129
+2164,FK Loznica,129
+2165,FK Borac 1926 Cacak,129
+2166,FK Tekstilac Odzaci,129
+2167,FK Kabel Novi Sad,129
+2168,FK Trayal Kruševac,129
+2169,FK Usce Novi Beograd,129
+2170,SU Dinamo Jug,129
+2171,FK FAP Priboj,129
+2172,Comerciantes FC,130
+2173,CD Unión Comercio,130
+2174,Universidad César Vallejo,130
+2175,Deportivo Moquegua,130
+2176,FC Cajamarca,130
+2177,Universidad San Martín de Porres,130
+2178,Deportivo Llacuabamba,130
+2179,ADA Jaén,130
+2180,Bentín Tacna Heroica,130
+2181,Carlos A. Mannucci,130
+2182,Pirata FC,130
+2183,Santos FC Nazca,130
+2184,Academia Deportiva Cantolao,130
+2185,FC San Marcos,130
+2186,Deportivo Coopsol,130
+2187,FC Drita,131
+2188,SC Gjilani,131
+2189,FC Ballkani,131
+2190,FC Malisheva,131
+2191,FC Prishtina,131
+2192,KF Llapi,131
+2193,KF Drenica,131
+2194,FC Ferizaj,131
+2195,KF Dukagjini,131
+2196,KF Prishtina e Re,131
+2197,Shkendija Tetovo,132
+2198,Vardar Skopje,132
+2199,Struga Trim & Lum,132
+2200,Sileks Kratovo,132
+2201,Rabotnicki Skopje,132
+2202,Makedonija Gjorce Petrov,132
+2203,AP Brera Strumica,132
+2204,Pelister Bitola,132
+2205,Bashkimi,132
+2206,Arsimi,132
+2207,Tikves Kavadarci,132
+2208,FC Shkupi,132
+2209,Vasas FC,133
+2210,Kecskeméti TE,133
+2211,Videoton Fehérvár,133
+2212,Budapest Honvéd FC,133
+2213,Szeged-Csanád - GA,133
+2214,Mezőkövesd Zsóry FC,133
+2215,Szentl?rinc SE,133
+2216,FC Ajka,133
+2217,Soroksár SC,133
+2218,Kozármisleny FC,133
+2219,Budafoki MTE,133
+2220,Békéscsaba 1912 Elöre SE,133
+2221,Budapesti VSC - Zugló,133
+2222,Aqvital FC Csákvár,133
+2223,Tiszakécskei LC,133
+2224,Karcagi SE,133
+2225,1.FSV Mainz 05 II,134
+2226,SV Sandhausen,134
+2227,SC Freiburg II,134
+2228,Kickers Offenbach,134
+2229,FC 08 Homburg,134
+2230,Stuttgarter Kickers,134
+2231,TSV Steinbach Haiger,134
+2232,SGV Freiberg,134
+2233,SV Eintracht Trier 05,134
+2234,SG Barockstadt Fulda-Lehnerz,134
+2235,FSV Frankfurt,134
+2236,KSV Hessen Kassel,134
+2237,FC-Astoria Walldorf,134
+2238,SG Sonnenhof Großaspach,134
+2239,Bahlinger SC,134
+2240,FC Bayern Alzenau,134
+2241,TSG Balingen,134
+2242,TSV Schott Mainz,134
+2243,Maccabi Petah Tikva,135
+2244,Bnei Yehuda Tel Aviv,135
+2245,Hapoël Acre,135
+2246,Hapoel Hadera,135
+2247,Hapoel Rishon leZion,135
+2248,Hapoel Nof HaGalil,135
+2249,Hapoel Kfar Shalem,135
+2250,Hapoel Ramat Gan,135
+2251,Maccabi Jaffa,135
+2252,Hapoel Raanana,135
+2253,Hapoel Afula,135
+2254,Maccabi Herzliya,135
+2255,SC Kiryat Yam,135
+2256,Hapoel Kfar Saba,135
+2257,SC Kfar Qasem,135
+2258,Ironi Modiin,135
+2259,Borussia Dortmund II,136
+2260,Borussia Mönchengladbach II,136
+2261,1.FC Cologne II,136
+2262,SC Paderborn 07 II,136
+2263,1.FC Bocholt,136
+2264,SV Rödinghausen,136
+2265,SC Fortuna Köln,136
+2266,FC Schalke 04 II,136
+2267,Sportfreunde Lotte,136
+2268,Rot-Weiß Oberhausen,136
+2269,Sportfreunde Siegen,136
+2270,FC Gütersloh,136
+2271,Fortuna Düsseldorf II,136
+2272,Bonner SC,136
+2273,VfL Bochum II,136
+2274,Wuppertaler SV,136
+2275,SC Wiedenbrück,136
+2276,SSVg Velbert 02,136
+2277,Al-Seeb Club,137
+2278,Al-Shabab SC (Oman),137
+2279,Al-Nahda Club,137
+2280,Oman Club,137
+2281,Al-Nasr Club,137
+2282,Saham Club,137
+2283,Bahla Club,137
+2284,Sur SC,137
+2285,Al-Rustaq Club,137
+2286,Sohar SC,137
+2287,Dhofar Club,137
+2288,Al-Khaboura Sports Club,137
+2289,Ibri Club,137
+2290,Samail SC,137
+2291,FC Nassaji Mazandaran,138
+2292,Sanat Naft FC,138
+2293,Mes Shahr Babak FC,138
+2294,Saipa FC,138
+2295,Pars Jonoubi Jam,138
+2296,Mes Kerman,138
+2297,Palayesh Naft Bandar Abbas,138
+2298,Ario Eslamshahr,138
+2299,Mes Soongoun Varzaghan,138
+2300,Havadar SC,138
+2301,Shahrdari Nowshahr,138
+2302,Naft va Gaz Gachsaran,138
+2303,Niroye Zamini FC,138
+2304,Damash Gilan FC,138
+2305,Navad Urmia FC,138
+2306,Fard Alborz,138
+2307,Beasat Kermanshah,138
+2308,Shenavar Sazi Qeshm,138
+2309,Yantra Gabrovo,139
+2310,Dunav Ruse,139
+2311,Fratria,139
+2312,Chernomorets 1919 Burgas,139
+2313,Vihren Sandanski,139
+2314,CSKA Sofia II,139
+2315,Hebar Pazardzhik,139
+2316,Marek Dupnitsa,139
+2317,Pirin Blagoevgrad,139
+2318,Minyor Pernik,139
+2319,Ludogorets Razgrad II,139
+2320,Etar Veliko Tarnovo,139
+2321,Belasitsa Petrich,139
+2322,Sevlievo,139
+2323,Sportist Svoge,139
+2324,Lokomotiv Gorna Oryahovitsa,139
+2325,Spartak Pleven,139
+2326,CD Unión Malacitano,140
+2327,UCAM Murcia CF,140
+2328,CD Estepona FS,140
+2329,Águilas FC,140
+2330,UD Melilla,140
+2331,Recreativo Huelva,140
+2332,Xerez Deportivo FC,140
+2333,Xerez CD,140
+2334,Deportiva Minera,140
+2335,CF Lorca Deportiva,140
+2336,Linares Deportivo,140
+2337,Real Jaén CF,140
+2338,Yeclano Deportivo,140
+2339,UD Almería B,140
+2340,Club Atlético Antoniano,140
+2341,CD Extremadura 1924,140
+2342,Atlético Malagueño,140
+2343,Salerm Puente Genil FC,140
+2344,FC Bayern München II,141
+2345,1.FC Nuremberg II,141
+2346,FC Augsburg II,141
+2347,Würzburger Kickers,141
+2348,SpVgg Unterhaching,141
+2349,SV Wacker Burghausen,141
+2350,SpVgg Greuther Fürth II,141
+2351,SpVgg Bayreuth,141
+2352,FV Illertissen,141
+2353,TSV Buchbach,141
+2354,DJK Vilzing,141
+2355,TSV Aubstadt,141
+2356,Schwaben Augsburg,141
+2357,SV Viktoria Aschaffenburg,141
+2358,SpVgg Ansbach,141
+2359,SpVgg Hankofen-Hailing,141
+2360,VfB Eichstätt,141
+2361,FC Memmingen,141
+2362,Torpedo Kutaisi,142
+2363,Dinamo Tbilisi,142
+2364,Iberia 1999 Tbilisi,142
+2365,FC Dila Gori,142
+2366,Dinamo Batumi,142
+2367,FC Gagra,142
+2368,FC Samgurali Tskaltubo,142
+2369,FC Kolkheti-1913 Poti,142
+2370,FC Telavi,142
+2371,FC Gareji,142
+2372,Hertha BSC II,143
+2373,Hallescher FC,143
+2374,Rot-Weiß Erfurt,143
+2375,1. FC Lokomotive Leipzig,143
+2376,1.FC Magdeburg II,143
+2377,VSG Altglienicke,143
+2378,Greifswalder FC,143
+2379,FC Carl Zeiss Iéna,143
+2380,FSV Zwickau,143
+2381,Chemnitzer FC,143
+2382,BFC Dynamo,143
+2383,SV Babelsberg 03,143
+2384,FSV 63 Luckenwalde,143
+2385,BSG Chemie Leipzig,143
+2386,ZFC Meuselwitz,143
+2387,BFC Preussen,143
+2388,FC Hertha 03 Zehlendorf,143
+2389,FC Eilenburg,143
+2390,Ross County FC,144
+2391,St. Johnstone FC,144
+2392,Dunfermline Athletic FC,144
+2393,Ayr United FC,144
+2394,Partick Thistle FC,144
+2395,Raith Rovers FC,144
+2396,Airdrieonians FC,144
+2397,Queen's Park FC,144
+2398,Greenock Morton FC,144
+2399,Arbroath FC,144
+2400,Charlotte Independence,145
+2401,Forward Madison FC,145
+2402,Spokane Velocity FC,145
+2403,One Knoxville SC,145
+2404,Union Omaha,145
+2405,Westchester SC,145
+2406,AV Alta FC,145
+2407,Richmond Kickers,145
+2408,Greenville Triumph SC,145
+2409,South Georgia Tormenta FC,145
+2410,Chattanooga Red Wolves SC,145
+2411,FC Naples,145
+2412,Portland Hearts of Pine,145
+2413,Texoma FC,145
+2414,CSD Municipal,146
+2415,Antigua GFC,146
+2416,Comunicaciones FC,146
+2417,CSD Xelajú MC,146
+2418,CD Malacateco,146
+2419,Deportivo Mixco,146
+2420,Cobán Imperial,146
+2421,Deportivo Guastatoya,146
+2422,Deportivo Marquense,146
+2423,Deportivo Achuapa,146
+2424,Atlético Mictlán,146
+2425,Aurora FC,146
+2426,CSD Municipal,147
+2427,Antigua GFC,147
+2428,Comunicaciones FC,147
+2429,CSD Xelajú MC,147
+2430,CD Malacateco,147
+2431,Deportivo Mixco,147
+2432,Cobán Imperial,147
+2433,Deportivo Guastatoya,147
+2434,Deportivo Marquense,147
+2435,Deportivo Achuapa,147
+2436,Atlético Mictlán,147
+2437,Aurora FC,147
+2438,Leones FC,148
+2439,Guayaquil City FC,148
+2440,Independiente Juniors,148
+2441,AD Nueve de Octubre,148
+2442,San Antonio FC,148
+2443,Gualaceo SC,148
+2444,Cumbayá FC,148
+2445,Atlético Vinotinto,148
+2446,CSD Vargas Torres,148
+2447,22 de Julio FC,148
+2448,Imbabura SC,148
+2449,Chacaritas FC,148
+2450,Nejmeh SC,149
+2451,Al-Ansar FC,149
+2452,Al-Ahed,149
+2453,Jwaya SC,149
+2454,Safa Beirut SC,149
+2455,Tadamon Sour,149
+2456,Shabab Al-Sahel,149
+2457,Sagesse SC,149
+2458,Bourj FC,149
+2459,Al-Abbassieh FC,149
+2460,Al-Mabarra Club,149
+2461,Racing Club Beirut,149
+2462,Milan Futuro,150
+2463,Folgore Caratese,150
+2464,AC Chievo Verona,150
+2465,Varesina Calcio,150
+2466,Calcio Brusaporto,150
+2467,Caldiero Terme,150
+2468,Casatese Merate,150
+2469,Villa Valle,150
+2470,Oltrepò FBC,150
+2471,USD Castellanzese 1921,150
+2472,USD Breno,150
+2473,SSD Real Calepina FC 2020,150
+2474,Nuova Sondrio Calcio,150
+2475,Virtus Ciserano Bergamo 1909,150
+2476,AC Leon,150
+2477,AVC Vogherese,150
+2478,Pavia Calcio 1911,150
+2479,USD Scanzorosciate,150
+2480,Breidablik Kópavogur,151
+2481,Víkingur Reykjavík,151
+2482,Stjarnan Gardabaer,151
+2483,Valur Reykjavík,151
+2484,Vestri Ísafjördur,151
+2485,KR Reykjavík,151
+2486,ÍA Akranes,151
+2487,Fram Reykjavík,151
+2488,KA Akureyri,151
+2489,ÍBV Vestmannaeyjar,151
+2490,FH Hafnarfjördur,151
+2491,UMF Afturelding,151
+2492,Sanliurfaspor,152
+2493,Beyoglu Yeni Carsi FK,152
+2494,Elazigspor,152
+2495,Batman Petrolspor,152
+2496,Sincan Belediyesi Ankaraspor,152
+2497,MKE Ankaragücü,152
+2498,Adana 01 FK,152
+2499,Karacabey Belediye Spor,152
+2500,GMG Kastamonuspor,152
+2501,Muglaspor,152
+2502,Karaman FK,152
+2503,Iskenderunspor,152
+2504,Altinordu FK,152
+2505,Inegölspor,152
+2506,Beykoz Anadolu Spor,152
+2507,24 Erzincanspor,152
+2508,Erbaaspor,152
+2509,Bucaspor 1928,152
+2510,Kepez Spor Futbol,152
+2511,Al-Khor SC,153
+2512,Al-Markhiya SC,153
+2513,Al-Bidda SC,153
+2514,Muaither SC,153
+2515,Al-Kharitiyath SC,153
+2516,Al-Waab SC,153
+2517,Lusail SC,153
+2518,Al-Mesaimeer SC,153
+2519,Muras United Dzhalal-Abad,154
+2520,Bars Karakol,154
+2521,FK Abdish-Ata Kant,154
+2522,FK Alay Osh,154
+2523,FK Dordoi Bishkek,154
+2524,Alga Bishkek,154
+2525,FC Ozgon,154
+2526,FC Bishkek-City,154
+2527,Neftchi Kochkor-Ata,154
+2528,Talant Besh-Küngöy,154
+2529,Kyrgyzaltyn Kara-Balta,154
+2530,Asiagoal Bishkek,154
+2531,FC OshMU,154
+2532,FK Ilbirs Bishkek,154
+2533,Al-Faisaly SC,155
+2534,Al-Hussein SC (Irbid),155
+2535,Al-Wehdat SC,155
+2536,Al-Ramtha SC,155
+2537,Shabab Al-Ordon Club,155
+2538,Al-Ahli (Amman),155
+2539,Al-Salt SC,155
+2540,Al-Jazeera Club (Jordan),155
+2541,Al-Baqaa,155
+2542,Sama Al-Sarhan SC,155
+2543,CD Plaza Amador,156
+2544,Sporting San Miguelito,156
+2545,San Francisco FC,156
+2546,Tauro FC,156
+2547,CA Independiente,156
+2548,Veraguas United FC,156
+2549,UMECIT FC,156
+2550,CD Universitario,156
+2551,CD Árabe Unido,156
+2552,Alianza FC Panama,156
+2553,Herrera FC,156
+2554,Potros del Este,156
+2555,CD Plaza Amador,157
+2556,Sporting San Miguelito,157
+2557,San Francisco FC,157
+2558,Tauro FC,157
+2559,CA Independiente,157
+2560,Veraguas United FC,157
+2561,UMECIT FC,157
+2562,CD Universitario,157
+2563,CD Árabe Unido,157
+2564,Alianza FC Panama,157
+2565,Herrera FC,157
+2566,SD Atlético Nacional,157
+2567,Bangkok FC,158
+2568,Phrae United,158
+2569,Chanthaburi FC,158
+2570,Khon Kaen United,158
+2571,Mahasarakham SBT FC,158
+2572,Trat FC,158
+2573,Nongbua Pitchaya FC,158
+2574,Police Tero FC,158
+2575,Sisaket United,158
+2576,Nakhonpathom United,158
+2577,Chainat Hornbill FC,158
+2578,Nakhonsi United,158
+2579,Songkhla FC,158
+2580,Kasetsart FC,158
+2581,Pattaya United,158
+2582,Rasisalai United,158
+2583,Pattani FC,158
+2584,Chiangmai United,158
+2585,1461 Trabzon FK,159
+2586,Bursaspor,159
+2587,Aliaga FK,159
+2588,Kahramanmaras Istiklal Spor,159
+2589,Menemen FK,159
+2590,68 Aksarayspor,159
+2591,Arnavutköy Belediyesi FSK,159
+2592,Fethiyespor,159
+2593,Kirklarelispor,159
+2594,Isparta 32 Spor,159
+2595,Ankara Demirspor,159
+2596,Mardin 1969 Spor,159
+2597,Güzide Gebze Spor Kulübü,159
+2598,Yeni Mersin Idmanyurdu,159
+2599,Mus SK,159
+2600,Somaspor,159
+2601,Yeni Malatyaspor,159
+2602,Adanaspor,159
+2603,Shamrock Rovers,160
+2604,St. Patrick's Athletic,160
+2605,Derry City,160
+2606,Shelbourne FC,160
+2607,Bohemian Football Club,160
+2608,Galway United FC,160
+2609,Drogheda United FC,160
+2610,Waterford FC,160
+2611,Sligo Rovers,160
+2612,Cork City FC,160
+2613,CD Olimpia,161
+2614,Real CD España,161
+2615,CD Motagua Tegucigalpa,161
+2616,CD Marathón,161
+2617,Olancho FC,161
+2618,Lobos de la UPNFM,161
+2619,CD Victoria La Ceiba,161
+2620,Juticalpa FC,161
+2621,CD Choloma,161
+2622,Génesis / Policía Nacional FC,161
+2623,Platense FC,161
+2624,Sestao River,162
+2625,UD Logroñés,162
+2626,Real Unión Club,162
+2627,Deportivo Alavés B,162
+2628,RZ Deportivo Aragón,162
+2629,SD Logroñés,162
+2630,CD Tudelano,162
+2631,Utebo FC,162
+2632,SD Eibar B,162
+2633,SD Amorebieta,162
+2634,Gernika Club,162
+2635,CD Basconia,162
+2636,SD Ejea,162
+2637,CD Ebro,162
+2638,UD Mutilvera,162
+2639,SD Beasain,162
+2640,CD Alfaro,162
+2641,Náxara CD,162
+2642,Hannover 96 II,163
+2643,Hambourg SV II,163
+2644,SV Meppen,163
+2645,SV Werder Bremen II,163
+2646,1.FC Phönix Lübeck,163
+2647,FC St. Pauli II,163
+2648,VfB Oldenburg,163
+2649,SV Drochtersen/Assel,163
+2650,Kickers Emden,163
+2651,Blau-Weiß Lohne,163
+2652,VfB Lübeck,163
+2653,SC Weiche Flensburg 08,163
+2654,Eintracht Norderstedt,163
+2655,SSV Jeddeloh II,163
+2656,Bremer SV,163
+2657,Altona 93,163
+2658,FSV Schöningen,163
+2659,HSC Hannover,163
+2660,FCI Levadia,164
+2661,FC Flora Tallinn,164
+2662,Kalju FC,164
+2663,Paide Linnameeskond,164
+2664,Pärnu JK Vaprus,164
+2665,JK Trans Narva,164
+2666,Harju JK Laagri,164
+2667,Jalgpallikool Tammeka,164
+2668,Kalev Tallinn,164
+2669,FC Kuressaare,164
+2670,Alianza FC,165
+2671,CD Luis Angel Firpo,165
+2672,CD Águila,165
+2673,AD Isidro Metapán,165
+2674,CD FAS,165
+2675,CD Hércules,165
+2676,CD Municipal Limeño,165
+2677,CD Cacahuatique,165
+2678,CD Fuerte San Francisco,165
+2679,CD Platense Zacatecoluca,165
+2680,Inter FA,165
+2681,Zacatecoluca FC,165
+2682,Alianza FC,166
+2683,CD Luis Angel Firpo,166
+2684,CD Águila,166
+2685,AD Isidro Metapán,166
+2686,CD FAS,166
+2687,CD Hércules,166
+2688,CD Municipal Limeño,166
+2689,CD Cacahuatique,166
+2690,CD Fuerte San Francisco,166
+2691,CD Platense Zacatecoluca,166
+2692,Inter FA,166
+2693,Zacatecoluca FC,166
+2694,Paganese Calcio 1926,167
+2695,AC Nardò,167
+2696,US Città di Fasano,167
+2697,Martina Calcio 1947,167
+2698,Atletico Calcio Afragolese,167
+2699,Fidelis Andria 2018,167
+2700,FC Sarnese 1926,167
+2701,FBC Gravina,167
+2702,ASD Heraclea Calcio,167
+2703,FC Francavilla 1931,167
+2704,Barletta 1922,167
+2705,ASD Manfredonia Calcio,167
+2706,FC Nola 1925,167
+2707,Virtus Francavilla Calcio,167
+2708,Real Normanna,167
+2709,ASD Ferrandina 17890,167
+2710,FC Pompei,167
+2711,Taurus Acerrana 1926,167
+2712,PSS Sleman,168
+2713,PS Barito Putera,168
+2714,Persipura Jayapura,168
+2715,Garudayaksa FC,168
+2716,Persela Lamongan,168
+2717,Deltras FC,168
+2718,Kendal Tornado FC,168
+2719,FC Bekasi City,168
+2720,PSMS Medan,168
+2721,PSPS Pekanbaru,168
+2722,Persiraja Banda Aceh,168
+2723,Adhyaksa FC Banten,168
+2724,Sumsel United FC,168
+2725,Persikad,168
+2726,Persiku Kudus,168
+2727,Persekat Tegal,168
+2728,Persiba Balikpapan,168
+2729,PSIS Semarang,168
+2730,Persipal FC,168
+2731,Sriwijaya FC,168
+2732,CF Intercity,169
+2733,UB Conquense,169
+2734,Orihuela CF,169
+2735,CF Rayo Majadahonda,169
+2736,UD San Sebastián de los Reyes,169
+2737,Real Madrid C,169
+2738,FC Getafe B,169
+2739,CF Fuenlabrada,169
+2740,Elche Ilicitano,169
+2741,CD Tenerife B,169
+2742,CD Coria,169
+2743,RSD Alcalá,169
+2744,Colonia Moscardó,169
+2745,CDA Navalcarnero,169
+2746,Las Palmas Atlético,169
+2747,CD Quintanar del Rey,169
+2748,Rayo Vallecano B,169
+2749,UD Socuéllamos,169
+2750,Buducnost Podgorica,170
+2751,OFK Petrovac,170
+2752,FK Decic Tuzi,170
+2753,FK Mornar Bar,170
+2754,FK Sutjeska Niksic,170
+2755,FK Bokelj,170
+2756,Jedinstvo Bijelo Polje,170
+2757,FK Jezero,170
+2758,Arsenal Tivat,170
+2759,FK Mladost Donja Gorica,170
+2760,NK Sesvete,171
+2761,HNK Orijent Rijeka,171
+2762,NK Dubrava Tim kabel,171
+2763,NK Rudes,171
+2764,HNK Cibalia Vinkovci,171
+2765,NK Croatia Zmijavci,171
+2766,NK BSK Bijelo Brdo,171
+2767,NK Karlovac 1919,171
+2768,NK Jarun,171
+2769,NK Opatija,171
+2770,NK Dugopolje,171
+2771,NK Hrvace,171
+2772,Linfield FC,172
+2773,Glentoran FC,172
+2774,Larne FC,172
+2775,Coleraine FC,172
+2776,Cliftonville FC,172
+2777,Portadown FC,172
+2778,Dungannon Swifts,172
+2779,Ballymena United,172
+2780,Carrick Rangers,172
+2781,Crusaders FC,172
+2782,Glenavon FC,172
+2783,Bangor FC,172
+2784,FC Differdange 03,173
+2785,FC UNA Strassen,173
+2786,US Mondorf-Les-Bains,173
+2787,Racing FC Union Luxembourg,173
+2788,FC Progrès Niederkorn,173
+2789,F91 Dudelange,173
+2790,US Hostert,173
+2791,Union Titus Pétange,173
+2792,Jeunesse Esch,173
+2793,Swift Hesperange,173
+2794,FC Atert Bissen,173
+2795,FC Victoria Rosport,173
+2796,FC Rodange 91,173
+2797,UN Käerjeng 97,173
+2798,FC Mamer 32,173
+2799,FC Jeunesse Canach,173
+2800,Ancona Calcio,174
+2801,Notaresco Calcio,174
+2802,Teramo Calcio 1913,174
+2803,AS Ostia Mare Lido Calcio,174
+2804,San Marino Calcio,174
+2805,L'Aquila 1927,174
+2806,Chieti FC 1922,174
+2807,SSD Atletico Ascoli,174
+2808,Unipomezia Virtus,174
+2809,Sora Calcio 1907,174
+2810,Termoli Calcio 1920,174
+2811,ASD Giulianova,174
+2812,Fossombrone Calcio,174
+2813,FC Vigor Senigallia,174
+2814,Recanatese,174
+2815,SS Maceratese 1922,174
+2816,Sammaurese Calcio,174
+2817,Gsd Castelfidardo Calcio,174
+2818,US Grosseto 1912,175
+2819,Siena FC,175
+2820,AC Prato,175
+2821,Seravezza Pozzi Calcio,175
+2822,ASD Tau Calcio Altopascio,175
+2823,Foligno Calcio 1928,175
+2824,San Donato Tavarnelle,175
+2825,GSD Ghiviborgo VDS,175
+2826,Aquila 1902 Montevarchi,175
+2827,Orvietana Calcio,175
+2828,US Follonica Gavorrano,175
+2829,ASD Terranuova Traiana,175
+2830,Sporting Club Trestina,175
+2831,ASD Cannara,175
+2832,US Poggibonsi,175
+2833,Camaiore Calcio,175
+2834,CS Scandicci 1908,175
+2835,Vivi Altotevere Sansepolcro,175
+2836,FC Sheriff Tiraspol,176
+2837,FC Milsami Orhei,176
+2838,FC Zimbru Chisinau,176
+2839,FC Petrocub Hincesti,176
+2840,FC Balti,176
+2841,CSF Spartanii Sportul Selemet,176
+2842,Dacia Buiucani,176
+2843,Politehnica UTM Сhișinău,176
+2844,Treviso FBC 1993,177
+2845,AC Mestre,177
+2846,Cjarlins Muzane,177
+2847,FC Legnago Salus,177
+2848,AC Vigasio,177
+2849,AC Este 1920,177
+2850,Union Clodiense Chioggia,177
+2851,ASD Brian Lignano,177
+2852,FC Bassano,177
+2853,AC Campodarsego,177
+2854,Luparense FC,177
+2855,Conegliano Calcio,177
+2856,Portogruaro Calcio ASD,177
+2857,FC Calvi Noale,177
+2858,Unione La Rocca Altavilla,177
+2859,FC Obermais,177
+2860,USD Adriese 1906,177
+2861,San Luigi Calcio,177
+2862,Dnepr Mogilev,178
+2863,Niva Dolbizno,178
+2864,Belshina Bobruisk,178
+2865,FK Baranovichi,178
+2866,Bumprom Gomel,178
+2867,BATE 2 Borisov,178
+2868,Volna Pinsk,178
+2869,Lokomotiv Gomel,178
+2870,FK Lida,178
+2871,Uni X Labs Minsk,178
+2872,FK Ostrovets,178
+2873,FK Minsk 2,178
+2874,ABFF U19,178
+2875,Dinamo-BGUFK Minsk,178
+2876,FK Osipovichi,178
+2877,FK Slonim 2017,178
+2878,FK Orsha,178
+2879,FK Gomel 2,178
+2880,Auckland City FC,179
+2881,Birkenhead United,179
+2882,Western Springs AFC,179
+2883,Wellington Olympic AFC,179
+2884,Coastal Spirit FC,179
+2885,Christchurch United,179
+2886,Western Suburbs FC,179
+2887,Auckland United FC,179
+2888,Wellington Phoenix FC Reserves,179
+2889,Miramar Rangers AFC,179
+2890,Auckland FC Reserves,179
+2891,FC Pistoiese,180
+2892,Piacenza Calcio 1919,180
+2893,Calcio Desenzano,180
+2894,Correggese Calcio,180
+2895,Sant'Angelo,180
+2896,SS Cittadella Vis Modena,180
+2897,Sangiuliano City,180
+2898,Lentigione Calcio,180
+2899,Pro Sesto 1913,180
+2900,Imolese Calcio 1919,180
+2901,Pro Palazzolo,180
+2902,AC Crema 1908,180
+2903,Rovato Vertovese,180
+2904,C.S. Trevigliese,180
+2905,AC Tuttocuoio,180
+2906,Sasso Marconi 1924,180
+2907,SCD Progresso Calcio,180
+2908,Tropical Coriano,180
+2909,CD Numancia,181
+2910,Gimnástica Segoviana CF,181
+2911,Bergantiños FC,181
+2912,RC Deportivo Fabril,181
+2913,Real Valladolid Promesas,181
+2914,Salamanca CF UDS,181
+2915,Real Ávila CF,181
+2916,Rayo Cantabria,181
+2917,Coruxo FC,181
+2918,Real Oviedo Vetusta,181
+2919,Marino Luanco,181
+2920,UP Langreo,181
+2921,UD Ourense,181
+2922,CD Lealtad,181
+2923,UD Sámano,181
+2924,SD Sarriana,181
+2925,Burgos CF Promesas,181
+2926,Atlético Astorga,181
+2927,Asante Kotoko SC,182
+2928,Bibiani Gold Stars FC,182
+2929,Aduana Stars FC,182
+2930,Hearts of Oak,182
+2931,Medeama SC,182
+2932,FC Samartex,182
+2933,Karela United FC,182
+2934,Bechem United FC,182
+2935,Nations Football Club,182
+2936,Heart of Lions FC,182
+2937,Berekum Chelsea FC,182
+2938,Basake Holy Stars FC,182
+2939,Dreams FC,182
+2940,Young Apostles FC,182
+2941,Vision FC,182
+2942,Hohoe United Football Club,182
+2943,Eleven Wonders FC,182
+2944,Swedru All Blacks United FC,182
+2945,Atlético Ottawa,183
+2946,Forge FC,183
+2947,York United FC,183
+2948,HFX Wanderers FC,183
+2949,Pacific FC,183
+2950,Cavalry FC,183
+2951,Valour FC,183
+2952,Vancouver FC,183
+2953,Lee Man,184
+2954,Tai Po,184
+2955,Kitchee,184
+2956,Eastern,184
+2957,North District,184
+2958,Eastern District,184
+2959,Kowloon City,184
+2960,Hong Kong Rangers,184
+2961,Southern District,184
+2962,Hong Kong Football Club,184
+2963,Istiqlol Dushanbe,185
+2964,Regar-TadAZ Tursunzoda,185
+2965,Ravshan Kulob,185
+2966,Vakhsh Bokhtar,185
+2967,Barqchi Hisor,185
+2968,ZSKA Dushanbe,185
+2969,FK Khujand,185
+2970,FK Eskhata,185
+2971,Khosilot Farkhor,185
+2972,FK Istaravshan,185
+2973,Hulbuk Vose,185
+2974,Panjsher Balkh,185
+2975,FC Vado,186
+2976,Derthona FBC,186
+2977,SC Ligorna 1922,186
+2978,US Sestri Levante,186
+2979,ASD Chisola Calcio,186
+2980,Club Milano,186
+2981,ASD Asti,186
+2982,USD Lavagnese 1919,186
+2983,ASD Cairese,186
+2984,SSD NovaRomentin,186
+2985,SSD Imperia 1923,186
+2986,Saluzzo Calcio,186
+2987,Sanremese Calcio,186
+2988,Varese Football Club,186
+2989,Valenzana Mado SSD,186
+2990,ASDC Gozzano,186
+2991,ASD La Biellese,186
+2992,Celle Varazze,186
+2993,Auckland City FC,187
+2994,Birkenhead United,187
+2995,Western Springs AFC,187
+2996,Eastern Suburbs AFC,187
+2997,Auckland United FC,187
+2998,West Coast Rangers,187
+2999,Auckland FC Reserves,187
+3000,Tauranga City AFC,187
+3001,East Coast Bays AFC,187
+3002,Bay Olympic FC,187
+3003,Fencibles United AFC,187
+3004,Manurewa AFC,187
+3005,Inter Club d'Escaldes,188
+3006,FC Rànger's,188
+3007,FC Santa Coloma,188
+3008,Atlètic Club d'Escaldes,188
+3009,UE Santa Coloma,188
+3010,Penya Encarnada d'Andorra,188
+3011,FC Ordino,188
+3012,Club Esportiu Carroi,188
+3013,CF Esperança d'Andorra,188
+3014,FC Pas de la Casa,188
+3015,Lion City Sailors,189
+3016,BG Tampines Rovers,189
+3017,Geylang International,189
+3018,Tanjong Pagar United,189
+3019,Balestier Khalsa,189
+3020,Hougang United,189
+3021,Albirex Niigata (S),189
+3022,Young Lions,189
+3023,Nocerina 1910,190
+3024,Scafatese Calcio 1922,190
+3025,Trastevere Calcio,190
+3026,Albalonga,190
+3027,Valmontone 1921,190
+3028,Sassari Latte Dolce,190
+3029,Flaminia Civita Castellana,190
+3030,COS Sarrabus Ogliastra,190
+3031,Palmese,190
+3032,Olbia Calcio 1905,190
+3033,Atletico Lodigiani,190
+3034,Real Monterotondo,190
+3035,Calcio Budoni,190
+3036,Cassino Calcio 1924,190
+3037,Monastir,190
+3038,Montespaccato Calcio,190
+3039,SSD Ischia Calcio,190
+3040,Anzio Calcio 1924,190
+3041,NK Nafta 1903,191
+3042,NK Tabor Sezana,191
+3043,NK Triglav Kranj,191
+3044,NK Brinje Grosuplje,191
+3045,ND Gorica,191
+3046,NK Kety Emmi Bistrica,191
+3047,NK Krka,191
+3048,NK Rudar Velenje,191
+3049,NK Dekani,191
+3050,ND Beltinci,191
+3051,ND Bilje,191
+3052,ND Dravinja Kostroj,191
+3053,ND Slovan Ljubljana,191
+3054,ND Ilirija 1911,191
+3055,NK Krsko,191
+3056,NK Jesenice,191
+3057,US Savoia 1908,192
+3058,Nuova Igea Virtus,192
+3059,Vigor Lamezia 1919,192
+3060,Nissa FC,192
+3061,Reggina 1914,192
+3062,US Vibonese,192
+3063,ACR Messina,192
+3064,Enna Calcio,192
+3065,Sancataldese Calcio,192
+3066,Gelbison,192
+3067,ASD Castrumfavara,192
+3068,ASD Sambiase 2023,192
+3069,SS Milazzo,192
+3070,Ragusa Calcio,192
+3071,Acireale Calcio,192
+3072,Athletic Club Palermo,192
+3073,Città di Gela,192
+3074,Paternò Calcio,192
+3075,NK Stupcanica Olovo,193
+3076,NK Celik Zenica,193
+3077,FK Sloboda Tuzla,193
+3078,NK GOSK Gabela,193
+3079,FK Igman Konjic,193
+3080,NK Bratstvo Gracanica,193
+3081,NK Jedinstvo Bihac,193
+3082,FK Radnik Hadzici,193
+3083,NK Travnik,193
+3084,NK TOSK Tesanj,193
+3085,FK Buducnost Banovici,193
+3086,FK Tuzla City,193
+3087,HNK Tomislav T.,193
+3088,NK Vitez,193
+3089,Rewa FA,194
+3090,Ba FC,194
+3091,Lautoka FC,194
+3092,Labasa FC,194
+3093,Nadi FA,194
+3094,Navua FC,194
+3095,Suva FA,194
+3096,Nadroga FC,194
+3097,Nasinu FC,194
+3098,Tavua FC,194
+3099,Shan United,195
+3100,Yangon United,195
+3101,Dagon Star United,195
+3102,Hantharwady United,195
+3103,Mahar United,195
+3104,ISPE FC,195
+3105,Yadanarbon FC,195
+3106,Rakhine United,195
+3107,Thitsar Arman FC,195
+3108,Dagon Port FC,195
+3109,Ayeyawady United,195
+3110,Yarmanya United FC,195
+3111,MFK Dukla Banska Bystrica,196
+3112,MSK Zilina B,196
+3113,FC Petrzalka,196
+3114,FC ViOn Zlate Moravce-Vrable,196
+3115,Tatran Liptovsky Mikulas,196
+3116,STK 1914 Samorin,196
+3117,Dynamo Malzenice,196
+3118,FK Pohronie,196
+3119,Slovan Bratislava B,196
+3120,MSK Povazska Bystrica,196
+3121,MSK Puchov,196
+3122,MFK Zvolen,196
+3123,Redfox Stara Lubovna,196
+3124,Slavia TU Kosice,196
+3125,Banik Lehota pod Vtacnikom,196
+3126,Inter Bratislava,196
+3127,Svay Rieng,197
+3128,Phnom Penh Crown,197
+3129,Visakha FC,197
+3130,Boeung Ket,197
+3131,Nagaworld FC,197
+3132,MOI - Kompong Dewa FC,197
+3133,ISI Dangkor Senchey FC,197
+3134,Kirivong Sok Sen Chey FC,197
+3135,Tiffy Army FC,197
+3136,Angkor Tiger FC,197
+3137,Life FC,197
+3138,KF Skënderbeu,198
+3139,KF Laçi,198
+3140,KS Besa,198
+3141,KF Pogradeci,198
+3142,FK Apolonia,198
+3143,KS Kastrioti,198
+3144,KS Lushnja,198
+3145,FK Kukësi,198
+3146,KS Burreli,198
+3147,KF Korabi,198
+3148,KF Iliria Fushë Krujë,198
+3149,AF Luftëtari,198
+3150,Bashundhara Kings,199
+3151,Abahani Limited Dhaka,199
+3152,Bangladesh Police FC,199
+3153,Mohammedan SC (Dhaka),199
+3154,Brothers Union,199
+3155,Fortis FC,199
+3156,Rahmatganj MFS,199
+3157,PWD SC (Dhaka),199
+3158,Arambagh Krira Sangha,199
+3159,Fakirapool Young Men's Club,199
+3160,The New Saints,200
+3161,Caernarfon Town,200
+3162,Penybont FC,200
+3163,Connah's Quay Nomads,200
+3164,Cardiff Metropolitan University,200
+3165,Flint Town United,200
+3166,Briton Ferry Llansawel,200
+3167,Colwyn Bay,200
+3168,Barry Town United,200
+3169,Bala Town,200
+3170,Haverfordwest County,200
+3171,Llanelli Town AFC,200
+3172,Marítimo La Guaira,201
+3173,Deportivo Miranda FC,201
+3174,Barquisimeto Sport Club,201
+3175,Trujillanos FC,201
+3176,Mineros de Guayana,201
+3177,Aragua FC,201
+3178,Dynamo Puerto FC,201
+3179,Titanes FC,201
+3180,Academia Puerto Cabello II,201
+3181,Bolívar SC,201
+3182,Angostura FC,201
+3183,Monagas SC B,201
+3184,Real Frontera SC,201
+3185,FA El Vigía Fútbol Club,201
+3186,Héroes de Falcón,201
+3187,Ureña SC,201
+3188,KÍ Klaksvík,202
+3189,HB Tórshavn,202
+3190,NSÍ Runavík,202
+3191,Víkingur Gøta,202
+3192,B36 Tórshavn,202
+3193,07 Vestur,202
+3194,EB/Streymur,202
+3195,B68 Toftir,202
+3196,TB Tvøroyri,202
+3197,FC Suduroy,202
+3198,FK BSK Banja Luka,203
+3199,FK Laktasi,203
+3200,FK Zvijezda 09,203
+3201,FK Leotar Trebinje,203
+3202,FK Romanija Pale,203
+3203,FK Famos Vojkovici,203
+3204,FK Kozara Gradiska,203
+3205,FK Slavija Sarajevo,203
+3206,FK Sutjeska Foca,203
+3207,FK Drina Zvornik,203
+3208,FK Velez Nevesinje,203
+3209,FK Vlasenica,203
+3210,FK Omarska,203
+3211,FK Sloboda Novi Grad,203
+3212,Kaya FC-Iloilo,204
+3213,Manila Digger FC,204
+3214,Dynamic Herb Cebu FC,204
+3215,Stallion Laguna FC,204
+3216,One Taguig FC,204
+3217,Aguilas-UMak FC,204
+3218,Maharlika FC,204
+3219,Tuloy FC,204
+3220,Valenzuela PB–Mendiola FC,204
+3221,Don Bosco Garelli United,204
+3222,Philippine Army FC,204
+3223,Sreenidi Deccan FC,205
+3224,Diamond Harbour FC,205
+3225,Gokulam Kerala FC,205
+3226,Namdhari Football Club,205
+3227,Real Kashmir FC,205
+3228,Churchill Brothers FC,205
+3229,Rajasthan United,205
+3230,Shillong Lajong FC,205
+3231,Dempo SC,205
+3232,Aizawl FC,205
+3233,Chanmari FC,205
+3234,SC Braga B,206
+3235,Vitória Guimarães SC B,206
+3236,UD Santarém,206
+3237,Académica Coimbra,206
+3238,Varzim SC,206
+3239,SU 1º Dezembro,206
+3240,CD Mafra,206
+3241,AD Sanjoanense,206
+3242,AD Fafe,206
+3243,SC Covilhã,206
+3244,Amarante FC,206
+3245,CD Trofense,206
+3246,Caldas SC,206
+3247,AD Marco 09,206
+3248,SC São João de Ver,206
+3249,USC Paredes,206
+3250,Atlético CP,206
+3251,Associação Lusitano de Évora 1911,206
+3252,Amora FC,206
+3253,CF Os Belenenses,206
+3254,Wellington Olympic AFC,207
+3255,Western Suburbs FC,207
+3256,Wellington Phoenix FC Reserves,207
+3257,Miramar Rangers AFC,207
+3258,Napier City Rovers,207
+3259,Petone FC,207
+3260,Waterside Karori AFC,207
+3261,Island Bay United,207
+3262,Upper Hutt City FC,207
+3263,North Wellington FC,207
+3264,Thór Akureyri,208
+3265,UMF Njardvík,208
+3266,Keflavík ÍF,208
+3267,Thróttur Reykjavík,208
+3268,HK Kópavogs,208
+3269,ÍR Reykjavík,208
+3270,Fylkir Reykjavík,208
+3271,UMF Grindavík,208
+3272,Völsungur ÍF,208
+3273,Leiknir Reykjavík,208
+3274,UMF Selfoss,208
+3275,Fjölnir Reykjavík,208
+3276,Club A.B.B.,209
+3277,CD Vaca Diez,209
+3278,Universitario de Vinto,209
+3279,Club Aurora,209
+3280,Blooming Santa Cruz,209
+3281,Lincoln Red Imps FC,210
+3282,St Joseph's FC,210
+3283,Europa FC,210
+3284,FC Bruno's Magpies,210
+3285,Lions Gibraltar FC,210
+3286,Manchester 62 FC,210
+3287,Mons Calpe SC,210
+3288,FC College 1975,210
+3289,Lynx FC,210
+3290,Glacis United,210
+3291,Europa Point FC,210
+3292,FC Hound Dogs,210
+3293,Coastal Spirit FC,211
+3294,Christchurch United,211
+3295,Cashmere Technical FC,211
+3296,Nelson Suburbs FC,211
+3297,Ferrymead Bays FC,211
+3298,Nomads United AFC,211
+3299,Dunedin City Royals,211
+3300,Selwyn United FC,211
+3301,University of Canterbury,211
+3302,Wanaka FC,211
+3303,La Fiorita 1967,212
+3304,AC Virtus Acquaviva,212
+3305,SS Folgore/Falciano,212
+3306,Tre Fiori FC,212
+3307,AC Juvenes-Dogana,212
+3308,SP Tre Penne,212
+3309,FC Fiorentino,212
+3310,SS San Giovanni,212
+3311,SS Cosmos,212
+3312,FC Domagnano,212
+3313,San Marino Academy,212
+3314,SS Pennarossa,212
+3315,SS Murata,212
+3316,SP Cailungo,212
+3317,AC Libertas,212
+3318,SC Faetano,212
+3319,BSC Young Boys U21,213
+3320,FC Basel 1893 U21,213
+3321,FC Zürich U21,213
+3322,FC Luzern U21,213
+3323,FC Lugano II,213
+3324,FC Schaffhausen,213
+3325,SC Brühl SG,213
+3326,FC Grand-Saconnex,213
+3327,Vevey-Sports,213
+3328,SC Kriens,213
+3329,FC Lausanne-Sport II,213
+3330,FC Biel-Bienne 1896,213
+3331,FC Breitenrain,213
+3332,SC Cham,213
+3333,FC Paradiso,213
+3334,FC Bavois,213
+3335,FC Bulle,213
+3336,FC Kreuzlingen,213
+3337,Lokomotiv Tashkent,214
+3338,Olimpik-Mobiuz Tashkent,214
+3339,Aral Nukus,214
+3340,FK FarDU,214
+3341,FC Olympic,214
+3342,Jayhun Nukus,214
+3343,FC Sardarapat,215
+3344,FC Hayk,215
+3345,BKMA Erewan II,215
+3346,FC Noah Erewan II,215
+3347,FC Andranik,215
+3348,FC Syunik,215
+3349,Lernayin Artsakh Goris,215
+3350,FC Ararat Erewan II,215
+3351,FC Shirak Gyumri II,215
+3352,FC Bentonit Ijevan,215
+3353,FC Pyunik Erewan II,215
+3354,Ararati Araks,215
+3355,MIKA Aschtarak,215
+3356,FC Van II,215
+3357,FC Ararat-Armenia II,215
+3358,FC Urartu Erewan II,215
+3359,Irtysh Pavlodar,216
+3360,Kaspiy Aktau,216
+3361,Shakhter Karaganda,216
+3362,Kairat-Zhas,216
+3363,Altay Oskemen,216
+3364,Akademia Ontustik Shymkent,216
+3365,FK Aktobe II,216
+3366,FK Taraz,216
+3367,AKAS Almaty,216
+3368,FK Ekibastuz,216
+3369,SD Family Astana,216
+3370,FC Turkistan,216
+3371,FC Khan Tengri,216
+3372,FK Jetisay,216
+3373,Molde FK II,217
+3374,Rosenborg BK II,217
+3375,Kristiansund BK II,217
+3376,Ranheim IL II,217
+3377,Aalesunds FK II,217
+3378,Byåsen TF,217
+3379,Melhus IL,217
+3380,Nardo FK,217
+3381,Tiller IL,217
+3382,SK Trygg/Lade,217
+3383,FK Kvik,217
+3384,Surnadal IL,217
+3385,Volda TI,217
+3386,Spjelkavik IL,217
+3387,FC Lahti,218
+3388,Ekenäs IF,218
+3389,Turun Palloseura,218
+3390,Jippo Joensuu,218
+3391,Pallokerho-35,218
+3392,Käpylän Pallo,218
+3393,Järvenpään Palloseura,218
+3394,SJK Seinäjoki II,218
+3395,HJK Klubi 04 Helsinki,218
+3396,Salon Palloilijat,218
+3397,FC Morecambe,219
+3398,Carlisle United,219
+3399,Eastleigh FC,219
+3400,Hartlepool United,219
+3401,Yeovil Town,219
+3402,Solihull Moors,219
+3403,FC Gateshead,219
+3404,Altrincham FC,219
+3405,Boston United,219
+3406,AFC Rochdale,219
+3407,Sutton United,219
+3408,Scunthorpe United,219
+3409,Southend United,219
+3410,Tamworth FC,219
+3411,Aldershot Town,219
+3412,Braintree Town,219
+3413,Woking FC,219
+3414,Brackley Town,219
+3415,Forest Green Rovers,219
+3416,Wealdstone FC,219
+3417,Boreham Wood FC,219
+3418,FC Halifax Town,219
+3419,Truro City FC,219
+3420,York City,219
+3421,SK Sigma Olomouc B,220
+3422,FC Zbrojovka Brno B,220
+3423,MFK Karvina B,220
+3424,1.FC Slovacko B,220
+3425,FK Frydek-Mistek,220
+3426,FK Trinec,220
+3427,FC Zlin B,220
+3428,SFK Vrchovina Nove Mesto na Morave,220
+3429,TJ Unie Hlubina,220
+3430,SK Unicov,220
+3431,FK Hodonin,220
+3432,TJ Start Brno,220
+3433,FC Hlucin,220
+3434,FK Blansko,220
+3435,SK Hranice,220
+3436,MFK Vitkovice,220
+3437,FC Fastav Vsetin,220
+3438,FK SK Polanka nad Odrou,220
+3439,Real Estelí FC,221
+3440,Diriangén FC,221
+3441,Managua FC,221
+3442,Matagalpa FC,221
+3443,Rancho Santana FC,221
+3444,UNAN Managua,221
+3445,Club Sport Sébaco,221
+3446,Deportivo Walter Ferretti,221
+3447,ART Municipal Jalapa,221
+3448,Real Madriz FC,221
+3449,SK Slavia Prague U20,222
+3450,FK Pribram B,222
+3451,FK Pardubice B,222
+3452,FC Slovan Liberec B,222
+3453,FC SILON Taborsko B,222
+3454,FC Viktoria Plzen B,222
+3455,FK Jablonec B,222
+3456,FK Teplice B,222
+3457,SK Dynamo Ceske Budejovice B,222
+3458,FC Hradec Kralove B,222
+3459,Bohemians Prague 1905 B,222
+3460,Sokol Hostoun,222
+3461,FK Admira Prague,222
+3462,FC Slovan Velvary,222
+3463,FK Mlada Boleslav B,222
+3464,SK Sparta Kolin,222
+3465,SK Kladno,222
+3466,FK Dukla Prague B,222
+3467,FK Kraluv Dvur,222
+3468,TJ Jiskra Domazlice,222
+3469,FC Pisek,222
+3470,FK Motorlet Prague,222
+3471,FK Loko Prague,222
+3472,SK Aritma Prague,222
+3473,SK Petrin Plzen,222
+3474,TJ Jiskra Usti nad Orlici,222
+3475,FK Velke Hamry,222
+3476,FK Banik Most-Sous,222
+3477,SK Zapy,222
+3478,SK Benatky nad Jizerou,222
+3479,FK Arsenal Ceska Lipa,222
+3480,SK Sokol Brozany,222
+3481,FK Varnsdorf,222
+3482,FK Neratovice-Byskovice,222
+3483,Ezra FC,223
+3484,Young Elephants,223
+3485,GB Football Club,223
+3486,Lao Army FC,223
+3487,Salavan United,223
+3488,Luang Prabang FC,223
+3489,Namtha United,223
+3490,Champasak Avenir FC,223
+3491,BIS Master FC,223
+3492,Savannakhet FC,223
+3493,Zenit 2 St. Petersburg,224
+3494,Amkar Perm,224
+3495,FK Rostov 2,224
+3496,Krylya Sovetov 2 Samara,224
+3497,Spartak 2 Moscou,224
+3498,Znamya Truda Orekhovo-Zuevo,224
+3499,Khimik Dzerzhinsk,224
+3500,Baltika-2 Kaliningrad,224
+3501,Akron-2 Togliatti,224
+3502,Uralets-TS Nizhniy Tagil,224
+3503,Legion Makhachkala,224
+3504,Rubin 2 Kazan,224
+3505,Rodina-M Moscow,224
+3506,Dinamo Stavropol,224
+3507,FK Astrakhan,224
+3508,Pobeda Khasavyurt,224
+3509,Kuban Holding Pavlovskaya,224
+3510,Nart Cherkessk,224
+3511,Torpedo Vladimir,224
+3512,Chertanovo Moscou,224
+3513,Luki-Energia Velikie Luki,224
+3514,Zvezda St. Petersburg,224
+3515,FC Cherepovets,224
+3516,FK Kolomna,224
+3517,FC Irkutsk,224
+3518,Enisey 2 Krasnoyarsk,224
+3519,FC Dinamo-Vologda,224
+3520,FC Tver,224
+3521,Kosmos Dolgoprudnyi,224
+3522,Leon Saturn Ramenskoe,224
+3523,Rotor 2 Volgograd,224
+3524,Dinamo St. Petersburg,224
+3525,Metallurg Lipetsk,224
+3526,FK Khimki 2,224
+3527,Spartak Tambov,224
+3528,Kvant Obninsk,224
+3529,SKA Khabarovsk 2,224
+3530,Arsenal 2 Tula,224
+3531,Strogino Moscou,224
+3532,Zenit Penza,224
+3533,Salyut Belgorod,224
+3534,FK Ryazan,224
+3535,FK Orel,224
+3536,Dinamo Bryansk,224
+3537,KDV Tomsk,224
+3538,FC Chelyabinsk-2,224
+3539,Sokol Kazan,224
+3540,Nosta Novotroitsk,224
+3541,Volna Kovernino,224
+3542,Dinamo Barnaul,224
+3543,Ural 2 Ekaterinburg,224
+3544,FK Orenburg-2,224
+3545,Angusht Nazran,224
+3546,Druzhba Maikop,224
+3547,Spartak Nalchik,224
+3548,Dinamo-2 Makhachkala,224
+3549,FC Sochi-2,224
+3550,Tainan City TSG,225
+3551,Taiwan Power Company,225
+3552,Taichung Futuro,225
+3553,Taichung Rock,225
+3554,Athletic Club Taipei,225
+3555,Tatung FC,225
+3556,Hang Yuan FC,225
+3557,Ming Chuan University,225
+3558,Mechal SC,226
+3559,Ethiopian Insurance Corporation SA,226
+3560,Diredawa Ketema SC,226
+3561,Adama Ketema FC,226
+3562,Sidama Bunna FC,226
+3563,Ethiopia Bunna SC,226
+3564,Negele Arsi Town FC,226
+3565,Hadia Hosaina FC,226
+3566,Fasil Kenema SC,226
+3567,Ethiopia Nigd Bank SA,226
+3568,Hawasa Ketema SC,226
+3569,Kidus Giorgis SA,226
+3570,Sihul Shire FC,226
+3571,Shagger City FC,226
+3572,Bahirdar Ketema SC,226
+3573,Mekele 70 Enderta FC,226
+3574,Wolwalo Adigrat University FC,226
+3575,Wolayta Dicha SC,226
+3576,Arbaminch Ketema FC,226
+3577,Ethio Electric SC,226
+3578,Kano Pillars,227
+3579,Niger Tornadoes,227
+3580,Remo Stars FC,227
+3581,Abia Warriors FC,227
+3582,Ikorodu City FC,227
+3583,Bayelsa United,227
+3584,Enyimba Aba,227
+3585,Kun Khalifat Football Club,227
+3586,Barau Football Club,227
+3587,Katsina United FC,227
+3588,Rivers United FC,227
+3589,El-Kanemi Warriors,227
+3590,Warri Wolves FC,227
+3591,Kwara United FC,227
+3592,Nasarawa United,227
+3593,Wikki Tourists,227
+3594,Shooting Stars Sports Club,227
+3595,Plateau United FC,227
+3596,Bendel Insurance,227
+3597,Rangers International FC,227
+3598,Vipers SC,228
+3599,Sports Club Villa Jogoo,228
+3600,Express FC,228
+3601,Kampala Capital City Authority FC,228
+3602,Uganda Revenue Authority FC,228
+3603,Police FC,228
+3604,BUL Jinja FC,228
+3605,Mbarara City FC,228
+3606,Maroons FC,228
+3607,Kitara FC,228
+3608,Uganda People's Defence Force FC,228
+3609,Entebbe UPPC FC,228
+3610,National Enterprise Corporation FC,228
+3611,Lugazi FC,228
+3612,Calvary FC,228
+3613,Buhimba United Saints FC,228
+3614,AJEL de Rufisque,229
+3615,AS Cambérène,229
+3616,AS Pikine,229
+3617,ASC les Jaraaf de Dakar,229
+3618,Wally Daan FC,229
+3619,Casa Sports,229
+3620,AS Dakar Sacré Cœur,229
+3621,AS Académie Génération Foot,229
+3622,Guédiawaye FC de Dakar,229
+3623,ASC HLM Dakar,229
+3624,ASC La Linguère de Saint-Louis,229
+3625,Sonacos de Diourbel,229
+3626,Stade de Mbour,229
+3627,Teungueth FC,229
+3628,Union Sportive Goréenne,229
+3629,US Ouakam,229
+3630,Football Club de Malé,230
+3631,Football Club de Hantsindzi,230
+3632,Amical Club de Chezani,230
+3633,Atomic Ngomé de Ntsoudjini,230
+3634,Union Sportive de Mbéni,230
+3635,Angelus Club,230
+3636,Alizé Fort de Salimani Hambou,230
+3637,Étoile des Comores,230
+3638,Djabal FC Iconi,230
+3639,Élan Club de Mitsoudjé,230
+3640,US Zilimadjou,230
+3641,Volcan Club de Moroni,230
+3642,Chirazienne Domoni,230
+3643,Football Club de Daoueni,230
+3644,Beressé Club de Sima,230
+3645,Mrango Club de Kavani,230
+3646,AS Komorozine de Domoni,230
+3647,Étoile d'Or de Mirontsy,230
+3648,FC Djomakawe d'Ongojou,230
+3649,Ngazi Sport de Mirontsy,230
+3650,Style Nouvelle de Sima,230
+3651,Gombessa Sport de Mutsamudu,230
+3652,FC Wemani Espoir,230
+3653,Fomboni Football Club,230
+3654,FC Belle Lumière de Djoiezi,230
+3655,Étoile du Centre,230
+3656,Kangani Sport,230
+3657,Sargonko de Wanani,230
+3658,Ouragan Club de Mboingoma,230
+3659,Silex Club de Miringoni,230
