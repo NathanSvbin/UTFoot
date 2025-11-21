@@ -5977,15 +5977,27 @@
         "nom": "Górnik Zabrze",
         "matchs": "16",
         "victoires": "9",
-        "nuls": "3",
-        "defaites": "4",
+        "nuls": "2",
+        "defaites": "5",
         "buts_pour": "26",
-        "buts_contre": "14",
-        "difference": "12",
-        "points": "30"
+        "buts_contre": "15",
+        "difference": "11",
+        "points": "29"
       },
       {
         "position": "2",
+        "nom": "Wisla Plock",
+        "matchs": "15",
+        "victoires": "8",
+        "nuls": "5",
+        "defaites": "2",
+        "buts_pour": "20",
+        "buts_contre": "10",
+        "difference": "10",
+        "points": "29"
+      },
+      {
+        "position": "3",
         "nom": "Jagiellonia",
         "matchs": "14",
         "victoires": "8",
@@ -5993,18 +6005,6 @@
         "defaites": "3",
         "buts_pour": "27",
         "buts_contre": "18",
-        "difference": "9",
-        "points": "27"
-      },
-      {
-        "position": "3",
-        "nom": "Wisla Plock",
-        "matchs": "15",
-        "victoires": "7",
-        "nuls": "6",
-        "defaites": "2",
-        "buts_pour": "19",
-        "buts_contre": "10",
         "difference": "9",
         "points": "27"
       },
@@ -11703,38 +11703,38 @@
       {
         "position": "1",
         "nom": "ADO Den Haag",
-        "matchs": "15",
+        "matchs": "14",
         "victoires": "13",
         "nuls": "1",
-        "defaites": "1",
+        "defaites": "0",
         "buts_pour": "43",
-        "buts_contre": "12",
-        "difference": "31",
+        "buts_contre": "11",
+        "difference": "32",
         "points": "40"
       },
       {
         "position": "2",
         "nom": "SC Cambuur",
-        "matchs": "17",
-        "victoires": "11",
+        "matchs": "16",
+        "victoires": "10",
         "nuls": "4",
         "defaites": "2",
-        "buts_pour": "38",
+        "buts_pour": "37",
         "buts_contre": "21",
-        "difference": "17",
-        "points": "37"
+        "difference": "16",
+        "points": "34"
       },
       {
         "position": "3",
         "nom": "PSV U21",
         "matchs": "16",
-        "victoires": "9",
-        "nuls": "3",
+        "victoires": "8",
+        "nuls": "4",
         "defaites": "4",
         "buts_pour": "33",
-        "buts_contre": "26",
-        "difference": "7",
-        "points": "30"
+        "buts_contre": "27",
+        "difference": "6",
+        "points": "28"
       },
       {
         "position": "4",
@@ -11755,9 +11755,9 @@
         "victoires": "8",
         "nuls": "2",
         "defaites": "6",
-        "buts_pour": "32",
+        "buts_pour": "33",
         "buts_contre": "32",
-        "difference": "0",
+        "difference": "1",
         "points": "26"
       },
       {
@@ -11864,8 +11864,8 @@
         "nuls": "2",
         "defaites": "9",
         "buts_pour": "30",
-        "buts_contre": "27",
-        "difference": "3",
+        "buts_contre": "28",
+        "difference": "2",
         "points": "17"
       },
       {
@@ -11885,12 +11885,12 @@
         "nom": "Utrecht U21",
         "matchs": "16",
         "victoires": "4",
-        "nuls": "4",
-        "defaites": "8",
-        "buts_pour": "20",
+        "nuls": "5",
+        "defaites": "7",
+        "buts_pour": "21",
         "buts_contre": "27",
-        "difference": "-7",
-        "points": "16"
+        "difference": "-6",
+        "points": "17"
       },
       {
         "position": "17",
@@ -14132,8 +14132,8 @@
         "nuls": "3",
         "defaites": "6",
         "buts_pour": "22",
-        "buts_contre": "13",
-        "difference": "9",
+        "buts_contre": "14",
+        "difference": "8",
         "points": "21"
       },
       {
@@ -14179,9 +14179,9 @@
         "victoires": "5",
         "nuls": "4",
         "defaites": "6",
-        "buts_pour": "17",
+        "buts_pour": "18",
         "buts_contre": "22",
-        "difference": "-5",
+        "difference": "-4",
         "points": "19"
       },
       {
@@ -14843,18 +14843,6 @@
       },
       {
         "position": "14",
-        "nom": "Pergolettese",
-        "matchs": "15",
-        "victoires": "3",
-        "nuls": "5",
-        "defaites": "7",
-        "buts_pour": "13",
-        "buts_contre": "21",
-        "difference": "-8",
-        "points": "14"
-      },
-      {
-        "position": "15",
         "nom": "Lumezzane",
         "matchs": "14",
         "victoires": "3",
@@ -14866,7 +14854,7 @@
         "points": "13"
       },
       {
-        "position": "16",
+        "position": "15",
         "nom": "Arzignano",
         "matchs": "14",
         "victoires": "3",
@@ -14875,6 +14863,18 @@
         "buts_pour": "16",
         "buts_contre": "24",
         "difference": "-8",
+        "points": "13"
+      },
+      {
+        "position": "16",
+        "nom": "Pergolettese",
+        "matchs": "15",
+        "victoires": "3",
+        "nuls": "4",
+        "defaites": "8",
+        "buts_pour": "13",
+        "buts_contre": "22",
+        "difference": "-9",
         "points": "13"
       },
       {
@@ -14891,6 +14891,18 @@
       },
       {
         "position": "18",
+        "nom": "Pro Patria",
+        "matchs": "15",
+        "victoires": "2",
+        "nuls": "6",
+        "defaites": "7",
+        "buts_pour": "11",
+        "buts_contre": "22",
+        "difference": "-11",
+        "points": "12"
+      },
+      {
+        "position": "19",
         "nom": "Virtus Verona",
         "matchs": "14",
         "victoires": "2",
@@ -14900,18 +14912,6 @@
         "buts_contre": "22",
         "difference": "-6",
         "points": "11"
-      },
-      {
-        "position": "19",
-        "nom": "Pro Patria",
-        "matchs": "15",
-        "victoires": "1",
-        "nuls": "7",
-        "defaites": "7",
-        "buts_pour": "10",
-        "buts_contre": "22",
-        "difference": "-12",
-        "points": "10"
       },
       {
         "position": "20",
@@ -22280,9 +22280,9 @@
         "victoires": "4",
         "nuls": "1",
         "defaites": "9",
-        "buts_pour": "14",
+        "buts_pour": "15",
         "buts_contre": "21",
-        "difference": "-7",
+        "difference": "-6",
         "points": "13"
       },
       {
@@ -22293,8 +22293,8 @@
         "nuls": "3",
         "defaites": "8",
         "buts_pour": "12",
-        "buts_contre": "18",
-        "difference": "-6",
+        "buts_contre": "19",
+        "difference": "-7",
         "points": "12"
       },
       {
