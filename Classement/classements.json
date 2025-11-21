@@ -4949,14 +4949,14 @@
       {
         "position": "1",
         "nom": "Al-Gharafa",
-        "matchs": "9",
+        "matchs": "10",
         "victoires": "7",
-        "nuls": "1",
+        "nuls": "2",
         "defaites": "1",
         "buts_pour": "19",
         "buts_contre": "10",
         "difference": "9",
-        "points": "22"
+        "points": "23"
       },
       {
         "position": "2",
@@ -4997,14 +4997,14 @@
       {
         "position": "5",
         "nom": "Al-Wakrah SC",
-        "matchs": "9",
+        "matchs": "10",
         "victoires": "4",
-        "nuls": "3",
+        "nuls": "4",
         "defaites": "2",
         "buts_pour": "15",
         "buts_contre": "15",
         "difference": "0",
-        "points": "15"
+        "points": "16"
       },
       {
         "position": "6",
@@ -7984,12 +7984,12 @@
         "nom": "Unirea Slobozia",
         "matchs": "17",
         "victoires": "5",
-        "nuls": "4",
-        "defaites": "8",
+        "nuls": "3",
+        "defaites": "9",
         "buts_pour": "17",
-        "buts_contre": "21",
-        "difference": "-4",
-        "points": "19"
+        "buts_contre": "22",
+        "difference": "-5",
+        "points": "18"
       },
       {
         "position": "12",
@@ -8005,6 +8005,18 @@
       },
       {
         "position": "13",
+        "nom": "FK Csikszereda",
+        "matchs": "17",
+        "victoires": "3",
+        "nuls": "7",
+        "defaites": "7",
+        "buts_pour": "18",
+        "buts_contre": "33",
+        "difference": "-15",
+        "points": "16"
+      },
+      {
+        "position": "14",
         "nom": "Petrolul",
         "matchs": "16",
         "victoires": "3",
@@ -8014,18 +8026,6 @@
         "buts_contre": "15",
         "difference": "-5",
         "points": "15"
-      },
-      {
-        "position": "14",
-        "nom": "FK Csikszereda",
-        "matchs": "17",
-        "victoires": "2",
-        "nuls": "8",
-        "defaites": "7",
-        "buts_pour": "17",
-        "buts_contre": "33",
-        "difference": "-16",
-        "points": "14"
       },
       {
         "position": "15",
@@ -18111,9 +18111,9 @@
         "victoires": "6",
         "nuls": "0",
         "defaites": "3",
-        "buts_pour": "9",
+        "buts_pour": "10",
         "buts_contre": "11",
-        "difference": "-2",
+        "difference": "-1",
         "points": "18"
       },
       {
@@ -18250,18 +18250,6 @@
       },
       {
         "position": "15",
-        "nom": "Al-Adalah",
-        "matchs": "9",
-        "victoires": "1",
-        "nuls": "2",
-        "defaites": "6",
-        "buts_pour": "9",
-        "buts_contre": "17",
-        "difference": "-8",
-        "points": "5"
-      },
-      {
-        "position": "16",
         "nom": "Al-Wehda",
         "matchs": "8",
         "victoires": "1",
@@ -18269,6 +18257,18 @@
         "defaites": "5",
         "buts_pour": "10",
         "buts_contre": "19",
+        "difference": "-9",
+        "points": "5"
+      },
+      {
+        "position": "16",
+        "nom": "Al-Adalah",
+        "matchs": "9",
+        "victoires": "1",
+        "nuls": "2",
+        "defaites": "6",
+        "buts_pour": "9",
+        "buts_contre": "18",
         "difference": "-9",
         "points": "5"
       },
