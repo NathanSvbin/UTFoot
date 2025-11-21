@@ -1620,18 +1620,6 @@
       },
       {
         "position": "12",
-        "nom": "Ceará SC",
-        "matchs": "34",
-        "victoires": "11",
-        "nuls": "10",
-        "defaites": "13",
-        "buts_pour": "31",
-        "buts_contre": "30",
-        "difference": "1",
-        "points": "43"
-      },
-      {
-        "position": "13",
         "nom": "Grêmio",
         "matchs": "34",
         "victoires": "11",
@@ -1643,7 +1631,7 @@
         "points": "43"
       },
       {
-        "position": "14",
+        "position": "13",
         "nom": "Vasco da Gama",
         "matchs": "34",
         "victoires": "12",
@@ -1655,16 +1643,28 @@
         "points": "42"
       },
       {
+        "position": "14",
+        "nom": "Ceará SC",
+        "matchs": "34",
+        "victoires": "11",
+        "nuls": "9",
+        "defaites": "14",
+        "buts_pour": "32",
+        "buts_contre": "32",
+        "difference": "0",
+        "points": "42"
+      },
+      {
         "position": "15",
         "nom": "Internacional",
         "matchs": "34",
-        "victoires": "9",
-        "nuls": "11",
+        "victoires": "10",
+        "nuls": "10",
         "defaites": "14",
-        "buts_pour": "37",
-        "buts_contre": "46",
-        "difference": "-9",
-        "points": "38"
+        "buts_pour": "39",
+        "buts_contre": "47",
+        "difference": "-8",
+        "points": "40"
       },
       {
         "position": "16",
@@ -24076,14 +24076,14 @@
       {
         "position": "1",
         "nom": "LD Alajuelense",
-        "matchs": "14",
+        "matchs": "15",
         "victoires": "9",
-        "nuls": "3",
+        "nuls": "4",
         "defaites": "2",
         "buts_pour": "23",
         "buts_contre": "10",
         "difference": "13",
-        "points": "30"
+        "points": "31"
       },
       {
         "position": "2",
@@ -24100,14 +24100,14 @@
       {
         "position": "3",
         "nom": "Cartaginés",
-        "matchs": "14",
+        "matchs": "15",
         "victoires": "6",
-        "nuls": "5",
+        "nuls": "6",
         "defaites": "3",
         "buts_pour": "16",
         "buts_contre": "9",
         "difference": "7",
-        "points": "23"
+        "points": "24"
       },
       {
         "position": "4",
@@ -29869,15 +29869,15 @@
       },
       {
         "position": "3",
-        "nom": "Olancho FC",
-        "matchs": "17",
-        "victoires": "6",
-        "nuls": "8",
-        "defaites": "3",
-        "buts_pour": "31",
-        "buts_contre": "23",
-        "difference": "8",
-        "points": "26"
+        "nom": "FC Motagua",
+        "matchs": "16",
+        "victoires": "8",
+        "nuls": "4",
+        "defaites": "4",
+        "buts_pour": "30",
+        "buts_contre": "26",
+        "difference": "4",
+        "points": "28"
       },
       {
         "position": "4",
@@ -29893,18 +29893,6 @@
       },
       {
         "position": "5",
-        "nom": "FC Motagua",
-        "matchs": "16",
-        "victoires": "7",
-        "nuls": "4",
-        "defaites": "5",
-        "buts_pour": "27",
-        "buts_contre": "25",
-        "difference": "2",
-        "points": "25"
-      },
-      {
-        "position": "6",
         "nom": "Juticalpa",
         "matchs": "16",
         "victoires": "6",
@@ -29914,6 +29902,18 @@
         "buts_contre": "28",
         "difference": "-6",
         "points": "24"
+      },
+      {
+        "position": "6",
+        "nom": "Olancho FC",
+        "matchs": "17",
+        "victoires": "5",
+        "nuls": "8",
+        "defaites": "4",
+        "buts_pour": "32",
+        "buts_contre": "26",
+        "difference": "6",
+        "points": "23"
       },
       {
         "position": "7",
