@@ -5512,15 +5512,27 @@
         "nom": "Al-Dhafra FC",
         "matchs": "8",
         "victoires": "4",
-        "nuls": "1",
-        "defaites": "3",
+        "nuls": "0",
+        "defaites": "4",
         "buts_pour": "13",
-        "buts_contre": "12",
-        "difference": "1",
-        "points": "13"
+        "buts_contre": "14",
+        "difference": "-1",
+        "points": "12"
       },
       {
         "position": "7",
+        "nom": "Al-Nasr",
+        "matchs": "8",
+        "victoires": "3",
+        "nuls": "2",
+        "defaites": "3",
+        "buts_pour": "8",
+        "buts_contre": "7",
+        "difference": "1",
+        "points": "11"
+      },
+      {
+        "position": "8",
         "nom": "Kalba FC",
         "matchs": "7",
         "victoires": "3",
@@ -5530,18 +5542,6 @@
         "buts_contre": "7",
         "difference": "0",
         "points": "11"
-      },
-      {
-        "position": "8",
-        "nom": "Al-Nasr",
-        "matchs": "8",
-        "victoires": "2",
-        "nuls": "3",
-        "defaites": "3",
-        "buts_pour": "6",
-        "buts_contre": "7",
-        "difference": "-1",
-        "points": "9"
       },
       {
         "position": "9",
@@ -18214,18 +18214,6 @@
       },
       {
         "position": "12",
-        "nom": "Al-Jandal",
-        "matchs": "9",
-        "victoires": "2",
-        "nuls": "3",
-        "defaites": "4",
-        "buts_pour": "6",
-        "buts_contre": "14",
-        "difference": "-8",
-        "points": "9"
-      },
-      {
-        "position": "13",
         "nom": "Al-Zulfi",
         "matchs": "7",
         "victoires": "2",
@@ -18237,7 +18225,7 @@
         "points": "8"
       },
       {
-        "position": "14",
+        "position": "13",
         "nom": "Al-Anwar Club",
         "matchs": "9",
         "victoires": "1",
@@ -18249,7 +18237,31 @@
         "points": "8"
       },
       {
+        "position": "14",
+        "nom": "Al-Jandal",
+        "matchs": "9",
+        "victoires": "2",
+        "nuls": "2",
+        "defaites": "5",
+        "buts_pour": "6",
+        "buts_contre": "15",
+        "difference": "-9",
+        "points": "8"
+      },
+      {
         "position": "15",
+        "nom": "Al-Batin",
+        "matchs": "8",
+        "victoires": "1",
+        "nuls": "2",
+        "defaites": "5",
+        "buts_pour": "9",
+        "buts_contre": "15",
+        "difference": "-6",
+        "points": "5"
+      },
+      {
+        "position": "16",
         "nom": "Al-Adalah",
         "matchs": "8",
         "victoires": "1",
@@ -18261,7 +18273,7 @@
         "points": "5"
       },
       {
-        "position": "16",
+        "position": "17",
         "nom": "Al-Wehda",
         "matchs": "8",
         "victoires": "1",
@@ -18271,18 +18283,6 @@
         "buts_contre": "19",
         "difference": "-9",
         "points": "5"
-      },
-      {
-        "position": "17",
-        "nom": "Al-Batin",
-        "matchs": "8",
-        "victoires": "0",
-        "nuls": "3",
-        "defaites": "5",
-        "buts_pour": "8",
-        "buts_contre": "15",
-        "difference": "-7",
-        "points": "3"
       },
       {
         "position": "18",
@@ -18928,13 +18928,13 @@
         "position": "3",
         "nom": "PERSIB",
         "matchs": "10",
-        "victoires": "6",
-        "nuls": "2",
+        "victoires": "7",
+        "nuls": "1",
         "defaites": "2",
-        "buts_pour": "14",
+        "buts_pour": "15",
         "buts_contre": "6",
-        "difference": "8",
-        "points": "20"
+        "difference": "9",
+        "points": "22"
       },
       {
         "position": "4",
@@ -19061,12 +19061,12 @@
         "nom": "Dewa United",
         "matchs": "12",
         "victoires": "3",
-        "nuls": "2",
-        "defaites": "7",
+        "nuls": "1",
+        "defaites": "8",
         "buts_pour": "11",
-        "buts_contre": "21",
-        "difference": "-10",
-        "points": "11"
+        "buts_contre": "22",
+        "difference": "-11",
+        "points": "10"
       },
       {
         "position": "15",
@@ -21918,9 +21918,9 @@
         "victoires": "10",
         "nuls": "0",
         "defaites": "0",
-        "buts_pour": "49",
+        "buts_pour": "50",
         "buts_contre": "3",
-        "difference": "46",
+        "difference": "47",
         "points": "30"
       },
       {
@@ -22063,8 +22063,8 @@
         "nuls": "3",
         "defaites": "4",
         "buts_pour": "3",
-        "buts_contre": "10",
-        "difference": "-7",
+        "buts_contre": "11",
+        "difference": "-8",
         "points": "3"
       }
     ]
@@ -22076,6 +22076,18 @@
     "equipes": [
       {
         "position": "1",
+        "nom": "Ararat-Armenia",
+        "matchs": "13",
+        "victoires": "8",
+        "nuls": "5",
+        "defaites": "0",
+        "buts_pour": "21",
+        "buts_contre": "12",
+        "difference": "9",
+        "points": "29"
+      },
+      {
+        "position": "2",
         "nom": "Alashkert",
         "matchs": "13",
         "victoires": "9",
@@ -22084,18 +22096,6 @@
         "buts_pour": "21",
         "buts_contre": "9",
         "difference": "12",
-        "points": "28"
-      },
-      {
-        "position": "2",
-        "nom": "Ararat-Armenia",
-        "matchs": "12",
-        "victoires": "8",
-        "nuls": "4",
-        "defaites": "0",
-        "buts_pour": "21",
-        "buts_contre": "12",
-        "difference": "9",
         "points": "28"
       },
       {
@@ -22185,14 +22185,14 @@
       {
         "position": "10",
         "nom": "Ararat Erewan",
-        "matchs": "13",
+        "matchs": "14",
         "victoires": "0",
-        "nuls": "3",
+        "nuls": "4",
         "defaites": "10",
         "buts_pour": "7",
         "buts_contre": "33",
         "difference": "-26",
-        "points": "3"
+        "points": "4"
       }
     ]
   },
