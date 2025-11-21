@@ -771,18 +771,6 @@
       },
       {
         "position": "3",
-        "nom": "Hoffenheim",
-        "matchs": "11",
-        "victoires": "7",
-        "nuls": "1",
-        "defaites": "3",
-        "buts_pour": "22",
-        "buts_contre": "16",
-        "difference": "6",
-        "points": "22"
-      },
-      {
-        "position": "4",
         "nom": "Dortmund",
         "matchs": "10",
         "victoires": "6",
@@ -794,7 +782,7 @@
         "points": "21"
       },
       {
-        "position": "5",
+        "position": "4",
         "nom": "Stuttgart",
         "matchs": "10",
         "victoires": "7",
@@ -806,7 +794,7 @@
         "points": "21"
       },
       {
-        "position": "6",
+        "position": "5",
         "nom": "Leverkusen",
         "matchs": "10",
         "victoires": "6",
@@ -815,6 +803,18 @@
         "buts_pour": "24",
         "buts_contre": "14",
         "difference": "10",
+        "points": "20"
+      },
+      {
+        "position": "6",
+        "nom": "Hoffenheim",
+        "matchs": "11",
+        "victoires": "6",
+        "nuls": "2",
+        "defaites": "3",
+        "buts_pour": "22",
+        "buts_contre": "17",
+        "difference": "5",
         "points": "20"
       },
       {
@@ -942,12 +942,12 @@
         "nom": "Mainz",
         "matchs": "11",
         "victoires": "1",
-        "nuls": "2",
-        "defaites": "8",
-        "buts_pour": "10",
+        "nuls": "3",
+        "defaites": "7",
+        "buts_pour": "11",
         "buts_contre": "19",
-        "difference": "-9",
-        "points": "5"
+        "difference": "-8",
+        "points": "6"
       },
       {
         "position": "18",
@@ -975,9 +975,9 @@
         "victoires": "9",
         "nuls": "1",
         "defaites": "3",
-        "buts_pour": "30",
-        "buts_contre": "11",
-        "difference": "19",
+        "buts_pour": "32",
+        "buts_contre": "12",
+        "difference": "20",
         "points": "28"
       },
       {
@@ -1071,9 +1071,9 @@
         "victoires": "5",
         "nuls": "2",
         "defaites": "6",
-        "buts_pour": "17",
-        "buts_contre": "20",
-        "difference": "-3",
+        "buts_pour": "18",
+        "buts_contre": "22",
+        "difference": "-4",
         "points": "17"
       },
       {
@@ -4279,6 +4279,18 @@
       },
       {
         "position": "7",
+        "nom": "Catanzaro",
+        "matchs": "13",
+        "victoires": "4",
+        "nuls": "6",
+        "defaites": "3",
+        "buts_pour": "16",
+        "buts_contre": "14",
+        "difference": "2",
+        "points": "18"
+      },
+      {
+        "position": "8",
         "nom": "Juve Stabia",
         "matchs": "11",
         "victoires": "4",
@@ -4288,18 +4300,6 @@
         "buts_contre": "13",
         "difference": "0",
         "points": "17"
-      },
-      {
-        "position": "8",
-        "nom": "Catanzaro",
-        "matchs": "13",
-        "victoires": "3",
-        "nuls": "7",
-        "defaites": "3",
-        "buts_pour": "15",
-        "buts_contre": "14",
-        "difference": "1",
-        "points": "16"
       },
       {
         "position": "9",
@@ -4411,18 +4411,6 @@
       },
       {
         "position": "18",
-        "nom": "Pescara",
-        "matchs": "13",
-        "victoires": "1",
-        "nuls": "6",
-        "defaites": "6",
-        "buts_pour": "17",
-        "buts_contre": "27",
-        "difference": "-10",
-        "points": "9"
-      },
-      {
-        "position": "19",
         "nom": "Spezia Calcio",
         "matchs": "12",
         "victoires": "1",
@@ -4431,6 +4419,18 @@
         "buts_pour": "11",
         "buts_contre": "16",
         "difference": "-5",
+        "points": "8"
+      },
+      {
+        "position": "19",
+        "nom": "Pescara",
+        "matchs": "13",
+        "victoires": "1",
+        "nuls": "5",
+        "defaites": "7",
+        "buts_pour": "17",
+        "buts_contre": "28",
+        "difference": "-11",
         "points": "8"
       },
       {
@@ -4683,8 +4683,8 @@
         "nuls": "5",
         "defaites": "2",
         "buts_pour": "18",
-        "buts_contre": "8",
-        "difference": "10",
+        "buts_contre": "9",
+        "difference": "9",
         "points": "29"
       },
       {
@@ -4802,9 +4802,9 @@
         "victoires": "5",
         "nuls": "4",
         "defaites": "6",
-        "buts_pour": "21",
+        "buts_pour": "22",
         "buts_contre": "25",
-        "difference": "-4",
+        "difference": "-3",
         "points": "19"
       },
       {
@@ -5977,27 +5977,15 @@
         "nom": "Górnik Zabrze",
         "matchs": "16",
         "victoires": "9",
-        "nuls": "2",
-        "defaites": "5",
-        "buts_pour": "26",
+        "nuls": "3",
+        "defaites": "4",
+        "buts_pour": "27",
         "buts_contre": "15",
-        "difference": "11",
-        "points": "29"
+        "difference": "12",
+        "points": "30"
       },
       {
         "position": "2",
-        "nom": "Wisla Plock",
-        "matchs": "15",
-        "victoires": "8",
-        "nuls": "5",
-        "defaites": "2",
-        "buts_pour": "20",
-        "buts_contre": "10",
-        "difference": "10",
-        "points": "29"
-      },
-      {
-        "position": "3",
         "nom": "Jagiellonia",
         "matchs": "14",
         "victoires": "8",
@@ -6005,6 +5993,18 @@
         "defaites": "3",
         "buts_pour": "27",
         "buts_contre": "18",
+        "difference": "9",
+        "points": "27"
+      },
+      {
+        "position": "3",
+        "nom": "Wisla Plock",
+        "matchs": "15",
+        "victoires": "7",
+        "nuls": "6",
+        "defaites": "2",
+        "buts_pour": "20",
+        "buts_contre": "11",
         "difference": "9",
         "points": "27"
       },
@@ -14867,18 +14867,6 @@
       },
       {
         "position": "16",
-        "nom": "Pergolettese",
-        "matchs": "15",
-        "victoires": "3",
-        "nuls": "4",
-        "defaites": "8",
-        "buts_pour": "13",
-        "buts_contre": "22",
-        "difference": "-9",
-        "points": "13"
-      },
-      {
-        "position": "17",
         "nom": "Dolomiti",
         "matchs": "13",
         "victoires": "3",
@@ -14890,15 +14878,27 @@
         "points": "13"
       },
       {
+        "position": "17",
+        "nom": "Pergolettese",
+        "matchs": "15",
+        "victoires": "3",
+        "nuls": "4",
+        "defaites": "8",
+        "buts_pour": "13",
+        "buts_contre": "23",
+        "difference": "-10",
+        "points": "13"
+      },
+      {
         "position": "18",
         "nom": "Pro Patria",
         "matchs": "15",
         "victoires": "2",
         "nuls": "6",
         "defaites": "7",
-        "buts_pour": "11",
+        "buts_pour": "12",
         "buts_contre": "22",
-        "difference": "-11",
+        "difference": "-10",
         "points": "12"
       },
       {
@@ -22203,6 +22203,18 @@
     "equipes": [
       {
         "position": "1",
+        "nom": "FC Vaduz",
+        "matchs": "14",
+        "victoires": "10",
+        "nuls": "3",
+        "defaites": "1",
+        "buts_pour": "32",
+        "buts_contre": "14",
+        "difference": "18",
+        "points": "33"
+      },
+      {
+        "position": "2",
         "nom": "FC Aarau",
         "matchs": "13",
         "victoires": "11",
@@ -22212,18 +22224,6 @@
         "buts_contre": "15",
         "difference": "12",
         "points": "33"
-      },
-      {
-        "position": "2",
-        "nom": "FC Vaduz",
-        "matchs": "14",
-        "victoires": "9",
-        "nuls": "4",
-        "defaites": "1",
-        "buts_pour": "31",
-        "buts_contre": "14",
-        "difference": "17",
-        "points": "31"
       },
       {
         "position": "3",
@@ -22314,12 +22314,12 @@
         "nom": "AC Bellinzona",
         "matchs": "14",
         "victoires": "1",
-        "nuls": "5",
-        "defaites": "8",
+        "nuls": "4",
+        "defaites": "9",
         "buts_pour": "10",
-        "buts_contre": "29",
-        "difference": "-19",
-        "points": "8"
+        "buts_contre": "30",
+        "difference": "-20",
+        "points": "7"
       }
     ]
   },
@@ -27209,12 +27209,12 @@
         "nom": "Carl Zeiss Iéna",
         "matchs": "16",
         "victoires": "11",
-        "nuls": "3",
-        "defaites": "2",
-        "buts_pour": "32",
+        "nuls": "4",
+        "defaites": "1",
+        "buts_pour": "33",
         "buts_contre": "12",
-        "difference": "20",
-        "points": "36"
+        "difference": "21",
+        "points": "37"
       },
       {
         "position": "3",
@@ -27244,13 +27244,13 @@
         "position": "5",
         "nom": "Hallescher FC",
         "matchs": "16",
-        "victoires": "8",
-        "nuls": "3",
+        "victoires": "7",
+        "nuls": "4",
         "defaites": "5",
         "buts_pour": "22",
-        "buts_contre": "17",
-        "difference": "5",
-        "points": "27"
+        "buts_contre": "18",
+        "difference": "4",
+        "points": "25"
       },
       {
         "position": "6",
