@@ -5264,13 +5264,13 @@
         "position": "2",
         "nom": "LNZ Cherkasy",
         "matchs": "13",
-        "victoires": "7",
-        "nuls": "3",
+        "victoires": "8",
+        "nuls": "2",
         "defaites": "3",
-        "buts_pour": "12",
+        "buts_pour": "13",
         "buts_contre": "8",
-        "difference": "4",
-        "points": "24"
+        "difference": "5",
+        "points": "26"
       },
       {
         "position": "3",
@@ -5433,12 +5433,12 @@
         "nom": "SK Poltava",
         "matchs": "13",
         "victoires": "1",
-        "nuls": "4",
-        "defaites": "8",
+        "nuls": "3",
+        "defaites": "9",
         "buts_pour": "11",
-        "buts_contre": "30",
-        "difference": "-19",
-        "points": "7"
+        "buts_contre": "31",
+        "difference": "-20",
+        "points": "6"
       }
     ]
   },
@@ -7488,13 +7488,13 @@
       {
         "position": "3",
         "nom": "Vojvodina",
-        "matchs": "15",
+        "matchs": "16",
         "victoires": "9",
         "nuls": "3",
-        "defaites": "3",
+        "defaites": "4",
         "buts_pour": "28",
-        "buts_contre": "15",
-        "difference": "13",
+        "buts_contre": "16",
+        "difference": "12",
         "points": "30"
       },
       {
@@ -7547,6 +7547,18 @@
       },
       {
         "position": "8",
+        "nom": "Radnik",
+        "matchs": "16",
+        "victoires": "6",
+        "nuls": "2",
+        "defaites": "8",
+        "buts_pour": "20",
+        "buts_contre": "22",
+        "difference": "-2",
+        "points": "20"
+      },
+      {
+        "position": "9",
         "nom": "IMT Belgrad",
         "matchs": "15",
         "victoires": "5",
@@ -7556,18 +7568,6 @@
         "buts_contre": "30",
         "difference": "-13",
         "points": "18"
-      },
-      {
-        "position": "9",
-        "nom": "Radnik",
-        "matchs": "15",
-        "victoires": "5",
-        "nuls": "2",
-        "defaites": "8",
-        "buts_pour": "19",
-        "buts_contre": "22",
-        "difference": "-3",
-        "points": "17"
       },
       {
         "position": "10",
@@ -12539,6 +12539,18 @@
       },
       {
         "position": "13",
+        "nom": "Volga Uljanovsk",
+        "matchs": "20",
+        "victoires": "6",
+        "nuls": "3",
+        "defaites": "11",
+        "buts_pour": "23",
+        "buts_contre": "34",
+        "difference": "-11",
+        "points": "21"
+      },
+      {
+        "position": "14",
         "nom": "Chernomorets N.",
         "matchs": "19",
         "victoires": "5",
@@ -12550,7 +12562,7 @@
         "points": "20"
       },
       {
-        "position": "14",
+        "position": "15",
         "nom": "Ufa",
         "matchs": "19",
         "victoires": "4",
@@ -12562,27 +12574,15 @@
         "points": "19"
       },
       {
-        "position": "15",
-        "nom": "Volga Uljanovsk",
-        "matchs": "19",
-        "victoires": "5",
-        "nuls": "3",
-        "defaites": "11",
-        "buts_pour": "22",
-        "buts_contre": "34",
-        "difference": "-12",
-        "points": "18"
-      },
-      {
         "position": "16",
         "nom": "Torpedo Moscou",
-        "matchs": "19",
+        "matchs": "20",
         "victoires": "4",
         "nuls": "6",
-        "defaites": "9",
+        "defaites": "10",
         "buts_pour": "16",
-        "buts_contre": "27",
-        "difference": "-11",
+        "buts_contre": "28",
+        "difference": "-12",
         "points": "18"
       },
       {
@@ -18195,9 +18195,9 @@
         "victoires": "3",
         "nuls": "2",
         "defaites": "4",
-        "buts_pour": "12",
+        "buts_pour": "13",
         "buts_contre": "12",
-        "difference": "0",
+        "difference": "1",
         "points": "11"
       },
       {
@@ -18244,8 +18244,8 @@
         "nuls": "4",
         "defaites": "4",
         "buts_pour": "6",
-        "buts_contre": "10",
-        "difference": "-4",
+        "buts_contre": "11",
+        "difference": "-5",
         "points": "7"
       },
       {
@@ -21918,8 +21918,8 @@
         "victoires": "10",
         "nuls": "0",
         "defaites": "0",
-        "buts_pour": "54",
-        "buts_contre": "3",
+        "buts_pour": "55",
+        "buts_contre": "4",
         "difference": "51",
         "points": "30"
       },
@@ -22062,8 +22062,8 @@
         "victoires": "0",
         "nuls": "3",
         "defaites": "4",
-        "buts_pour": "3",
-        "buts_contre": "15",
+        "buts_pour": "4",
+        "buts_contre": "16",
         "difference": "-12",
         "points": "3"
       }
