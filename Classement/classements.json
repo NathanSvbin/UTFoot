@@ -9188,26 +9188,26 @@
       {
         "position": "6",
         "nom": "Cobresal",
-        "matchs": "27",
+        "matchs": "28",
         "victoires": "13",
-        "nuls": "5",
+        "nuls": "6",
         "defaites": "9",
         "buts_pour": "34",
         "buts_contre": "31",
         "difference": "3",
-        "points": "44"
+        "points": "45"
       },
       {
         "position": "7",
         "nom": "Audax Italiano",
-        "matchs": "27",
+        "matchs": "28",
         "victoires": "13",
-        "nuls": "4",
+        "nuls": "5",
         "defaites": "10",
         "buts_pour": "46",
         "buts_contre": "42",
         "difference": "4",
-        "points": "43"
+        "points": "44"
       },
       {
         "position": "8",
@@ -9259,6 +9259,18 @@
       },
       {
         "position": "12",
+        "nom": "CD Everton",
+        "matchs": "28",
+        "victoires": "6",
+        "nuls": "9",
+        "defaites": "13",
+        "buts_pour": "27",
+        "buts_contre": "40",
+        "difference": "-13",
+        "points": "27"
+      },
+      {
+        "position": "13",
         "nom": "La Serena",
         "matchs": "27",
         "victoires": "7",
@@ -9270,52 +9282,40 @@
         "points": "27"
       },
       {
-        "position": "13",
-        "nom": "CD Everton",
-        "matchs": "27",
-        "victoires": "6",
-        "nuls": "8",
-        "defaites": "13",
-        "buts_pour": "27",
-        "buts_contre": "40",
-        "difference": "-13",
-        "points": "26"
-      },
-      {
         "position": "14",
         "nom": "Limache",
-        "matchs": "27",
+        "matchs": "28",
         "victoires": "5",
-        "nuls": "7",
+        "nuls": "8",
         "defaites": "15",
         "buts_pour": "33",
         "buts_contre": "43",
         "difference": "-10",
-        "points": "22"
+        "points": "23"
       },
       {
         "position": "15",
         "nom": "Unión Española",
-        "matchs": "27",
+        "matchs": "28",
         "victoires": "6",
-        "nuls": "3",
+        "nuls": "4",
         "defaites": "18",
         "buts_pour": "29",
         "buts_contre": "49",
         "difference": "-20",
-        "points": "21"
+        "points": "22"
       },
       {
         "position": "16",
         "nom": "Club Deportes Iq",
-        "matchs": "27",
+        "matchs": "28",
         "victoires": "4",
-        "nuls": "6",
+        "nuls": "7",
         "defaites": "17",
         "buts_pour": "29",
         "buts_contre": "56",
         "difference": "-27",
-        "points": "18"
+        "points": "19"
       }
     ]
   },
@@ -15580,17 +15580,29 @@
       {
         "position": "5",
         "nom": "RM Castilla",
-        "matchs": "12",
+        "matchs": "13",
         "victoires": "7",
         "nuls": "0",
-        "defaites": "5",
+        "defaites": "6",
         "buts_pour": "15",
-        "buts_contre": "13",
-        "difference": "2",
+        "buts_contre": "16",
+        "difference": "-1",
         "points": "21"
       },
       {
         "position": "6",
+        "nom": "Unionistas CF",
+        "matchs": "13",
+        "victoires": "5",
+        "nuls": "3",
+        "defaites": "5",
+        "buts_pour": "13",
+        "buts_contre": "11",
+        "difference": "2",
+        "points": "18"
+      },
+      {
+        "position": "7",
         "nom": "Pontevedra CF",
         "matchs": "12",
         "victoires": "4",
@@ -15602,7 +15614,7 @@
         "points": "17"
       },
       {
-        "position": "7",
+        "position": "8",
         "nom": "Mérida AD",
         "matchs": "12",
         "victoires": "5",
@@ -15614,7 +15626,7 @@
         "points": "17"
       },
       {
-        "position": "8",
+        "position": "9",
         "nom": "Ponferradina",
         "matchs": "12",
         "victoires": "4",
@@ -15626,7 +15638,7 @@
         "points": "16"
       },
       {
-        "position": "9",
+        "position": "10",
         "nom": "Barakaldo CF",
         "matchs": "12",
         "victoires": "3",
@@ -15638,7 +15650,7 @@
         "points": "16"
       },
       {
-        "position": "10",
+        "position": "11",
         "nom": "Bilbao Athletic",
         "matchs": "12",
         "victoires": "4",
@@ -15650,7 +15662,7 @@
         "points": "16"
       },
       {
-        "position": "11",
+        "position": "12",
         "nom": "CD Lugo",
         "matchs": "12",
         "victoires": "3",
@@ -15659,18 +15671,6 @@
         "buts_pour": "10",
         "buts_contre": "9",
         "difference": "1",
-        "points": "15"
-      },
-      {
-        "position": "12",
-        "nom": "Unionistas CF",
-        "matchs": "12",
-        "victoires": "4",
-        "nuls": "3",
-        "defaites": "5",
-        "buts_pour": "10",
-        "buts_contre": "11",
-        "difference": "-1",
         "points": "15"
       },
       {
@@ -17550,8 +17550,8 @@
         "victoires": "10",
         "nuls": "4",
         "defaites": "11",
-        "buts_pour": "33",
-        "buts_contre": "40",
+        "buts_pour": "34",
+        "buts_contre": "41",
         "difference": "-7",
         "points": "34"
       },
@@ -17670,8 +17670,8 @@
         "victoires": "8",
         "nuls": "4",
         "defaites": "13",
-        "buts_pour": "42",
-        "buts_contre": "52",
+        "buts_pour": "43",
+        "buts_contre": "53",
         "difference": "-10",
         "points": "-5"
       }
