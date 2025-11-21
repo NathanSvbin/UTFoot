@@ -13765,26 +13765,26 @@
       {
         "position": "5",
         "nom": "Club Sportivo 2",
-        "matchs": "20",
+        "matchs": "21",
         "victoires": "9",
         "nuls": "5",
-        "defaites": "6",
+        "defaites": "7",
         "buts_pour": "25",
-        "buts_contre": "22",
-        "difference": "3",
+        "buts_contre": "23",
+        "difference": "2",
         "points": "32"
       },
       {
         "position": "6",
         "nom": "Recoleta FC",
-        "matchs": "20",
-        "victoires": "8",
+        "matchs": "21",
+        "victoires": "9",
         "nuls": "4",
         "defaites": "8",
-        "buts_pour": "33",
+        "buts_pour": "34",
         "buts_contre": "30",
-        "difference": "3",
-        "points": "28"
+        "difference": "4",
+        "points": "31"
       },
       {
         "position": "7",
@@ -17545,6 +17545,18 @@
       },
       {
         "position": "6",
+        "nom": "GV San José",
+        "matchs": "25",
+        "victoires": "10",
+        "nuls": "4",
+        "defaites": "11",
+        "buts_pour": "32",
+        "buts_contre": "40",
+        "difference": "-8",
+        "points": "34"
+      },
+      {
+        "position": "7",
         "nom": "Ind. Petrolero",
         "matchs": "24",
         "victoires": "9",
@@ -17554,18 +17566,6 @@
         "buts_contre": "48",
         "difference": "-7",
         "points": "33"
-      },
-      {
-        "position": "7",
-        "nom": "GV San José",
-        "matchs": "25",
-        "victoires": "9",
-        "nuls": "5",
-        "defaites": "11",
-        "buts_pour": "31",
-        "buts_contre": "40",
-        "difference": "-9",
-        "points": "32"
       },
       {
         "position": "8",
@@ -17668,12 +17668,12 @@
         "nom": "Aurora",
         "matchs": "25",
         "victoires": "8",
-        "nuls": "5",
-        "defaites": "12",
+        "nuls": "4",
+        "defaites": "13",
         "buts_pour": "42",
-        "buts_contre": "50",
-        "difference": "-8",
-        "points": "-4"
+        "buts_contre": "51",
+        "difference": "-9",
+        "points": "-5"
       }
     ]
   },
