@@ -29922,9 +29922,9 @@
         "victoires": "6",
         "nuls": "4",
         "defaites": "7",
-        "buts_pour": "25",
+        "buts_pour": "27",
         "buts_contre": "19",
-        "difference": "6",
+        "difference": "8",
         "points": "22"
       },
       {
@@ -29959,8 +29959,8 @@
         "nuls": "2",
         "defaites": "12",
         "buts_pour": "21",
-        "buts_contre": "43",
-        "difference": "-22",
+        "buts_contre": "45",
+        "difference": "-24",
         "points": "11"
       },
       {
@@ -35034,6 +35034,18 @@
     "equipes": [
       {
         "position": "1",
+        "nom": "Cibao FC",
+        "matchs": "14",
+        "victoires": "10",
+        "nuls": "1",
+        "defaites": "3",
+        "buts_pour": "31",
+        "buts_contre": "11",
+        "difference": "20",
+        "points": "31"
+      },
+      {
+        "position": "2",
         "nom": "Atl. Pantoja",
         "matchs": "13",
         "victoires": "10",
@@ -35043,18 +35055,6 @@
         "buts_contre": "9",
         "difference": "16",
         "points": "31"
-      },
-      {
-        "position": "2",
-        "nom": "Cibao FC",
-        "matchs": "13",
-        "victoires": "9",
-        "nuls": "1",
-        "defaites": "3",
-        "buts_pour": "29",
-        "buts_contre": "10",
-        "difference": "19",
-        "points": "28"
       },
       {
         "position": "3",
@@ -35083,13 +35083,13 @@
       {
         "position": "5",
         "nom": "Universidad O&M",
-        "matchs": "13",
+        "matchs": "14",
         "victoires": "4",
         "nuls": "5",
-        "defaites": "4",
-        "buts_pour": "22",
-        "buts_contre": "20",
-        "difference": "2",
+        "defaites": "5",
+        "buts_pour": "23",
+        "buts_contre": "22",
+        "difference": "1",
         "points": "17"
       },
       {
