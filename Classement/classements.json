@@ -18516,6 +18516,18 @@
       },
       {
         "position": "2",
+        "nom": "Port FC",
+        "matchs": "12",
+        "victoires": "7",
+        "nuls": "2",
+        "defaites": "3",
+        "buts_pour": "21",
+        "buts_contre": "6",
+        "difference": "15",
+        "points": "23"
+      },
+      {
+        "position": "3",
         "nom": "Ratchaburi FC",
         "matchs": "10",
         "victoires": "7",
@@ -18525,18 +18537,6 @@
         "buts_contre": "7",
         "difference": "12",
         "points": "22"
-      },
-      {
-        "position": "3",
-        "nom": "Port FC",
-        "matchs": "12",
-        "victoires": "6",
-        "nuls": "3",
-        "defaites": "3",
-        "buts_pour": "20",
-        "buts_contre": "6",
-        "difference": "14",
-        "points": "21"
       },
       {
         "position": "4",
@@ -18576,18 +18576,6 @@
       },
       {
         "position": "7",
-        "nom": "Chiangrai Utd.",
-        "matchs": "11",
-        "victoires": "4",
-        "nuls": "5",
-        "defaites": "2",
-        "buts_pour": "12",
-        "buts_contre": "8",
-        "difference": "4",
-        "points": "17"
-      },
-      {
-        "position": "8",
         "nom": "Rayong FC",
         "matchs": "11",
         "victoires": "4",
@@ -18595,6 +18583,18 @@
         "defaites": "3",
         "buts_pour": "16",
         "buts_contre": "13",
+        "difference": "3",
+        "points": "16"
+      },
+      {
+        "position": "8",
+        "nom": "Chiangrai Utd.",
+        "matchs": "11",
+        "victoires": "4",
+        "nuls": "4",
+        "defaites": "3",
+        "buts_pour": "12",
+        "buts_contre": "9",
         "difference": "3",
         "points": "16"
       },
@@ -21137,12 +21137,12 @@
         "nom": "Dzerzhinsk",
         "matchs": "29",
         "victoires": "6",
-        "nuls": "13",
-        "defaites": "10",
+        "nuls": "12",
+        "defaites": "11",
         "buts_pour": "25",
-        "buts_contre": "32",
-        "difference": "-7",
-        "points": "31"
+        "buts_contre": "33",
+        "difference": "-8",
+        "points": "30"
       },
       {
         "position": "12",
@@ -21184,13 +21184,13 @@
         "position": "15",
         "nom": "FK Slutsk",
         "matchs": "29",
-        "victoires": "5",
-        "nuls": "7",
+        "victoires": "6",
+        "nuls": "6",
         "defaites": "17",
-        "buts_pour": "19",
+        "buts_pour": "20",
         "buts_contre": "47",
-        "difference": "-28",
-        "points": "22"
+        "difference": "-27",
+        "points": "24"
       },
       {
         "position": "16",
@@ -24430,9 +24430,9 @@
         "victoires": "9",
         "nuls": "6",
         "defaites": "2",
-        "buts_pour": "29",
+        "buts_pour": "30",
         "buts_contre": "14",
-        "difference": "15",
+        "difference": "16",
         "points": "33"
       },
       {
@@ -24461,6 +24461,18 @@
       },
       {
         "position": "6",
+        "nom": "Nyva Ternopil",
+        "matchs": "17",
+        "victoires": "6",
+        "nuls": "5",
+        "defaites": "6",
+        "buts_pour": "17",
+        "buts_contre": "20",
+        "difference": "-3",
+        "points": "23"
+      },
+      {
+        "position": "7",
         "nom": "Prykarpattya",
         "matchs": "16",
         "victoires": "6",
@@ -24472,55 +24484,31 @@
         "points": "22"
       },
       {
-        "position": "7",
-        "nom": "Nyva Ternopil",
+        "position": "8",
+        "nom": "UCSA",
         "matchs": "17",
         "victoires": "6",
         "nuls": "4",
         "defaites": "7",
         "buts_pour": "16",
-        "buts_contre": "20",
-        "difference": "-4",
-        "points": "22"
-      },
-      {
-        "position": "8",
-        "nom": "UCSA",
-        "matchs": "16",
-        "victoires": "6",
-        "nuls": "3",
-        "defaites": "7",
-        "buts_pour": "16",
         "buts_contre": "18",
         "difference": "-2",
-        "points": "21"
+        "points": "22"
       },
       {
         "position": "9",
         "nom": "Vorskla Poltava",
-        "matchs": "16",
+        "matchs": "17",
         "victoires": "4",
-        "nuls": "5",
+        "nuls": "6",
         "defaites": "7",
         "buts_pour": "12",
         "buts_contre": "16",
         "difference": "-4",
-        "points": "17"
+        "points": "18"
       },
       {
         "position": "10",
-        "nom": "Metalist",
-        "matchs": "16",
-        "victoires": "4",
-        "nuls": "4",
-        "defaites": "8",
-        "buts_pour": "15",
-        "buts_contre": "18",
-        "difference": "-3",
-        "points": "16"
-      },
-      {
-        "position": "11",
         "nom": "Viktoriya",
         "matchs": "16",
         "victoires": "4",
@@ -24532,7 +24520,19 @@
         "points": "16"
       },
       {
-        "position": "12",
+        "position": "11",
+        "nom": "Metalist",
+        "matchs": "16",
+        "victoires": "4",
+        "nuls": "4",
+        "defaites": "8",
+        "buts_pour": "15",
+        "buts_contre": "19",
+        "difference": "-4",
+        "points": "16"
+      },
+      {
+        "position": "11",
         "nom": "Probiy",
         "matchs": "15",
         "victoires": "4",
@@ -24583,13 +24583,13 @@
         "position": "16",
         "nom": "SK Metalurg",
         "matchs": "16",
-        "victoires": "2",
-        "nuls": "3",
+        "victoires": "1",
+        "nuls": "4",
         "defaites": "11",
         "buts_pour": "5",
-        "buts_contre": "31",
-        "difference": "-26",
-        "points": "9"
+        "buts_contre": "32",
+        "difference": "-27",
+        "points": "7"
       }
     ]
   },
