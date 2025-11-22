@@ -29917,6 +29917,18 @@
       },
       {
         "position": "7",
+        "nom": "Platense FC",
+        "matchs": "17",
+        "victoires": "6",
+        "nuls": "4",
+        "defaites": "7",
+        "buts_pour": "25",
+        "buts_contre": "19",
+        "difference": "6",
+        "points": "22"
+      },
+      {
+        "position": "8",
         "nom": "Lobos UPNFM",
         "matchs": "16",
         "victoires": "5",
@@ -29926,18 +29938,6 @@
         "buts_contre": "28",
         "difference": "-5",
         "points": "21"
-      },
-      {
-        "position": "8",
-        "nom": "Platense FC",
-        "matchs": "16",
-        "victoires": "5",
-        "nuls": "4",
-        "defaites": "7",
-        "buts_pour": "23",
-        "buts_contre": "18",
-        "difference": "5",
-        "points": "19"
       },
       {
         "position": "9",
@@ -29954,13 +29954,13 @@
       {
         "position": "10",
         "nom": "CD Choloma",
-        "matchs": "16",
+        "matchs": "17",
         "victoires": "3",
         "nuls": "2",
-        "defaites": "11",
-        "buts_pour": "20",
-        "buts_contre": "41",
-        "difference": "-21",
+        "defaites": "12",
+        "buts_pour": "21",
+        "buts_contre": "43",
+        "difference": "-22",
         "points": "11"
       },
       {
@@ -30855,17 +30855,29 @@
       {
         "position": "2",
         "nom": "Olympic",
-        "matchs": "7",
+        "matchs": "8",
         "victoires": "5",
         "nuls": "0",
-        "defaites": "2",
-        "buts_pour": "16",
-        "buts_contre": "10",
-        "difference": "6",
+        "defaites": "3",
+        "buts_pour": "18",
+        "buts_contre": "13",
+        "difference": "5",
         "points": "15"
       },
       {
         "position": "3",
+        "nom": "Christchurch",
+        "matchs": "9",
+        "victoires": "4",
+        "nuls": "2",
+        "defaites": "3",
+        "buts_pour": "15",
+        "buts_contre": "15",
+        "difference": "0",
+        "points": "14"
+      },
+      {
+        "position": "4",
         "nom": "Miramar Rangers",
         "matchs": "7",
         "victoires": "4",
@@ -30877,7 +30889,7 @@
         "points": "13"
       },
       {
-        "position": "4",
+        "position": "5",
         "nom": "Auckland FC Res",
         "matchs": "8",
         "victoires": "3",
@@ -30887,18 +30899,6 @@
         "buts_contre": "9",
         "difference": "1",
         "points": "12"
-      },
-      {
-        "position": "5",
-        "nom": "Christchurch",
-        "matchs": "8",
-        "victoires": "3",
-        "nuls": "2",
-        "defaites": "3",
-        "buts_pour": "12",
-        "buts_contre": "13",
-        "difference": "-1",
-        "points": "11"
       },
       {
         "position": "6",
