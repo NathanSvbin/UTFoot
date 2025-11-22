@@ -13512,13 +13512,13 @@
         "position": "3",
         "nom": "Gimcheon Sangmu",
         "matchs": "37",
-        "victoires": "17",
-        "nuls": "8",
+        "victoires": "18",
+        "nuls": "7",
         "defaites": "12",
-        "buts_pour": "57",
+        "buts_pour": "59",
         "buts_contre": "42",
-        "difference": "15",
-        "points": "59"
+        "difference": "17",
+        "points": "61"
       },
       {
         "position": "4",
@@ -13537,12 +13537,12 @@
         "nom": "FC Seoul",
         "matchs": "37",
         "victoires": "12",
-        "nuls": "14",
-        "defaites": "11",
+        "nuls": "13",
+        "defaites": "12",
         "buts_pour": "49",
-        "buts_contre": "48",
-        "difference": "1",
-        "points": "50"
+        "buts_contre": "50",
+        "difference": "-1",
+        "points": "49"
       },
       {
         "position": "6",
