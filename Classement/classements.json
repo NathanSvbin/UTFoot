@@ -980,6 +980,18 @@
     "equipes": [
       {
         "position": "1",
+        "nom": "Paris SG",
+        "matchs": "13",
+        "victoires": "9",
+        "nuls": "3",
+        "defaites": "1",
+        "buts_pour": "25",
+        "buts_contre": "11",
+        "difference": "14",
+        "points": "30"
+      },
+      {
+        "position": "2",
         "nom": "Marseille",
         "matchs": "13",
         "victoires": "9",
@@ -988,18 +1000,6 @@
         "buts_pour": "33",
         "buts_contre": "12",
         "difference": "21",
-        "points": "28"
-      },
-      {
-        "position": "2",
-        "nom": "Paris SG",
-        "matchs": "13",
-        "victoires": "8",
-        "nuls": "4",
-        "defaites": "1",
-        "buts_pour": "24",
-        "buts_contre": "11",
-        "difference": "13",
         "points": "28"
       },
       {
@@ -1100,18 +1100,6 @@
       },
       {
         "position": "11",
-        "nom": "Le Havre AC",
-        "matchs": "13",
-        "victoires": "3",
-        "nuls": "6",
-        "defaites": "4",
-        "buts_pour": "13",
-        "buts_contre": "17",
-        "difference": "-4",
-        "points": "15"
-      },
-      {
-        "position": "12",
         "nom": "Paris FC",
         "matchs": "12",
         "victoires": "4",
@@ -1120,6 +1108,18 @@
         "buts_pour": "18",
         "buts_contre": "21",
         "difference": "-3",
+        "points": "14"
+      },
+      {
+        "position": "12",
+        "nom": "Le Havre AC",
+        "matchs": "13",
+        "victoires": "3",
+        "nuls": "5",
+        "defaites": "5",
+        "buts_pour": "13",
+        "buts_contre": "18",
+        "difference": "-5",
         "points": "14"
       },
       {
@@ -2450,6 +2450,18 @@
       },
       {
         "position": "6",
+        "nom": "Go Ahead Eagles",
+        "matchs": "13",
+        "victoires": "5",
+        "nuls": "4",
+        "defaites": "4",
+        "buts_pour": "21",
+        "buts_contre": "19",
+        "difference": "2",
+        "points": "19"
+      },
+      {
+        "position": "7",
         "nom": "FC Groningen",
         "matchs": "12",
         "victoires": "6",
@@ -2461,7 +2473,19 @@
         "points": "19"
       },
       {
-        "position": "7",
+        "position": "8",
+        "nom": "Sparta R.",
+        "matchs": "13",
+        "victoires": "6",
+        "nuls": "1",
+        "defaites": "6",
+        "buts_pour": "15",
+        "buts_contre": "24",
+        "difference": "-9",
+        "points": "19"
+      },
+      {
+        "position": "9",
         "nom": "NEC Nijmegen",
         "matchs": "12",
         "victoires": "5",
@@ -2473,7 +2497,7 @@
         "points": "18"
       },
       {
-        "position": "8",
+        "position": "10",
         "nom": "FC Twente",
         "matchs": "13",
         "victoires": "4",
@@ -2485,39 +2509,15 @@
         "points": "17"
       },
       {
-        "position": "9",
+        "position": "11",
         "nom": "Fortuna Sittard",
         "matchs": "13",
         "victoires": "5",
-        "nuls": "2",
-        "defaites": "6",
+        "nuls": "1",
+        "defaites": "7",
         "buts_pour": "18",
-        "buts_contre": "20",
-        "difference": "-2",
-        "points": "17"
-      },
-      {
-        "position": "10",
-        "nom": "Sparta R.",
-        "matchs": "13",
-        "victoires": "5",
-        "nuls": "2",
-        "defaites": "6",
-        "buts_pour": "14",
-        "buts_contre": "24",
-        "difference": "-10",
-        "points": "17"
-      },
-      {
-        "position": "11",
-        "nom": "Go Ahead Eagles",
-        "matchs": "13",
-        "victoires": "4",
-        "nuls": "4",
-        "defaites": "5",
-        "buts_pour": "19",
-        "buts_contre": "19",
-        "difference": "0",
+        "buts_contre": "21",
+        "difference": "-3",
         "points": "16"
       },
       {
@@ -2582,18 +2582,6 @@
       },
       {
         "position": "17",
-        "nom": "Almelo",
-        "matchs": "13",
-        "victoires": "4",
-        "nuls": "0",
-        "defaites": "9",
-        "buts_pour": "18",
-        "buts_contre": "33",
-        "difference": "-15",
-        "points": "12"
-      },
-      {
-        "position": "18",
         "nom": "Telstar",
         "matchs": "12",
         "victoires": "2",
@@ -2602,6 +2590,18 @@
         "buts_pour": "14",
         "buts_contre": "21",
         "difference": "-7",
+        "points": "9"
+      },
+      {
+        "position": "18",
+        "nom": "Almelo",
+        "matchs": "13",
+        "victoires": "3",
+        "nuls": "0",
+        "defaites": "10",
+        "buts_pour": "18",
+        "buts_contre": "35",
+        "difference": "-17",
         "points": "9"
       }
     ]
@@ -12978,14 +12978,14 @@
       {
         "position": "1",
         "nom": "Universitario",
-        "matchs": "16",
+        "matchs": "17",
         "victoires": "12",
-        "nuls": "4",
+        "nuls": "5",
         "defaites": "0",
         "buts_pour": "28",
         "buts_contre": "10",
         "difference": "18",
-        "points": "40"
+        "points": "41"
       },
       {
         "position": "2",
@@ -13049,6 +13049,18 @@
       },
       {
         "position": "7",
+        "nom": "Los Chankas",
+        "matchs": "17",
+        "victoires": "8",
+        "nuls": "1",
+        "defaites": "8",
+        "buts_pour": "18",
+        "buts_contre": "27",
+        "difference": "-9",
+        "points": "25"
+      },
+      {
+        "position": "8",
         "nom": "Cienciano",
         "matchs": "16",
         "victoires": "7",
@@ -13060,7 +13072,7 @@
         "points": "24"
       },
       {
-        "position": "8",
+        "position": "9",
         "nom": "AD Tarma",
         "matchs": "16",
         "victoires": "7",
@@ -13069,18 +13081,6 @@
         "buts_pour": "19",
         "buts_contre": "20",
         "difference": "-1",
-        "points": "24"
-      },
-      {
-        "position": "9",
-        "nom": "Los Chankas",
-        "matchs": "16",
-        "victoires": "8",
-        "nuls": "0",
-        "defaites": "8",
-        "buts_pour": "18",
-        "buts_contre": "27",
-        "difference": "-9",
         "points": "24"
       },
       {
@@ -13220,8 +13220,8 @@
         "nuls": "1",
         "defaites": "1",
         "buts_pour": "27",
-        "buts_contre": "11",
-        "difference": "16",
+        "buts_contre": "12",
+        "difference": "15",
         "points": "34"
       },
       {
@@ -13255,9 +13255,9 @@
         "victoires": "5",
         "nuls": "5",
         "defaites": "4",
-        "buts_pour": "27",
+        "buts_pour": "28",
         "buts_contre": "22",
-        "difference": "5",
+        "difference": "6",
         "points": "20"
       },
       {
@@ -13322,18 +13322,6 @@
       },
       {
         "position": "11",
-        "nom": "RSCA Futures",
-        "matchs": "12",
-        "victoires": "3",
-        "nuls": "5",
-        "defaites": "4",
-        "buts_pour": "15",
-        "buts_contre": "17",
-        "difference": "-2",
-        "points": "14"
-      },
-      {
-        "position": "12",
         "nom": "Lierse SK",
         "matchs": "13",
         "victoires": "3",
@@ -13345,7 +13333,7 @@
         "points": "13"
       },
       {
-        "position": "13",
+        "position": "12",
         "nom": "Francs Borains",
         "matchs": "13",
         "victoires": "3",
@@ -13357,7 +13345,7 @@
         "points": "13"
       },
       {
-        "position": "14",
+        "position": "13",
         "nom": "Jong Genk",
         "matchs": "12",
         "victoires": "3",
@@ -13369,16 +13357,28 @@
         "points": "12"
       },
       {
+        "position": "14",
+        "nom": "RSCA Futures",
+        "matchs": "12",
+        "victoires": "2",
+        "nuls": "6",
+        "defaites": "4",
+        "buts_pour": "15",
+        "buts_contre": "18",
+        "difference": "-3",
+        "points": "12"
+      },
+      {
         "position": "15",
         "nom": "RFC Seraing",
         "matchs": "13",
         "victoires": "1",
-        "nuls": "5",
-        "defaites": "7",
-        "buts_pour": "12",
+        "nuls": "6",
+        "defaites": "6",
+        "buts_pour": "13",
         "buts_contre": "23",
-        "difference": "-11",
-        "points": "8"
+        "difference": "-10",
+        "points": "9"
       },
       {
         "position": "16",
