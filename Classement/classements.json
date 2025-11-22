@@ -13500,13 +13500,13 @@
         "position": "2",
         "nom": "Daejeon Hana C.",
         "matchs": "37",
-        "victoires": "18",
-        "nuls": "10",
+        "victoires": "17",
+        "nuls": "11",
         "defaites": "9",
         "buts_pour": "55",
-        "buts_contre": "45",
-        "difference": "10",
-        "points": "64"
+        "buts_contre": "46",
+        "difference": "9",
+        "points": "62"
       },
       {
         "position": "3",
@@ -13549,12 +13549,12 @@
         "nom": "Gangwon FC",
         "matchs": "37",
         "victoires": "12",
-        "nuls": "12",
-        "defaites": "13",
-        "buts_pour": "35",
+        "nuls": "13",
+        "defaites": "12",
+        "buts_pour": "36",
         "buts_contre": "41",
-        "difference": "-6",
-        "points": "48"
+        "difference": "-5",
+        "points": "49"
       }
     ]
   },
@@ -17021,13 +17021,13 @@
       {
         "position": "6",
         "nom": "Central Coast",
-        "matchs": "4",
+        "matchs": "5",
         "victoires": "2",
         "nuls": "1",
-        "defaites": "1",
-        "buts_pour": "5",
-        "buts_contre": "5",
-        "difference": "0",
+        "defaites": "2",
+        "buts_pour": "6",
+        "buts_contre": "7",
+        "difference": "-1",
         "points": "7"
       },
       {
@@ -17056,6 +17056,18 @@
       },
       {
         "position": "9",
+        "nom": "Western Sydney",
+        "matchs": "5",
+        "victoires": "1",
+        "nuls": "2",
+        "defaites": "2",
+        "buts_pour": "4",
+        "buts_contre": "6",
+        "difference": "-2",
+        "points": "5"
+      },
+      {
+        "position": "10",
         "nom": "Melbourne Vict.",
         "matchs": "4",
         "victoires": "1",
@@ -17067,7 +17079,7 @@
         "points": "4"
       },
       {
-        "position": "10",
+        "position": "11",
         "nom": "Newcastle",
         "matchs": "4",
         "victoires": "1",
@@ -17077,18 +17089,6 @@
         "buts_contre": "12",
         "difference": "-4",
         "points": "3"
-      },
-      {
-        "position": "11",
-        "nom": "Western Sydney",
-        "matchs": "4",
-        "victoires": "0",
-        "nuls": "2",
-        "defaites": "2",
-        "buts_pour": "2",
-        "buts_contre": "5",
-        "difference": "-3",
-        "points": "2"
       },
       {
         "position": "12",
