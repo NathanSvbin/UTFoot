@@ -1552,13 +1552,13 @@
         "position": "5",
         "nom": "Botafogo",
         "matchs": "35",
-        "victoires": "15",
-        "nuls": "11",
+        "victoires": "16",
+        "nuls": "10",
         "defaites": "9",
-        "buts_pour": "47",
+        "buts_pour": "49",
         "buts_contre": "30",
-        "difference": "17",
-        "points": "56"
+        "difference": "19",
+        "points": "58"
       },
       {
         "position": "6",
@@ -1637,12 +1637,12 @@
         "nom": "Grêmio",
         "matchs": "35",
         "victoires": "11",
-        "nuls": "11",
-        "defaites": "13",
+        "nuls": "10",
+        "defaites": "14",
         "buts_pour": "37",
-        "buts_contre": "43",
-        "difference": "-6",
-        "points": "44"
+        "buts_contre": "45",
+        "difference": "-8",
+        "points": "43"
       },
       {
         "position": "13",
@@ -8191,9 +8191,9 @@
         "victoires": "15",
         "nuls": "15",
         "defaites": "8",
-        "buts_pour": "41",
+        "buts_pour": "42",
         "buts_contre": "32",
-        "difference": "9",
+        "difference": "10",
         "points": "60"
       },
       {
@@ -8228,8 +8228,8 @@
         "nuls": "8",
         "defaites": "14",
         "buts_pour": "45",
-        "buts_contre": "38",
-        "difference": "7",
+        "buts_contre": "39",
+        "difference": "6",
         "points": "56"
       },
       {
@@ -9217,13 +9217,13 @@
         "position": "1",
         "nom": "Coquimbo Unido",
         "matchs": "28",
-        "victoires": "21",
-        "nuls": "6",
+        "victoires": "22",
+        "nuls": "5",
         "defaites": "1",
-        "buts_pour": "43",
+        "buts_pour": "44",
         "buts_contre": "14",
-        "difference": "29",
-        "points": "69"
+        "difference": "30",
+        "points": "71"
       },
       {
         "position": "2",
@@ -9350,12 +9350,12 @@
         "nom": "La Serena",
         "matchs": "28",
         "victoires": "7",
-        "nuls": "7",
-        "defaites": "14",
+        "nuls": "6",
+        "defaites": "15",
         "buts_pour": "32",
-        "buts_contre": "47",
-        "difference": "-15",
-        "points": "28"
+        "buts_contre": "48",
+        "difference": "-16",
+        "points": "27"
       },
       {
         "position": "13",
