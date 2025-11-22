@@ -31319,18 +31319,6 @@
     "equipes": [
       {
         "position": "1",
-        "nom": "Kitchee",
-        "matchs": "6",
-        "victoires": "4",
-        "nuls": "2",
-        "defaites": "0",
-        "buts_pour": "14",
-        "buts_contre": "6",
-        "difference": "8",
-        "points": "14"
-      },
-      {
-        "position": "2",
         "nom": "North District",
         "matchs": "7",
         "victoires": "4",
@@ -31342,28 +31330,40 @@
         "points": "14"
       },
       {
+        "position": "2",
+        "nom": "Kitchee",
+        "matchs": "6",
+        "victoires": "4",
+        "nuls": "2",
+        "defaites": "0",
+        "buts_pour": "14",
+        "buts_contre": "6",
+        "difference": "8",
+        "points": "14"
+      },
+      {
         "position": "3",
         "nom": "Tai Po",
         "matchs": "7",
-        "victoires": "3",
-        "nuls": "3",
+        "victoires": "4",
+        "nuls": "2",
         "defaites": "1",
-        "buts_pour": "14",
+        "buts_pour": "15",
         "buts_contre": "7",
-        "difference": "7",
-        "points": "12"
+        "difference": "8",
+        "points": "14"
       },
       {
         "position": "4",
         "nom": "Eastern Dist.",
         "matchs": "9",
         "victoires": "3",
-        "nuls": "3",
-        "defaites": "3",
+        "nuls": "2",
+        "defaites": "4",
         "buts_pour": "6",
-        "buts_contre": "4",
-        "difference": "2",
-        "points": "12"
+        "buts_contre": "5",
+        "difference": "1",
+        "points": "11"
       },
       {
         "position": "5",
@@ -31391,18 +31391,6 @@
       },
       {
         "position": "7",
-        "nom": "Kowloon City",
-        "matchs": "9",
-        "victoires": "2",
-        "nuls": "3",
-        "defaites": "4",
-        "buts_pour": "8",
-        "buts_contre": "15",
-        "difference": "-7",
-        "points": "9"
-      },
-      {
-        "position": "8",
         "nom": "Eastern",
         "matchs": "7",
         "victoires": "2",
@@ -31414,16 +31402,28 @@
         "points": "8"
       },
       {
-        "position": "9",
+        "position": "8",
         "nom": "Southern",
         "matchs": "7",
-        "victoires": "1",
-        "nuls": "3",
+        "victoires": "2",
+        "nuls": "2",
         "defaites": "3",
-        "buts_pour": "5",
+        "buts_pour": "6",
         "buts_contre": "9",
-        "difference": "-4",
-        "points": "6"
+        "difference": "-3",
+        "points": "8"
+      },
+      {
+        "position": "9",
+        "nom": "Kowloon City",
+        "matchs": "9",
+        "victoires": "2",
+        "nuls": "2",
+        "defaites": "5",
+        "buts_pour": "8",
+        "buts_contre": "16",
+        "difference": "-8",
+        "points": "8"
       },
       {
         "position": "10",
