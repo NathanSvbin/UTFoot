@@ -821,8 +821,8 @@
         "nuls": "2",
         "defaites": "3",
         "buts_pour": "27",
-        "buts_contre": "20",
-        "difference": "7",
+        "buts_contre": "21",
+        "difference": "6",
         "points": "20"
       },
       {
@@ -856,9 +856,9 @@
         "victoires": "4",
         "nuls": "2",
         "defaites": "5",
-        "buts_pour": "18",
+        "buts_pour": "19",
         "buts_contre": "19",
-        "difference": "-1",
+        "difference": "0",
         "points": "14"
       },
       {
@@ -4169,27 +4169,15 @@
         "nom": "Panetolikos",
         "matchs": "11",
         "victoires": "3",
-        "nuls": "2",
-        "defaites": "6",
-        "buts_pour": "12",
+        "nuls": "3",
+        "defaites": "5",
+        "buts_pour": "13",
         "buts_contre": "17",
-        "difference": "-5",
-        "points": "11"
+        "difference": "-4",
+        "points": "12"
       },
       {
         "position": "10",
-        "nom": "Asteras Aktor",
-        "matchs": "11",
-        "victoires": "2",
-        "nuls": "4",
-        "defaites": "5",
-        "buts_pour": "13",
-        "buts_contre": "16",
-        "difference": "-3",
-        "points": "10"
-      },
-      {
-        "position": "11",
         "nom": "Atromitos Athen",
         "matchs": "11",
         "victoires": "2",
@@ -4199,6 +4187,18 @@
         "buts_contre": "13",
         "difference": "-2",
         "points": "9"
+      },
+      {
+        "position": "11",
+        "nom": "Asteras Aktor",
+        "matchs": "11",
+        "victoires": "1",
+        "nuls": "5",
+        "defaites": "5",
+        "buts_pour": "13",
+        "buts_contre": "17",
+        "difference": "-4",
+        "points": "8"
       },
       {
         "position": "12",
@@ -4276,8 +4276,8 @@
         "victoires": "7",
         "nuls": "4",
         "defaites": "2",
-        "buts_pour": "24",
-        "buts_contre": "12",
+        "buts_pour": "25",
+        "buts_contre": "13",
         "difference": "12",
         "points": "25"
       },
@@ -4420,8 +4420,8 @@
         "victoires": "3",
         "nuls": "4",
         "defaites": "5",
-        "buts_pour": "12",
-        "buts_contre": "18",
+        "buts_pour": "13",
+        "buts_contre": "19",
         "difference": "-6",
         "points": "13"
       },
@@ -4738,9 +4738,9 @@
         "victoires": "8",
         "nuls": "4",
         "defaites": "2",
-        "buts_pour": "28",
+        "buts_pour": "29",
         "buts_contre": "18",
-        "difference": "10",
+        "difference": "11",
         "points": "28"
       },
       {
@@ -4859,24 +4859,12 @@
         "nuls": "6",
         "defaites": "5",
         "buts_pour": "14",
-        "buts_contre": "14",
-        "difference": "0",
+        "buts_contre": "15",
+        "difference": "-1",
         "points": "18"
       },
       {
         "position": "13",
-        "nom": "SD Eibar",
-        "matchs": "15",
-        "victoires": "4",
-        "nuls": "6",
-        "defaites": "5",
-        "buts_pour": "17",
-        "buts_contre": "17",
-        "difference": "0",
-        "points": "18"
-      },
-      {
-        "position": "14",
         "nom": "AD Ceuta",
         "matchs": "13",
         "victoires": "5",
@@ -4886,6 +4874,18 @@
         "buts_contre": "16",
         "difference": "-4",
         "points": "18"
+      },
+      {
+        "position": "14",
+        "nom": "SD Eibar",
+        "matchs": "15",
+        "victoires": "4",
+        "nuls": "5",
+        "defaites": "6",
+        "buts_pour": "17",
+        "buts_contre": "18",
+        "difference": "-1",
+        "points": "17"
       },
       {
         "position": "15",
@@ -4975,13 +4975,13 @@
         "position": "22",
         "nom": "Real Zaragoza",
         "matchs": "15",
-        "victoires": "2",
-        "nuls": "4",
+        "victoires": "3",
+        "nuls": "3",
         "defaites": "9",
-        "buts_pour": "9",
+        "buts_pour": "10",
         "buts_contre": "24",
-        "difference": "-15",
-        "points": "10"
+        "difference": "-14",
+        "points": "12"
       }
     ]
   },
@@ -6152,6 +6152,18 @@
       },
       {
         "position": "11",
+        "nom": "Legia Varsovie",
+        "matchs": "15",
+        "victoires": "4",
+        "nuls": "6",
+        "defaites": "5",
+        "buts_pour": "16",
+        "buts_contre": "15",
+        "difference": "1",
+        "points": "18"
+      },
+      {
+        "position": "12",
         "nom": "Arka Gdynia",
         "matchs": "16",
         "victoires": "5",
@@ -6161,18 +6173,6 @@
         "buts_contre": "28",
         "difference": "-15",
         "points": "18"
-      },
-      {
-        "position": "12",
-        "nom": "Legia Varsovie",
-        "matchs": "14",
-        "victoires": "4",
-        "nuls": "5",
-        "defaites": "5",
-        "buts_pour": "16",
-        "buts_contre": "15",
-        "difference": "1",
-        "points": "17"
       },
       {
         "position": "13",
@@ -6237,14 +6237,14 @@
       {
         "position": "18",
         "nom": "Lechia Gdansk",
-        "matchs": "15",
+        "matchs": "16",
         "victoires": "5",
-        "nuls": "3",
+        "nuls": "4",
         "defaites": "7",
         "buts_pour": "25",
         "buts_contre": "32",
         "difference": "-7",
-        "points": "13"
+        "points": "14"
       }
     ]
   },
@@ -25047,6 +25047,99 @@
     ]
   },
   {
+    "id_championnat": "134",
+    "championnat": "Liga 2",
+    "url": "https://www.transfermarkt.fr/liga-2/tabelle/wettbewerb/PER2/saison_id/2025",
+    "id_pays": "107",
+    "saison": 2025,
+    "equipes": [
+      {
+        "position": "1",
+        "nom": "FC Cajamarca",
+        "matchs": "12",
+        "victoires": "8",
+        "nuls": "1",
+        "defaites": "3",
+        "buts_pour": "19",
+        "buts_contre": "13",
+        "difference": "6",
+        "points": "25"
+      },
+      {
+        "position": "2",
+        "nom": "FC San Marcos",
+        "matchs": "12",
+        "victoires": "5",
+        "nuls": "3",
+        "defaites": "4",
+        "buts_pour": "9",
+        "buts_contre": "5",
+        "difference": "4",
+        "points": "18"
+      },
+      {
+        "position": "3",
+        "nom": "César Vallejo",
+        "matchs": "12",
+        "victoires": "5",
+        "nuls": "2",
+        "defaites": "5",
+        "buts_pour": "14",
+        "buts_contre": "10",
+        "difference": "4",
+        "points": "17"
+      },
+      {
+        "position": "4",
+        "nom": "ADA Jaén",
+        "matchs": "12",
+        "victoires": "4",
+        "nuls": "4",
+        "defaites": "4",
+        "buts_pour": "12",
+        "buts_contre": "13",
+        "difference": "-1",
+        "points": "16"
+      },
+      {
+        "position": "5",
+        "nom": "CA Mannucci",
+        "matchs": "12",
+        "victoires": "5",
+        "nuls": "2",
+        "defaites": "5",
+        "buts_pour": "17",
+        "buts_contre": "14",
+        "difference": "3",
+        "points": "15"
+      },
+      {
+        "position": "6",
+        "nom": "Llacuabamba",
+        "matchs": "12",
+        "victoires": "4",
+        "nuls": "3",
+        "defaites": "5",
+        "buts_pour": "12",
+        "buts_contre": "17",
+        "difference": "-5",
+        "points": "15"
+      },
+      {
+        "position": "7",
+        "nom": "Pirata FC",
+        "matchs": "12",
+        "victoires": "3",
+        "nuls": "1",
+        "defaites": "8",
+        "buts_pour": "5",
+        "buts_contre": "16",
+        "difference": "-11",
+        "points": "10"
+      }
+    ]
+  },
+  {
     "id_championnat": "135",
     "championnat": "Superliga e Kosovës",
     "url": "https://www.transfermarkt.fr/superliga-e-kosoves/tabelle/wettbewerb/KO1/saison_id/2025",
@@ -35199,14 +35292,14 @@
       {
         "position": "1",
         "nom": "Inverness Cal.",
-        "matchs": "13",
-        "victoires": "10",
+        "matchs": "14",
+        "victoires": "11",
         "nuls": "1",
         "defaites": "2",
-        "buts_pour": "22",
+        "buts_pour": "26",
         "buts_contre": "8",
-        "difference": "14",
-        "points": "26"
+        "difference": "18",
+        "points": "29"
       },
       {
         "position": "2",
@@ -35259,13 +35352,13 @@
       {
         "position": "6",
         "nom": "Queen o. t. S.",
-        "matchs": "14",
+        "matchs": "15",
         "victoires": "6",
         "nuls": "3",
-        "defaites": "5",
+        "defaites": "6",
         "buts_pour": "19",
-        "buts_contre": "17",
-        "difference": "2",
+        "buts_contre": "21",
+        "difference": "-2",
         "points": "21"
       },
       {
