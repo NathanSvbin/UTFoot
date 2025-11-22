@@ -9228,14 +9228,14 @@
       {
         "position": "2",
         "nom": "U. Católica",
-        "matchs": "27",
+        "matchs": "28",
         "victoires": "15",
-        "nuls": "6",
+        "nuls": "7",
         "defaites": "6",
         "buts_pour": "40",
         "buts_contre": "24",
         "difference": "16",
-        "points": "51"
+        "points": "52"
       },
       {
         "position": "3",
@@ -9263,6 +9263,18 @@
       },
       {
         "position": "5",
+        "nom": "Palestino",
+        "matchs": "28",
+        "victoires": "13",
+        "nuls": "7",
+        "defaites": "8",
+        "buts_pour": "36",
+        "buts_contre": "27",
+        "difference": "9",
+        "points": "46"
+      },
+      {
+        "position": "6",
         "nom": "Audax Italiano",
         "matchs": "28",
         "victoires": "14",
@@ -9272,18 +9284,6 @@
         "buts_contre": "42",
         "difference": "6",
         "points": "46"
-      },
-      {
-        "position": "6",
-        "nom": "Palestino",
-        "matchs": "27",
-        "victoires": "13",
-        "nuls": "6",
-        "defaites": "8",
-        "buts_pour": "36",
-        "buts_contre": "27",
-        "difference": "9",
-        "points": "45"
       },
       {
         "position": "7",
@@ -30435,14 +30435,14 @@
       {
         "position": "5",
         "nom": "Juticalpa",
-        "matchs": "16",
+        "matchs": "17",
         "victoires": "6",
-        "nuls": "6",
+        "nuls": "7",
         "defaites": "4",
         "buts_pour": "22",
         "buts_contre": "28",
         "difference": "-6",
-        "points": "24"
+        "points": "25"
       },
       {
         "position": "6",
@@ -30471,14 +30471,14 @@
       {
         "position": "8",
         "nom": "Lobos UPNFM",
-        "matchs": "16",
+        "matchs": "17",
         "victoires": "5",
-        "nuls": "6",
+        "nuls": "7",
         "defaites": "5",
         "buts_pour": "23",
         "buts_contre": "28",
         "difference": "-5",
-        "points": "21"
+        "points": "22"
       },
       {
         "position": "9",
