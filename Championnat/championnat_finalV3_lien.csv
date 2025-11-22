@@ -1,0 +1,231 @@
+Id,Championnat,Lien,Valeur,Id_Pays
+1,Premier League,https://www.transfermarkt.fr/premier-league/startseite/wettbewerb/GB1,12770000000,4
+2,LaLiga,https://www.transfermarkt.fr/laliga/startseite/wettbewerb/ES1,5570000000,15
+3,Serie A,https://www.transfermarkt.fr/serie-a/startseite/wettbewerb/IT1,5430000000,27
+4,Bundesliga,https://www.transfermarkt.fr/bundesliga/startseite/wettbewerb/L1,4660000000,2
+5,Ligue 1,https://www.transfermarkt.fr/ligue-1/startseite/wettbewerb/FR1,3640000000,18
+12,Championship,https://www.transfermarkt.fr/championship/startseite/wettbewerb/GB2,1930000000,4
+10,Série A,https://www.transfermarkt.fr/campeonato-brasileiro-serie-a/startseite/wettbewerb/BRA1,1820000000,88
+6,Liga Portugal,https://www.transfermarkt.fr/liga-portugal/startseite/wettbewerb/PO1,1770000000,40
+9,MLS,https://www.transfermarkt.fr/major-league-soccer/startseite/wettbewerb/MLS1,1360000000,95
+8,Süper Lig,https://www.transfermarkt.fr/super-lig/startseite/wettbewerb/TR1,1330000000,50
+7,Eredivisie,https://www.transfermarkt.fr/eredivisie/startseite/wettbewerb/NL1,1210000000,37
+11,Saudi Pro League,https://www.transfermarkt.fr/saudi-pro-league/startseite/wettbewerb/SA1,1140000000,53
+13,Premier Liga,https://www.transfermarkt.fr/premier-liga/startseite/wettbewerb/RU1,1050000000,43
+14,Torneo Apertura,https://www.transfermarkt.fr/torneo-apertura/startseite/wettbewerb/ARG1,989700000,86
+15,Torneo Clausura,https://www.transfermarkt.fr/torneo-clausura/startseite/wettbewerb/ARGC,989700000,86
+16,Jupiler Pro League,https://www.transfermarkt.fr/jupiler-pro-league/startseite/wettbewerb/BE1,949630000,7
+17,Liga MX Clausura,https://www.transfermarkt.fr/liga-mx-clausura/startseite/wettbewerb/MEX1,902980000,99
+18,Liga MX Apertura,https://www.transfermarkt.fr/liga-mx-apertura/startseite/wettbewerb/MEXA,902980000,99
+19,Super League 1,https://www.transfermarkt.fr/super-league-1/startseite/wettbewerb/GR1,523850000,21
+20,Serie B,https://www.transfermarkt.fr/serie-b/startseite/wettbewerb/IT2,504150000,27
+21,2. Bundesliga,https://www.transfermarkt.fr/2-bundesliga/startseite/wettbewerb/L2,498200000,2
+22,LaLiga2,https://www.transfermarkt.fr/laliga2/startseite/wettbewerb/ES2,491100000,15
+23,Stars League,https://www.transfermarkt.fr/qatar-stars-league/startseite/wettbewerb/QSL,405480000,54
+24,Super League,https://www.transfermarkt.fr/super-league/startseite/wettbewerb/C1,394280000,48
+25,Premier Liga,https://www.transfermarkt.fr/premier-liga/startseite/wettbewerb/UKR1,391400000,51
+26,UAE Pro League,https://www.transfermarkt.fr/uae-pro-league/startseite/wettbewerb/UAE1,382280000,55
+27,Chance Liga,https://www.transfermarkt.fr/chance-liga/startseite/wettbewerb/TS1,376740000,41
+28,Bundesliga,https://www.transfermarkt.fr/bundesliga/startseite/wettbewerb/A1,375010000,5
+29,Ekstraklasa,https://www.transfermarkt.fr/pko-bp-ekstraklasa/startseite/wettbewerb/PL1,367130000,39
+30,Premiership,https://www.transfermarkt.fr/scottish-premiership/startseite/wettbewerb/SC1,353320000,14
+31,Superliga,https://www.transfermarkt.fr/superliga/startseite/wettbewerb/DK1,340000000,13
+32,Ligue 2,https://www.transfermarkt.fr/ligue-2/startseite/wettbewerb/FR2,323930000,18
+33,Eliteserien,https://www.transfermarkt.fr/eliteserien/startseite/wettbewerb/NO1,304430000,36
+34,J1 League,https://www.transfermarkt.fr/j1-league/startseite/wettbewerb/JAP1,302380000,56
+35,League One,https://www.transfermarkt.fr/league-one/startseite/wettbewerb/GB3,290780000,4
+36,Super liga Srbije,https://www.transfermarkt.fr/super-liga-srbije/startseite/wettbewerb/SER1,264180000,44
+37,Allsvenskan,https://www.transfermarkt.fr/allsvenskan/startseite/wettbewerb/SE1,259149999,49
+38,SuperLiga,https://www.transfermarkt.fr/superliga/startseite/wettbewerb/RO1,256709999,45
+39,Série B,https://www.transfermarkt.fr/campeonato-brasileiro-serie-b/startseite/wettbewerb/BRA2,231630000,88
+40,SuperSport HNL,https://www.transfermarkt.fr/supersport-hnl/startseite/wettbewerb/KR1,221770000,12
+41,Liga DIMAYOR II,https://www.transfermarkt.fr/liga-dimayor-finalizacion/startseite/wettbewerb/COL1,200100000,91
+42,Liga DIMAYOR I,https://www.transfermarkt.fr/liga-dimayor-apertura/startseite/wettbewerb/COLP,200100000,91
+43,efbet Liga,https://www.transfermarkt.fr/efbet-liga/startseite/wettbewerb/BU1,192750000,10
+44,Liga Primera,https://www.transfermarkt.fr/liga-de-primera/startseite/wettbewerb/CLPD,176620000,90
+45,Liga AUF Apertura,https://www.transfermarkt.fr/liga-auf-apertura/startseite/wettbewerb/URU1,167940000,105
+46,Liga AUF Clausura,https://www.transfermarkt.fr/liga-auf-clausura/startseite/wettbewerb/URUC,167940000,105
+47,Liga AUF Intermedio,https://www.transfermarkt.fr/liga-auf-intermedio/startseite/wettbewerb/URUI,167940000,105
+48,LigaPro Serie A,https://www.transfermarkt.fr/ligapro-serie-a/startseite/wettbewerb/EC1N,163840000,93
+49,Premier League,https://www.transfermarkt.fr/egyptian-premier-league/startseite/wettbewerb/EGY1,154730000,112
+50,1.Lig,https://www.transfermarkt.fr/1-lig/startseite/wettbewerb/TR2,151600000,50
+51,Ligat ha'Al,https://www.transfermarkt.fr/ligat-haal/startseite/wettbewerb/ISR1,150310000,26
+52,Liga Portugal 2,https://www.transfermarkt.fr/liga-portugal-2/startseite/wettbewerb/PO2,148040000,40
+53,NB I.,https://www.transfermarkt.fr/nemzeti-bajnoksag/startseite/wettbewerb/UNG1,147130000,22
+54,Betway Premiership,https://www.transfermarkt.fr/betway-premiership/startseite/wettbewerb/SFA1,145900000,110
+55,Cyprus League,https://www.transfermarkt.fr/cyprus-league/startseite/wettbewerb/ZYP1,145150000,11
+56,3. Liga,https://www.transfermarkt.fr/3-liga/startseite/wettbewerb/L3,142890000,2
+57,Keuken Kampioen Divisie,https://www.transfermarkt.fr/keuken-kampioen-divisie/startseite/wettbewerb/NL2,141300000,37
+58,J2 League,https://www.transfermarkt.fr/j2-league/startseite/wettbewerb/JAP2,139900000,56
+59,Super League,https://www.transfermarkt.fr/chinese-super-league/startseite/wettbewerb/CSL,139060000,57
+60,1.Division,https://www.transfermarkt.fr/1-division/startseite/wettbewerb/RU2,138640000,13
+61,Liga 1 Apertura,https://www.transfermarkt.fr/liga-1-apertura/startseite/wettbewerb/TDeA,136660000,104
+62,Liga 1 Clausura,https://www.transfermarkt.fr/liga-1-clausura/startseite/wettbewerb/TDeC,135680000,104
+63,Challenger Pro League,https://www.transfermarkt.fr/challenger-pro-league/startseite/wettbewerb/BE2,135450000,8
+64,Persian Gulf League,https://www.transfermarkt.fr/persian-gulf-pro-league/startseite/wettbewerb/IRN1,135250000,58
+65,K League 1,https://www.transfermarkt.fr/k-league-1/startseite/wettbewerb/RSK1,133800000,59
+66,Primera División Apertura,https://www.transfermarkt.fr/primera-division-apertura/startseite/wettbewerb/PR1A,124900000,102
+67,Primera División Clausura,https://www.transfermarkt.fr/primera-division-clausura/startseite/wettbewerb/PR1C,124900000,102
+68,Botola Pro Inwi,https://www.transfermarkt.fr/botola-pro-inwi/startseite/wettbewerb/MAR1,121220000,116
+69,Serie C - C,https://www.transfermarkt.fr/serie-c-girone-c/startseite/wettbewerb/IT3C,115750000,27
+70,Premyer Liqa,https://www.transfermarkt.fr/premyer-liqa/startseite/wettbewerb/AZ1,110380000,6
+71,Primera Nacional,https://www.transfermarkt.fr/primera-nacional/startseite/wettbewerb/ARG2,104620000,86
+72,Serie C - A,https://www.transfermarkt.fr/serie-c-girone-a/startseite/wettbewerb/IT3A,99900000,27
+73,Niké Liga,https://www.transfermarkt.fr/nike-liga/startseite/wettbewerb/SLO1,98680000,45
+74,Serie C - B,https://www.transfermarkt.fr/serie-c-girone-b/startseite/wettbewerb/IT3B,98320000,27
+75,Ligue 1,https://www.transfermarkt.fr/ligue-1/startseite/wettbewerb/ALG1,97380000,109
+76,Primera Federación - Gr. I,https://www.transfermarkt.fr/primera-federacion-grupo-i/startseite/wettbewerb/E3G1,96650000,15
+77,USLC,https://www.transfermarkt.fr/usl-championship/startseite/wettbewerb/USL,95810000,95
+78,League Two,https://www.transfermarkt.fr/league-two/startseite/wettbewerb/GB4,93350000,4
+79,Iraq Stars League,https://www.transfermarkt.fr/iraq-stars-league/startseite/wettbewerb/IRQ1,93060000,60
+80,Primera Federación - Gr. II,https://www.transfermarkt.fr/primera-federacion-grupo-ii/startseite/wettbewerb/E3G2,89650000,15
+81,Liga Expansión MX Cl.,https://www.transfermarkt.fr/liga-de-expansion-mx-clausura/startseite/wettbewerb/MEX2,89430000,99
+82,Liga Expansión MX Ap.,https://www.transfermarkt.fr/liga-de-expansion-mx-apertura/startseite/wettbewerb/MEXB,89430000,99
+83,A-League Men,https://www.transfermarkt.fr/a-league-men/startseite/wettbewerb/AUS1,87230000,61
+84,K League 2,https://www.transfermarkt.fr/k-league-2/startseite/wettbewerb/RSK2,87100000,59
+85,Superliga,https://www.transfermarkt.fr/ozbekiston-superligasi/startseite/wettbewerb/UZ1,87010000,81
+86,División Profesional,https://www.transfermarkt.fr/division-profesional/startseite/wettbewerb/BO1A,85010000,87
+87,Betclic 1 Liga,https://www.transfermarkt.fr/betclic-1-liga/startseite/wettbewerb/PL2,83240000,40
+88,Premier Liga,https://www.transfermarkt.fr/premier-liga/startseite/wettbewerb/KAS1,82960000,28
+89,Saudi First Division League,https://www.transfermarkt.fr/saudi-first-division-league/startseite/wettbewerb/SA2L,82600000,53
+90,Ligue 1,https://www.transfermarkt.fr/ligue-1/startseite/wettbewerb/TUN1,80630000,121
+91,Thai League,https://www.transfermarkt.fr/thai-league/startseite/wettbewerb/THA1,80340000,63
+92,OBOS-ligaen,https://www.transfermarkt.fr/obos-ligaen/startseite/wettbewerb/NO2,79620000,36
+93,Super League,https://www.transfermarkt.fr/super-league/startseite/wettbewerb/IN1L,78350000,64
+94,Super League 2,https://www.transfermarkt.fr/super-league-2/startseite/wettbewerb/GRS2,77300000,21
+95,Superettan,https://www.transfermarkt.fr/superettan/startseite/wettbewerb/SE2,76100000,49
+96,Liga FUTVE Apertura,https://www.transfermarkt.fr/liga-futve-apertura/startseite/wettbewerb/VZ1A,74290000,106
+97,Liga FUTVE Clausura,https://www.transfermarkt.fr/liga-futve-clausura/startseite/wettbewerb/VZ1C,74290000,106
+98,Libyan Premier League,https://www.transfermarkt.fr/libyan-premier-league/startseite/wettbewerb/LPL,74180000,115
+99,Liga de Ascenso,https://www.transfermarkt.fr/liga-de-ascenso/startseite/wettbewerb/CL2B,73220000,90
+100,1.Division,https://www.transfermarkt.fr/1-division/startseite/wettbewerb/DK2,73200000,36
+101,2. Division A (Phase 2),https://www.transfermarkt.fr/2-division-a-phase-2-/startseite/wettbewerb/R3D2,72640000,11
+102,2. Liga,https://www.transfermarkt.fr/2-liga/startseite/wettbewerb/A2,71910000,5
+103,Prva Liga,https://www.transfermarkt.fr/prva-liga/startseite/wettbewerb/SL1,69930000,46
+104,Ch. National,https://www.transfermarkt.fr/championnat-national/startseite/wettbewerb/FR3,64450000,18
+105,ChNL,https://www.transfermarkt.fr/chance-narodni-liga/startseite/wettbewerb/TS2,63890000,51
+106,Vysshaya Liga,https://www.transfermarkt.fr/vysshaya-liga/startseite/wettbewerb/WER1,61080000,43
+107,Premijer Liga BiH,https://www.transfermarkt.fr/premijer-liga-bosne-i-hercegovine/startseite/wettbewerb/BOS1,60610000,9
+108,2. Division A (Phase 1),https://www.transfermarkt.fr/2-division-a-phase-1-/startseite/wettbewerb/R3D1,59030000,11
+109,Liga 2,https://www.transfermarkt.fr/liga-2/startseite/wettbewerb/RO2,57800000,42
+110,V.League 1,https://www.transfermarkt.fr/v-league-1/startseite/wettbewerb/VIE1,57020000,65
+111,Super League,https://www.transfermarkt.fr/malaysia-super-league/startseite/wettbewerb/MYS1,53690000,66
+112,Premier League,https://www.transfermarkt.fr/premier-league/startseite/wettbewerb/ARM1,49570000,4
+113,Challenge League,https://www.transfermarkt.fr/challenge-league/startseite/wettbewerb/C2,49100000,48
+114,Kategoria Superiore,https://www.transfermarkt.fr/kategoria-superiore/startseite/wettbewerb/ALB1,48810000,1
+115,Veikkausliiga,https://www.transfermarkt.fr/veikkausliiga/startseite/wettbewerb/FI1,47980000,17
+116,Virsliga,https://www.transfermarkt.fr/virsliga/startseite/wettbewerb/LET1,47630000,30
+117,Indian Super League,https://www.transfermarkt.fr/indian-super-league/startseite/wettbewerb/IND1,47420000,64
+118,Torneo Competencia,https://www.transfermarkt.fr/segunda-division-torneo-competencia/startseite/wettbewerb/UR2T,47390000,105
+119,Segunda División,https://www.transfermarkt.fr/segunda-division-fase-regular/startseite/wettbewerb/URU2,47390000,105
+120,Torneo DIMAYOR II,https://www.transfermarkt.fr/torneo-dimayor-ii/startseite/wettbewerb/CO22,47060000,91
+121,Torneo DIMAYOR I,https://www.transfermarkt.fr/torneo-dimayor-i/startseite/wettbewerb/CO2T,47060000,91
+122,A Lyga,https://www.transfermarkt.fr/a-lyga/startseite/wettbewerb/LI1,46750000,31
+123,Premier League Opening Round,https://www.transfermarkt.fr/premier-league-opening-round/startseite/wettbewerb/MT1N,46600000,34
+124,Segunda Federación - Gr. III,https://www.transfermarkt.fr/segunda-federacion-grupo-iii/startseite/wettbewerb/E4G3,45780000,15
+125,Primera División Apertura,https://www.transfermarkt.fr/primera-division-apertura/startseite/wettbewerb/CRPD,44550000,92
+126,Primera División Clausura,https://www.transfermarkt.fr/primera-division-clausura/startseite/wettbewerb/PDV1,44550000,101
+127,League One,https://www.transfermarkt.fr/china-league-one/startseite/wettbewerb/CLO,44410000,57
+128,Persha Liga,https://www.transfermarkt.fr/persha-liga/startseite/wettbewerb/UKR2,42340000,51
+129,Prva liga Srbije,https://www.transfermarkt.fr/prva-liga-srbije/startseite/wettbewerb/SER2,41060000,44
+130,Liga 2,https://www.transfermarkt.fr/liga-2/startseite/wettbewerb/PER2,41040000,107
+131,Superliga e Kosovës,https://www.transfermarkt.fr/superliga-e-kosoves/startseite/wettbewerb/KO1,40540000,29
+132,Prva liga,https://www.transfermarkt.fr/prva-makedonska-fudbalska-liga/startseite/wettbewerb/MAZ1,39090000,35
+133,NB II.,https://www.transfermarkt.fr/nemzeti-bajnoksag-ii-/startseite/wettbewerb/UN2,38540000,22
+134,Regionalliga Südwest,https://www.transfermarkt.fr/regionalliga-sudwest/startseite/wettbewerb/RLSW,38010000,2
+135,Liga Leumit,https://www.transfermarkt.fr/liga-leumit/startseite/wettbewerb/ISR2,38000000,26
+136,Regionalliga West,https://www.transfermarkt.fr/regionalliga-west/startseite/wettbewerb/RLW3,36960000,2
+137,Jindal League,https://www.transfermarkt.fr/oman-jindal-league/startseite/wettbewerb/OM1L,36620000,67
+138,Azadegan League,https://www.transfermarkt.fr/azadegan-league/startseite/wettbewerb/IRN2,35750000,58
+139,Vtora Liga,https://www.transfermarkt.fr/vtora-liga/startseite/wettbewerb/BU2,35100000,10
+140,Segunda Federación - Gr. IV,https://www.transfermarkt.fr/segunda-federacion-grupo-iv/startseite/wettbewerb/E4G4,34400000,15
+141,Regionalliga Bayern,https://www.transfermarkt.fr/regionalliga-bayern/startseite/wettbewerb/RLB3,34140000,2
+142,Erovnuli Liga,https://www.transfermarkt.fr/erovnuli-liga/startseite/wettbewerb/GE1N,33780000,19
+143,Regionalliga Nord-Est,https://www.transfermarkt.fr/regionalliga-nord-est/startseite/wettbewerb/RLN4,33450000,2
+144,First Division,https://www.transfermarkt.fr/first-division/startseite/wettbewerb/SC2,33409999,34
+145,USL1,https://www.transfermarkt.fr/usl-league-one/startseite/wettbewerb/USC3,33259999,95
+146,Liga Guate Apertura,https://www.transfermarkt.fr/liga-guate-apertura/startseite/wettbewerb/GU1A,32509999,96
+147,Liga Guate Clausura,https://www.transfermarkt.fr/liga-guate-clausura/startseite/wettbewerb/GU1C,32509999,96
+148,Liga Pro Serie B,https://www.transfermarkt.fr/liga-pro-serie-b/startseite/wettbewerb/EC2L,30570000,93
+149,Lebanese Premier League,https://www.transfermarkt.fr/lebanese-premier-league/startseite/wettbewerb/LIB1,30290000,68
+150,Serie D - B,https://www.transfermarkt.fr/serie-d-girone-b/startseite/wettbewerb/IT4B,29800000,27
+151,Besta deild,https://www.transfermarkt.fr/besta-deild/startseite/wettbewerb/IS1,29690000,25
+152,2.Lig Beyaz,https://www.transfermarkt.fr/2-lig-beyaz/startseite/wettbewerb/TR3A,29460000,50
+153,Qatari Second Division,https://www.transfermarkt.fr/qatari-second-division/startseite/wettbewerb/QU2L,29350000,54
+154,Kyrgyz Premier League,https://www.transfermarkt.fr/kyrgyz-premier-league/startseite/wettbewerb/KG1L,29230000,69
+155,Jordanian Pro League,https://www.transfermarkt.fr/jordanian-pro-league/startseite/wettbewerb/JO1L,28930000,70
+156,Liga Panameña Apertura,https://www.transfermarkt.fr/liga-panamena-de-futbol-apertura/startseite/wettbewerb/PN1A,28860000,101
+157,Liga Panameña Clausura,https://www.transfermarkt.fr/liga-panamena-de-futbol-clausura/startseite/wettbewerb/PN1C,28850000,101
+158,Thai League 2,https://www.transfermarkt.fr/thai-league-2/startseite/wettbewerb/THA2,28750000,63
+159,2.Lig Kirmizi,https://www.transfermarkt.fr/2-lig-kirmizi/startseite/wettbewerb/TR3B,28360000,50
+160,Premier Division,https://www.transfermarkt.fr/league-of-ireland-premier-division/startseite/wettbewerb/IR1,27600000,24
+161,Liga Nacional Apertura,https://www.transfermarkt.fr/liga-nacional-apertura/startseite/wettbewerb/HO1A,27070000,97
+162,Segunda Federación - Gr. II,https://www.transfermarkt.fr/segunda-federacion-grupo-ii/startseite/wettbewerb/E4G2,27000000,15
+163,Regionalliga Nord,https://www.transfermarkt.fr/regionalliga-nord/startseite/wettbewerb/RLN3,26950000,2
+164,Premium Liiga,https://www.transfermarkt.fr/premium-liiga/startseite/wettbewerb/EST1,26850000,16
+165,Primera División Apertura,https://www.transfermarkt.fr/primera-division-apertura/startseite/wettbewerb/SL1A,26530000,94
+166,Primera División Clausura,https://www.transfermarkt.fr/primera-division-clausura/startseite/wettbewerb/SL1C,26530000,94
+167,Serie D - H,https://www.transfermarkt.fr/serie-d-girone-h/startseite/wettbewerb/IT4H,26510000,27
+168,Championship,https://www.transfermarkt.fr/championship/startseite/wettbewerb/ILI2,26480000,85
+169,Segunda Federación - Gr. V,https://www.transfermarkt.fr/segunda-federacion-grupo-v/startseite/wettbewerb/E4G5,26450000,15
+170,Meridianbet 1. CFL,https://www.transfermarkt.fr/meridianbet-1-cfl/startseite/wettbewerb/MNE1,26370000,35
+171,Prva NL,https://www.transfermarkt.fr/prva-nogometna-liga/startseite/wettbewerb/KR2,25750000,46
+172,Premiership,https://www.transfermarkt.fr/premiership/startseite/wettbewerb/NIR1,25380000,24
+173,BGL Ligue,https://www.transfermarkt.fr/bgl-ligue/startseite/wettbewerb/LUX1,25370000,32
+174,Serie D - F,https://www.transfermarkt.fr/serie-d-girone-f/startseite/wettbewerb/IT4F,25220000,27
+175,Serie D - E,https://www.transfermarkt.fr/serie-d-girone-e/startseite/wettbewerb/IT4E,24320000,27
+176,Super Liga,https://www.transfermarkt.fr/super-liga/startseite/wettbewerb/MO1N,24280000,33
+177,Serie D - C,https://www.transfermarkt.fr/serie-d-girone-c/startseite/wettbewerb/IT4C,24040000,27
+178,Pershaya Liga,https://www.transfermarkt.fr/pershaya-liga/startseite/wettbewerb/WER2,24000000,
+179,National League Championship,https://www.transfermarkt.fr/national-league-championship/startseite/wettbewerb/NZNL,23370000,71
+180,Serie D - D,https://www.transfermarkt.fr/serie-d-girone-d/startseite/wettbewerb/IT4D,23070000,27
+181,Segunda Federación - Gr. I,https://www.transfermarkt.fr/segunda-federacion-grupo-i/startseite/wettbewerb/E4G1,22950000,15
+182,Premier League,https://www.transfermarkt.fr/ghana-premier-league/startseite/wettbewerb/GHPL,22930000,114
+183,CanPL,https://www.transfermarkt.fr/canadian-premier-league/startseite/wettbewerb/CDN1,22760000,89
+184,Hong Kong Premier League,https://www.transfermarkt.fr/hong-kong-premier-league/startseite/wettbewerb/HGKG,21960000,72
+185,Vysshaya Liga,https://www.transfermarkt.fr/vysshaya-liga/startseite/wettbewerb/TAD1,21960000,73
+186,Serie D - A,https://www.transfermarkt.fr/serie-d-girone-a/startseite/wettbewerb/IT4A,21140000,27
+187,National League - North,https://www.transfermarkt.fr/national-league-north/startseite/wettbewerb/NNL1,20430000,71
+188,Primera Divisió,https://www.transfermarkt.fr/primera-divisio/startseite/wettbewerb/AND1,20400000,3
+189,Premier League,https://www.transfermarkt.fr/singapore-premier-league/startseite/wettbewerb/SIN1,19950000,82
+190,Serie D - G,https://www.transfermarkt.fr/serie-d-girone-g/startseite/wettbewerb/IT4G,19660000,27
+191,Druga Liga,https://www.transfermarkt.fr/druga-liga/startseite/wettbewerb/SL2,19540000,12
+192,Serie D - I,https://www.transfermarkt.fr/serie-d-girone-i/startseite/wettbewerb/IT4I,18560000,27
+193,Prva liga FBIH,https://www.transfermarkt.fr/prva-liga-fbih/startseite/wettbewerb/BOS2,18340000,9
+194,Fiji Premier League,https://www.transfermarkt.fr/fiji-premier-league/startseite/wettbewerb/FIJ1,17050000,74
+195,Myanmar National League,https://www.transfermarkt.fr/myanmar-national-league/startseite/wettbewerb/MYA1,17000000,75
+196,II. Liga,https://www.transfermarkt.fr/monacobet-liga/startseite/wettbewerb/SK2,16800000,45
+197,C. Premier League,https://www.transfermarkt.fr/cambodian-premier-league/startseite/wettbewerb/KHM1,16399999,57
+198,Kategoria e Parë,https://www.transfermarkt.fr/kategoria-e-pare/startseite/wettbewerb/ALB2,15290000,1
+199,Bangladesh PL,https://www.transfermarkt.fr/bangladesh-premier-league/startseite/wettbewerb/BGD1,14750000,76
+200,Cymru Premier,https://www.transfermarkt.fr/cymru-premier/startseite/wettbewerb/WAL1,14260000,38
+201,Liga FUTVE 2,https://www.transfermarkt.fr/liga-futve-2/startseite/wettbewerb/VN2A,13030000,106
+202,Betri-deildin,https://www.transfermarkt.fr/betri-deildin/startseite/wettbewerb/FARO,12990000,52
+203,Prva Liga RS,https://www.transfermarkt.fr/prva-liga-rs/startseite/wettbewerb/BH2S,11840000,44
+204,PFL,https://www.transfermarkt.fr/philippines-football-league/startseite/wettbewerb/PFL1,11630000,77
+205,I-League,https://www.transfermarkt.fr/i-league/startseite/wettbewerb/INIL,10980000,64
+206,Liga 3,https://www.transfermarkt.fr/liga-3/startseite/wettbewerb/PT3A,10600000,42
+207,National League - Central,https://www.transfermarkt.fr/national-league-central/startseite/wettbewerb/NCL1,10060000,71
+208,Lengjudeild,https://www.transfermarkt.fr/lengjudeild/startseite/wettbewerb/IS2,9860000,25
+209,Copa Simón Bolívar (-2024),https://www.transfermarkt.fr/copa-simon-bolivar-2024-/startseite/wettbewerb/BOL2,9710000,87
+210,Gibraltar Football League,https://www.transfermarkt.fr/gibraltar-football-league/startseite/wettbewerb/GI1,9260000,20
+211,National League - South,https://www.transfermarkt.fr/national-league-south/startseite/wettbewerb/NSL1,9160000,71
+212,Camp. Sammarinese,https://www.transfermarkt.fr/campionato-sammarinese/startseite/wettbewerb/SMR1,8900000,47
+213,Promotion League,https://www.transfermarkt.fr/promotion-league/startseite/wettbewerb/CHPR,8780000,48
+214,Uzbekistan Pro Liga,https://www.transfermarkt.fr/uzbekistan-pro-liga/startseite/wettbewerb/UZ2L,8220000,81
+215,First League,https://www.transfermarkt.fr/armenian-first-league/startseite/wettbewerb/ARM2,7170000,33
+216,Pervaya Liga,https://www.transfermarkt.fr/pervaya-liga/startseite/wettbewerb/KAS2,7100000,43
+217,Norsk Tipping-Ligaen avd. 2,https://www.transfermarkt.fr/norsk-tipping-ligaen-avdeling-2/startseite/wettbewerb/NO42,6950000,36
+218,Ykkösliiga,https://www.transfermarkt.fr/ykkosliiga/startseite/wettbewerb/FI2,6860000,17
+219,National League,https://www.transfermarkt.fr/national-league/startseite/wettbewerb/CNAT,5830000,14
+220,MSFL,https://www.transfermarkt.fr/moravskoslezska-fotbalova-liga/startseite/wettbewerb/CZ3M,5650000,41
+221,Liga Primera Apertura,https://www.transfermarkt.fr/liga-primera-de-nicaragua-apertura/startseite/wettbewerb/NC1A,5600000,100
+222,CFL,https://www.transfermarkt.fr/ceska-fotbalova-liga/startseite/wettbewerb/CZ3C,5570000,10
+223,Lao League 1,https://www.transfermarkt.fr/lao-league-1/startseite/wettbewerb/LAO1,5570000,78
+224,2. Division B,https://www.transfermarkt.fr/2-division-b/startseite/wettbewerb/2DVB,5060000,11
+225,Football Premier League,https://www.transfermarkt.fr/taiwan-football-premier-league/startseite/wettbewerb/TFPL,4730000,66
+226,Premier League,https://www.transfermarkt.fr/ethiopian-premier-league/startseite/wettbewerb/ETP1,2180000,113
+227,NPFL,https://www.transfermarkt.fr/nigeria-professional-football-league/startseite/wettbewerb/NPFL,1100000,117
+228,Uganda Premier League,https://www.transfermarkt.fr/uganda-premier-league/startseite/wettbewerb/UGL1,975,118
+229,Ligue 1,https://www.transfermarkt.fr/ligue-1/startseite/wettbewerb/SEN1,0,119
+230,D1 Comores,https://www.transfermarkt.fr/championnat-des-comores-de-d1/startseite/wettbewerb/COM1,0,111
