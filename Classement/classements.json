@@ -30878,6 +30878,18 @@
       },
       {
         "position": "4",
+        "nom": "Auckland City",
+        "matchs": "8",
+        "victoires": "4",
+        "nuls": "2",
+        "defaites": "2",
+        "buts_pour": "13",
+        "buts_contre": "13",
+        "difference": "0",
+        "points": "14"
+      },
+      {
+        "position": "5",
         "nom": "Miramar Rangers",
         "matchs": "7",
         "victoires": "4",
@@ -30889,7 +30901,7 @@
         "points": "13"
       },
       {
-        "position": "5",
+        "position": "6",
         "nom": "Auckland FC Res",
         "matchs": "8",
         "victoires": "3",
@@ -30899,18 +30911,6 @@
         "buts_contre": "9",
         "difference": "1",
         "points": "12"
-      },
-      {
-        "position": "6",
-        "nom": "Auckland City",
-        "matchs": "7",
-        "victoires": "3",
-        "nuls": "2",
-        "defaites": "2",
-        "buts_pour": "11",
-        "buts_contre": "13",
-        "difference": "-2",
-        "points": "11"
       },
       {
         "position": "7",
@@ -30951,13 +30951,13 @@
       {
         "position": "10",
         "nom": "Phoenix Res.",
-        "matchs": "7",
+        "matchs": "8",
         "victoires": "2",
         "nuls": "1",
-        "defaites": "4",
+        "defaites": "5",
         "buts_pour": "9",
-        "buts_contre": "14",
-        "difference": "-5",
+        "buts_contre": "16",
+        "difference": "-7",
         "points": "7"
       },
       {
