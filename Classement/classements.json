@@ -9175,15 +9175,15 @@
       },
       {
         "position": "5",
-        "nom": "Cobresal",
+        "nom": "Audax Italiano",
         "matchs": "28",
         "victoires": "14",
-        "nuls": "5",
-        "defaites": "9",
-        "buts_pour": "35",
-        "buts_contre": "31",
-        "difference": "4",
-        "points": "47"
+        "nuls": "4",
+        "defaites": "10",
+        "buts_pour": "48",
+        "buts_contre": "42",
+        "difference": "6",
+        "points": "46"
       },
       {
         "position": "6",
@@ -9199,14 +9199,14 @@
       },
       {
         "position": "7",
-        "nom": "Audax Italiano",
+        "nom": "Cobresal",
         "matchs": "28",
         "victoires": "13",
         "nuls": "5",
         "defaites": "10",
-        "buts_pour": "46",
-        "buts_contre": "42",
-        "difference": "4",
+        "buts_pour": "35",
+        "buts_contre": "33",
+        "difference": "2",
         "points": "44"
       },
       {
@@ -9259,18 +9259,6 @@
       },
       {
         "position": "12",
-        "nom": "CD Everton",
-        "matchs": "28",
-        "victoires": "6",
-        "nuls": "9",
-        "defaites": "13",
-        "buts_pour": "27",
-        "buts_contre": "40",
-        "difference": "-13",
-        "points": "27"
-      },
-      {
-        "position": "13",
         "nom": "La Serena",
         "matchs": "27",
         "victoires": "7",
@@ -9282,40 +9270,52 @@
         "points": "27"
       },
       {
+        "position": "13",
+        "nom": "CD Everton",
+        "matchs": "28",
+        "victoires": "6",
+        "nuls": "8",
+        "defaites": "14",
+        "buts_pour": "27",
+        "buts_contre": "42",
+        "difference": "-15",
+        "points": "26"
+      },
+      {
         "position": "14",
         "nom": "Limache",
         "matchs": "28",
-        "victoires": "5",
-        "nuls": "8",
+        "victoires": "6",
+        "nuls": "7",
         "defaites": "15",
-        "buts_pour": "33",
+        "buts_pour": "34",
         "buts_contre": "43",
-        "difference": "-10",
-        "points": "23"
+        "difference": "-9",
+        "points": "25"
       },
       {
         "position": "15",
         "nom": "Unión Española",
         "matchs": "28",
         "victoires": "6",
-        "nuls": "4",
-        "defaites": "18",
+        "nuls": "3",
+        "defaites": "19",
         "buts_pour": "29",
-        "buts_contre": "49",
-        "difference": "-20",
-        "points": "22"
+        "buts_contre": "50",
+        "difference": "-21",
+        "points": "21"
       },
       {
         "position": "16",
         "nom": "Club Deportes Iq",
         "matchs": "28",
-        "victoires": "4",
+        "victoires": "5",
         "nuls": "6",
-        "defaites": "18",
-        "buts_pour": "29",
+        "defaites": "17",
+        "buts_pour": "31",
         "buts_contre": "57",
-        "difference": "-28",
-        "points": "18"
+        "difference": "-26",
+        "points": "21"
       }
     ]
   },
@@ -13770,8 +13770,8 @@
         "nuls": "5",
         "defaites": "7",
         "buts_pour": "25",
-        "buts_contre": "23",
-        "difference": "2",
+        "buts_contre": "24",
+        "difference": "1",
         "points": "32"
       },
       {
@@ -13781,9 +13781,9 @@
         "victoires": "9",
         "nuls": "4",
         "defaites": "8",
-        "buts_pour": "34",
+        "buts_pour": "35",
         "buts_contre": "30",
-        "difference": "4",
+        "difference": "5",
         "points": "31"
       },
       {
@@ -17533,6 +17533,18 @@
       },
       {
         "position": "5",
+        "nom": "Ind. Petrolero",
+        "matchs": "25",
+        "victoires": "10",
+        "nuls": "6",
+        "defaites": "9",
+        "buts_pour": "43",
+        "buts_contre": "48",
+        "difference": "-5",
+        "points": "36"
+      },
+      {
+        "position": "6",
         "nom": "Guabirá",
         "matchs": "24",
         "victoires": "10",
@@ -17544,7 +17556,7 @@
         "points": "34"
       },
       {
-        "position": "6",
+        "position": "7",
         "nom": "GV San José",
         "matchs": "25",
         "victoires": "10",
@@ -17553,18 +17565,6 @@
         "buts_pour": "35",
         "buts_contre": "41",
         "difference": "-6",
-        "points": "34"
-      },
-      {
-        "position": "7",
-        "nom": "Ind. Petrolero",
-        "matchs": "25",
-        "victoires": "9",
-        "nuls": "7",
-        "defaites": "9",
-        "buts_pour": "41",
-        "buts_contre": "48",
-        "difference": "-7",
         "points": "34"
       },
       {
@@ -17644,12 +17644,12 @@
         "nom": "Club A.B.B.",
         "matchs": "25",
         "victoires": "5",
-        "nuls": "9",
-        "defaites": "11",
+        "nuls": "8",
+        "defaites": "12",
         "buts_pour": "26",
-        "buts_contre": "42",
-        "difference": "-16",
-        "points": "24"
+        "buts_contre": "44",
+        "difference": "-18",
+        "points": "23"
       },
       {
         "position": "15",
