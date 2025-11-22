@@ -12237,22 +12237,22 @@
         "victoires": "17",
         "nuls": "6",
         "defaites": "7",
-        "buts_pour": "65",
+        "buts_pour": "66",
         "buts_contre": "45",
-        "difference": "20",
+        "difference": "21",
         "points": "57"
       },
       {
         "position": "5",
         "nom": "SD Taishan",
         "matchs": "30",
-        "victoires": "14",
-        "nuls": "9",
+        "victoires": "15",
+        "nuls": "8",
         "defaites": "7",
-        "buts_pour": "64",
+        "buts_pour": "66",
         "buts_contre": "45",
-        "difference": "19",
-        "points": "51"
+        "difference": "21",
+        "points": "53"
       },
       {
         "position": "6",
@@ -12273,8 +12273,8 @@
         "victoires": "10",
         "nuls": "12",
         "defaites": "8",
-        "buts_pour": "58",
-        "buts_contre": "49",
+        "buts_pour": "59",
+        "buts_contre": "50",
         "difference": "9",
         "points": "42"
       },
@@ -12283,36 +12283,36 @@
         "nom": "YN Yukun",
         "matchs": "30",
         "victoires": "11",
-        "nuls": "8",
-        "defaites": "11",
-        "buts_pour": "46",
+        "nuls": "9",
+        "defaites": "10",
+        "buts_pour": "47",
         "buts_contre": "52",
-        "difference": "-6",
-        "points": "41"
+        "difference": "-5",
+        "points": "42"
       },
       {
         "position": "9",
-        "nom": "HN FC",
+        "nom": "QD West Coast",
         "matchs": "30",
-        "victoires": "11",
-        "nuls": "6",
-        "defaites": "13",
-        "buts_pour": "52",
-        "buts_contre": "47",
-        "difference": "5",
-        "points": "39"
+        "victoires": "10",
+        "nuls": "10",
+        "defaites": "10",
+        "buts_pour": "39",
+        "buts_contre": "43",
+        "difference": "-4",
+        "points": "40"
       },
       {
         "position": "10",
-        "nom": "QD West Coast",
+        "nom": "HN FC",
         "matchs": "30",
-        "victoires": "9",
-        "nuls": "11",
-        "defaites": "10",
-        "buts_pour": "38",
-        "buts_contre": "43",
-        "difference": "-5",
-        "points": "38"
+        "victoires": "10",
+        "nuls": "7",
+        "defaites": "13",
+        "buts_pour": "52",
+        "buts_contre": "48",
+        "difference": "4",
+        "points": "37"
       },
       {
         "position": "11",
@@ -12343,12 +12343,12 @@
         "nom": "WH Three Towns",
         "matchs": "30",
         "victoires": "6",
-        "nuls": "8",
-        "defaites": "16",
+        "nuls": "7",
+        "defaites": "17",
         "buts_pour": "33",
-        "buts_contre": "57",
-        "difference": "-24",
-        "points": "26"
+        "buts_contre": "59",
+        "difference": "-26",
+        "points": "25"
       },
       {
         "position": "14",
@@ -12357,8 +12357,8 @@
         "victoires": "5",
         "nuls": "10",
         "defaites": "15",
-        "buts_pour": "33",
-        "buts_contre": "46",
+        "buts_pour": "34",
+        "buts_contre": "47",
         "difference": "-13",
         "points": "25"
       },
@@ -12370,8 +12370,8 @@
         "nuls": "6",
         "defaites": "19",
         "buts_pour": "35",
-        "buts_contre": "67",
-        "difference": "-32",
+        "buts_contre": "68",
+        "difference": "-33",
         "points": "21"
       },
       {
@@ -12379,12 +12379,12 @@
         "nom": "CC Yatai",
         "matchs": "30",
         "victoires": "4",
-        "nuls": "8",
-        "defaites": "18",
+        "nuls": "7",
+        "defaites": "19",
         "buts_pour": "26",
-        "buts_contre": "51",
-        "difference": "-25",
-        "points": "20"
+        "buts_contre": "52",
+        "difference": "-26",
+        "points": "19"
       }
     ]
   },
