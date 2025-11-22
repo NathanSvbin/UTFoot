@@ -54,6 +54,18 @@
       },
       {
         "position": "5",
+        "nom": "Brentford",
+        "matchs": "12",
+        "victoires": "6",
+        "nuls": "1",
+        "defaites": "5",
+        "buts_pour": "18",
+        "buts_contre": "17",
+        "difference": "1",
+        "points": "19"
+      },
+      {
+        "position": "5",
         "nom": "Liverpool",
         "matchs": "12",
         "victoires": "6",
@@ -65,7 +77,7 @@
         "points": "19"
       },
       {
-        "position": "6",
+        "position": "7",
         "nom": "Tottenham",
         "matchs": "11",
         "victoires": "5",
@@ -77,7 +89,7 @@
         "points": "18"
       },
       {
-        "position": "7",
+        "position": "8",
         "nom": "Crystal Palace",
         "matchs": "12",
         "victoires": "4",
@@ -89,7 +101,7 @@
         "points": "18"
       },
       {
-        "position": "8",
+        "position": "9",
         "nom": "Aston Villa",
         "matchs": "11",
         "victoires": "5",
@@ -101,7 +113,7 @@
         "points": "18"
       },
       {
-        "position": "9",
+        "position": "10",
         "nom": "Manchester Utd.",
         "matchs": "11",
         "victoires": "5",
@@ -113,7 +125,7 @@
         "points": "18"
       },
       {
-        "position": "10",
+        "position": "11",
         "nom": "Bournemouth",
         "matchs": "12",
         "victoires": "5",
@@ -125,28 +137,16 @@
         "points": "18"
       },
       {
-        "position": "11",
+        "position": "12",
         "nom": "Brighton",
         "matchs": "12",
         "victoires": "4",
-        "nuls": "5",
-        "defaites": "3",
+        "nuls": "4",
+        "defaites": "4",
         "buts_pour": "17",
-        "buts_contre": "15",
-        "difference": "2",
-        "points": "17"
-      },
-      {
-        "position": "12",
-        "nom": "Brentford",
-        "matchs": "12",
-        "victoires": "5",
-        "nuls": "2",
-        "defaites": "5",
-        "buts_pour": "17",
-        "buts_contre": "17",
-        "difference": "0",
-        "points": "17"
+        "buts_contre": "16",
+        "difference": "1",
+        "points": "16"
       },
       {
         "position": "13",
@@ -253,6 +253,18 @@
     "equipes": [
       {
         "position": "1",
+        "nom": "Barcelone",
+        "matchs": "13",
+        "victoires": "10",
+        "nuls": "1",
+        "defaites": "2",
+        "buts_pour": "33",
+        "buts_contre": "15",
+        "difference": "18",
+        "points": "31"
+      },
+      {
+        "position": "2",
         "nom": "Real Madrid",
         "matchs": "12",
         "victoires": "10",
@@ -262,18 +274,6 @@
         "buts_contre": "10",
         "difference": "16",
         "points": "31"
-      },
-      {
-        "position": "2",
-        "nom": "Barcelone",
-        "matchs": "12",
-        "victoires": "9",
-        "nuls": "1",
-        "defaites": "2",
-        "buts_pour": "32",
-        "buts_contre": "15",
-        "difference": "17",
-        "points": "28"
       },
       {
         "position": "3",
@@ -326,13 +326,13 @@
       {
         "position": "7",
         "nom": "Athletic Bilbao",
-        "matchs": "12",
+        "matchs": "13",
         "victoires": "5",
         "nuls": "2",
-        "defaites": "5",
+        "defaites": "6",
         "buts_pour": "12",
-        "buts_contre": "13",
-        "difference": "-1",
+        "buts_contre": "14",
+        "difference": "-2",
         "points": "17"
       },
       {
@@ -512,6 +512,18 @@
       },
       {
         "position": "2",
+        "nom": "FC Bologna",
+        "matchs": "12",
+        "victoires": "7",
+        "nuls": "3",
+        "defaites": "2",
+        "buts_pour": "20",
+        "buts_contre": "8",
+        "difference": "12",
+        "points": "24"
+      },
+      {
+        "position": "3",
         "nom": "AS Roma",
         "matchs": "11",
         "victoires": "8",
@@ -521,18 +533,6 @@
         "buts_contre": "5",
         "difference": "7",
         "points": "24"
-      },
-      {
-        "position": "3",
-        "nom": "FC Bologna",
-        "matchs": "12",
-        "victoires": "6",
-        "nuls": "4",
-        "defaites": "2",
-        "buts_pour": "18",
-        "buts_contre": "8",
-        "difference": "10",
-        "points": "22"
       },
       {
         "position": "4",
@@ -596,18 +596,6 @@
       },
       {
         "position": "9",
-        "nom": "Udinese",
-        "matchs": "12",
-        "victoires": "4",
-        "nuls": "4",
-        "defaites": "4",
-        "buts_pour": "12",
-        "buts_contre": "17",
-        "difference": "-5",
-        "points": "16"
-      },
-      {
-        "position": "10",
         "nom": "Lazio Rome",
         "matchs": "11",
         "victoires": "4",
@@ -616,6 +604,18 @@
         "buts_pour": "13",
         "buts_contre": "9",
         "difference": "4",
+        "points": "15"
+      },
+      {
+        "position": "10",
+        "nom": "Udinese",
+        "matchs": "12",
+        "victoires": "4",
+        "nuls": "3",
+        "defaites": "5",
+        "buts_pour": "12",
+        "buts_contre": "19",
+        "difference": "-7",
         "points": "15"
       },
       {
@@ -658,13 +658,13 @@
         "position": "14",
         "nom": "Cagliari",
         "matchs": "12",
-        "victoires": "2",
-        "nuls": "5",
+        "victoires": "3",
+        "nuls": "4",
         "defaites": "5",
-        "buts_pour": "11",
+        "buts_pour": "12",
         "buts_contre": "16",
-        "difference": "-5",
-        "points": "11"
+        "difference": "-4",
+        "points": "13"
       },
       {
         "position": "15",
@@ -707,12 +707,12 @@
         "nom": "Genoa",
         "matchs": "12",
         "victoires": "1",
-        "nuls": "5",
-        "defaites": "6",
+        "nuls": "4",
+        "defaites": "7",
         "buts_pour": "10",
-        "buts_contre": "18",
-        "difference": "-8",
-        "points": "8"
+        "buts_contre": "19",
+        "difference": "-9",
+        "points": "7"
       },
       {
         "position": "19",
@@ -750,12 +750,12 @@
         "nom": "Bayern",
         "matchs": "11",
         "victoires": "9",
-        "nuls": "1",
-        "defaites": "1",
-        "buts_pour": "36",
+        "nuls": "2",
+        "defaites": "0",
+        "buts_pour": "37",
         "buts_contre": "8",
-        "difference": "28",
-        "points": "28"
+        "difference": "29",
+        "points": "29"
       },
       {
         "position": "2",
@@ -831,18 +831,6 @@
       },
       {
         "position": "8",
-        "nom": "SC Fribourg",
-        "matchs": "11",
-        "victoires": "4",
-        "nuls": "4",
-        "defaites": "3",
-        "buts_pour": "15",
-        "buts_contre": "15",
-        "difference": "0",
-        "points": "16"
-      },
-      {
-        "position": "9",
         "nom": "Werder Bremen",
         "matchs": "10",
         "victoires": "4",
@@ -854,7 +842,7 @@
         "points": "15"
       },
       {
-        "position": "10",
+        "position": "9",
         "nom": "1.FC Köln",
         "matchs": "10",
         "victoires": "4",
@@ -863,6 +851,18 @@
         "buts_pour": "17",
         "buts_contre": "15",
         "difference": "2",
+        "points": "14"
+      },
+      {
+        "position": "10",
+        "nom": "SC Fribourg",
+        "matchs": "11",
+        "victoires": "3",
+        "nuls": "5",
+        "defaites": "3",
+        "buts_pour": "15",
+        "buts_contre": "16",
+        "difference": "-1",
         "points": "14"
       },
       {
@@ -881,13 +881,13 @@
         "position": "12",
         "nom": "Bor. M'gladbach",
         "matchs": "11",
-        "victoires": "2",
-        "nuls": "4",
+        "victoires": "3",
+        "nuls": "3",
         "defaites": "5",
-        "buts_pour": "13",
+        "buts_pour": "14",
         "buts_contre": "19",
-        "difference": "-6",
-        "points": "10"
+        "difference": "-5",
+        "points": "12"
       },
       {
         "position": "13",
@@ -954,12 +954,12 @@
         "nom": "Heidenheim",
         "matchs": "11",
         "victoires": "1",
-        "nuls": "3",
-        "defaites": "7",
+        "nuls": "2",
+        "defaites": "8",
         "buts_pour": "8",
-        "buts_contre": "23",
-        "difference": "-15",
-        "points": "6"
+        "buts_contre": "24",
+        "difference": "-16",
+        "points": "5"
       }
     ]
   },
@@ -1208,27 +1208,39 @@
         "nom": "Middlesbrough",
         "matchs": "16",
         "victoires": "8",
-        "nuls": "6",
-        "defaites": "2",
+        "nuls": "5",
+        "defaites": "3",
         "buts_pour": "19",
-        "buts_contre": "13",
-        "difference": "6",
-        "points": "30"
+        "buts_contre": "14",
+        "difference": "5",
+        "points": "29"
       },
       {
         "position": "3",
-        "nom": "Stoke City",
+        "nom": "Hull City",
         "matchs": "16",
         "victoires": "8",
         "nuls": "4",
         "defaites": "4",
-        "buts_pour": "21",
-        "buts_contre": "10",
-        "difference": "11",
+        "buts_pour": "27",
+        "buts_contre": "24",
+        "difference": "3",
         "points": "28"
       },
       {
         "position": "4",
+        "nom": "Stoke City",
+        "matchs": "16",
+        "victoires": "8",
+        "nuls": "3",
+        "defaites": "5",
+        "buts_pour": "21",
+        "buts_contre": "11",
+        "difference": "10",
+        "points": "27"
+      },
+      {
+        "position": "5",
         "nom": "Bristol City",
         "matchs": "16",
         "victoires": "7",
@@ -1240,7 +1252,7 @@
         "points": "26"
       },
       {
-        "position": "5",
+        "position": "6",
         "nom": "Preston NE",
         "matchs": "16",
         "victoires": "7",
@@ -1252,28 +1264,16 @@
         "points": "26"
       },
       {
-        "position": "6",
-        "nom": "Hull City",
-        "matchs": "16",
-        "victoires": "7",
-        "nuls": "5",
-        "defaites": "4",
-        "buts_pour": "26",
-        "buts_contre": "24",
-        "difference": "2",
-        "points": "26"
-      },
-      {
         "position": "7",
         "nom": "Millwall",
         "matchs": "16",
         "victoires": "7",
-        "nuls": "5",
-        "defaites": "4",
+        "nuls": "4",
+        "defaites": "5",
         "buts_pour": "17",
-        "buts_contre": "20",
-        "difference": "-3",
-        "points": "26"
+        "buts_contre": "21",
+        "difference": "-4",
+        "points": "25"
       },
       {
         "position": "8",
@@ -1294,13 +1294,25 @@
         "victoires": "7",
         "nuls": "3",
         "defaites": "6",
-        "buts_pour": "21",
+        "buts_pour": "22",
         "buts_contre": "17",
-        "difference": "4",
+        "difference": "5",
         "points": "24"
       },
       {
         "position": "10",
+        "nom": "Leicester City",
+        "matchs": "16",
+        "victoires": "6",
+        "nuls": "6",
+        "defaites": "4",
+        "buts_pour": "19",
+        "buts_contre": "16",
+        "difference": "3",
+        "points": "24"
+      },
+      {
+        "position": "11",
         "nom": "Derby",
         "matchs": "16",
         "victoires": "6",
@@ -1312,7 +1324,7 @@
         "points": "24"
       },
       {
-        "position": "11",
+        "position": "12",
         "nom": "Charlton",
         "matchs": "16",
         "victoires": "6",
@@ -1322,18 +1334,6 @@
         "buts_contre": "17",
         "difference": "0",
         "points": "23"
-      },
-      {
-        "position": "12",
-        "nom": "Leicester City",
-        "matchs": "16",
-        "victoires": "5",
-        "nuls": "7",
-        "defaites": "4",
-        "buts_pour": "18",
-        "buts_contre": "16",
-        "difference": "2",
-        "points": "22"
       },
       {
         "position": "13",
@@ -1385,18 +1385,6 @@
       },
       {
         "position": "17",
-        "nom": "QPR",
-        "matchs": "16",
-        "victoires": "5",
-        "nuls": "5",
-        "defaites": "6",
-        "buts_pour": "17",
-        "buts_contre": "23",
-        "difference": "-6",
-        "points": "20"
-      },
-      {
-        "position": "18",
         "nom": "Blackburn",
         "matchs": "15",
         "victoires": "6",
@@ -1405,6 +1393,18 @@
         "buts_pour": "16",
         "buts_contre": "20",
         "difference": "-4",
+        "points": "19"
+      },
+      {
+        "position": "18",
+        "nom": "QPR",
+        "matchs": "16",
+        "victoires": "5",
+        "nuls": "4",
+        "defaites": "7",
+        "buts_pour": "17",
+        "buts_contre": "24",
+        "difference": "-7",
         "points": "19"
       },
       {
@@ -1423,25 +1423,25 @@
         "position": "20",
         "nom": "FC Portsmouth",
         "matchs": "16",
-        "victoires": "3",
-        "nuls": "6",
+        "victoires": "4",
+        "nuls": "5",
         "defaites": "7",
-        "buts_pour": "12",
+        "buts_pour": "13",
         "buts_contre": "20",
-        "difference": "-8",
-        "points": "15"
+        "difference": "-7",
+        "points": "17"
       },
       {
         "position": "21",
         "nom": "Oxford United",
         "matchs": "16",
-        "victoires": "3",
-        "nuls": "5",
+        "victoires": "4",
+        "nuls": "4",
         "defaites": "8",
-        "buts_pour": "16",
+        "buts_pour": "17",
         "buts_contre": "22",
-        "difference": "-6",
-        "points": "14"
+        "difference": "-5",
+        "points": "16"
       },
       {
         "position": "22",
@@ -1463,8 +1463,8 @@
         "nuls": "3",
         "defaites": "11",
         "buts_pour": "14",
-        "buts_contre": "24",
-        "difference": "-10",
+        "buts_contre": "25",
+        "difference": "-11",
         "points": "9"
       },
       {
@@ -2313,6 +2313,18 @@
       },
       {
         "position": "15",
+        "nom": "Eyüpspor",
+        "matchs": "13",
+        "victoires": "3",
+        "nuls": "2",
+        "defaites": "8",
+        "buts_pour": "7",
+        "buts_contre": "15",
+        "difference": "-8",
+        "points": "11"
+      },
+      {
+        "position": "16",
         "nom": "Kasimpasa",
         "matchs": "12",
         "victoires": "2",
@@ -2322,18 +2334,6 @@
         "buts_contre": "17",
         "difference": "-6",
         "points": "10"
-      },
-      {
-        "position": "16",
-        "nom": "Eyüpspor",
-        "matchs": "13",
-        "victoires": "2",
-        "nuls": "3",
-        "defaites": "8",
-        "buts_pour": "6",
-        "buts_contre": "15",
-        "difference": "-9",
-        "points": "9"
       },
       {
         "position": "17",
@@ -2352,12 +2352,12 @@
         "nom": "Karagümrük",
         "matchs": "13",
         "victoires": "2",
-        "nuls": "2",
-        "defaites": "9",
+        "nuls": "1",
+        "defaites": "10",
         "buts_pour": "12",
-        "buts_contre": "23",
-        "difference": "-11",
-        "points": "8"
+        "buts_contre": "24",
+        "difference": "-12",
+        "points": "7"
       }
     ]
   },
@@ -4255,6 +4255,18 @@
       },
       {
         "position": "5",
+        "nom": "Palerme",
+        "matchs": "13",
+        "victoires": "5",
+        "nuls": "5",
+        "defaites": "3",
+        "buts_pour": "16",
+        "buts_contre": "10",
+        "difference": "6",
+        "points": "20"
+      },
+      {
+        "position": "6",
         "nom": "Venezia",
         "matchs": "12",
         "victoires": "5",
@@ -4263,18 +4275,6 @@
         "buts_pour": "20",
         "buts_contre": "12",
         "difference": "8",
-        "points": "19"
-      },
-      {
-        "position": "6",
-        "nom": "Palerme",
-        "matchs": "13",
-        "victoires": "5",
-        "nuls": "4",
-        "defaites": "4",
-        "buts_pour": "15",
-        "buts_contre": "10",
-        "difference": "5",
         "points": "19"
       },
       {
@@ -4315,18 +4315,6 @@
       },
       {
         "position": "10",
-        "nom": "Virtus Entella",
-        "matchs": "13",
-        "victoires": "4",
-        "nuls": "5",
-        "defaites": "4",
-        "buts_pour": "12",
-        "buts_contre": "16",
-        "difference": "-4",
-        "points": "17"
-      },
-      {
-        "position": "11",
         "nom": "Carrarese",
         "matchs": "13",
         "victoires": "3",
@@ -4338,7 +4326,7 @@
         "points": "16"
       },
       {
-        "position": "12",
+        "position": "11",
         "nom": "Catanzaro",
         "matchs": "13",
         "victoires": "3",
@@ -4350,7 +4338,7 @@
         "points": "16"
       },
       {
-        "position": "13",
+        "position": "12",
         "nom": "Avellino",
         "matchs": "13",
         "victoires": "4",
@@ -4360,6 +4348,18 @@
         "buts_contre": "24",
         "difference": "-8",
         "points": "16"
+      },
+      {
+        "position": "13",
+        "nom": "Virtus Entella",
+        "matchs": "13",
+        "victoires": "3",
+        "nuls": "6",
+        "defaites": "4",
+        "buts_pour": "12",
+        "buts_contre": "17",
+        "difference": "-5",
+        "points": "15"
       },
       {
         "position": "14",
@@ -4761,6 +4761,18 @@
       },
       {
         "position": "8",
+        "nom": "Castellón",
+        "matchs": "15",
+        "victoires": "5",
+        "nuls": "5",
+        "defaites": "5",
+        "buts_pour": "20",
+        "buts_contre": "19",
+        "difference": "1",
+        "points": "20"
+      },
+      {
+        "position": "9",
         "nom": "FC Córdoba",
         "matchs": "14",
         "victoires": "5",
@@ -4772,7 +4784,7 @@
         "points": "20"
       },
       {
-        "position": "9",
+        "position": "10",
         "nom": "Sporting Gijón",
         "matchs": "14",
         "victoires": "6",
@@ -4782,18 +4794,6 @@
         "buts_contre": "20",
         "difference": "-1",
         "points": "20"
-      },
-      {
-        "position": "10",
-        "nom": "Castellón",
-        "matchs": "14",
-        "victoires": "5",
-        "nuls": "4",
-        "defaites": "5",
-        "buts_pour": "20",
-        "buts_contre": "19",
-        "difference": "1",
-        "points": "19"
       },
       {
         "position": "11",
@@ -4821,6 +4821,18 @@
       },
       {
         "position": "13",
+        "nom": "FC Andorra",
+        "matchs": "15",
+        "victoires": "4",
+        "nuls": "6",
+        "defaites": "5",
+        "buts_pour": "16",
+        "buts_contre": "20",
+        "difference": "-4",
+        "points": "18"
+      },
+      {
+        "position": "14",
         "nom": "AD Ceuta",
         "matchs": "13",
         "victoires": "5",
@@ -4832,7 +4844,7 @@
         "points": "18"
       },
       {
-        "position": "14",
+        "position": "15",
         "nom": "SD Eibar",
         "matchs": "14",
         "victoires": "4",
@@ -4844,7 +4856,7 @@
         "points": "17"
       },
       {
-        "position": "15",
+        "position": "16",
         "nom": "CyD Leonesa",
         "matchs": "14",
         "victoires": "5",
@@ -4853,18 +4865,6 @@
         "buts_pour": "16",
         "buts_contre": "19",
         "difference": "-3",
-        "points": "17"
-      },
-      {
-        "position": "16",
-        "nom": "FC Andorra",
-        "matchs": "14",
-        "victoires": "4",
-        "nuls": "5",
-        "defaites": "5",
-        "buts_pour": "16",
-        "buts_contre": "20",
-        "difference": "-4",
         "points": "17"
       },
       {
@@ -5292,8 +5292,8 @@
         "nuls": "4",
         "defaites": "3",
         "buts_pour": "16",
-        "buts_contre": "11",
-        "difference": "5",
+        "buts_contre": "12",
+        "difference": "4",
         "points": "22"
       },
       {
@@ -5303,9 +5303,9 @@
         "victoires": "5",
         "nuls": "5",
         "defaites": "3",
-        "buts_pour": "28",
+        "buts_pour": "29",
         "buts_contre": "18",
-        "difference": "10",
+        "difference": "11",
         "points": "20"
       },
       {
@@ -5665,8 +5665,8 @@
         "victoires": "7",
         "nuls": "6",
         "defaites": "3",
-        "buts_pour": "17",
-        "buts_contre": "9",
+        "buts_pour": "18",
+        "buts_contre": "10",
         "difference": "8",
         "points": "27"
       },
@@ -5677,9 +5677,9 @@
         "victoires": "7",
         "nuls": "5",
         "defaites": "4",
-        "buts_pour": "27",
+        "buts_pour": "28",
         "buts_contre": "16",
-        "difference": "11",
+        "difference": "12",
         "points": "26"
       },
       {
@@ -5761,8 +5761,8 @@
         "victoires": "2",
         "nuls": "7",
         "defaites": "7",
-        "buts_pour": "11",
-        "buts_contre": "20",
+        "buts_pour": "12",
+        "buts_contre": "21",
         "difference": "-9",
         "points": "13"
       },
@@ -5786,8 +5786,8 @@
         "nuls": "6",
         "defaites": "8",
         "buts_pour": "16",
-        "buts_contre": "29",
-        "difference": "-13",
+        "buts_contre": "30",
+        "difference": "-14",
         "points": "12"
       },
       {
@@ -6010,18 +6010,6 @@
       },
       {
         "position": "4",
-        "nom": "Cracovia",
-        "matchs": "15",
-        "victoires": "6",
-        "nuls": "5",
-        "defaites": "4",
-        "buts_pour": "22",
-        "buts_contre": "18",
-        "difference": "4",
-        "points": "23"
-      },
-      {
-        "position": "5",
         "nom": "Raków",
         "matchs": "14",
         "victoires": "7",
@@ -6033,7 +6021,7 @@
         "points": "23"
       },
       {
-        "position": "6",
+        "position": "5",
         "nom": "Radomiak",
         "matchs": "15",
         "victoires": "6",
@@ -6042,6 +6030,18 @@
         "buts_pour": "28",
         "buts_contre": "24",
         "difference": "4",
+        "points": "22"
+      },
+      {
+        "position": "6",
+        "nom": "Cracovia",
+        "matchs": "15",
+        "victoires": "6",
+        "nuls": "4",
+        "defaites": "5",
+        "buts_pour": "22",
+        "buts_contre": "19",
+        "difference": "3",
         "points": "22"
       },
       {
@@ -6082,6 +6082,18 @@
       },
       {
         "position": "10",
+        "nom": "Motor Lublin",
+        "matchs": "15",
+        "victoires": "4",
+        "nuls": "7",
+        "defaites": "4",
+        "buts_pour": "21",
+        "buts_contre": "25",
+        "difference": "-4",
+        "points": "19"
+      },
+      {
+        "position": "11",
         "nom": "Arka Gdynia",
         "matchs": "16",
         "victoires": "5",
@@ -6093,7 +6105,7 @@
         "points": "18"
       },
       {
-        "position": "11",
+        "position": "12",
         "nom": "Legia Varsovie",
         "matchs": "14",
         "victoires": "4",
@@ -6105,7 +6117,7 @@
         "points": "17"
       },
       {
-        "position": "12",
+        "position": "13",
         "nom": "Widzew Lodz",
         "matchs": "15",
         "victoires": "5",
@@ -6114,18 +6126,6 @@
         "buts_pour": "22",
         "buts_contre": "23",
         "difference": "-1",
-        "points": "17"
-      },
-      {
-        "position": "13",
-        "nom": "Motor Lublin",
-        "matchs": "15",
-        "victoires": "3",
-        "nuls": "8",
-        "defaites": "4",
-        "buts_pour": "20",
-        "buts_contre": "25",
-        "difference": "-5",
         "points": "17"
       },
       {
@@ -6221,18 +6221,6 @@
       },
       {
         "position": "3",
-        "nom": "Glasgow Rangers",
-        "matchs": "12",
-        "victoires": "5",
-        "nuls": "6",
-        "defaites": "1",
-        "buts_pour": "16",
-        "buts_contre": "10",
-        "difference": "6",
-        "points": "21"
-      },
-      {
-        "position": "4",
         "nom": "Hibernian FC",
         "matchs": "13",
         "victoires": "4",
@@ -6244,28 +6232,40 @@
         "points": "19"
       },
       {
+        "position": "4",
+        "nom": "Glasgow Rangers",
+        "matchs": "12",
+        "victoires": "4",
+        "nuls": "7",
+        "defaites": "1",
+        "buts_pour": "16",
+        "buts_contre": "11",
+        "difference": "5",
+        "points": "19"
+      },
+      {
         "position": "5",
         "nom": "Falkirk",
         "matchs": "13",
         "victoires": "5",
         "nuls": "4",
         "defaites": "4",
-        "buts_pour": "17",
+        "buts_pour": "18",
         "buts_contre": "21",
-        "difference": "-4",
+        "difference": "-3",
         "points": "19"
       },
       {
         "position": "6",
         "nom": "Motherwell FC",
         "matchs": "12",
-        "victoires": "3",
-        "nuls": "7",
+        "victoires": "4",
+        "nuls": "6",
         "defaites": "2",
-        "buts_pour": "17",
+        "buts_pour": "19",
         "buts_contre": "14",
-        "difference": "3",
-        "points": "16"
+        "difference": "5",
+        "points": "18"
       },
       {
         "position": "7",
@@ -6275,8 +6275,8 @@
         "nuls": "5",
         "defaites": "4",
         "buts_pour": "18",
-        "buts_contre": "18",
-        "difference": "0",
+        "buts_contre": "19",
+        "difference": "-1",
         "points": "14"
       },
       {
@@ -6293,18 +6293,6 @@
       },
       {
         "position": "9",
-        "nom": "Kilmarnock FC",
-        "matchs": "13",
-        "victoires": "2",
-        "nuls": "5",
-        "defaites": "6",
-        "buts_pour": "13",
-        "buts_contre": "22",
-        "difference": "-9",
-        "points": "11"
-      },
-      {
-        "position": "10",
         "nom": "St. Mirren",
         "matchs": "11",
         "victoires": "2",
@@ -6313,6 +6301,18 @@
         "buts_pour": "8",
         "buts_contre": "15",
         "difference": "-7",
+        "points": "10"
+      },
+      {
+        "position": "10",
+        "nom": "Kilmarnock FC",
+        "matchs": "13",
+        "victoires": "2",
+        "nuls": "4",
+        "defaites": "7",
+        "buts_pour": "13",
+        "buts_contre": "24",
+        "difference": "-11",
         "points": "10"
       },
       {
@@ -6332,12 +6332,12 @@
         "nom": "Livingston FC",
         "matchs": "13",
         "victoires": "1",
-        "nuls": "5",
-        "defaites": "7",
-        "buts_pour": "14",
+        "nuls": "6",
+        "defaites": "6",
+        "buts_pour": "15",
         "buts_contre": "24",
-        "difference": "-10",
-        "points": "8"
+        "difference": "-9",
+        "points": "9"
       }
     ]
   },
@@ -6797,12 +6797,12 @@
         "nom": "Vålerenga",
         "matchs": "29",
         "victoires": "12",
-        "nuls": "5",
-        "defaites": "12",
+        "nuls": "4",
+        "defaites": "13",
         "buts_pour": "45",
-        "buts_contre": "45",
-        "difference": "0",
-        "points": "41"
+        "buts_contre": "46",
+        "difference": "-1",
+        "points": "40"
       },
       {
         "position": "8",
@@ -6818,6 +6818,18 @@
       },
       {
         "position": "9",
+        "nom": "Kristiansund",
+        "matchs": "29",
+        "victoires": "10",
+        "nuls": "7",
+        "defaites": "12",
+        "buts_pour": "34",
+        "buts_contre": "53",
+        "difference": "-19",
+        "points": "37"
+      },
+      {
+        "position": "10",
         "nom": "Molde",
         "matchs": "28",
         "victoires": "11",
@@ -6829,7 +6841,7 @@
         "points": "36"
       },
       {
-        "position": "10",
+        "position": "11",
         "nom": "KFUM",
         "matchs": "29",
         "victoires": "8",
@@ -6841,7 +6853,7 @@
         "points": "35"
       },
       {
-        "position": "11",
+        "position": "12",
         "nom": "Sarpsborg 08",
         "matchs": "28",
         "victoires": "9",
@@ -6850,18 +6862,6 @@
         "buts_pour": "44",
         "buts_contre": "50",
         "difference": "-6",
-        "points": "35"
-      },
-      {
-        "position": "12",
-        "nom": "Kristiansund",
-        "matchs": "29",
-        "victoires": "9",
-        "nuls": "8",
-        "defaites": "12",
-        "buts_pour": "33",
-        "buts_contre": "53",
-        "difference": "-20",
         "points": "35"
       },
       {
@@ -7180,18 +7180,6 @@
       },
       {
         "position": "2",
-        "nom": "Lincoln City",
-        "matchs": "17",
-        "victoires": "8",
-        "nuls": "5",
-        "defaites": "4",
-        "buts_pour": "20",
-        "buts_contre": "15",
-        "difference": "5",
-        "points": "29"
-      },
-      {
-        "position": "3",
         "nom": "Bradford",
         "matchs": "16",
         "victoires": "7",
@@ -7200,6 +7188,18 @@
         "buts_pour": "24",
         "buts_contre": "18",
         "difference": "6",
+        "points": "28"
+      },
+      {
+        "position": "3",
+        "nom": "Lincoln City",
+        "matchs": "17",
+        "victoires": "8",
+        "nuls": "4",
+        "defaites": "5",
+        "buts_pour": "20",
+        "buts_contre": "16",
+        "difference": "4",
         "points": "28"
       },
       {
@@ -7257,13 +7257,25 @@
         "victoires": "8",
         "nuls": "1",
         "defaites": "6",
-        "buts_pour": "23",
+        "buts_pour": "24",
         "buts_contre": "19",
-        "difference": "4",
+        "difference": "5",
         "points": "25"
       },
       {
         "position": "9",
+        "nom": "Rotherham",
+        "matchs": "17",
+        "victoires": "7",
+        "nuls": "4",
+        "defaites": "6",
+        "buts_pour": "19",
+        "buts_contre": "18",
+        "difference": "1",
+        "points": "25"
+      },
+      {
+        "position": "10",
         "nom": "Barnsley FC",
         "matchs": "14",
         "victoires": "7",
@@ -7275,7 +7287,19 @@
         "points": "24"
       },
       {
-        "position": "10",
+        "position": "11",
+        "nom": "Wycombe Wand.",
+        "matchs": "17",
+        "victoires": "6",
+        "nuls": "5",
+        "defaites": "6",
+        "buts_pour": "23",
+        "buts_contre": "17",
+        "difference": "6",
+        "points": "23"
+      },
+      {
+        "position": "12",
         "nom": "Luton",
         "matchs": "16",
         "victoires": "7",
@@ -7287,31 +7311,31 @@
         "points": "23"
       },
       {
-        "position": "11",
-        "nom": "Rotherham",
+        "position": "13",
+        "nom": "Leyton Orient",
         "matchs": "17",
-        "victoires": "6",
-        "nuls": "5",
-        "defaites": "6",
-        "buts_pour": "18",
-        "buts_contre": "18",
-        "difference": "0",
+        "victoires": "7",
+        "nuls": "2",
+        "defaites": "8",
+        "buts_pour": "25",
+        "buts_contre": "28",
+        "difference": "-3",
         "points": "23"
       },
       {
-        "position": "12",
+        "position": "14",
         "nom": "Mansfield Town",
         "matchs": "16",
         "victoires": "6",
         "nuls": "4",
         "defaites": "6",
         "buts_pour": "22",
-        "buts_contre": "19",
-        "difference": "3",
+        "buts_contre": "20",
+        "difference": "2",
         "points": "22"
       },
       {
-        "position": "13",
+        "position": "15",
         "nom": "Burton Albion",
         "matchs": "16",
         "victoires": "6",
@@ -7321,30 +7345,6 @@
         "buts_contre": "19",
         "difference": "-3",
         "points": "22"
-      },
-      {
-        "position": "14",
-        "nom": "Wycombe Wand.",
-        "matchs": "17",
-        "victoires": "5",
-        "nuls": "6",
-        "defaites": "6",
-        "buts_pour": "22",
-        "buts_contre": "17",
-        "difference": "5",
-        "points": "21"
-      },
-      {
-        "position": "15",
-        "nom": "Leyton Orient",
-        "matchs": "17",
-        "victoires": "6",
-        "nuls": "3",
-        "defaites": "8",
-        "buts_pour": "24",
-        "buts_contre": "28",
-        "difference": "-4",
-        "points": "21"
       },
       {
         "position": "16",
@@ -7372,18 +7372,6 @@
       },
       {
         "position": "18",
-        "nom": "Reading",
-        "matchs": "16",
-        "victoires": "4",
-        "nuls": "7",
-        "defaites": "5",
-        "buts_pour": "16",
-        "buts_contre": "19",
-        "difference": "-3",
-        "points": "19"
-      },
-      {
-        "position": "19",
         "nom": "Doncaster Rov.",
         "matchs": "17",
         "victoires": "5",
@@ -7393,6 +7381,18 @@
         "buts_contre": "23",
         "difference": "-8",
         "points": "19"
+      },
+      {
+        "position": "19",
+        "nom": "Reading",
+        "matchs": "16",
+        "victoires": "4",
+        "nuls": "6",
+        "defaites": "6",
+        "buts_pour": "16",
+        "buts_contre": "20",
+        "difference": "-4",
+        "points": "18"
       },
       {
         "position": "20",
@@ -7420,18 +7420,6 @@
       },
       {
         "position": "22",
-        "nom": "Blackpool",
-        "matchs": "17",
-        "victoires": "4",
-        "nuls": "4",
-        "defaites": "9",
-        "buts_pour": "16",
-        "buts_contre": "24",
-        "difference": "-8",
-        "points": "16"
-      },
-      {
-        "position": "23",
         "nom": "Plymouth Argyle",
         "matchs": "16",
         "victoires": "5",
@@ -7441,6 +7429,18 @@
         "buts_contre": "28",
         "difference": "-9",
         "points": "16"
+      },
+      {
+        "position": "23",
+        "nom": "Blackpool",
+        "matchs": "17",
+        "victoires": "4",
+        "nuls": "3",
+        "defaites": "10",
+        "buts_pour": "16",
+        "buts_contre": "25",
+        "difference": "-9",
+        "points": "15"
       },
       {
         "position": "24",
@@ -8324,9 +8324,9 @@
         "victoires": "9",
         "nuls": "1",
         "defaites": "4",
-        "buts_pour": "27",
+        "buts_pour": "28",
         "buts_contre": "12",
-        "difference": "15",
+        "difference": "16",
         "points": "28"
       },
       {
@@ -8349,8 +8349,8 @@
         "nuls": "4",
         "defaites": "5",
         "buts_pour": "15",
-        "buts_contre": "16",
-        "difference": "-1",
+        "buts_contre": "17",
+        "difference": "-2",
         "points": "19"
       },
       {
@@ -11355,12 +11355,12 @@
         "nom": "Ethnikos",
         "matchs": "11",
         "victoires": "4",
-        "nuls": "3",
-        "defaites": "4",
+        "nuls": "2",
+        "defaites": "5",
         "buts_pour": "13",
-        "buts_contre": "16",
-        "difference": "-3",
-        "points": "15"
+        "buts_contre": "17",
+        "difference": "-4",
+        "points": "14"
       },
       {
         "position": "8",
@@ -11388,6 +11388,18 @@
       },
       {
         "position": "10",
+        "nom": "Omon. Aradippou",
+        "matchs": "11",
+        "victoires": "3",
+        "nuls": "1",
+        "defaites": "7",
+        "buts_pour": "3",
+        "buts_contre": "12",
+        "difference": "-9",
+        "points": "10"
+      },
+      {
+        "position": "11",
         "nom": "Akritas Chlor.",
         "matchs": "10",
         "victoires": "2",
@@ -11399,7 +11411,7 @@
         "points": "9"
       },
       {
-        "position": "11",
+        "position": "12",
         "nom": "Anorthosis",
         "matchs": "10",
         "victoires": "1",
@@ -11407,18 +11419,6 @@
         "defaites": "4",
         "buts_pour": "8",
         "buts_contre": "18",
-        "difference": "-10",
-        "points": "8"
-      },
-      {
-        "position": "12",
-        "nom": "Omon. Aradippou",
-        "matchs": "11",
-        "victoires": "2",
-        "nuls": "2",
-        "defaites": "7",
-        "buts_pour": "2",
-        "buts_contre": "12",
         "difference": "-10",
         "points": "8"
       },
@@ -12494,12 +12494,12 @@
         "nom": "Arsenal Tula",
         "matchs": "20",
         "victoires": "6",
-        "nuls": "9",
-        "defaites": "5",
+        "nuls": "8",
+        "defaites": "6",
         "buts_pour": "28",
-        "buts_contre": "24",
-        "difference": "4",
-        "points": "27"
+        "buts_contre": "25",
+        "difference": "3",
+        "points": "26"
       },
       {
         "position": "10",
@@ -12527,6 +12527,18 @@
       },
       {
         "position": "12",
+        "nom": "Chernomorets N.",
+        "matchs": "20",
+        "victoires": "6",
+        "nuls": "5",
+        "defaites": "9",
+        "buts_pour": "23",
+        "buts_contre": "25",
+        "difference": "-2",
+        "points": "23"
+      },
+      {
+        "position": "13",
         "nom": "Enisey",
         "matchs": "19",
         "victoires": "5",
@@ -12535,18 +12547,6 @@
         "buts_pour": "14",
         "buts_contre": "25",
         "difference": "-11",
-        "points": "21"
-      },
-      {
-        "position": "13",
-        "nom": "Chernomorets N.",
-        "matchs": "20",
-        "victoires": "5",
-        "nuls": "6",
-        "defaites": "9",
-        "buts_pour": "22",
-        "buts_contre": "25",
-        "difference": "-3",
         "points": "21"
       },
       {
@@ -13184,18 +13184,6 @@
       },
       {
         "position": "10",
-        "nom": "KSC Lokeren",
-        "matchs": "13",
-        "victoires": "3",
-        "nuls": "4",
-        "defaites": "6",
-        "buts_pour": "14",
-        "buts_contre": "18",
-        "difference": "-4",
-        "points": "13"
-      },
-      {
-        "position": "11",
         "nom": "Lierse SK",
         "matchs": "13",
         "victoires": "3",
@@ -13207,7 +13195,7 @@
         "points": "13"
       },
       {
-        "position": "12",
+        "position": "11",
         "nom": "Francs Borains",
         "matchs": "13",
         "victoires": "3",
@@ -13217,6 +13205,18 @@
         "buts_contre": "19",
         "difference": "-5",
         "points": "13"
+      },
+      {
+        "position": "12",
+        "nom": "KSC Lokeren",
+        "matchs": "13",
+        "victoires": "3",
+        "nuls": "3",
+        "defaites": "7",
+        "buts_pour": "14",
+        "buts_contre": "19",
+        "difference": "-5",
+        "points": "12"
       },
       {
         "position": "13",
@@ -13256,6 +13256,18 @@
       },
       {
         "position": "16",
+        "nom": "Club NXT",
+        "matchs": "13",
+        "victoires": "1",
+        "nuls": "4",
+        "defaites": "8",
+        "buts_pour": "10",
+        "buts_contre": "23",
+        "difference": "-13",
+        "points": "7"
+      },
+      {
+        "position": "17",
         "nom": "Olym. Charleroi",
         "matchs": "12",
         "victoires": "1",
@@ -13265,18 +13277,6 @@
         "buts_contre": "24",
         "difference": "-19",
         "points": "6"
-      },
-      {
-        "position": "17",
-        "nom": "Club NXT",
-        "matchs": "13",
-        "victoires": "0",
-        "nuls": "5",
-        "defaites": "8",
-        "buts_pour": "9",
-        "buts_contre": "23",
-        "difference": "-14",
-        "points": "5"
       }
     ]
   },
@@ -14126,6 +14126,18 @@
       },
       {
         "position": "6",
+        "nom": "Casertana",
+        "matchs": "14",
+        "victoires": "6",
+        "nuls": "4",
+        "defaites": "4",
+        "buts_pour": "19",
+        "buts_contre": "18",
+        "difference": "1",
+        "points": "22"
+      },
+      {
+        "position": "7",
         "nom": "Monopoli",
         "matchs": "14",
         "victoires": "6",
@@ -14137,7 +14149,7 @@
         "points": "22"
       },
       {
-        "position": "7",
+        "position": "8",
         "nom": "Crotone",
         "matchs": "15",
         "victoires": "6",
@@ -14149,7 +14161,7 @@
         "points": "21"
       },
       {
-        "position": "8",
+        "position": "9",
         "nom": "Trapani",
         "matchs": "15",
         "victoires": "8",
@@ -14158,18 +14170,6 @@
         "buts_pour": "24",
         "buts_contre": "14",
         "difference": "10",
-        "points": "20"
-      },
-      {
-        "position": "9",
-        "nom": "Casertana",
-        "matchs": "14",
-        "victoires": "5",
-        "nuls": "5",
-        "defaites": "4",
-        "buts_pour": "18",
-        "buts_contre": "18",
-        "difference": "0",
         "points": "20"
       },
       {
@@ -14198,18 +14198,6 @@
       },
       {
         "position": "12",
-        "nom": "Team Altamura",
-        "matchs": "15",
-        "victoires": "4",
-        "nuls": "6",
-        "defaites": "5",
-        "buts_pour": "14",
-        "buts_contre": "22",
-        "difference": "-8",
-        "points": "18"
-      },
-      {
-        "position": "13",
         "nom": "Atalanta U23",
         "matchs": "13",
         "victoires": "5",
@@ -14221,7 +14209,7 @@
         "points": "17"
       },
       {
-        "position": "14",
+        "position": "13",
         "nom": "Cavese",
         "matchs": "14",
         "victoires": "4",
@@ -14230,6 +14218,18 @@
         "buts_pour": "16",
         "buts_contre": "17",
         "difference": "-1",
+        "points": "16"
+      },
+      {
+        "position": "14",
+        "nom": "Team Altamura",
+        "matchs": "15",
+        "victoires": "3",
+        "nuls": "7",
+        "defaites": "5",
+        "buts_pour": "14",
+        "buts_contre": "23",
+        "difference": "-9",
         "points": "16"
       },
       {
@@ -14246,18 +14246,6 @@
       },
       {
         "position": "16",
-        "nom": "Sorrento",
-        "matchs": "15",
-        "victoires": "2",
-        "nuls": "8",
-        "defaites": "5",
-        "buts_pour": "15",
-        "buts_contre": "19",
-        "difference": "-4",
-        "points": "14"
-      },
-      {
-        "position": "17",
         "nom": "Latina",
         "matchs": "14",
         "victoires": "3",
@@ -14269,16 +14257,28 @@
         "points": "14"
       },
       {
+        "position": "17",
+        "nom": "Sorrento",
+        "matchs": "15",
+        "victoires": "2",
+        "nuls": "7",
+        "defaites": "6",
+        "buts_pour": "15",
+        "buts_contre": "20",
+        "difference": "-5",
+        "points": "13"
+      },
+      {
         "position": "18",
         "nom": "Siracusa",
         "matchs": "15",
         "victoires": "4",
-        "nuls": "0",
-        "defaites": "11",
-        "buts_pour": "14",
+        "nuls": "1",
+        "defaites": "10",
+        "buts_pour": "15",
         "buts_contre": "23",
-        "difference": "-9",
-        "points": "12"
+        "difference": "-8",
+        "points": "13"
       },
       {
         "position": "19",
@@ -15802,8 +15802,8 @@
         "victoires": "10",
         "nuls": "3",
         "defaites": "4",
-        "buts_pour": "28",
-        "buts_contre": "21",
+        "buts_pour": "29",
+        "buts_contre": "22",
         "difference": "7",
         "points": "33"
       },
@@ -15821,15 +15821,15 @@
       },
       {
         "position": "3",
-        "nom": "Notts County",
+        "nom": "Bromley",
         "matchs": "17",
-        "victoires": "9",
-        "nuls": "4",
-        "defaites": "4",
-        "buts_pour": "29",
-        "buts_contre": "17",
-        "difference": "12",
-        "points": "31"
+        "victoires": "8",
+        "nuls": "6",
+        "defaites": "3",
+        "buts_pour": "26",
+        "buts_contre": "19",
+        "difference": "7",
+        "points": "30"
       },
       {
         "position": "4",
@@ -15838,33 +15838,33 @@
         "victoires": "8",
         "nuls": "6",
         "defaites": "3",
-        "buts_pour": "29",
+        "buts_pour": "30",
         "buts_contre": "24",
-        "difference": "5",
+        "difference": "6",
         "points": "30"
       },
       {
         "position": "5",
+        "nom": "Notts County",
+        "matchs": "17",
+        "victoires": "8",
+        "nuls": "5",
+        "defaites": "4",
+        "buts_pour": "29",
+        "buts_contre": "18",
+        "difference": "11",
+        "points": "29"
+      },
+      {
+        "position": "6",
         "nom": "MK Dons",
         "matchs": "17",
         "victoires": "8",
         "nuls": "4",
         "defaites": "5",
         "buts_pour": "31",
-        "buts_contre": "18",
-        "difference": "13",
-        "points": "28"
-      },
-      {
-        "position": "6",
-        "nom": "Bromley",
-        "matchs": "17",
-        "victoires": "7",
-        "nuls": "7",
-        "defaites": "3",
-        "buts_pour": "25",
         "buts_contre": "19",
-        "difference": "6",
+        "difference": "12",
         "points": "28"
       },
       {
@@ -15881,42 +15881,54 @@
       },
       {
         "position": "8",
-        "nom": "Salford",
-        "matchs": "17",
-        "victoires": "8",
-        "nuls": "3",
-        "defaites": "6",
-        "buts_pour": "20",
-        "buts_contre": "20",
-        "difference": "0",
-        "points": "27"
-      },
-      {
-        "position": "9",
         "nom": "Crewe Alexandra",
         "matchs": "17",
         "victoires": "8",
         "nuls": "2",
         "defaites": "7",
         "buts_pour": "23",
-        "buts_contre": "20",
-        "difference": "3",
+        "buts_contre": "21",
+        "difference": "2",
+        "points": "26"
+      },
+      {
+        "position": "9",
+        "nom": "Fleetwood",
+        "matchs": "17",
+        "victoires": "7",
+        "nuls": "5",
+        "defaites": "5",
+        "buts_pour": "24",
+        "buts_contre": "23",
+        "difference": "1",
         "points": "26"
       },
       {
         "position": "10",
+        "nom": "Salford",
+        "matchs": "17",
+        "victoires": "8",
+        "nuls": "2",
+        "defaites": "7",
+        "buts_pour": "20",
+        "buts_contre": "21",
+        "difference": "-1",
+        "points": "26"
+      },
+      {
+        "position": "11",
         "nom": "Grimsby Town",
         "matchs": "17",
         "victoires": "7",
         "nuls": "4",
         "defaites": "6",
-        "buts_pour": "29",
-        "buts_contre": "22",
+        "buts_pour": "30",
+        "buts_contre": "23",
         "difference": "7",
         "points": "25"
       },
       {
-        "position": "11",
+        "position": "12",
         "nom": "Barnet",
         "matchs": "17",
         "victoires": "6",
@@ -15928,7 +15940,7 @@
         "points": "24"
       },
       {
-        "position": "12",
+        "position": "13",
         "nom": "Cambridge Utd.",
         "matchs": "17",
         "victoires": "6",
@@ -15940,27 +15952,15 @@
         "points": "24"
       },
       {
-        "position": "13",
-        "nom": "Fleetwood",
-        "matchs": "17",
-        "victoires": "6",
-        "nuls": "6",
-        "defaites": "5",
-        "buts_pour": "23",
-        "buts_contre": "23",
-        "difference": "0",
-        "points": "24"
-      },
-      {
         "position": "14",
         "nom": "Tranmere Rovers",
         "matchs": "17",
         "victoires": "5",
         "nuls": "7",
         "defaites": "5",
-        "buts_pour": "27",
+        "buts_pour": "28",
         "buts_contre": "24",
-        "difference": "3",
+        "difference": "4",
         "points": "22"
       },
       {
@@ -15968,12 +15968,12 @@
         "nom": "Colchester Utd.",
         "matchs": "17",
         "victoires": "5",
-        "nuls": "6",
-        "defaites": "6",
-        "buts_pour": "23",
+        "nuls": "7",
+        "defaites": "5",
+        "buts_pour": "24",
         "buts_contre": "21",
-        "difference": "2",
-        "points": "21"
+        "difference": "3",
+        "points": "22"
       },
       {
         "position": "16",
@@ -15989,6 +15989,18 @@
       },
       {
         "position": "17",
+        "nom": "Accrington",
+        "matchs": "17",
+        "victoires": "5",
+        "nuls": "5",
+        "defaites": "7",
+        "buts_pour": "20",
+        "buts_contre": "21",
+        "difference": "-1",
+        "points": "20"
+      },
+      {
+        "position": "18",
         "nom": "Barrow",
         "matchs": "17",
         "victoires": "5",
@@ -15998,18 +16010,6 @@
         "buts_contre": "19",
         "difference": "-3",
         "points": "20"
-      },
-      {
-        "position": "18",
-        "nom": "Accrington",
-        "matchs": "17",
-        "victoires": "4",
-        "nuls": "6",
-        "defaites": "7",
-        "buts_pour": "19",
-        "buts_contre": "21",
-        "difference": "-2",
-        "points": "18"
       },
       {
         "position": "19",
@@ -16028,24 +16028,24 @@
         "nom": "Crawley Town",
         "matchs": "17",
         "victoires": "4",
-        "nuls": "5",
-        "defaites": "8",
+        "nuls": "4",
+        "defaites": "9",
         "buts_pour": "18",
-        "buts_contre": "25",
-        "difference": "-7",
-        "points": "17"
+        "buts_contre": "26",
+        "difference": "-8",
+        "points": "16"
       },
       {
         "position": "21",
         "nom": "Shrewsbury",
         "matchs": "17",
         "victoires": "4",
-        "nuls": "5",
-        "defaites": "8",
+        "nuls": "4",
+        "defaites": "9",
         "buts_pour": "14",
-        "buts_contre": "25",
-        "difference": "-11",
-        "points": "17"
+        "buts_contre": "26",
+        "difference": "-12",
+        "points": "16"
       },
       {
         "position": "22",
@@ -20283,9 +20283,9 @@
         "victoires": "8",
         "nuls": "6",
         "defaites": "0",
-        "buts_pour": "28",
+        "buts_pour": "29",
         "buts_contre": "11",
-        "difference": "17",
+        "difference": "18",
         "points": "27"
       },
       {
@@ -20344,8 +20344,8 @@
         "nuls": "7",
         "defaites": "3",
         "buts_pour": "21",
-        "buts_contre": "22",
-        "difference": "-1",
+        "buts_contre": "23",
+        "difference": "-2",
         "points": "18"
       },
       {
@@ -20506,9 +20506,9 @@
         "victoires": "8",
         "nuls": "3",
         "defaites": "5",
-        "buts_pour": "28",
+        "buts_pour": "29",
         "buts_contre": "22",
-        "difference": "6",
+        "difference": "7",
         "points": "27"
       },
       {
@@ -20543,8 +20543,8 @@
         "nuls": "3",
         "defaites": "7",
         "buts_pour": "23",
-        "buts_contre": "28",
-        "difference": "-5",
+        "buts_contre": "29",
+        "difference": "-6",
         "points": "21"
       },
       {
@@ -22359,9 +22359,9 @@
         "victoires": "6",
         "nuls": "4",
         "defaites": "2",
-        "buts_pour": "11",
+        "buts_pour": "12",
         "buts_contre": "7",
-        "difference": "4",
+        "difference": "5",
         "points": "22"
       },
       {
@@ -22408,8 +22408,8 @@
         "nuls": "3",
         "defaites": "6",
         "buts_pour": "11",
-        "buts_contre": "12",
-        "difference": "-1",
+        "buts_contre": "13",
+        "difference": "-2",
         "points": "12"
       },
       {
@@ -25837,6 +25837,18 @@
       },
       {
         "position": "5",
+        "nom": "B. Dortmund II",
+        "matchs": "16",
+        "victoires": "8",
+        "nuls": "4",
+        "defaites": "4",
+        "buts_pour": "37",
+        "buts_contre": "26",
+        "difference": "11",
+        "points": "28"
+      },
+      {
+        "position": "6",
         "nom": "FC Gütersloh",
         "matchs": "15",
         "victoires": "8",
@@ -25848,7 +25860,7 @@
         "points": "28"
       },
       {
-        "position": "6",
+        "position": "7",
         "nom": "Spfr. Siegen",
         "matchs": "16",
         "victoires": "6",
@@ -25860,28 +25872,16 @@
         "points": "26"
       },
       {
-        "position": "7",
-        "nom": "B. Dortmund II",
-        "matchs": "16",
-        "victoires": "7",
-        "nuls": "5",
-        "defaites": "4",
-        "buts_pour": "36",
-        "buts_contre": "26",
-        "difference": "10",
-        "points": "26"
-      },
-      {
         "position": "8",
         "nom": "Cologne II",
         "matchs": "16",
         "victoires": "7",
-        "nuls": "3",
-        "defaites": "6",
+        "nuls": "2",
+        "defaites": "7",
         "buts_pour": "28",
-        "buts_contre": "30",
-        "difference": "-2",
-        "points": "24"
+        "buts_contre": "31",
+        "difference": "-3",
+        "points": "23"
       },
       {
         "position": "9",
@@ -26411,14 +26411,14 @@
       {
         "position": "1",
         "nom": "Dunav",
-        "matchs": "15",
-        "victoires": "13",
+        "matchs": "16",
+        "victoires": "14",
         "nuls": "2",
         "defaites": "0",
-        "buts_pour": "32",
+        "buts_pour": "34",
         "buts_contre": "4",
-        "difference": "28",
-        "points": "41"
+        "difference": "30",
+        "points": "44"
       },
       {
         "position": "2",
@@ -26435,14 +26435,14 @@
       {
         "position": "3",
         "nom": "Yantra",
-        "matchs": "15",
-        "victoires": "8",
+        "matchs": "16",
+        "victoires": "9",
         "nuls": "5",
         "defaites": "2",
-        "buts_pour": "17",
+        "buts_pour": "19",
         "buts_contre": "11",
-        "difference": "6",
-        "points": "29"
+        "difference": "8",
+        "points": "32"
       },
       {
         "position": "4",
@@ -26494,38 +26494,38 @@
       },
       {
         "position": "8",
-        "nom": "Minyor Pernik",
-        "matchs": "15",
+        "nom": "Chern. Burgas",
+        "matchs": "16",
         "victoires": "5",
-        "nuls": "5",
-        "defaites": "5",
-        "buts_pour": "18",
+        "nuls": "7",
+        "defaites": "4",
+        "buts_pour": "20",
         "buts_contre": "18",
-        "difference": "0",
-        "points": "20"
+        "difference": "2",
+        "points": "22"
       },
       {
         "position": "9",
-        "nom": "Chern. Burgas",
-        "matchs": "15",
-        "victoires": "4",
-        "nuls": "7",
-        "defaites": "4",
-        "buts_pour": "19",
-        "buts_contre": "18",
-        "difference": "1",
-        "points": "19"
+        "nom": "Minyor Pernik",
+        "matchs": "16",
+        "victoires": "5",
+        "nuls": "5",
+        "defaites": "6",
+        "buts_pour": "18",
+        "buts_contre": "20",
+        "difference": "-2",
+        "points": "20"
       },
       {
         "position": "10",
         "nom": "Hebar P.",
-        "matchs": "14",
+        "matchs": "15",
         "victoires": "5",
         "nuls": "4",
-        "defaites": "5",
+        "defaites": "6",
         "buts_pour": "20",
-        "buts_contre": "21",
-        "difference": "-1",
+        "buts_contre": "24",
+        "difference": "-4",
         "points": "19"
       },
       {
@@ -26554,6 +26554,18 @@
       },
       {
         "position": "13",
+        "nom": "Sportist Svoge",
+        "matchs": "16",
+        "victoires": "3",
+        "nuls": "5",
+        "defaites": "8",
+        "buts_pour": "12",
+        "buts_contre": "24",
+        "difference": "-12",
+        "points": "14"
+      },
+      {
+        "position": "14",
         "nom": "Etar",
         "matchs": "14",
         "victoires": "2",
@@ -26563,18 +26575,6 @@
         "buts_contre": "19",
         "difference": "-6",
         "points": "13"
-      },
-      {
-        "position": "14",
-        "nom": "Sportist Svoge",
-        "matchs": "15",
-        "victoires": "2",
-        "nuls": "5",
-        "defaites": "8",
-        "buts_pour": "9",
-        "buts_contre": "24",
-        "difference": "-15",
-        "points": "11"
       },
       {
         "position": "15",
@@ -26591,25 +26591,25 @@
       {
         "position": "16",
         "nom": "Sevlievo",
-        "matchs": "15",
+        "matchs": "16",
         "victoires": "2",
         "nuls": "4",
-        "defaites": "9",
+        "defaites": "10",
         "buts_pour": "10",
-        "buts_contre": "24",
-        "difference": "-14",
+        "buts_contre": "25",
+        "difference": "-15",
         "points": "10"
       },
       {
         "position": "17",
         "nom": "Belasitsa",
-        "matchs": "15",
+        "matchs": "16",
         "victoires": "2",
         "nuls": "4",
-        "defaites": "9",
+        "defaites": "10",
         "buts_pour": "5",
-        "buts_contre": "24",
-        "difference": "-19",
+        "buts_contre": "26",
+        "difference": "-21",
         "points": "10"
       }
     ]
@@ -27441,6 +27441,18 @@
       },
       {
         "position": "3",
+        "nom": "Ayr United",
+        "matchs": "16",
+        "victoires": "5",
+        "nuls": "8",
+        "defaites": "3",
+        "buts_pour": "20",
+        "buts_contre": "16",
+        "difference": "4",
+        "points": "23"
+      },
+      {
+        "position": "4",
         "nom": "Arbroath",
         "matchs": "16",
         "victoires": "6",
@@ -27452,43 +27464,19 @@
         "points": "23"
       },
       {
-        "position": "4",
-        "nom": "Ayr United",
-        "matchs": "16",
-        "victoires": "4",
-        "nuls": "9",
-        "defaites": "3",
-        "buts_pour": "19",
-        "buts_contre": "16",
-        "difference": "3",
-        "points": "21"
-      },
-      {
         "position": "5",
         "nom": "Dunfermline A.",
         "matchs": "15",
-        "victoires": "5",
-        "nuls": "5",
+        "victoires": "6",
+        "nuls": "4",
         "defaites": "5",
-        "buts_pour": "21",
+        "buts_pour": "22",
         "buts_contre": "14",
-        "difference": "7",
-        "points": "20"
+        "difference": "8",
+        "points": "22"
       },
       {
         "position": "6",
-        "nom": "Morton",
-        "matchs": "16",
-        "victoires": "3",
-        "nuls": "10",
-        "defaites": "3",
-        "buts_pour": "15",
-        "buts_contre": "16",
-        "difference": "-1",
-        "points": "19"
-      },
-      {
-        "position": "7",
         "nom": "Raith Rovers",
         "matchs": "16",
         "victoires": "5",
@@ -27498,6 +27486,18 @@
         "buts_contre": "18",
         "difference": "-4",
         "points": "19"
+      },
+      {
+        "position": "7",
+        "nom": "Morton",
+        "matchs": "16",
+        "victoires": "3",
+        "nuls": "9",
+        "defaites": "4",
+        "buts_pour": "15",
+        "buts_contre": "17",
+        "difference": "-2",
+        "points": "18"
       },
       {
         "position": "8",
@@ -27528,12 +27528,12 @@
         "nom": "Airdrieonians",
         "matchs": "16",
         "victoires": "2",
-        "nuls": "6",
-        "defaites": "8",
+        "nuls": "5",
+        "defaites": "9",
         "buts_pour": "13",
-        "buts_contre": "24",
-        "difference": "-11",
-        "points": "12"
+        "buts_contre": "25",
+        "difference": "-12",
+        "points": "11"
       }
     ]
   },
@@ -34946,27 +34946,15 @@
         "nom": "East Fife",
         "matchs": "15",
         "victoires": "6",
-        "nuls": "5",
-        "defaites": "4",
+        "nuls": "4",
+        "defaites": "5",
         "buts_pour": "18",
-        "buts_contre": "19",
-        "difference": "-1",
-        "points": "23"
+        "buts_contre": "20",
+        "difference": "-2",
+        "points": "22"
       },
       {
         "position": "5",
-        "nom": "Hamilton Acad.",
-        "matchs": "15",
-        "victoires": "8",
-        "nuls": "3",
-        "defaites": "4",
-        "buts_pour": "29",
-        "buts_contre": "12",
-        "difference": "17",
-        "points": "21"
-      },
-      {
-        "position": "6",
         "nom": "Queen o. t. S.",
         "matchs": "14",
         "victoires": "6",
@@ -34978,7 +34966,7 @@
         "points": "21"
       },
       {
-        "position": "7",
+        "position": "6",
         "nom": "Peterhead",
         "matchs": "15",
         "victoires": "6",
@@ -34990,19 +34978,43 @@
         "points": "20"
       },
       {
+        "position": "7",
+        "nom": "Hamilton Acad.",
+        "matchs": "15",
+        "victoires": "7",
+        "nuls": "4",
+        "defaites": "4",
+        "buts_pour": "29",
+        "buts_contre": "13",
+        "difference": "16",
+        "points": "19"
+      },
+      {
         "position": "8",
         "nom": "Montrose",
         "matchs": "15",
-        "victoires": "3",
-        "nuls": "4",
+        "victoires": "4",
+        "nuls": "3",
         "defaites": "8",
-        "buts_pour": "12",
+        "buts_pour": "13",
         "buts_contre": "28",
-        "difference": "-16",
-        "points": "13"
+        "difference": "-15",
+        "points": "15"
       },
       {
         "position": "9",
+        "nom": "Kelty Hearts",
+        "matchs": "15",
+        "victoires": "2",
+        "nuls": "4",
+        "defaites": "9",
+        "buts_pour": "13",
+        "buts_contre": "29",
+        "difference": "-16",
+        "points": "10"
+      },
+      {
+        "position": "10",
         "nom": "Cove Rangers",
         "matchs": "15",
         "victoires": "2",
@@ -35011,18 +35023,6 @@
         "buts_pour": "11",
         "buts_contre": "21",
         "difference": "-10",
-        "points": "9"
-      },
-      {
-        "position": "10",
-        "nom": "Kelty Hearts",
-        "matchs": "15",
-        "victoires": "2",
-        "nuls": "3",
-        "defaites": "10",
-        "buts_pour": "12",
-        "buts_contre": "29",
-        "difference": "-17",
         "points": "9"
       }
     ]
