@@ -12214,8 +12214,8 @@
         "nuls": "7",
         "defaites": "4",
         "buts_pour": "67",
-        "buts_contre": "34",
-        "difference": "33",
+        "buts_contre": "35",
+        "difference": "32",
         "points": "64"
       },
       {
@@ -12237,9 +12237,9 @@
         "victoires": "17",
         "nuls": "6",
         "defaites": "7",
-        "buts_pour": "68",
+        "buts_pour": "69",
         "buts_contre": "46",
-        "difference": "22",
+        "difference": "23",
         "points": "57"
       },
       {
@@ -12249,34 +12249,34 @@
         "victoires": "15",
         "nuls": "8",
         "defaites": "7",
-        "buts_pour": "68",
-        "buts_contre": "45",
+        "buts_pour": "69",
+        "buts_contre": "46",
         "difference": "23",
         "points": "53"
       },
       {
         "position": "6",
-        "nom": "ZJ FC",
-        "matchs": "30",
-        "victoires": "11",
-        "nuls": "11",
-        "defaites": "8",
-        "buts_pour": "60",
-        "buts_contre": "50",
-        "difference": "10",
-        "points": "44"
-      },
-      {
-        "position": "7",
         "nom": "TJ Jinmen Tiger",
         "matchs": "30",
         "victoires": "12",
         "nuls": "8",
         "defaites": "10",
-        "buts_pour": "39",
+        "buts_pour": "40",
         "buts_contre": "41",
-        "difference": "-2",
+        "difference": "-1",
         "points": "44"
+      },
+      {
+        "position": "7",
+        "nom": "ZJ FC",
+        "matchs": "30",
+        "victoires": "10",
+        "nuls": "12",
+        "defaites": "8",
+        "buts_pour": "60",
+        "buts_contre": "51",
+        "difference": "9",
+        "points": "42"
       },
       {
         "position": "8",
@@ -12345,8 +12345,8 @@
         "victoires": "6",
         "nuls": "7",
         "defaites": "17",
-        "buts_pour": "33",
-        "buts_contre": "61",
+        "buts_pour": "34",
+        "buts_contre": "62",
         "difference": "-28",
         "points": "25"
       },
@@ -12355,12 +12355,12 @@
         "nom": "QD Hainiu",
         "matchs": "30",
         "victoires": "5",
-        "nuls": "9",
-        "defaites": "16",
-        "buts_pour": "34",
+        "nuls": "10",
+        "defaites": "15",
+        "buts_pour": "35",
         "buts_contre": "48",
-        "difference": "-14",
-        "points": "24"
+        "difference": "-13",
+        "points": "25"
       },
       {
         "position": "15",
@@ -12370,8 +12370,8 @@
         "nuls": "6",
         "defaites": "19",
         "buts_pour": "36",
-        "buts_contre": "70",
-        "difference": "-34",
+        "buts_contre": "71",
+        "difference": "-35",
         "points": "21"
       },
       {
