@@ -13500,25 +13500,25 @@
         "position": "2",
         "nom": "Daejeon Hana C.",
         "matchs": "37",
-        "victoires": "17",
-        "nuls": "11",
+        "victoires": "18",
+        "nuls": "10",
         "defaites": "9",
-        "buts_pour": "54",
+        "buts_pour": "55",
         "buts_contre": "45",
-        "difference": "9",
-        "points": "62"
+        "difference": "10",
+        "points": "64"
       },
       {
         "position": "3",
         "nom": "Gimcheon Sangmu",
         "matchs": "37",
-        "victoires": "17",
-        "nuls": "8",
+        "victoires": "18",
+        "nuls": "7",
         "defaites": "12",
-        "buts_pour": "56",
+        "buts_pour": "57",
         "buts_contre": "41",
-        "difference": "15",
-        "points": "59"
+        "difference": "16",
+        "points": "61"
       },
       {
         "position": "4",
@@ -13537,24 +13537,24 @@
         "nom": "FC Seoul",
         "matchs": "37",
         "victoires": "12",
-        "nuls": "14",
-        "defaites": "11",
+        "nuls": "13",
+        "defaites": "12",
         "buts_pour": "48",
-        "buts_contre": "47",
-        "difference": "1",
-        "points": "50"
+        "buts_contre": "48",
+        "difference": "0",
+        "points": "49"
       },
       {
         "position": "6",
         "nom": "Gangwon FC",
         "matchs": "37",
         "victoires": "12",
-        "nuls": "13",
-        "defaites": "12",
+        "nuls": "12",
+        "defaites": "13",
         "buts_pour": "35",
-        "buts_contre": "40",
-        "difference": "-5",
-        "points": "49"
+        "buts_contre": "41",
+        "difference": "-6",
+        "points": "48"
       }
     ]
   },
