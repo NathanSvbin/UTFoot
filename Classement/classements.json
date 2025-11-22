@@ -1033,9 +1033,9 @@
         "victoires": "5",
         "nuls": "6",
         "defaites": "2",
-        "buts_pour": "22",
+        "buts_pour": "23",
         "buts_contre": "17",
-        "difference": "5",
+        "difference": "6",
         "points": "21"
       },
       {
@@ -1070,8 +1070,8 @@
         "nuls": "2",
         "defaites": "5",
         "buts_pour": "24",
-        "buts_contre": "24",
-        "difference": "0",
+        "buts_contre": "25",
+        "difference": "-1",
         "points": "20"
       },
       {
@@ -4075,9 +4075,9 @@
         "victoires": "9",
         "nuls": "1",
         "defaites": "1",
-        "buts_pour": "24",
+        "buts_pour": "25",
         "buts_contre": "7",
-        "difference": "17",
+        "difference": "18",
         "points": "28"
       },
       {
@@ -4184,8 +4184,8 @@
         "nuls": "3",
         "defaites": "6",
         "buts_pour": "11",
-        "buts_contre": "13",
-        "difference": "-2",
+        "buts_contre": "14",
+        "difference": "-3",
         "points": "9"
       },
       {
@@ -4520,6 +4520,18 @@
       },
       {
         "position": "3",
+        "nom": "Darmstadt 98",
+        "matchs": "13",
+        "victoires": "7",
+        "nuls": "4",
+        "defaites": "2",
+        "buts_pour": "20",
+        "buts_contre": "11",
+        "difference": "9",
+        "points": "25"
+      },
+      {
+        "position": "4",
         "nom": "Hannover 96",
         "matchs": "13",
         "victoires": "7",
@@ -4531,7 +4543,7 @@
         "points": "24"
       },
       {
-        "position": "4",
+        "position": "5",
         "nom": "SV Elversberg",
         "matchs": "12",
         "victoires": "7",
@@ -4540,18 +4552,6 @@
         "buts_pour": "24",
         "buts_contre": "11",
         "difference": "13",
-        "points": "23"
-      },
-      {
-        "position": "5",
-        "nom": "Darmstadt 98",
-        "matchs": "13",
-        "victoires": "6",
-        "nuls": "5",
-        "defaites": "2",
-        "buts_pour": "19",
-        "buts_contre": "11",
-        "difference": "8",
         "points": "23"
       },
       {
@@ -4652,18 +4652,6 @@
       },
       {
         "position": "14",
-        "nom": "Greuther Fürth",
-        "matchs": "13",
-        "victoires": "4",
-        "nuls": "2",
-        "defaites": "7",
-        "buts_pour": "18",
-        "buts_contre": "30",
-        "difference": "-12",
-        "points": "14"
-      },
-      {
-        "position": "15",
         "nom": "VfL Bochum",
         "matchs": "13",
         "victoires": "4",
@@ -4672,6 +4660,18 @@
         "buts_pour": "17",
         "buts_contre": "20",
         "difference": "-3",
+        "points": "13"
+      },
+      {
+        "position": "15",
+        "nom": "Greuther Fürth",
+        "matchs": "13",
+        "victoires": "4",
+        "nuls": "1",
+        "defaites": "8",
+        "buts_pour": "18",
+        "buts_contre": "31",
+        "difference": "-13",
         "points": "13"
       },
       {
@@ -10160,18 +10160,6 @@
       },
       {
         "position": "4",
-        "nom": "Enppi SC",
-        "matchs": "12",
-        "victoires": "5",
-        "nuls": "6",
-        "defaites": "1",
-        "buts_pour": "11",
-        "buts_contre": "6",
-        "difference": "5",
-        "points": "21"
-      },
-      {
-        "position": "5",
         "nom": "Pyramids FC",
         "matchs": "9",
         "victoires": "6",
@@ -10183,7 +10171,7 @@
         "points": "20"
       },
       {
-        "position": "6",
+        "position": "5",
         "nom": "El Masry",
         "matchs": "12",
         "victoires": "5",
@@ -10195,7 +10183,7 @@
         "points": "20"
       },
       {
-        "position": "7",
+        "position": "6",
         "nom": "Wadi Degla",
         "matchs": "13",
         "victoires": "5",
@@ -10205,6 +10193,18 @@
         "buts_contre": "11",
         "difference": "4",
         "points": "20"
+      },
+      {
+        "position": "7",
+        "nom": "Enppi SC",
+        "matchs": "12",
+        "victoires": "4",
+        "nuls": "7",
+        "defaites": "1",
+        "buts_pour": "11",
+        "buts_contre": "7",
+        "difference": "4",
+        "points": "19"
       },
       {
         "position": "8",
@@ -10316,6 +10316,18 @@
       },
       {
         "position": "17",
+        "nom": "Talaea El Geish",
+        "matchs": "14",
+        "victoires": "2",
+        "nuls": "5",
+        "defaites": "7",
+        "buts_pour": "7",
+        "buts_contre": "19",
+        "difference": "-12",
+        "points": "11"
+      },
+      {
+        "position": "18",
         "nom": "El Mokawloon",
         "matchs": "13",
         "victoires": "1",
@@ -10327,7 +10339,7 @@
         "points": "10"
       },
       {
-        "position": "18",
+        "position": "19",
         "nom": "Ismaily",
         "matchs": "13",
         "victoires": "3",
@@ -10336,18 +10348,6 @@
         "buts_pour": "7",
         "buts_contre": "16",
         "difference": "-9",
-        "points": "10"
-      },
-      {
-        "position": "19",
-        "nom": "Talaea El Geish",
-        "matchs": "14",
-        "victoires": "2",
-        "nuls": "4",
-        "defaites": "8",
-        "buts_pour": "6",
-        "buts_contre": "19",
-        "difference": "-13",
         "points": "10"
       },
       {
@@ -13322,6 +13322,18 @@
       },
       {
         "position": "11",
+        "nom": "RSCA Futures",
+        "matchs": "12",
+        "victoires": "3",
+        "nuls": "5",
+        "defaites": "4",
+        "buts_pour": "15",
+        "buts_contre": "17",
+        "difference": "-2",
+        "points": "14"
+      },
+      {
+        "position": "12",
         "nom": "Lierse SK",
         "matchs": "13",
         "victoires": "3",
@@ -13333,7 +13345,7 @@
         "points": "13"
       },
       {
-        "position": "12",
+        "position": "13",
         "nom": "Francs Borains",
         "matchs": "13",
         "victoires": "3",
@@ -13345,7 +13357,7 @@
         "points": "13"
       },
       {
-        "position": "13",
+        "position": "14",
         "nom": "Jong Genk",
         "matchs": "12",
         "victoires": "3",
@@ -13357,28 +13369,16 @@
         "points": "12"
       },
       {
-        "position": "14",
-        "nom": "RSCA Futures",
-        "matchs": "12",
-        "victoires": "2",
-        "nuls": "6",
-        "defaites": "4",
-        "buts_pour": "14",
-        "buts_contre": "17",
-        "difference": "-3",
-        "points": "12"
-      },
-      {
         "position": "15",
         "nom": "RFC Seraing",
         "matchs": "13",
         "victoires": "1",
-        "nuls": "6",
-        "defaites": "6",
+        "nuls": "5",
+        "defaites": "7",
         "buts_pour": "12",
-        "buts_contre": "22",
-        "difference": "-10",
-        "points": "9"
+        "buts_contre": "23",
+        "difference": "-11",
+        "points": "8"
       },
       {
         "position": "16",
@@ -17887,9 +17887,9 @@
         "victoires": "9",
         "nuls": "3",
         "defaites": "5",
-        "buts_pour": "27",
+        "buts_pour": "29",
         "buts_contre": "19",
-        "difference": "8",
+        "difference": "10",
         "points": "30"
       },
       {
@@ -18044,8 +18044,8 @@
         "nuls": "4",
         "defaites": "10",
         "buts_pour": "20",
-        "buts_contre": "33",
-        "difference": "-13",
+        "buts_contre": "35",
+        "difference": "-15",
         "points": "13"
       },
       {
@@ -31599,18 +31599,6 @@
       {
         "position": "1",
         "nom": "Forge FC",
-        "matchs": "0",
-        "victoires": "0",
-        "nuls": "0",
-        "defaites": "0",
-        "buts_pour": "0",
-        "buts_contre": "0",
-        "difference": "0",
-        "points": "0"
-      },
-      {
-        "position": "1",
-        "nom": "Valour FC",
         "matchs": "0",
         "victoires": "0",
         "nuls": "0",
