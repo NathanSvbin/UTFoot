@@ -4544,18 +4544,6 @@
       },
       {
         "position": "5",
-        "nom": "Darmstadt 98",
-        "matchs": "13",
-        "victoires": "6",
-        "nuls": "5",
-        "defaites": "2",
-        "buts_pour": "20",
-        "buts_contre": "12",
-        "difference": "8",
-        "points": "23"
-      },
-      {
-        "position": "6",
         "nom": "Hertha BSC",
         "matchs": "13",
         "victoires": "7",
@@ -4565,6 +4553,18 @@
         "buts_contre": "10",
         "difference": "6",
         "points": "23"
+      },
+      {
+        "position": "6",
+        "nom": "Darmstadt 98",
+        "matchs": "13",
+        "victoires": "6",
+        "nuls": "4",
+        "defaites": "3",
+        "buts_pour": "20",
+        "buts_contre": "13",
+        "difference": "7",
+        "points": "22"
       },
       {
         "position": "7",
@@ -4604,6 +4604,18 @@
       },
       {
         "position": "10",
+        "nom": "Greuther Fürth",
+        "matchs": "13",
+        "victoires": "5",
+        "nuls": "1",
+        "defaites": "7",
+        "buts_pour": "20",
+        "buts_contre": "31",
+        "difference": "-11",
+        "points": "16"
+      },
+      {
+        "position": "11",
         "nom": "Holstein Kiel",
         "matchs": "12",
         "victoires": "4",
@@ -4615,7 +4627,7 @@
         "points": "15"
       },
       {
-        "position": "11",
+        "position": "12",
         "nom": "1.FC Nürnberg",
         "matchs": "12",
         "victoires": "4",
@@ -4627,7 +4639,7 @@
         "points": "15"
       },
       {
-        "position": "12",
+        "position": "13",
         "nom": "Pr. Münster",
         "matchs": "13",
         "victoires": "4",
@@ -4639,7 +4651,7 @@
         "points": "15"
       },
       {
-        "position": "13",
+        "position": "14",
         "nom": "F. Düsseldorf",
         "matchs": "13",
         "victoires": "4",
@@ -4648,18 +4660,6 @@
         "buts_pour": "12",
         "buts_contre": "21",
         "difference": "-9",
-        "points": "14"
-      },
-      {
-        "position": "14",
-        "nom": "Greuther Fürth",
-        "matchs": "13",
-        "victoires": "4",
-        "nuls": "2",
-        "defaites": "7",
-        "buts_pour": "19",
-        "buts_contre": "31",
-        "difference": "-12",
         "points": "14"
       },
       {
@@ -6152,18 +6152,6 @@
       },
       {
         "position": "11",
-        "nom": "Legia Varsovie",
-        "matchs": "15",
-        "victoires": "4",
-        "nuls": "6",
-        "defaites": "5",
-        "buts_pour": "17",
-        "buts_contre": "16",
-        "difference": "1",
-        "points": "18"
-      },
-      {
-        "position": "12",
         "nom": "Arka Gdynia",
         "matchs": "16",
         "victoires": "5",
@@ -6173,6 +6161,18 @@
         "buts_contre": "28",
         "difference": "-15",
         "points": "18"
+      },
+      {
+        "position": "12",
+        "nom": "Legia Varsovie",
+        "matchs": "15",
+        "victoires": "4",
+        "nuls": "5",
+        "defaites": "6",
+        "buts_pour": "17",
+        "buts_contre": "17",
+        "difference": "0",
+        "points": "17"
       },
       {
         "position": "13",
@@ -6212,6 +6212,18 @@
       },
       {
         "position": "16",
+        "nom": "Lechia Gdansk",
+        "matchs": "16",
+        "victoires": "6",
+        "nuls": "3",
+        "defaites": "7",
+        "buts_pour": "27",
+        "buts_contre": "33",
+        "difference": "-6",
+        "points": "16"
+      },
+      {
+        "position": "17",
         "nom": "Nieciecza",
         "matchs": "16",
         "victoires": "4",
@@ -6223,7 +6235,7 @@
         "points": "16"
       },
       {
-        "position": "17",
+        "position": "18",
         "nom": "Piast Gliwice",
         "matchs": "14",
         "victoires": "3",
@@ -6232,18 +6244,6 @@
         "buts_pour": "16",
         "buts_contre": "17",
         "difference": "-1",
-        "points": "14"
-      },
-      {
-        "position": "18",
-        "nom": "Lechia Gdansk",
-        "matchs": "16",
-        "victoires": "5",
-        "nuls": "4",
-        "defaites": "7",
-        "buts_pour": "26",
-        "buts_contre": "33",
-        "difference": "-7",
         "points": "14"
       }
     ]
@@ -12980,12 +12980,12 @@
         "nom": "Universitario",
         "matchs": "17",
         "victoires": "12",
-        "nuls": "5",
-        "defaites": "0",
+        "nuls": "4",
+        "defaites": "1",
         "buts_pour": "28",
-        "buts_contre": "10",
-        "difference": "18",
-        "points": "41"
+        "buts_contre": "11",
+        "difference": "17",
+        "points": "40"
       },
       {
         "position": "2",
@@ -13025,6 +13025,18 @@
       },
       {
         "position": "5",
+        "nom": "Los Chankas",
+        "matchs": "17",
+        "victoires": "9",
+        "nuls": "0",
+        "defaites": "8",
+        "buts_pour": "19",
+        "buts_contre": "27",
+        "difference": "-8",
+        "points": "27"
+      },
+      {
+        "position": "6",
         "nom": "FBC Melgar",
         "matchs": "17",
         "victoires": "6",
@@ -13036,7 +13048,7 @@
         "points": "25"
       },
       {
-        "position": "6",
+        "position": "7",
         "nom": "Dep. Garcilaso",
         "matchs": "17",
         "victoires": "6",
@@ -13045,18 +13057,6 @@
         "buts_pour": "20",
         "buts_contre": "21",
         "difference": "-1",
-        "points": "25"
-      },
-      {
-        "position": "7",
-        "nom": "Los Chankas",
-        "matchs": "17",
-        "victoires": "8",
-        "nuls": "1",
-        "defaites": "8",
-        "buts_pour": "18",
-        "buts_contre": "27",
-        "difference": "-9",
         "points": "25"
       },
       {
@@ -34275,241 +34275,241 @@
       {
         "position": "1",
         "nom": "Sidama Bunna",
-        "matchs": "5",
+        "matchs": "6",
         "victoires": "4",
-        "nuls": "0",
+        "nuls": "1",
         "defaites": "1",
         "buts_pour": "9",
         "buts_contre": "3",
         "difference": "6",
-        "points": "12"
+        "points": "13"
       },
       {
         "position": "2",
-        "nom": "Kidus Giorgis",
-        "matchs": "5",
+        "nom": "Hawasa Ketema",
+        "matchs": "6",
         "victoires": "4",
-        "nuls": "0",
+        "nuls": "1",
         "defaites": "1",
-        "buts_pour": "6",
-        "buts_contre": "2",
-        "difference": "4",
-        "points": "12"
+        "buts_pour": "9",
+        "buts_contre": "4",
+        "difference": "5",
+        "points": "13"
       },
       {
         "position": "3",
         "nom": "Mechal",
-        "matchs": "5",
+        "matchs": "6",
         "victoires": "3",
-        "nuls": "2",
+        "nuls": "3",
         "defaites": "0",
-        "buts_pour": "8",
-        "buts_contre": "3",
+        "buts_pour": "10",
+        "buts_contre": "5",
         "difference": "5",
-        "points": "11"
+        "points": "12"
       },
       {
         "position": "4",
         "nom": "Fasil Kenema",
-        "matchs": "5",
+        "matchs": "6",
         "victoires": "3",
-        "nuls": "2",
+        "nuls": "3",
         "defaites": "0",
         "buts_pour": "5",
         "buts_contre": "1",
         "difference": "4",
-        "points": "11"
+        "points": "12"
       },
       {
         "position": "5",
-        "nom": "Hawasa Ketema",
-        "matchs": "5",
-        "victoires": "3",
-        "nuls": "1",
-        "defaites": "1",
-        "buts_pour": "8",
-        "buts_contre": "4",
-        "difference": "4",
-        "points": "10"
+        "nom": "Kidus Giorgis",
+        "matchs": "6",
+        "victoires": "4",
+        "nuls": "0",
+        "defaites": "2",
+        "buts_pour": "6",
+        "buts_contre": "3",
+        "difference": "3",
+        "points": "12"
       },
       {
         "position": "6",
         "nom": "Ethio Electric",
-        "matchs": "5",
+        "matchs": "6",
         "victoires": "2",
-        "nuls": "3",
+        "nuls": "4",
         "defaites": "0",
         "buts_pour": "3",
         "buts_contre": "1",
         "difference": "2",
-        "points": "9"
+        "points": "10"
       },
       {
         "position": "7",
-        "nom": "Adama Ketema",
-        "matchs": "5",
-        "victoires": "2",
-        "nuls": "3",
-        "defaites": "0",
-        "buts_pour": "2",
-        "buts_contre": "0",
-        "difference": "2",
-        "points": "9"
-      },
-      {
-        "position": "8",
         "nom": "Diredawa Ketema",
-        "matchs": "4",
+        "matchs": "5",
         "victoires": "3",
-        "nuls": "0",
+        "nuls": "1",
         "defaites": "1",
         "buts_pour": "5",
         "buts_contre": "4",
+        "difference": "1",
+        "points": "10"
+      },
+      {
+        "position": "8",
+        "nom": "Adama Ketema",
+        "matchs": "6",
+        "victoires": "2",
+        "nuls": "3",
+        "defaites": "1",
+        "buts_pour": "3",
+        "buts_contre": "2",
         "difference": "1",
         "points": "9"
       },
       {
         "position": "9",
-        "nom": "Bahirdar Ketema",
-        "matchs": "5",
-        "victoires": "1",
-        "nuls": "3",
-        "defaites": "1",
-        "buts_pour": "5",
-        "buts_contre": "5",
-        "difference": "0",
-        "points": "6"
-      },
-      {
-        "position": "10",
         "nom": "Insurance Corp.",
-        "matchs": "4",
-        "victoires": "1",
+        "matchs": "5",
+        "victoires": "2",
         "nuls": "2",
         "defaites": "1",
-        "buts_pour": "2",
-        "buts_contre": "2",
-        "difference": "0",
-        "points": "5"
+        "buts_pour": "5",
+        "buts_contre": "4",
+        "difference": "1",
+        "points": "8"
       },
       {
         "position": "10",
         "nom": "Shagger City",
-        "matchs": "4",
-        "victoires": "1",
+        "matchs": "5",
+        "victoires": "2",
         "nuls": "2",
         "defaites": "1",
-        "buts_pour": "2",
+        "buts_pour": "3",
         "buts_contre": "2",
+        "difference": "1",
+        "points": "8"
+      },
+      {
+        "position": "11",
+        "nom": "Bahirdar Ketema",
+        "matchs": "6",
+        "victoires": "1",
+        "nuls": "4",
+        "defaites": "1",
+        "buts_pour": "5",
+        "buts_contre": "5",
         "difference": "0",
-        "points": "5"
+        "points": "7"
       },
       {
         "position": "12",
-        "nom": "Arbaminch",
-        "matchs": "5",
-        "victoires": "0",
-        "nuls": "4",
-        "defaites": "1",
-        "buts_pour": "3",
-        "buts_contre": "4",
+        "nom": "Negele Arsi",
+        "matchs": "6",
+        "victoires": "1",
+        "nuls": "3",
+        "defaites": "2",
+        "buts_pour": "4",
+        "buts_contre": "5",
         "difference": "-1",
-        "points": "4"
+        "points": "6"
       },
       {
         "position": "13",
-        "nom": "Midre Genet",
-        "matchs": "4",
+        "nom": "Hadia Hosaina",
+        "matchs": "6",
         "victoires": "1",
-        "nuls": "1",
+        "nuls": "3",
         "defaites": "2",
-        "buts_pour": "2",
-        "buts_contre": "3",
-        "difference": "-1",
-        "points": "4"
+        "buts_pour": "4",
+        "buts_contre": "6",
+        "difference": "-2",
+        "points": "6"
       },
       {
         "position": "14",
-        "nom": "Ethiopia Bunna",
+        "nom": "Midre Genet",
         "matchs": "5",
         "victoires": "1",
-        "nuls": "1",
-        "defaites": "3",
-        "buts_pour": "2",
-        "buts_contre": "4",
-        "difference": "-2",
-        "points": "4"
+        "nuls": "2",
+        "defaites": "2",
+        "buts_pour": "4",
+        "buts_contre": "5",
+        "difference": "-1",
+        "points": "5"
       },
       {
         "position": "15",
         "nom": "Ethiopia Nigd",
-        "matchs": "4",
+        "matchs": "5",
         "victoires": "0",
-        "nuls": "3",
+        "nuls": "4",
         "defaites": "1",
-        "buts_pour": "3",
-        "buts_contre": "5",
+        "buts_pour": "4",
+        "buts_contre": "6",
         "difference": "-2",
-        "points": "3"
+        "points": "4"
       },
       {
         "position": "16",
-        "nom": "Negele Arsi",
-        "matchs": "5",
+        "nom": "Arbaminch",
+        "matchs": "6",
         "victoires": "0",
-        "nuls": "3",
+        "nuls": "4",
         "defaites": "2",
-        "buts_pour": "2",
-        "buts_contre": "4",
+        "buts_pour": "3",
+        "buts_contre": "5",
         "difference": "-2",
-        "points": "3"
+        "points": "4"
       },
       {
         "position": "17",
-        "nom": "Hadia Hosaina",
-        "matchs": "5",
-        "victoires": "0",
-        "nuls": "3",
-        "defaites": "2",
-        "buts_pour": "3",
-        "buts_contre": "6",
+        "nom": "Ethiopia Bunna",
+        "matchs": "6",
+        "victoires": "1",
+        "nuls": "1",
+        "defaites": "4",
+        "buts_pour": "4",
+        "buts_contre": "7",
         "difference": "-3",
-        "points": "3"
+        "points": "4"
       },
       {
         "position": "18",
         "nom": "Mekele 70",
-        "matchs": "5",
+        "matchs": "6",
         "victoires": "0",
-        "nuls": "2",
+        "nuls": "3",
         "defaites": "3",
         "buts_pour": "6",
         "buts_contre": "10",
         "difference": "-4",
-        "points": "2"
+        "points": "3"
       },
       {
         "position": "19",
         "nom": "Wolayta Dicha",
-        "matchs": "5",
+        "matchs": "6",
         "victoires": "0",
-        "nuls": "1",
+        "nuls": "2",
         "defaites": "4",
-        "buts_pour": "3",
-        "buts_contre": "8",
+        "buts_pour": "4",
+        "buts_contre": "9",
         "difference": "-5",
-        "points": "1"
+        "points": "2"
       },
       {
         "position": "20",
         "nom": "Wolwalo Adigrat",
-        "matchs": "4",
+        "matchs": "5",
         "victoires": "0",
         "nuls": "0",
-        "defaites": "4",
+        "defaites": "5",
         "buts_pour": "2",
-        "buts_contre": "10",
-        "difference": "-8",
+        "buts_contre": "11",
+        "difference": "-9",
         "points": "0"
       }
     ]
