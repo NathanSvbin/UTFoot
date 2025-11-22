@@ -12238,8 +12238,8 @@
         "nuls": "6",
         "defaites": "7",
         "buts_pour": "67",
-        "buts_contre": "45",
-        "difference": "22",
+        "buts_contre": "46",
+        "difference": "21",
         "points": "57"
       },
       {
@@ -12256,6 +12256,18 @@
       },
       {
         "position": "6",
+        "nom": "ZJ FC",
+        "matchs": "30",
+        "victoires": "11",
+        "nuls": "11",
+        "defaites": "8",
+        "buts_pour": "60",
+        "buts_contre": "50",
+        "difference": "10",
+        "points": "44"
+      },
+      {
+        "position": "7",
         "nom": "TJ Jinmen Tiger",
         "matchs": "30",
         "victoires": "12",
@@ -12265,18 +12277,6 @@
         "buts_contre": "40",
         "difference": "-1",
         "points": "44"
-      },
-      {
-        "position": "7",
-        "nom": "ZJ FC",
-        "matchs": "30",
-        "victoires": "10",
-        "nuls": "12",
-        "defaites": "8",
-        "buts_pour": "59",
-        "buts_contre": "50",
-        "difference": "9",
-        "points": "42"
       },
       {
         "position": "8",
@@ -12355,12 +12355,12 @@
         "nom": "QD Hainiu",
         "matchs": "30",
         "victoires": "5",
-        "nuls": "10",
-        "defaites": "15",
+        "nuls": "9",
+        "defaites": "16",
         "buts_pour": "34",
-        "buts_contre": "47",
-        "difference": "-13",
-        "points": "25"
+        "buts_contre": "48",
+        "difference": "-14",
+        "points": "24"
       },
       {
         "position": "15",
@@ -12369,9 +12369,9 @@
         "victoires": "5",
         "nuls": "6",
         "defaites": "19",
-        "buts_pour": "35",
+        "buts_pour": "36",
         "buts_contre": "69",
-        "difference": "-34",
+        "difference": "-33",
         "points": "21"
       },
       {
@@ -32939,6 +32939,18 @@
       },
       {
         "position": "4",
+        "nom": "Stallion Laguna",
+        "matchs": "8",
+        "victoires": "4",
+        "nuls": "2",
+        "defaites": "2",
+        "buts_pour": "25",
+        "buts_contre": "5",
+        "difference": "20",
+        "points": "14"
+      },
+      {
+        "position": "5",
         "nom": "Manila Digger",
         "matchs": "6",
         "victoires": "4",
@@ -32950,7 +32962,7 @@
         "points": "14"
       },
       {
-        "position": "5",
+        "position": "6",
         "nom": "Aguilas-UMak",
         "matchs": "8",
         "victoires": "4",
@@ -32962,7 +32974,7 @@
         "points": "13"
       },
       {
-        "position": "6",
+        "position": "7",
         "nom": "Maharlika",
         "matchs": "8",
         "victoires": "4",
@@ -32972,18 +32984,6 @@
         "buts_contre": "13",
         "difference": "7",
         "points": "12"
-      },
-      {
-        "position": "7",
-        "nom": "Stallion Laguna",
-        "matchs": "7",
-        "victoires": "3",
-        "nuls": "2",
-        "defaites": "2",
-        "buts_pour": "17",
-        "buts_contre": "5",
-        "difference": "12",
-        "points": "11"
       },
       {
         "position": "8",
@@ -33000,13 +33000,13 @@
       {
         "position": "9",
         "nom": "Garelli United",
-        "matchs": "6",
+        "matchs": "7",
         "victoires": "1",
         "nuls": "0",
-        "defaites": "5",
+        "defaites": "6",
         "buts_pour": "3",
-        "buts_contre": "21",
-        "difference": "-18",
+        "buts_contre": "29",
+        "difference": "-26",
         "points": "3"
       },
       {
