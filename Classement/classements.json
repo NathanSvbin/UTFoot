@@ -5298,18 +5298,6 @@
       },
       {
         "position": "5",
-        "nom": "Metalist 1925",
-        "matchs": "13",
-        "victoires": "5",
-        "nuls": "5",
-        "defaites": "3",
-        "buts_pour": "14",
-        "buts_contre": "10",
-        "difference": "4",
-        "points": "20"
-      },
-      {
-        "position": "6",
         "nom": "Kryvbas",
         "matchs": "12",
         "victoires": "6",
@@ -5321,7 +5309,7 @@
         "points": "20"
       },
       {
-        "position": "7",
+        "position": "6",
         "nom": "Zorya Lugansk",
         "matchs": "12",
         "victoires": "5",
@@ -5333,7 +5321,7 @@
         "points": "19"
       },
       {
-        "position": "8",
+        "position": "7",
         "nom": "Kolos Kovalivka",
         "matchs": "12",
         "victoires": "5",
@@ -5345,15 +5333,27 @@
         "points": "19"
       },
       {
-        "position": "9",
+        "position": "8",
         "nom": "Karpaty Lviv",
+        "matchs": "13",
+        "victoires": "4",
+        "nuls": "7",
+        "defaites": "2",
+        "buts_pour": "18",
+        "buts_contre": "16",
+        "difference": "2",
+        "points": "19"
+      },
+      {
+        "position": "9",
+        "nom": "Metalist 1925",
         "matchs": "13",
         "victoires": "4",
         "nuls": "6",
         "defaites": "3",
-        "buts_pour": "17",
-        "buts_contre": "16",
-        "difference": "1",
+        "buts_pour": "14",
+        "buts_contre": "11",
+        "difference": "3",
         "points": "18"
       },
       {
@@ -10321,18 +10321,6 @@
       },
       {
         "position": "4",
-        "nom": "Corum FK",
-        "matchs": "14",
-        "victoires": "7",
-        "nuls": "5",
-        "defaites": "2",
-        "buts_pour": "23",
-        "buts_contre": "13",
-        "difference": "10",
-        "points": "26"
-      },
-      {
-        "position": "5",
         "nom": "E. Erokspor",
         "matchs": "13",
         "victoires": "7",
@@ -10341,6 +10329,18 @@
         "buts_pour": "32",
         "buts_contre": "14",
         "difference": "18",
+        "points": "25"
+      },
+      {
+        "position": "5",
+        "nom": "Corum FK",
+        "matchs": "14",
+        "victoires": "7",
+        "nuls": "4",
+        "defaites": "3",
+        "buts_pour": "23",
+        "buts_contre": "14",
+        "difference": "9",
         "points": "25"
       },
       {
@@ -10359,13 +10359,13 @@
         "position": "7",
         "nom": "Bandirmaspor",
         "matchs": "14",
-        "victoires": "5",
-        "nuls": "6",
+        "victoires": "6",
+        "nuls": "5",
         "defaites": "3",
-        "buts_pour": "17",
+        "buts_pour": "18",
         "buts_contre": "13",
-        "difference": "4",
-        "points": "21"
+        "difference": "5",
+        "points": "23"
       },
       {
         "position": "8",
@@ -12395,18 +12395,6 @@
     "equipes": [
       {
         "position": "1",
-        "nom": "Ural",
-        "matchs": "20",
-        "victoires": "13",
-        "nuls": "3",
-        "defaites": "4",
-        "buts_pour": "30",
-        "buts_contre": "17",
-        "difference": "13",
-        "points": "42"
-      },
-      {
-        "position": "2",
         "nom": "Fakel Voronezh",
         "matchs": "19",
         "victoires": "13",
@@ -12416,6 +12404,18 @@
         "buts_contre": "11",
         "difference": "12",
         "points": "42"
+      },
+      {
+        "position": "2",
+        "nom": "Ural",
+        "matchs": "20",
+        "victoires": "12",
+        "nuls": "4",
+        "defaites": "4",
+        "buts_pour": "30",
+        "buts_contre": "18",
+        "difference": "12",
+        "points": "40"
       },
       {
         "position": "3",
@@ -12430,16 +12430,16 @@
         "points": "34"
       },
       {
-        "position": "4",
+        "position": "3",
         "nom": "S. Kostroma",
         "matchs": "20",
         "victoires": "9",
-        "nuls": "6",
-        "defaites": "5",
-        "buts_pour": "29",
+        "nuls": "7",
+        "defaites": "4",
+        "buts_pour": "30",
         "buts_contre": "23",
-        "difference": "6",
-        "points": "33"
+        "difference": "7",
+        "points": "34"
       },
       {
         "position": "5",
@@ -29433,9 +29433,9 @@
         "victoires": "3",
         "nuls": "4",
         "defaites": "6",
-        "buts_pour": "17",
+        "buts_pour": "18",
         "buts_contre": "22",
-        "difference": "-5",
+        "difference": "-4",
         "points": "13"
       },
       {
@@ -29458,8 +29458,8 @@
         "nuls": "3",
         "defaites": "7",
         "buts_pour": "11",
-        "buts_contre": "15",
-        "difference": "-4",
+        "buts_contre": "16",
+        "difference": "-5",
         "points": "12"
       },
       {
