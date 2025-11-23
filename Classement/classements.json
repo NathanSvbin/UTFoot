@@ -8144,8 +8144,8 @@
         "nuls": "11",
         "defaites": "8",
         "buts_pour": "39",
-        "buts_contre": "22",
-        "difference": "17",
+        "buts_contre": "23",
+        "difference": "16",
         "points": "68"
       },
       {
@@ -8342,6 +8342,18 @@
       },
       {
         "position": "18",
+        "nom": "Amazonas",
+        "matchs": "38",
+        "victoires": "8",
+        "nuls": "12",
+        "defaites": "18",
+        "buts_pour": "38",
+        "buts_contre": "55",
+        "difference": "-17",
+        "points": "36"
+      },
+      {
+        "position": "19",
         "nom": "Volta Redonda",
         "matchs": "38",
         "victoires": "8",
@@ -8350,18 +8362,6 @@
         "buts_pour": "26",
         "buts_contre": "43",
         "difference": "-17",
-        "points": "36"
-      },
-      {
-        "position": "19",
-        "nom": "Amazonas",
-        "matchs": "38",
-        "victoires": "8",
-        "nuls": "12",
-        "defaites": "18",
-        "buts_pour": "37",
-        "buts_contre": "55",
-        "difference": "-18",
         "points": "36"
       },
       {
@@ -12991,13 +12991,13 @@
         "position": "2",
         "nom": "Cusco FC",
         "matchs": "17",
-        "victoires": "10",
-        "nuls": "4",
+        "victoires": "11",
+        "nuls": "3",
         "defaites": "3",
-        "buts_pour": "27",
+        "buts_pour": "28",
         "buts_contre": "14",
-        "difference": "13",
-        "points": "34"
+        "difference": "14",
+        "points": "36"
       },
       {
         "position": "3",
@@ -13112,12 +13112,12 @@
         "nom": "Sport Huancayo",
         "matchs": "17",
         "victoires": "5",
-        "nuls": "4",
-        "defaites": "8",
+        "nuls": "3",
+        "defaites": "9",
         "buts_pour": "27",
-        "buts_contre": "26",
-        "difference": "1",
-        "points": "19"
+        "buts_contre": "27",
+        "difference": "0",
+        "points": "18"
       },
       {
         "position": "13",
@@ -13126,9 +13126,9 @@
         "victoires": "5",
         "nuls": "2",
         "defaites": "10",
-        "buts_pour": "21",
+        "buts_pour": "22",
         "buts_contre": "33",
-        "difference": "-12",
+        "difference": "-11",
         "points": "17"
       },
       {
@@ -13175,8 +13175,8 @@
         "nuls": "5",
         "defaites": "9",
         "buts_pour": "13",
-        "buts_contre": "21",
-        "difference": "-8",
+        "buts_contre": "22",
+        "difference": "-9",
         "points": "14"
       },
       {
@@ -15269,18 +15269,6 @@
       },
       {
         "position": "4",
-        "nom": "Pineto",
-        "matchs": "15",
-        "victoires": "7",
-        "nuls": "4",
-        "defaites": "4",
-        "buts_pour": "21",
-        "buts_contre": "15",
-        "difference": "6",
-        "points": "25"
-      },
-      {
-        "position": "5",
         "nom": "Ternana",
         "matchs": "15",
         "victoires": "6",
@@ -15292,7 +15280,7 @@
         "points": "24"
       },
       {
-        "position": "6",
+        "position": "5",
         "nom": "Guidonia",
         "matchs": "15",
         "victoires": "7",
@@ -15304,7 +15292,7 @@
         "points": "24"
       },
       {
-        "position": "7",
+        "position": "6",
         "nom": "Carpi",
         "matchs": "15",
         "victoires": "7",
@@ -15314,6 +15302,18 @@
         "buts_contre": "17",
         "difference": "1",
         "points": "24"
+      },
+      {
+        "position": "7",
+        "nom": "Pineto",
+        "matchs": "15",
+        "victoires": "6",
+        "nuls": "5",
+        "defaites": "4",
+        "buts_pour": "21",
+        "buts_contre": "16",
+        "difference": "5",
+        "points": "23"
       },
       {
         "position": "8",
@@ -15377,6 +15377,18 @@
       },
       {
         "position": "13",
+        "nom": "Sambenedettese",
+        "matchs": "15",
+        "victoires": "4",
+        "nuls": "5",
+        "defaites": "6",
+        "buts_pour": "15",
+        "buts_contre": "15",
+        "difference": "0",
+        "points": "17"
+      },
+      {
+        "position": "14",
         "nom": "Juve Next Gen",
         "matchs": "14",
         "victoires": "5",
@@ -15386,18 +15398,6 @@
         "buts_contre": "20",
         "difference": "-3",
         "points": "17"
-      },
-      {
-        "position": "14",
-        "nom": "Sambenedettese",
-        "matchs": "15",
-        "victoires": "4",
-        "nuls": "4",
-        "defaites": "7",
-        "buts_pour": "14",
-        "buts_contre": "15",
-        "difference": "-1",
-        "points": "16"
       },
       {
         "position": "15",
