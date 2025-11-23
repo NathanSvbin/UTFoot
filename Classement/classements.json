@@ -2937,13 +2937,13 @@
       {
         "position": "9",
         "nom": "Rostov",
-        "matchs": "15",
+        "matchs": "16",
         "victoires": "4",
         "nuls": "6",
-        "defaites": "5",
+        "defaites": "6",
         "buts_pour": "12",
-        "buts_contre": "15",
-        "difference": "-3",
+        "buts_contre": "16",
+        "difference": "-4",
         "points": "18"
       },
       {
@@ -2960,6 +2960,18 @@
       },
       {
         "position": "11",
+        "nom": "KS Samara",
+        "matchs": "16",
+        "victoires": "4",
+        "nuls": "5",
+        "defaites": "7",
+        "buts_pour": "19",
+        "buts_contre": "26",
+        "difference": "-7",
+        "points": "17"
+      },
+      {
+        "position": "12",
         "nom": "Akhmat Grozny",
         "matchs": "16",
         "victoires": "4",
@@ -2971,7 +2983,7 @@
         "points": "16"
       },
       {
-        "position": "12",
+        "position": "13",
         "nom": "Dinamo Makhach.",
         "matchs": "15",
         "victoires": "3",
@@ -2980,18 +2992,6 @@
         "buts_pour": "8",
         "buts_contre": "17",
         "difference": "-9",
-        "points": "14"
-      },
-      {
-        "position": "13",
-        "nom": "KS Samara",
-        "matchs": "15",
-        "victoires": "3",
-        "nuls": "5",
-        "defaites": "7",
-        "buts_pour": "18",
-        "buts_contre": "26",
-        "difference": "-8",
         "points": "14"
       },
       {
@@ -9038,6 +9038,18 @@
       },
       {
         "position": "3",
+        "nom": "Loko Plovdiv",
+        "matchs": "16",
+        "victoires": "7",
+        "nuls": "7",
+        "defaites": "2",
+        "buts_pour": "18",
+        "buts_contre": "17",
+        "difference": "1",
+        "points": "28"
+      },
+      {
+        "position": "4",
         "nom": "Cherno More",
         "matchs": "16",
         "victoires": "7",
@@ -9046,18 +9058,6 @@
         "buts_pour": "20",
         "buts_contre": "11",
         "difference": "9",
-        "points": "27"
-      },
-      {
-        "position": "4",
-        "nom": "Loko Plovdiv",
-        "matchs": "15",
-        "victoires": "7",
-        "nuls": "6",
-        "defaites": "2",
-        "buts_pour": "18",
-        "buts_contre": "17",
-        "difference": "1",
         "points": "27"
       },
       {
@@ -9195,14 +9195,14 @@
       {
         "position": "16",
         "nom": "Dob. Dobrich",
-        "matchs": "15",
+        "matchs": "16",
         "victoires": "3",
-        "nuls": "1",
+        "nuls": "2",
         "defaites": "11",
         "buts_pour": "11",
         "buts_contre": "23",
         "difference": "-12",
-        "points": "10"
+        "points": "11"
       }
     ]
   },
@@ -20480,6 +20480,18 @@
     "equipes": [
       {
         "position": "1",
+        "nom": "SKN St. Pölten",
+        "matchs": "14",
+        "victoires": "10",
+        "nuls": "1",
+        "defaites": "3",
+        "buts_pour": "24",
+        "buts_contre": "13",
+        "difference": "11",
+        "points": "28"
+      },
+      {
+        "position": "2",
         "nom": "Admira Wacker",
         "matchs": "14",
         "victoires": "8",
@@ -20489,18 +20501,6 @@
         "buts_contre": "11",
         "difference": "18",
         "points": "27"
-      },
-      {
-        "position": "2",
-        "nom": "SKN St. Pölten",
-        "matchs": "14",
-        "victoires": "9",
-        "nuls": "2",
-        "defaites": "3",
-        "buts_pour": "23",
-        "buts_contre": "13",
-        "difference": "10",
-        "points": "26"
       },
       {
         "position": "3",
@@ -20576,18 +20576,6 @@
       },
       {
         "position": "9",
-        "nom": "SV Kapfenberg",
-        "matchs": "14",
-        "victoires": "5",
-        "nuls": "3",
-        "defaites": "6",
-        "buts_pour": "16",
-        "buts_contre": "23",
-        "difference": "-7",
-        "points": "15"
-      },
-      {
-        "position": "10",
         "nom": "A. Salzburg",
         "matchs": "14",
         "victoires": "4",
@@ -20599,7 +20587,7 @@
         "points": "15"
       },
       {
-        "position": "11",
+        "position": "10",
         "nom": "A. Klagenfurt",
         "matchs": "14",
         "victoires": "6",
@@ -20608,6 +20596,18 @@
         "buts_pour": "15",
         "buts_contre": "19",
         "difference": "-4",
+        "points": "14"
+      },
+      {
+        "position": "11",
+        "nom": "SV Kapfenberg",
+        "matchs": "14",
+        "victoires": "5",
+        "nuls": "2",
+        "defaites": "7",
+        "buts_pour": "16",
+        "buts_contre": "24",
+        "difference": "-8",
         "points": "14"
       },
       {
