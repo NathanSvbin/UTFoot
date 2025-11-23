@@ -578,6 +578,18 @@
       },
       {
         "position": "7",
+        "nom": "Lazio Rome",
+        "matchs": "12",
+        "victoires": "5",
+        "nuls": "3",
+        "defaites": "4",
+        "buts_pour": "15",
+        "buts_contre": "9",
+        "difference": "6",
+        "points": "18"
+      },
+      {
+        "position": "8",
         "nom": "Como",
         "matchs": "11",
         "victoires": "4",
@@ -586,18 +598,6 @@
         "buts_pour": "12",
         "buts_contre": "6",
         "difference": "6",
-        "points": "18"
-      },
-      {
-        "position": "8",
-        "nom": "Lazio Rome",
-        "matchs": "12",
-        "victoires": "5",
-        "nuls": "3",
-        "defaites": "4",
-        "buts_pour": "14",
-        "buts_contre": "9",
-        "difference": "5",
         "points": "18"
       },
       {
@@ -692,8 +692,8 @@
         "nuls": "4",
         "defaites": "6",
         "buts_pour": "8",
-        "buts_contre": "15",
-        "difference": "-7",
+        "buts_contre": "16",
+        "difference": "-8",
         "points": "10"
       },
       {
@@ -2182,9 +2182,9 @@
         "victoires": "9",
         "nuls": "4",
         "defaites": "0",
-        "buts_pour": "29",
+        "buts_pour": "30",
         "buts_contre": "12",
-        "difference": "17",
+        "difference": "18",
         "points": "31"
       },
       {
@@ -2291,8 +2291,8 @@
         "nuls": "5",
         "defaites": "5",
         "buts_pour": "16",
-        "buts_contre": "20",
-        "difference": "-4",
+        "buts_contre": "21",
+        "difference": "-5",
         "points": "14"
       },
       {
@@ -4087,9 +4087,9 @@
         "victoires": "8",
         "nuls": "2",
         "defaites": "1",
-        "buts_pour": "21",
+        "buts_pour": "23",
         "buts_contre": "7",
-        "difference": "14",
+        "difference": "16",
         "points": "26"
       },
       {
@@ -4160,8 +4160,8 @@
         "nuls": "3",
         "defaites": "5",
         "buts_pour": "17",
-        "buts_contre": "19",
-        "difference": "-2",
+        "buts_contre": "21",
+        "difference": "-4",
         "points": "12"
       },
       {
@@ -4733,6 +4733,18 @@
       },
       {
         "position": "2",
+        "nom": "Racing",
+        "matchs": "15",
+        "victoires": "9",
+        "nuls": "2",
+        "defaites": "4",
+        "buts_pour": "33",
+        "buts_contre": "23",
+        "difference": "10",
+        "points": "29"
+      },
+      {
+        "position": "3",
         "nom": "UD Las Palmas",
         "matchs": "15",
         "victoires": "8",
@@ -4740,18 +4752,6 @@
         "defaites": "2",
         "buts_pour": "18",
         "buts_contre": "9",
-        "difference": "9",
-        "points": "29"
-      },
-      {
-        "position": "3",
-        "nom": "Racing",
-        "matchs": "15",
-        "victoires": "9",
-        "nuls": "2",
-        "defaites": "4",
-        "buts_pour": "32",
-        "buts_contre": "23",
         "difference": "9",
         "points": "29"
       },
@@ -4775,8 +4775,8 @@
         "nuls": "4",
         "defaites": "4",
         "buts_pour": "21",
-        "buts_contre": "13",
-        "difference": "8",
+        "buts_contre": "14",
+        "difference": "7",
         "points": "25"
       },
       {
@@ -24134,15 +24134,15 @@
       },
       {
         "position": "4",
-        "nom": "CD Castellón B",
+        "nom": "Reus FCR",
         "matchs": "12",
-        "victoires": "5",
-        "nuls": "3",
-        "defaites": "4",
-        "buts_pour": "25",
-        "buts_contre": "26",
-        "difference": "-1",
-        "points": "18"
+        "victoires": "6",
+        "nuls": "1",
+        "defaites": "5",
+        "buts_pour": "19",
+        "buts_contre": "16",
+        "difference": "3",
+        "points": "19"
       },
       {
         "position": "5",
@@ -24158,14 +24158,14 @@
       },
       {
         "position": "6",
-        "nom": "Reus FCR",
-        "matchs": "11",
-        "victoires": "6",
-        "nuls": "0",
-        "defaites": "5",
-        "buts_pour": "19",
-        "buts_contre": "16",
-        "difference": "3",
+        "nom": "CD Castellón B",
+        "matchs": "12",
+        "victoires": "5",
+        "nuls": "3",
+        "defaites": "4",
+        "buts_pour": "25",
+        "buts_contre": "26",
+        "difference": "-1",
         "points": "18"
       },
       {
@@ -24242,6 +24242,18 @@
       },
       {
         "position": "13",
+        "nom": "UD Barbastro",
+        "matchs": "12",
+        "victoires": "3",
+        "nuls": "5",
+        "defaites": "4",
+        "buts_pour": "8",
+        "buts_contre": "10",
+        "difference": "-2",
+        "points": "14"
+      },
+      {
+        "position": "14",
         "nom": "CD Ibiza",
         "matchs": "12",
         "victoires": "4",
@@ -24251,18 +24263,6 @@
         "buts_contre": "13",
         "difference": "-3",
         "points": "14"
-      },
-      {
-        "position": "14",
-        "nom": "UD Barbastro",
-        "matchs": "11",
-        "victoires": "3",
-        "nuls": "4",
-        "defaites": "4",
-        "buts_pour": "8",
-        "buts_contre": "10",
-        "difference": "-2",
-        "points": "13"
       },
       {
         "position": "15",
@@ -26093,6 +26093,18 @@
       },
       {
         "position": "4",
+        "nom": "FC Gütersloh",
+        "matchs": "16",
+        "victoires": "8",
+        "nuls": "5",
+        "defaites": "3",
+        "buts_pour": "29",
+        "buts_contre": "19",
+        "difference": "10",
+        "points": "29"
+      },
+      {
+        "position": "5",
         "nom": "M'gladbach II",
         "matchs": "16",
         "victoires": "8",
@@ -26104,7 +26116,7 @@
         "points": "29"
       },
       {
-        "position": "5",
+        "position": "6",
         "nom": "B. Dortmund II",
         "matchs": "16",
         "victoires": "8",
@@ -26113,18 +26125,6 @@
         "buts_pour": "39",
         "buts_contre": "27",
         "difference": "12",
-        "points": "28"
-      },
-      {
-        "position": "6",
-        "nom": "FC Gütersloh",
-        "matchs": "16",
-        "victoires": "8",
-        "nuls": "4",
-        "defaites": "4",
-        "buts_pour": "28",
-        "buts_contre": "19",
-        "difference": "9",
         "points": "28"
       },
       {
@@ -26237,18 +26237,6 @@
       },
       {
         "position": "16",
-        "nom": "VfL Bochum II",
-        "matchs": "16",
-        "victoires": "2",
-        "nuls": "6",
-        "defaites": "8",
-        "buts_pour": "17",
-        "buts_contre": "27",
-        "difference": "-10",
-        "points": "12"
-      },
-      {
-        "position": "17",
         "nom": "SC Wiedenbrück",
         "matchs": "15",
         "victoires": "3",
@@ -26258,6 +26246,18 @@
         "buts_contre": "30",
         "difference": "-12",
         "points": "11"
+      },
+      {
+        "position": "17",
+        "nom": "VfL Bochum II",
+        "matchs": "16",
+        "victoires": "1",
+        "nuls": "7",
+        "defaites": "8",
+        "buts_pour": "17",
+        "buts_contre": "28",
+        "difference": "-11",
+        "points": "10"
       },
       {
         "position": "18",
@@ -26897,6 +26897,18 @@
     "equipes": [
       {
         "position": "1",
+        "nom": "Águilas FC",
+        "matchs": "12",
+        "victoires": "7",
+        "nuls": "3",
+        "defaites": "2",
+        "buts_pour": "17",
+        "buts_contre": "9",
+        "difference": "8",
+        "points": "24"
+      },
+      {
+        "position": "2",
         "nom": "CD Extremadura",
         "matchs": "12",
         "victoires": "6",
@@ -26908,7 +26920,7 @@
         "points": "22"
       },
       {
-        "position": "2",
+        "position": "3",
         "nom": "CDU Malacitano",
         "matchs": "12",
         "victoires": "6",
@@ -26917,18 +26929,6 @@
         "buts_pour": "15",
         "buts_contre": "7",
         "difference": "8",
-        "points": "21"
-      },
-      {
-        "position": "3",
-        "nom": "Águilas FC",
-        "matchs": "11",
-        "victoires": "6",
-        "nuls": "3",
-        "defaites": "2",
-        "buts_pour": "15",
-        "buts_contre": "8",
-        "difference": "7",
         "points": "21"
       },
       {
@@ -27090,13 +27090,13 @@
       {
         "position": "17",
         "nom": "CD Estepona FS",
-        "matchs": "11",
+        "matchs": "12",
         "victoires": "2",
         "nuls": "1",
-        "defaites": "8",
-        "buts_pour": "10",
-        "buts_contre": "17",
-        "difference": "-7",
+        "defaites": "9",
+        "buts_pour": "11",
+        "buts_contre": "19",
+        "difference": "-8",
         "points": "7"
       },
       {
@@ -35213,6 +35213,18 @@
     "equipes": [
       {
         "position": "1",
+        "nom": "FC Rànger's",
+        "matchs": "7",
+        "victoires": "5",
+        "nuls": "2",
+        "defaites": "0",
+        "buts_pour": "13",
+        "buts_contre": "3",
+        "difference": "10",
+        "points": "17"
+      },
+      {
+        "position": "2",
         "nom": "UE Santa Coloma",
         "matchs": "7",
         "victoires": "5",
@@ -35224,28 +35236,16 @@
         "points": "16"
       },
       {
-        "position": "2",
-        "nom": "FC Rànger's",
-        "matchs": "6",
-        "victoires": "4",
-        "nuls": "2",
-        "defaites": "0",
-        "buts_pour": "10",
-        "buts_contre": "2",
-        "difference": "8",
-        "points": "14"
-      },
-      {
         "position": "3",
         "nom": "Inter Escaldes",
-        "matchs": "6",
-        "victoires": "4",
+        "matchs": "7",
+        "victoires": "5",
         "nuls": "1",
         "defaites": "1",
-        "buts_pour": "12",
+        "buts_pour": "13",
         "buts_contre": "8",
-        "difference": "4",
-        "points": "13"
+        "difference": "5",
+        "points": "16"
       },
       {
         "position": "4",
@@ -35262,13 +35262,13 @@
       {
         "position": "5",
         "nom": "AC Escaldes",
-        "matchs": "5",
+        "matchs": "6",
         "victoires": "2",
         "nuls": "1",
-        "defaites": "2",
+        "defaites": "3",
         "buts_pour": "8",
-        "buts_contre": "6",
-        "difference": "2",
+        "buts_contre": "7",
+        "difference": "1",
         "points": "7"
       },
       {
@@ -35286,13 +35286,13 @@
       {
         "position": "7",
         "nom": "Penya Encarnada",
-        "matchs": "6",
+        "matchs": "7",
         "victoires": "2",
         "nuls": "1",
-        "defaites": "3",
-        "buts_pour": "7",
-        "buts_contre": "9",
-        "difference": "-2",
+        "defaites": "4",
+        "buts_pour": "8",
+        "buts_contre": "12",
+        "difference": "-4",
         "points": "7"
       },
       {
