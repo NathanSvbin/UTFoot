@@ -17320,9 +17320,9 @@
         "victoires": "17",
         "nuls": "14",
         "defaites": "8",
-        "buts_pour": "63",
+        "buts_pour": "64",
         "buts_contre": "43",
-        "difference": "20",
+        "difference": "21",
         "points": "65"
       },
       {
@@ -17342,12 +17342,12 @@
         "nom": "Jeonnam Dragons",
         "matchs": "39",
         "victoires": "17",
-        "nuls": "12",
-        "defaites": "10",
+        "nuls": "11",
+        "defaites": "11",
         "buts_pour": "63",
-        "buts_contre": "51",
-        "difference": "12",
-        "points": "63"
+        "buts_contre": "52",
+        "difference": "11",
+        "points": "62"
       },
       {
         "position": "7",
@@ -17377,13 +17377,13 @@
         "position": "9",
         "nom": "Chungnam Asan",
         "matchs": "39",
-        "victoires": "12",
-        "nuls": "15",
+        "victoires": "13",
+        "nuls": "14",
         "defaites": "12",
-        "buts_pour": "50",
+        "buts_pour": "51",
         "buts_contre": "47",
-        "difference": "3",
-        "points": "51"
+        "difference": "4",
+        "points": "53"
       },
       {
         "position": "10",
@@ -17441,8 +17441,8 @@
         "nuls": "12",
         "defaites": "22",
         "buts_pour": "25",
-        "buts_contre": "59",
-        "difference": "-34",
+        "buts_contre": "60",
+        "difference": "-35",
         "points": "27"
       }
     ]
