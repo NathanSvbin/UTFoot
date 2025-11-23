@@ -12089,6 +12089,18 @@
       },
       {
         "position": "3",
+        "nom": "JEF Utd. Chiba",
+        "matchs": "37",
+        "victoires": "18",
+        "nuls": "10",
+        "defaites": "9",
+        "buts_pour": "50",
+        "buts_contre": "34",
+        "difference": "16",
+        "points": "64"
+      },
+      {
+        "position": "4",
         "nom": "RB Omiya",
         "matchs": "36",
         "victoires": "18",
@@ -12097,18 +12109,6 @@
         "buts_pour": "57",
         "buts_contre": "34",
         "difference": "23",
-        "points": "63"
-      },
-      {
-        "position": "4",
-        "nom": "JEF Utd. Chiba",
-        "matchs": "36",
-        "victoires": "18",
-        "nuls": "9",
-        "defaites": "9",
-        "buts_pour": "50",
-        "buts_contre": "34",
-        "difference": "16",
         "points": "63"
       },
       {
@@ -12233,6 +12233,18 @@
       },
       {
         "position": "15",
+        "nom": "Oita Trinita",
+        "matchs": "37",
+        "victoires": "8",
+        "nuls": "15",
+        "defaites": "14",
+        "buts_pour": "27",
+        "buts_contre": "41",
+        "difference": "-14",
+        "points": "39"
+      },
+      {
+        "position": "16",
         "nom": "Fujieda MYFC",
         "matchs": "36",
         "victoires": "9",
@@ -12241,18 +12253,6 @@
         "buts_pour": "40",
         "buts_contre": "48",
         "difference": "-8",
-        "points": "38"
-      },
-      {
-        "position": "16",
-        "nom": "Oita Trinita",
-        "matchs": "36",
-        "victoires": "8",
-        "nuls": "14",
-        "defaites": "14",
-        "buts_pour": "27",
-        "buts_contre": "41",
-        "difference": "-14",
         "points": "38"
       },
       {
@@ -24340,8 +24340,8 @@
         "victoires": "9",
         "nuls": "3",
         "defaites": "4",
-        "buts_pour": "28",
-        "buts_contre": "18",
+        "buts_pour": "29",
+        "buts_contre": "19",
         "difference": "10",
         "points": "30"
       },
@@ -24388,8 +24388,8 @@
         "victoires": "5",
         "nuls": "5",
         "defaites": "6",
-        "buts_pour": "15",
-        "buts_contre": "19",
+        "buts_pour": "16",
+        "buts_contre": "20",
         "difference": "-4",
         "points": "20"
       },
