@@ -12065,26 +12065,26 @@
     "equipes": [
       {
         "position": "1",
-        "nom": "V-V. Nagasaki",
-        "matchs": "37",
-        "victoires": "19",
-        "nuls": "12",
-        "defaites": "6",
-        "buts_pour": "61",
-        "buts_contre": "42",
-        "difference": "19",
-        "points": "69"
-      },
-      {
-        "position": "2",
         "nom": "Mito HollyHock",
         "matchs": "37",
         "victoires": "19",
-        "nuls": "10",
-        "defaites": "8",
-        "buts_pour": "52",
+        "nuls": "11",
+        "defaites": "7",
+        "buts_pour": "53",
         "buts_contre": "33",
-        "difference": "19",
+        "difference": "20",
+        "points": "68"
+      },
+      {
+        "position": "2",
+        "nom": "V-V. Nagasaki",
+        "matchs": "37",
+        "victoires": "18",
+        "nuls": "13",
+        "defaites": "6",
+        "buts_pour": "61",
+        "buts_contre": "43",
+        "difference": "18",
         "points": "67"
       },
       {
