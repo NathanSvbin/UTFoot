@@ -1504,13 +1504,13 @@
         "position": "1",
         "nom": "Flamengo",
         "matchs": "35",
-        "victoires": "21",
-        "nuls": "9",
+        "victoires": "22",
+        "nuls": "8",
         "defaites": "5",
-        "buts_pour": "70",
+        "buts_pour": "73",
         "buts_contre": "23",
-        "difference": "47",
-        "points": "72"
+        "difference": "50",
+        "points": "74"
       },
       {
         "position": "2",
@@ -1589,12 +1589,12 @@
         "nom": "RB Bragantino",
         "matchs": "35",
         "victoires": "13",
-        "nuls": "7",
-        "defaites": "15",
+        "nuls": "6",
+        "defaites": "16",
         "buts_pour": "40",
-        "buts_contre": "50",
-        "difference": "-10",
-        "points": "46"
+        "buts_contre": "53",
+        "difference": "-13",
+        "points": "45"
       },
       {
         "position": "9",
@@ -17139,14 +17139,14 @@
       {
         "position": "2",
         "nom": "Auckland FC",
-        "matchs": "4",
+        "matchs": "5",
         "victoires": "3",
-        "nuls": "1",
+        "nuls": "2",
         "defaites": "0",
-        "buts_pour": "5",
-        "buts_contre": "2",
+        "buts_pour": "6",
+        "buts_contre": "3",
         "difference": "3",
-        "points": "10"
+        "points": "11"
       },
       {
         "position": "3",
@@ -17175,14 +17175,14 @@
       {
         "position": "5",
         "nom": "Brisbane Roar",
-        "matchs": "4",
+        "matchs": "5",
         "victoires": "2",
-        "nuls": "1",
+        "nuls": "2",
         "defaites": "1",
-        "buts_pour": "5",
-        "buts_contre": "2",
+        "buts_pour": "6",
+        "buts_contre": "3",
         "difference": "3",
-        "points": "7"
+        "points": "8"
       },
       {
         "position": "6",
@@ -17771,8 +17771,8 @@
         "nuls": "6",
         "defaites": "11",
         "buts_pour": "39",
-        "buts_contre": "45",
-        "difference": "-6",
+        "buts_contre": "46",
+        "difference": "-7",
         "points": "30"
       },
       {
@@ -17830,9 +17830,9 @@
         "victoires": "3",
         "nuls": "6",
         "defaites": "16",
-        "buts_pour": "21",
+        "buts_pour": "22",
         "buts_contre": "55",
-        "difference": "-34",
+        "difference": "-33",
         "points": "15"
       },
       {
@@ -24336,14 +24336,14 @@
       {
         "position": "2",
         "nom": "Saprissa",
-        "matchs": "15",
+        "matchs": "16",
         "victoires": "9",
-        "nuls": "2",
+        "nuls": "3",
         "defaites": "4",
         "buts_pour": "28",
         "buts_contre": "18",
         "difference": "10",
-        "points": "29"
+        "points": "30"
       },
       {
         "position": "3",
@@ -24384,14 +24384,14 @@
       {
         "position": "6",
         "nom": "Herediano",
-        "matchs": "15",
+        "matchs": "16",
         "victoires": "5",
-        "nuls": "4",
+        "nuls": "5",
         "defaites": "6",
         "buts_pour": "15",
         "buts_contre": "19",
         "difference": "-4",
-        "points": "19"
+        "points": "20"
       },
       {
         "position": "7",
@@ -28044,14 +28044,14 @@
       {
         "position": "4",
         "nom": "Aurora",
-        "matchs": "19",
-        "victoires": "9",
+        "matchs": "20",
+        "victoires": "10",
         "nuls": "6",
         "defaites": "4",
-        "buts_pour": "27",
-        "buts_contre": "22",
-        "difference": "5",
-        "points": "33"
+        "buts_pour": "30",
+        "buts_contre": "24",
+        "difference": "6",
+        "points": "36"
       },
       {
         "position": "5",
@@ -28080,13 +28080,13 @@
       {
         "position": "7",
         "nom": "Xelajú",
-        "matchs": "19",
+        "matchs": "20",
         "victoires": "6",
         "nuls": "4",
-        "defaites": "9",
-        "buts_pour": "26",
-        "buts_contre": "25",
-        "difference": "1",
+        "defaites": "10",
+        "buts_pour": "28",
+        "buts_contre": "28",
+        "difference": "0",
         "points": "22"
       },
       {
@@ -30483,13 +30483,13 @@
       {
         "position": "9",
         "nom": "Génesis PN",
-        "matchs": "16",
+        "matchs": "17",
         "victoires": "4",
         "nuls": "4",
-        "defaites": "8",
-        "buts_pour": "25",
-        "buts_contre": "29",
-        "difference": "-4",
+        "defaites": "9",
+        "buts_pour": "26",
+        "buts_contre": "31",
+        "difference": "-5",
         "points": "16"
       },
       {
@@ -30507,14 +30507,14 @@
       {
         "position": "11",
         "nom": "CD Victoria La C",
-        "matchs": "16",
-        "victoires": "1",
+        "matchs": "17",
+        "victoires": "2",
         "nuls": "2",
         "defaites": "13",
-        "buts_pour": "13",
-        "buts_contre": "34",
-        "difference": "-21",
-        "points": "5"
+        "buts_pour": "15",
+        "buts_contre": "35",
+        "difference": "-20",
+        "points": "8"
       }
     ]
   },
