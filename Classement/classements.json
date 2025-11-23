@@ -257,6 +257,18 @@
     "equipes": [
       {
         "position": "1",
+        "nom": "Real Madrid",
+        "matchs": "13",
+        "victoires": "10",
+        "nuls": "2",
+        "defaites": "1",
+        "buts_pour": "28",
+        "buts_contre": "12",
+        "difference": "16",
+        "points": "32"
+      },
+      {
+        "position": "2",
         "nom": "Barcelone",
         "matchs": "13",
         "victoires": "10",
@@ -265,18 +277,6 @@
         "buts_pour": "36",
         "buts_contre": "15",
         "difference": "21",
-        "points": "31"
-      },
-      {
-        "position": "2",
-        "nom": "Real Madrid",
-        "matchs": "13",
-        "victoires": "10",
-        "nuls": "1",
-        "defaites": "2",
-        "buts_pour": "27",
-        "buts_contre": "12",
-        "difference": "15",
         "points": "31"
       },
       {
@@ -329,18 +329,6 @@
       },
       {
         "position": "7",
-        "nom": "Elche CF",
-        "matchs": "13",
-        "victoires": "4",
-        "nuls": "6",
-        "defaites": "3",
-        "buts_pour": "15",
-        "buts_contre": "15",
-        "difference": "0",
-        "points": "18"
-      },
-      {
-        "position": "8",
         "nom": "FC Getafe",
         "matchs": "13",
         "victoires": "5",
@@ -352,7 +340,7 @@
         "points": "17"
       },
       {
-        "position": "9",
+        "position": "8",
         "nom": "Athletic Bilbao",
         "matchs": "13",
         "victoires": "5",
@@ -364,7 +352,7 @@
         "points": "17"
       },
       {
-        "position": "10",
+        "position": "9",
         "nom": "Séville FC",
         "matchs": "12",
         "victoires": "5",
@@ -376,7 +364,7 @@
         "points": "16"
       },
       {
-        "position": "11",
+        "position": "10",
         "nom": "Real Sociedad",
         "matchs": "13",
         "victoires": "4",
@@ -384,6 +372,18 @@
         "defaites": "5",
         "buts_pour": "17",
         "buts_contre": "18",
+        "difference": "-1",
+        "points": "16"
+      },
+      {
+        "position": "11",
+        "nom": "Elche CF",
+        "matchs": "13",
+        "victoires": "3",
+        "nuls": "7",
+        "defaites": "3",
+        "buts_pour": "15",
+        "buts_contre": "16",
         "difference": "-1",
         "points": "16"
       },
@@ -1682,6 +1682,18 @@
       },
       {
         "position": "16",
+        "nom": "EC Vitória",
+        "matchs": "35",
+        "victoires": "9",
+        "nuls": "12",
+        "defaites": "14",
+        "buts_pour": "31",
+        "buts_contre": "47",
+        "difference": "-16",
+        "points": "39"
+      },
+      {
+        "position": "17",
         "nom": "Santos",
         "matchs": "34",
         "victoires": "9",
@@ -1690,18 +1702,6 @@
         "buts_pour": "35",
         "buts_contre": "49",
         "difference": "-14",
-        "points": "37"
-      },
-      {
-        "position": "17",
-        "nom": "EC Vitória",
-        "matchs": "35",
-        "victoires": "8",
-        "nuls": "13",
-        "defaites": "14",
-        "buts_pour": "29",
-        "buts_contre": "47",
-        "difference": "-18",
         "points": "37"
       },
       {
@@ -1733,12 +1733,12 @@
         "nom": "Sport Recife",
         "matchs": "35",
         "victoires": "2",
-        "nuls": "12",
-        "defaites": "21",
+        "nuls": "11",
+        "defaites": "22",
         "buts_pour": "27",
-        "buts_contre": "63",
-        "difference": "-36",
-        "points": "18"
+        "buts_contre": "65",
+        "difference": "-38",
+        "points": "17"
       }
     ]
   },
@@ -13025,6 +13025,18 @@
       },
       {
         "position": "5",
+        "nom": "Cienciano",
+        "matchs": "17",
+        "victoires": "8",
+        "nuls": "3",
+        "defaites": "6",
+        "buts_pour": "25",
+        "buts_contre": "21",
+        "difference": "4",
+        "points": "27"
+      },
+      {
+        "position": "6",
         "nom": "Los Chankas",
         "matchs": "17",
         "victoires": "9",
@@ -13036,7 +13048,7 @@
         "points": "27"
       },
       {
-        "position": "6",
+        "position": "7",
         "nom": "Comerciantes",
         "matchs": "17",
         "victoires": "7",
@@ -13048,7 +13060,7 @@
         "points": "26"
       },
       {
-        "position": "7",
+        "position": "8",
         "nom": "FBC Melgar",
         "matchs": "17",
         "victoires": "6",
@@ -13057,18 +13069,6 @@
         "buts_pour": "24",
         "buts_contre": "17",
         "difference": "7",
-        "points": "25"
-      },
-      {
-        "position": "8",
-        "nom": "Cienciano",
-        "matchs": "17",
-        "victoires": "7",
-        "nuls": "4",
-        "defaites": "6",
-        "buts_pour": "24",
-        "buts_contre": "21",
-        "difference": "3",
         "points": "25"
       },
       {
@@ -13157,18 +13157,6 @@
       },
       {
         "position": "16",
-        "nom": "Ayacucho FC",
-        "matchs": "17",
-        "victoires": "4",
-        "nuls": "3",
-        "defaites": "10",
-        "buts_pour": "16",
-        "buts_contre": "28",
-        "difference": "-12",
-        "points": "15"
-      },
-      {
-        "position": "17",
         "nom": "Juan Pablo II",
         "matchs": "17",
         "victoires": "3",
@@ -13177,6 +13165,18 @@
         "buts_pour": "13",
         "buts_contre": "23",
         "difference": "-10",
+        "points": "14"
+      },
+      {
+        "position": "17",
+        "nom": "Ayacucho FC",
+        "matchs": "17",
+        "victoires": "4",
+        "nuls": "2",
+        "defaites": "11",
+        "buts_pour": "16",
+        "buts_contre": "29",
+        "difference": "-13",
         "points": "14"
       },
       {
@@ -17741,6 +17741,18 @@
       },
       {
         "position": "8",
+        "nom": "Nacional Potosí",
+        "matchs": "25",
+        "victoires": "8",
+        "nuls": "7",
+        "defaites": "10",
+        "buts_pour": "40",
+        "buts_contre": "32",
+        "difference": "8",
+        "points": "31"
+      },
+      {
+        "position": "9",
         "nom": "SA Bulo Bulo",
         "matchs": "24",
         "victoires": "8",
@@ -17750,18 +17762,6 @@
         "buts_contre": "40",
         "difference": "3",
         "points": "31"
-      },
-      {
-        "position": "9",
-        "nom": "Nacional Potosí",
-        "matchs": "24",
-        "victoires": "8",
-        "nuls": "6",
-        "defaites": "10",
-        "buts_pour": "40",
-        "buts_contre": "32",
-        "difference": "8",
-        "points": "30"
       },
       {
         "position": "10",
@@ -17789,6 +17789,18 @@
       },
       {
         "position": "12",
+        "nom": "Univ. de Vinto",
+        "matchs": "25",
+        "victoires": "6",
+        "nuls": "8",
+        "defaites": "11",
+        "buts_pour": "28",
+        "buts_contre": "45",
+        "difference": "-17",
+        "points": "26"
+      },
+      {
+        "position": "13",
         "nom": "Real Oruro",
         "matchs": "25",
         "victoires": "6",
@@ -17797,18 +17809,6 @@
         "buts_pour": "40",
         "buts_contre": "53",
         "difference": "-13",
-        "points": "25"
-      },
-      {
-        "position": "13",
-        "nom": "Univ. de Vinto",
-        "matchs": "24",
-        "victoires": "6",
-        "nuls": "7",
-        "defaites": "11",
-        "buts_pour": "28",
-        "buts_contre": "45",
-        "difference": "-17",
         "points": "25"
       },
       {
