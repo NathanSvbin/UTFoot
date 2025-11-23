@@ -17294,12 +17294,12 @@
         "nom": "Suwon Bluewings",
         "matchs": "39",
         "victoires": "20",
-        "nuls": "12",
-        "defaites": "7",
+        "nuls": "11",
+        "defaites": "8",
         "buts_pour": "75",
-        "buts_contre": "49",
-        "difference": "26",
-        "points": "72"
+        "buts_contre": "50",
+        "difference": "25",
+        "points": "71"
       },
       {
         "position": "3",
@@ -17320,9 +17320,9 @@
         "victoires": "17",
         "nuls": "14",
         "defaites": "8",
-        "buts_pour": "60",
+        "buts_pour": "61",
         "buts_contre": "43",
-        "difference": "17",
+        "difference": "18",
         "points": "65"
       },
       {
@@ -17351,6 +17351,18 @@
       },
       {
         "position": "7",
+        "nom": "Gimpo FC",
+        "matchs": "39",
+        "victoires": "15",
+        "nuls": "12",
+        "defaites": "12",
+        "buts_pour": "48",
+        "buts_contre": "36",
+        "difference": "12",
+        "points": "57"
+      },
+      {
+        "position": "8",
         "nom": "Busan IPark",
         "matchs": "39",
         "victoires": "14",
@@ -17360,18 +17372,6 @@
         "buts_contre": "45",
         "difference": "2",
         "points": "56"
-      },
-      {
-        "position": "8",
-        "nom": "Gimpo FC",
-        "matchs": "39",
-        "victoires": "14",
-        "nuls": "13",
-        "defaites": "12",
-        "buts_pour": "47",
-        "buts_contre": "36",
-        "difference": "11",
-        "points": "55"
       },
       {
         "position": "9",
@@ -17441,8 +17441,8 @@
         "nuls": "12",
         "defaites": "22",
         "buts_pour": "25",
-        "buts_contre": "56",
-        "difference": "-31",
+        "buts_contre": "57",
+        "difference": "-32",
         "points": "27"
       }
     ]
@@ -28032,14 +28032,14 @@
       {
         "position": "3",
         "nom": "Antigua GFC",
-        "matchs": "19",
-        "victoires": "11",
+        "matchs": "20",
+        "victoires": "12",
         "nuls": "3",
         "defaites": "5",
-        "buts_pour": "33",
-        "buts_contre": "20",
-        "difference": "13",
-        "points": "36"
+        "buts_pour": "36",
+        "buts_contre": "21",
+        "difference": "15",
+        "points": "39"
       },
       {
         "position": "4",
@@ -28128,13 +28128,13 @@
       {
         "position": "11",
         "nom": "Comunicaciones",
-        "matchs": "19",
+        "matchs": "20",
         "victoires": "5",
         "nuls": "5",
-        "defaites": "9",
-        "buts_pour": "14",
-        "buts_contre": "20",
-        "difference": "-6",
+        "defaites": "10",
+        "buts_pour": "15",
+        "buts_contre": "23",
+        "difference": "-8",
         "points": "20"
       },
       {
