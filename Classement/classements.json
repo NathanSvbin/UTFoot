@@ -12065,39 +12065,39 @@
     "equipes": [
       {
         "position": "1",
-        "nom": "Mito HollyHock",
-        "matchs": "36",
+        "nom": "V-V. Nagasaki",
+        "matchs": "37",
         "victoires": "19",
-        "nuls": "10",
-        "defaites": "7",
-        "buts_pour": "52",
-        "buts_contre": "32",
-        "difference": "20",
-        "points": "67"
+        "nuls": "12",
+        "defaites": "6",
+        "buts_pour": "61",
+        "buts_contre": "42",
+        "difference": "19",
+        "points": "69"
       },
       {
         "position": "2",
-        "nom": "V-V. Nagasaki",
-        "matchs": "36",
-        "victoires": "18",
-        "nuls": "12",
-        "defaites": "6",
-        "buts_pour": "60",
-        "buts_contre": "42",
-        "difference": "18",
-        "points": "66"
+        "nom": "Mito HollyHock",
+        "matchs": "37",
+        "victoires": "19",
+        "nuls": "10",
+        "defaites": "8",
+        "buts_pour": "52",
+        "buts_contre": "33",
+        "difference": "19",
+        "points": "67"
       },
       {
         "position": "3",
         "nom": "JEF Utd. Chiba",
         "matchs": "37",
-        "victoires": "18",
-        "nuls": "10",
+        "victoires": "19",
+        "nuls": "9",
         "defaites": "9",
-        "buts_pour": "50",
+        "buts_pour": "51",
         "buts_contre": "34",
-        "difference": "16",
-        "points": "64"
+        "difference": "17",
+        "points": "66"
       },
       {
         "position": "4",
@@ -12233,18 +12233,6 @@
       },
       {
         "position": "15",
-        "nom": "Oita Trinita",
-        "matchs": "37",
-        "victoires": "8",
-        "nuls": "15",
-        "defaites": "14",
-        "buts_pour": "27",
-        "buts_contre": "41",
-        "difference": "-14",
-        "points": "39"
-      },
-      {
-        "position": "16",
         "nom": "Fujieda MYFC",
         "matchs": "36",
         "victoires": "9",
@@ -12253,6 +12241,18 @@
         "buts_pour": "40",
         "buts_contre": "48",
         "difference": "-8",
+        "points": "38"
+      },
+      {
+        "position": "16",
+        "nom": "Oita Trinita",
+        "matchs": "37",
+        "victoires": "8",
+        "nuls": "14",
+        "defaites": "15",
+        "buts_pour": "27",
+        "buts_contre": "42",
+        "difference": "-15",
         "points": "38"
       },
       {
