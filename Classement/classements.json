@@ -2251,13 +2251,13 @@
         "position": "8",
         "nom": "Alanyaspor",
         "matchs": "13",
-        "victoires": "3",
-        "nuls": "7",
+        "victoires": "4",
+        "nuls": "6",
         "defaites": "3",
-        "buts_pour": "12",
+        "buts_pour": "13",
         "buts_contre": "12",
-        "difference": "0",
-        "points": "16"
+        "difference": "1",
+        "points": "18"
       },
       {
         "position": "9",
@@ -2336,12 +2336,12 @@
         "nom": "Kasimpasa",
         "matchs": "13",
         "victoires": "2",
-        "nuls": "5",
-        "defaites": "6",
+        "nuls": "4",
+        "defaites": "7",
         "buts_pour": "11",
-        "buts_contre": "17",
-        "difference": "-6",
-        "points": "11"
+        "buts_contre": "18",
+        "difference": "-7",
+        "points": "10"
       },
       {
         "position": "16",
@@ -2404,13 +2404,13 @@
         "position": "2",
         "nom": "Feyenoord",
         "matchs": "13",
-        "victoires": "9",
-        "nuls": "2",
+        "victoires": "10",
+        "nuls": "1",
         "defaites": "2",
-        "buts_pour": "32",
+        "buts_pour": "33",
         "buts_contre": "13",
-        "difference": "19",
-        "points": "29"
+        "difference": "20",
+        "points": "31"
       },
       {
         "position": "3",
@@ -2426,18 +2426,6 @@
       },
       {
         "position": "4",
-        "nom": "FC Utrecht",
-        "matchs": "13",
-        "victoires": "6",
-        "nuls": "2",
-        "defaites": "5",
-        "buts_pour": "22",
-        "buts_contre": "16",
-        "difference": "6",
-        "points": "20"
-      },
-      {
-        "position": "5",
         "nom": "Ajax",
         "matchs": "13",
         "victoires": "5",
@@ -2449,19 +2437,19 @@
         "points": "20"
       },
       {
-        "position": "6",
-        "nom": "NEC Nijmegen",
+        "position": "5",
+        "nom": "FC Utrecht",
         "matchs": "13",
-        "victoires": "5",
-        "nuls": "4",
-        "defaites": "4",
-        "buts_pour": "30",
-        "buts_contre": "21",
-        "difference": "9",
+        "victoires": "6",
+        "nuls": "1",
+        "defaites": "6",
+        "buts_pour": "22",
+        "buts_contre": "17",
+        "difference": "5",
         "points": "19"
       },
       {
-        "position": "7",
+        "position": "6",
         "nom": "FC Groningen",
         "matchs": "12",
         "victoires": "6",
@@ -2471,6 +2459,18 @@
         "buts_contre": "17",
         "difference": "0",
         "points": "19"
+      },
+      {
+        "position": "7",
+        "nom": "NEC Nijmegen",
+        "matchs": "13",
+        "victoires": "5",
+        "nuls": "3",
+        "defaites": "5",
+        "buts_pour": "30",
+        "buts_contre": "22",
+        "difference": "8",
+        "points": "18"
       },
       {
         "position": "8",
@@ -2558,6 +2558,18 @@
       },
       {
         "position": "15",
+        "nom": "Telstar",
+        "matchs": "13",
+        "victoires": "3",
+        "nuls": "3",
+        "defaites": "7",
+        "buts_pour": "15",
+        "buts_contre": "21",
+        "difference": "-6",
+        "points": "12"
+      },
+      {
+        "position": "16",
         "nom": "NAC Breda",
         "matchs": "13",
         "victoires": "3",
@@ -2569,7 +2581,7 @@
         "points": "12"
       },
       {
-        "position": "16",
+        "position": "17",
         "nom": "PEC Zwolle",
         "matchs": "12",
         "victoires": "3",
@@ -2581,7 +2593,7 @@
         "points": "12"
       },
       {
-        "position": "17",
+        "position": "18",
         "nom": "Almelo",
         "matchs": "13",
         "victoires": "4",
@@ -2591,18 +2603,6 @@
         "buts_contre": "35",
         "difference": "-14",
         "points": "12"
-      },
-      {
-        "position": "18",
-        "nom": "Telstar",
-        "matchs": "13",
-        "victoires": "2",
-        "nuls": "4",
-        "defaites": "7",
-        "buts_pour": "14",
-        "buts_contre": "21",
-        "difference": "-7",
-        "points": "10"
       }
     ]
   },
@@ -5708,8 +5708,8 @@
         "nuls": "4",
         "defaites": "3",
         "buts_pour": "20",
-        "buts_contre": "12",
-        "difference": "8",
+        "buts_contre": "13",
+        "difference": "7",
         "points": "31"
       },
       {
@@ -5719,9 +5719,9 @@
         "victoires": "8",
         "nuls": "4",
         "defaites": "4",
-        "buts_pour": "29",
+        "buts_pour": "30",
         "buts_contre": "19",
-        "difference": "10",
+        "difference": "11",
         "points": "28"
       },
       {
@@ -5885,8 +5885,8 @@
         "nuls": "4",
         "defaites": "2",
         "buts_pour": "31",
-        "buts_contre": "16",
-        "difference": "15",
+        "buts_contre": "17",
+        "difference": "14",
         "points": "28"
       },
       {
@@ -5920,9 +5920,9 @@
         "victoires": "7",
         "nuls": "1",
         "defaites": "6",
-        "buts_pour": "16",
+        "buts_pour": "17",
         "buts_contre": "18",
-        "difference": "-2",
+        "difference": "-1",
         "points": "22"
       },
       {
@@ -5933,8 +5933,8 @@
         "nuls": "1",
         "defaites": "5",
         "buts_pour": "22",
-        "buts_contre": "15",
-        "difference": "7",
+        "buts_contre": "16",
+        "difference": "6",
         "points": "22"
       },
       {
@@ -5992,9 +5992,9 @@
         "victoires": "3",
         "nuls": "5",
         "defaites": "5",
-        "buts_pour": "17",
+        "buts_pour": "18",
         "buts_contre": "20",
-        "difference": "-3",
+        "difference": "-2",
         "points": "14"
       },
       {
@@ -6458,6 +6458,18 @@
       },
       {
         "position": "5",
+        "nom": "Viborg FF",
+        "matchs": "16",
+        "victoires": "7",
+        "nuls": "1",
+        "defaites": "8",
+        "buts_pour": "26",
+        "buts_contre": "24",
+        "difference": "2",
+        "points": "22"
+      },
+      {
+        "position": "6",
         "nom": "Sönderjyske",
         "matchs": "15",
         "victoires": "6",
@@ -6466,18 +6478,6 @@
         "buts_pour": "24",
         "buts_contre": "22",
         "difference": "2",
-        "points": "22"
-      },
-      {
-        "position": "6",
-        "nom": "Viborg FF",
-        "matchs": "16",
-        "victoires": "7",
-        "nuls": "1",
-        "defaites": "8",
-        "buts_pour": "25",
-        "buts_contre": "24",
-        "difference": "1",
         "points": "22"
       },
       {
@@ -6548,8 +6548,8 @@
         "nuls": "4",
         "defaites": "10",
         "buts_pour": "18",
-        "buts_contre": "30",
-        "difference": "-12",
+        "buts_contre": "31",
+        "difference": "-13",
         "points": "10"
       }
     ]
@@ -6901,9 +6901,9 @@
         "victoires": "10",
         "nuls": "8",
         "defaites": "11",
-        "buts_pour": "45",
+        "buts_pour": "46",
         "buts_contre": "50",
-        "difference": "-5",
+        "difference": "-4",
         "points": "38"
       },
       {
@@ -6950,8 +6950,8 @@
         "nuls": "7",
         "defaites": "15",
         "buts_pour": "33",
-        "buts_contre": "53",
-        "difference": "-20",
+        "buts_contre": "54",
+        "difference": "-21",
         "points": "28"
       },
       {
@@ -14216,18 +14216,6 @@
       },
       {
         "position": "2",
-        "nom": "Benevento",
-        "matchs": "15",
-        "victoires": "9",
-        "nuls": "3",
-        "defaites": "3",
-        "buts_pour": "27",
-        "buts_contre": "10",
-        "difference": "17",
-        "points": "30"
-      },
-      {
-        "position": "3",
         "nom": "Salernitana",
         "matchs": "14",
         "victoires": "9",
@@ -14239,16 +14227,28 @@
         "points": "30"
       },
       {
+        "position": "3",
+        "nom": "Benevento",
+        "matchs": "15",
+        "victoires": "9",
+        "nuls": "2",
+        "defaites": "4",
+        "buts_pour": "27",
+        "buts_contre": "11",
+        "difference": "16",
+        "points": "29"
+      },
+      {
         "position": "4",
         "nom": "Cosenza",
         "matchs": "15",
-        "victoires": "7",
-        "nuls": "6",
+        "victoires": "8",
+        "nuls": "5",
         "defaites": "2",
-        "buts_pour": "28",
+        "buts_pour": "29",
         "buts_contre": "15",
-        "difference": "13",
-        "points": "27"
+        "difference": "14",
+        "points": "29"
       },
       {
         "position": "5",
@@ -15130,13 +15130,13 @@
         "position": "5",
         "nom": "Michalovce",
         "matchs": "15",
-        "victoires": "5",
-        "nuls": "5",
+        "victoires": "6",
+        "nuls": "4",
         "defaites": "5",
-        "buts_pour": "21",
+        "buts_pour": "22",
         "buts_contre": "21",
-        "difference": "0",
-        "points": "20"
+        "difference": "1",
+        "points": "22"
       },
       {
         "position": "6",
@@ -15191,12 +15191,12 @@
         "nom": "Ruzomberok",
         "matchs": "14",
         "victoires": "3",
-        "nuls": "4",
-        "defaites": "7",
+        "nuls": "3",
+        "defaites": "8",
         "buts_pour": "13",
-        "buts_contre": "19",
-        "difference": "-6",
-        "points": "13"
+        "buts_contre": "20",
+        "difference": "-7",
+        "points": "12"
       },
       {
         "position": "11",
@@ -18296,6 +18296,18 @@
       },
       {
         "position": "4",
+        "nom": "Al-Diraiyah FC",
+        "matchs": "9",
+        "victoires": "5",
+        "nuls": "3",
+        "defaites": "1",
+        "buts_pour": "15",
+        "buts_contre": "7",
+        "difference": "8",
+        "points": "18"
+      },
+      {
+        "position": "5",
         "nom": "Al-Bukiryah",
         "matchs": "9",
         "victoires": "6",
@@ -18305,18 +18317,6 @@
         "buts_contre": "11",
         "difference": "-1",
         "points": "18"
-      },
-      {
-        "position": "5",
-        "nom": "Al-Diraiyah FC",
-        "matchs": "8",
-        "victoires": "5",
-        "nuls": "2",
-        "defaites": "1",
-        "buts_pour": "15",
-        "buts_contre": "7",
-        "difference": "8",
-        "points": "17"
       },
       {
         "position": "6",
@@ -18357,14 +18357,14 @@
       {
         "position": "9",
         "nom": "Al-Faisaly",
-        "matchs": "7",
+        "matchs": "8",
         "victoires": "2",
-        "nuls": "5",
+        "nuls": "6",
         "defaites": "0",
         "buts_pour": "10",
         "buts_contre": "7",
         "difference": "3",
-        "points": "11"
+        "points": "12"
       },
       {
         "position": "10",
@@ -18514,9 +18514,9 @@
         "victoires": "8",
         "nuls": "6",
         "defaites": "1",
-        "buts_pour": "17",
+        "buts_pour": "18",
         "buts_contre": "4",
-        "difference": "13",
+        "difference": "14",
         "points": "30"
       },
       {
@@ -18671,8 +18671,8 @@
         "nuls": "6",
         "defaites": "8",
         "buts_pour": "7",
-        "buts_contre": "20",
-        "difference": "-13",
+        "buts_contre": "21",
+        "difference": "-14",
         "points": "9"
       }
     ]
@@ -21225,53 +21225,65 @@
       {
         "position": "1",
         "nom": "ML Vitebsk",
-        "matchs": "28",
+        "matchs": "29",
         "victoires": "20",
-        "nuls": "4",
+        "nuls": "5",
         "defaites": "4",
         "buts_pour": "47",
         "buts_contre": "17",
         "difference": "30",
-        "points": "64"
+        "points": "65"
       },
       {
         "position": "2",
         "nom": "Dinamo Minsk",
-        "matchs": "28",
+        "matchs": "29",
         "victoires": "18",
-        "nuls": "5",
+        "nuls": "6",
         "defaites": "5",
         "buts_pour": "49",
         "buts_contre": "26",
         "difference": "23",
-        "points": "59"
+        "points": "60"
       },
       {
         "position": "3",
         "nom": "Slavia",
         "matchs": "29",
         "victoires": "16",
-        "nuls": "7",
-        "defaites": "6",
+        "nuls": "6",
+        "defaites": "7",
         "buts_pour": "50",
-        "buts_contre": "31",
-        "difference": "19",
-        "points": "55"
+        "buts_contre": "32",
+        "difference": "18",
+        "points": "54"
       },
       {
         "position": "4",
         "nom": "Dynamo Brest",
-        "matchs": "28",
+        "matchs": "29",
         "victoires": "14",
-        "nuls": "6",
+        "nuls": "7",
         "defaites": "8",
         "buts_pour": "40",
         "buts_contre": "28",
         "difference": "12",
-        "points": "48"
+        "points": "49"
       },
       {
         "position": "5",
+        "nom": "FK Minsk",
+        "matchs": "29",
+        "victoires": "14",
+        "nuls": "6",
+        "defaites": "9",
+        "buts_pour": "46",
+        "buts_contre": "47",
+        "difference": "-1",
+        "points": "48"
+      },
+      {
+        "position": "6",
         "nom": "Isloch",
         "matchs": "29",
         "victoires": "11",
@@ -21283,7 +21295,7 @@
         "points": "46"
       },
       {
-        "position": "6",
+        "position": "7",
         "nom": "Torpedo Zhodino",
         "matchs": "29",
         "victoires": "12",
@@ -21292,18 +21304,6 @@
         "buts_pour": "41",
         "buts_contre": "29",
         "difference": "12",
-        "points": "46"
-      },
-      {
-        "position": "7",
-        "nom": "FK Minsk",
-        "matchs": "29",
-        "victoires": "13",
-        "nuls": "7",
-        "defaites": "9",
-        "buts_pour": "45",
-        "buts_contre": "47",
-        "difference": "-2",
         "points": "46"
       },
       {
@@ -21321,14 +21321,14 @@
       {
         "position": "9",
         "nom": "Gomel",
-        "matchs": "28",
+        "matchs": "29",
         "victoires": "11",
-        "nuls": "7",
+        "nuls": "8",
         "defaites": "10",
         "buts_pour": "32",
         "buts_contre": "28",
         "difference": "4",
-        "points": "40"
+        "points": "41"
       },
       {
         "position": "10",
@@ -36759,26 +36759,26 @@
       {
         "position": "1",
         "nom": "Svay Rieng",
-        "matchs": "9",
-        "victoires": "8",
+        "matchs": "10",
+        "victoires": "9",
         "nuls": "0",
         "defaites": "1",
-        "buts_pour": "33",
-        "buts_contre": "7",
-        "difference": "26",
-        "points": "24"
+        "buts_pour": "35",
+        "buts_contre": "8",
+        "difference": "27",
+        "points": "27"
       },
       {
         "position": "2",
         "nom": "Angkor Tiger",
-        "matchs": "9",
+        "matchs": "10",
         "victoires": "7",
-        "nuls": "0",
+        "nuls": "1",
         "defaites": "2",
-        "buts_pour": "30",
-        "buts_contre": "10",
+        "buts_pour": "31",
+        "buts_contre": "11",
         "difference": "20",
-        "points": "21"
+        "points": "22"
       },
       {
         "position": "3",
@@ -36807,13 +36807,13 @@
       {
         "position": "5",
         "nom": "Nagaworld FC",
-        "matchs": "10",
+        "matchs": "11",
         "victoires": "4",
         "nuls": "3",
-        "defaites": "3",
-        "buts_pour": "15",
-        "buts_contre": "12",
-        "difference": "3",
+        "defaites": "4",
+        "buts_pour": "16",
+        "buts_contre": "14",
+        "difference": "2",
         "points": "15"
       },
       {
@@ -36843,14 +36843,14 @@
       {
         "position": "8",
         "nom": "Kompong Dewa",
-        "matchs": "9",
+        "matchs": "10",
         "victoires": "2",
-        "nuls": "4",
+        "nuls": "5",
         "defaites": "3",
-        "buts_pour": "10",
-        "buts_contre": "13",
+        "buts_pour": "11",
+        "buts_contre": "14",
         "difference": "-3",
-        "points": "10"
+        "points": "11"
       },
       {
         "position": "9",
