@@ -2840,15 +2840,15 @@
     "equipes": [
       {
         "position": "1",
-        "nom": "Zenit S-Pb",
+        "nom": "Krasnodar",
         "matchs": "16",
-        "victoires": "9",
-        "nuls": "6",
-        "defaites": "1",
-        "buts_pour": "31",
-        "buts_contre": "12",
+        "victoires": "10",
+        "nuls": "4",
+        "defaites": "2",
+        "buts_pour": "28",
+        "buts_contre": "9",
         "difference": "19",
-        "points": "33"
+        "points": "34"
       },
       {
         "position": "2",
@@ -2864,27 +2864,27 @@
       },
       {
         "position": "3",
-        "nom": "Krasnodar",
-        "matchs": "15",
-        "victoires": "10",
-        "nuls": "3",
-        "defaites": "2",
-        "buts_pour": "28",
-        "buts_contre": "9",
+        "nom": "Zenit S-Pb",
+        "matchs": "16",
+        "victoires": "9",
+        "nuls": "6",
+        "defaites": "1",
+        "buts_pour": "31",
+        "buts_contre": "12",
         "difference": "19",
         "points": "33"
       },
       {
         "position": "4",
         "nom": "Loko Moscou",
-        "matchs": "15",
+        "matchs": "16",
         "victoires": "8",
-        "nuls": "6",
+        "nuls": "7",
         "defaites": "1",
         "buts_pour": "31",
         "buts_contre": "19",
         "difference": "12",
-        "points": "30"
+        "points": "31"
       },
       {
         "position": "5",
@@ -3578,12 +3578,12 @@
         "nom": "Royal Antwerp",
         "matchs": "15",
         "victoires": "3",
-        "nuls": "6",
-        "defaites": "6",
+        "nuls": "5",
+        "defaites": "7",
         "buts_pour": "14",
-        "buts_contre": "17",
-        "difference": "-3",
-        "points": "15"
+        "buts_contre": "18",
+        "difference": "-4",
+        "points": "14"
       },
       {
         "position": "15",
@@ -3601,13 +3601,13 @@
         "position": "16",
         "nom": "FCV Dender EH",
         "matchs": "15",
-        "victoires": "0",
-        "nuls": "6",
+        "victoires": "1",
+        "nuls": "5",
         "defaites": "9",
-        "buts_pour": "9",
+        "buts_pour": "10",
         "buts_contre": "24",
-        "difference": "-15",
-        "points": "6"
+        "difference": "-14",
+        "points": "8"
       }
     ]
   },
@@ -6080,6 +6080,18 @@
       },
       {
         "position": "5",
+        "nom": "Korona Kielce",
+        "matchs": "16",
+        "victoires": "6",
+        "nuls": "5",
+        "defaites": "5",
+        "buts_pour": "18",
+        "buts_contre": "16",
+        "difference": "2",
+        "points": "23"
+      },
+      {
+        "position": "6",
         "nom": "Raków",
         "matchs": "15",
         "victoires": "7",
@@ -6091,7 +6103,7 @@
         "points": "23"
       },
       {
-        "position": "6",
+        "position": "7",
         "nom": "Cracovia",
         "matchs": "15",
         "victoires": "6",
@@ -6103,7 +6115,7 @@
         "points": "22"
       },
       {
-        "position": "7",
+        "position": "8",
         "nom": "Radomiak",
         "matchs": "16",
         "victoires": "6",
@@ -6115,7 +6127,7 @@
         "points": "22"
       },
       {
-        "position": "8",
+        "position": "9",
         "nom": "Zaglebie Lubin",
         "matchs": "14",
         "victoires": "5",
@@ -6124,18 +6136,6 @@
         "buts_pour": "27",
         "buts_contre": "18",
         "difference": "9",
-        "points": "21"
-      },
-      {
-        "position": "9",
-        "nom": "Korona Kielce",
-        "matchs": "16",
-        "victoires": "5",
-        "nuls": "6",
-        "defaites": "5",
-        "buts_pour": "17",
-        "buts_contre": "16",
-        "difference": "1",
         "points": "21"
       },
       {
@@ -6164,18 +6164,6 @@
       },
       {
         "position": "12",
-        "nom": "Widzew Lodz",
-        "matchs": "16",
-        "victoires": "5",
-        "nuls": "3",
-        "defaites": "8",
-        "buts_pour": "22",
-        "buts_contre": "23",
-        "difference": "-1",
-        "points": "18"
-      },
-      {
-        "position": "13",
         "nom": "Arka Gdynia",
         "matchs": "16",
         "victoires": "5",
@@ -6185,6 +6173,18 @@
         "buts_contre": "28",
         "difference": "-15",
         "points": "18"
+      },
+      {
+        "position": "13",
+        "nom": "Widzew Lodz",
+        "matchs": "16",
+        "victoires": "5",
+        "nuls": "2",
+        "defaites": "9",
+        "buts_pour": "22",
+        "buts_contre": "24",
+        "difference": "-2",
+        "points": "17"
       },
       {
         "position": "14",
@@ -7550,12 +7550,12 @@
         "nom": "Étoile Rouge",
         "matchs": "15",
         "victoires": "11",
-        "nuls": "3",
-        "defaites": "1",
+        "nuls": "2",
+        "defaites": "2",
         "buts_pour": "47",
-        "buts_contre": "13",
-        "difference": "34",
-        "points": "36"
+        "buts_contre": "14",
+        "difference": "33",
+        "points": "35"
       },
       {
         "position": "3",
@@ -7631,6 +7631,18 @@
       },
       {
         "position": "9",
+        "nom": "Javor-Matis",
+        "matchs": "16",
+        "victoires": "5",
+        "nuls": "5",
+        "defaites": "6",
+        "buts_pour": "20",
+        "buts_contre": "24",
+        "difference": "-4",
+        "points": "20"
+      },
+      {
+        "position": "10",
         "nom": "Mladost",
         "matchs": "15",
         "victoires": "5",
@@ -7640,18 +7652,6 @@
         "buts_contre": "19",
         "difference": "-4",
         "points": "20"
-      },
-      {
-        "position": "10",
-        "nom": "Javor-Matis",
-        "matchs": "16",
-        "victoires": "4",
-        "nuls": "6",
-        "defaites": "6",
-        "buts_pour": "19",
-        "buts_contre": "24",
-        "difference": "-5",
-        "points": "18"
       },
       {
         "position": "11",
@@ -7997,27 +7997,27 @@
       },
       {
         "position": "6",
-        "nom": "FCV Farul",
+        "nom": "Otelul Galati",
         "matchs": "17",
         "victoires": "7",
         "nuls": "5",
         "defaites": "5",
-        "buts_pour": "22",
-        "buts_contre": "18",
-        "difference": "4",
+        "buts_pour": "25",
+        "buts_contre": "15",
+        "difference": "10",
         "points": "26"
       },
       {
         "position": "7",
-        "nom": "Otelul Galati",
+        "nom": "FCV Farul",
         "matchs": "17",
-        "victoires": "6",
-        "nuls": "6",
-        "defaites": "5",
-        "buts_pour": "24",
-        "buts_contre": "15",
-        "difference": "9",
-        "points": "24"
+        "victoires": "7",
+        "nuls": "4",
+        "defaites": "6",
+        "buts_pour": "22",
+        "buts_contre": "19",
+        "difference": "3",
+        "points": "25"
       },
       {
         "position": "8",
@@ -11053,9 +11053,9 @@
         "victoires": "6",
         "nuls": "6",
         "defaites": "2",
-        "buts_pour": "31",
+        "buts_pour": "32",
         "buts_contre": "23",
-        "difference": "8",
+        "difference": "9",
         "points": "24"
       },
       {
@@ -11138,8 +11138,8 @@
         "nuls": "4",
         "defaites": "6",
         "buts_pour": "21",
-        "buts_contre": "22",
-        "difference": "-1",
+        "buts_contre": "23",
+        "difference": "-2",
         "points": "16"
       },
       {
@@ -13250,6 +13250,18 @@
       },
       {
         "position": "5",
+        "nom": "Patro Eisden",
+        "matchs": "13",
+        "victoires": "6",
+        "nuls": "3",
+        "defaites": "4",
+        "buts_pour": "16",
+        "buts_contre": "14",
+        "difference": "2",
+        "points": "21"
+      },
+      {
+        "position": "6",
         "nom": "Lommel SK",
         "matchs": "14",
         "victoires": "5",
@@ -13261,7 +13273,7 @@
         "points": "20"
       },
       {
-        "position": "6",
+        "position": "7",
         "nom": "KAS Eupen",
         "matchs": "13",
         "victoires": "5",
@@ -13271,18 +13283,6 @@
         "buts_contre": "14",
         "difference": "5",
         "points": "20"
-      },
-      {
-        "position": "7",
-        "nom": "Patro Eisden",
-        "matchs": "13",
-        "victoires": "5",
-        "nuls": "4",
-        "defaites": "4",
-        "buts_pour": "15",
-        "buts_contre": "14",
-        "difference": "1",
-        "points": "19"
       },
       {
         "position": "8",
@@ -13301,12 +13301,12 @@
         "nom": "RWDM Brussels",
         "matchs": "13",
         "victoires": "4",
-        "nuls": "4",
-        "defaites": "5",
+        "nuls": "3",
+        "defaites": "6",
         "buts_pour": "23",
-        "buts_contre": "19",
-        "difference": "4",
-        "points": "16"
+        "buts_contre": "20",
+        "difference": "3",
+        "points": "15"
       },
       {
         "position": "10",
@@ -17954,6 +17954,18 @@
       },
       {
         "position": "9",
+        "nom": "LKS Lodz",
+        "matchs": "17",
+        "victoires": "7",
+        "nuls": "3",
+        "defaites": "7",
+        "buts_pour": "25",
+        "buts_contre": "26",
+        "difference": "-1",
+        "points": "24"
+      },
+      {
+        "position": "10",
         "nom": "Miedz Legnica",
         "matchs": "17",
         "victoires": "7",
@@ -17965,7 +17977,7 @@
         "points": "24"
       },
       {
-        "position": "10",
+        "position": "11",
         "nom": "Pol. Varsovie",
         "matchs": "16",
         "victoires": "6",
@@ -17977,7 +17989,7 @@
         "points": "23"
       },
       {
-        "position": "11",
+        "position": "12",
         "nom": "Pogon Siedlce",
         "matchs": "17",
         "victoires": "5",
@@ -17989,7 +18001,7 @@
         "points": "22"
       },
       {
-        "position": "12",
+        "position": "13",
         "nom": "Odra Opole",
         "matchs": "16",
         "victoires": "5",
@@ -17998,18 +18010,6 @@
         "buts_pour": "18",
         "buts_contre": "18",
         "difference": "0",
-        "points": "22"
-      },
-      {
-        "position": "13",
-        "nom": "LKS Lodz",
-        "matchs": "17",
-        "victoires": "6",
-        "nuls": "4",
-        "defaites": "7",
-        "buts_pour": "24",
-        "buts_contre": "26",
-        "difference": "-2",
         "points": "22"
       },
       {
@@ -18065,12 +18065,12 @@
         "nom": "Gornik Leczna",
         "matchs": "17",
         "victoires": "1",
-        "nuls": "8",
-        "defaites": "8",
+        "nuls": "7",
+        "defaites": "9",
         "buts_pour": "19",
-        "buts_contre": "33",
-        "difference": "-14",
-        "points": "11"
+        "buts_contre": "34",
+        "difference": "-15",
+        "points": "10"
       }
     ]
   },
@@ -22556,6 +22556,18 @@
     "equipes": [
       {
         "position": "1",
+        "nom": "KF Vllaznia",
+        "matchs": "12",
+        "victoires": "7",
+        "nuls": "3",
+        "defaites": "2",
+        "buts_pour": "19",
+        "buts_contre": "10",
+        "difference": "9",
+        "points": "24"
+      },
+      {
+        "position": "2",
         "nom": "AF Elbasani",
         "matchs": "12",
         "victoires": "7",
@@ -22565,18 +22577,6 @@
         "buts_contre": "7",
         "difference": "7",
         "points": "24"
-      },
-      {
-        "position": "2",
-        "nom": "KF Vllaznia",
-        "matchs": "12",
-        "victoires": "7",
-        "nuls": "2",
-        "defaites": "3",
-        "buts_pour": "18",
-        "buts_contre": "10",
-        "difference": "8",
-        "points": "23"
       },
       {
         "position": "3",
@@ -22616,18 +22616,6 @@
       },
       {
         "position": "6",
-        "nom": "FK Partizani",
-        "matchs": "12",
-        "victoires": "4",
-        "nuls": "3",
-        "defaites": "5",
-        "buts_pour": "8",
-        "buts_contre": "15",
-        "difference": "-7",
-        "points": "15"
-      },
-      {
-        "position": "7",
         "nom": "KF Vora",
         "matchs": "12",
         "victoires": "4",
@@ -22637,6 +22625,18 @@
         "buts_contre": "12",
         "difference": "-2",
         "points": "14"
+      },
+      {
+        "position": "7",
+        "nom": "FK Partizani",
+        "matchs": "12",
+        "victoires": "3",
+        "nuls": "4",
+        "defaites": "5",
+        "buts_pour": "8",
+        "buts_contre": "16",
+        "difference": "-8",
+        "points": "13"
       },
       {
         "position": "8",
@@ -25302,13 +25302,13 @@
       {
         "position": "3",
         "nom": "Shkendija",
-        "matchs": "13",
+        "matchs": "14",
         "victoires": "9",
         "nuls": "3",
-        "defaites": "1",
+        "defaites": "2",
         "buts_pour": "27",
-        "buts_contre": "10",
-        "difference": "17",
+        "buts_contre": "13",
+        "difference": "14",
         "points": "30"
       },
       {
@@ -25326,17 +25326,29 @@
       {
         "position": "5",
         "nom": "Bashkimi",
-        "matchs": "13",
+        "matchs": "14",
         "victoires": "6",
         "nuls": "4",
-        "defaites": "3",
+        "defaites": "4",
         "buts_pour": "21",
-        "buts_contre": "19",
-        "difference": "2",
+        "buts_contre": "22",
+        "difference": "-1",
         "points": "22"
       },
       {
         "position": "6",
+        "nom": "Arsimi",
+        "matchs": "14",
+        "victoires": "5",
+        "nuls": "3",
+        "defaites": "6",
+        "buts_pour": "26",
+        "buts_contre": "27",
+        "difference": "-1",
+        "points": "18"
+      },
+      {
+        "position": "7",
         "nom": "Brera Strumica",
         "matchs": "14",
         "victoires": "4",
@@ -25348,19 +25360,19 @@
         "points": "16"
       },
       {
-        "position": "7",
-        "nom": "Arsimi",
-        "matchs": "13",
+        "position": "8",
+        "nom": "Tikves",
+        "matchs": "14",
         "victoires": "4",
         "nuls": "3",
-        "defaites": "6",
-        "buts_pour": "23",
-        "buts_contre": "27",
+        "defaites": "7",
+        "buts_pour": "14",
+        "buts_contre": "18",
         "difference": "-4",
         "points": "15"
       },
       {
-        "position": "8",
+        "position": "9",
         "nom": "Makedonija",
         "matchs": "14",
         "victoires": "4",
@@ -25370,18 +25382,6 @@
         "buts_contre": "25",
         "difference": "-9",
         "points": "14"
-      },
-      {
-        "position": "9",
-        "nom": "Tikves",
-        "matchs": "13",
-        "victoires": "3",
-        "nuls": "3",
-        "defaites": "7",
-        "buts_pour": "11",
-        "buts_contre": "18",
-        "difference": "-7",
-        "points": "12"
       },
       {
         "position": "10",
