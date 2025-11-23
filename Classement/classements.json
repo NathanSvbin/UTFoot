@@ -9292,9 +9292,9 @@
         "victoires": "12",
         "nuls": "8",
         "defaites": "8",
-        "buts_pour": "42",
+        "buts_pour": "43",
         "buts_contre": "30",
-        "difference": "12",
+        "difference": "13",
         "points": "44"
       },
       {
@@ -9341,8 +9341,8 @@
         "nuls": "5",
         "defaites": "15",
         "buts_pour": "26",
-        "buts_contre": "33",
-        "difference": "-7",
+        "buts_contre": "34",
+        "difference": "-8",
         "points": "29"
       },
       {
@@ -17741,6 +17741,18 @@
       },
       {
         "position": "8",
+        "nom": "Nacional Potosí",
+        "matchs": "25",
+        "victoires": "8",
+        "nuls": "7",
+        "defaites": "10",
+        "buts_pour": "42",
+        "buts_contre": "34",
+        "difference": "8",
+        "points": "31"
+      },
+      {
+        "position": "9",
         "nom": "SA Bulo Bulo",
         "matchs": "24",
         "victoires": "8",
@@ -17750,18 +17762,6 @@
         "buts_contre": "40",
         "difference": "3",
         "points": "31"
-      },
-      {
-        "position": "9",
-        "nom": "Nacional Potosí",
-        "matchs": "25",
-        "victoires": "8",
-        "nuls": "6",
-        "defaites": "11",
-        "buts_pour": "41",
-        "buts_contre": "34",
-        "difference": "7",
-        "points": "30"
       },
       {
         "position": "10",
@@ -17791,13 +17791,13 @@
         "position": "12",
         "nom": "Univ. de Vinto",
         "matchs": "25",
-        "victoires": "7",
-        "nuls": "7",
+        "victoires": "6",
+        "nuls": "8",
         "defaites": "11",
         "buts_pour": "30",
-        "buts_contre": "46",
-        "difference": "-16",
-        "points": "28"
+        "buts_contre": "47",
+        "difference": "-17",
+        "points": "26"
       },
       {
         "position": "13",
