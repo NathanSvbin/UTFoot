@@ -2620,9 +2620,9 @@
         "victoires": "9",
         "nuls": "0",
         "defaites": "0",
-        "buts_pour": "29",
+        "buts_pour": "30",
         "buts_contre": "5",
-        "difference": "24",
+        "difference": "25",
         "points": "27"
       },
       {
@@ -2642,12 +2642,12 @@
         "nom": "Al-Taawoun",
         "matchs": "9",
         "victoires": "7",
-        "nuls": "1",
-        "defaites": "1",
+        "nuls": "0",
+        "defaites": "2",
         "buts_pour": "23",
-        "buts_contre": "12",
-        "difference": "11",
-        "points": "22"
+        "buts_contre": "13",
+        "difference": "10",
+        "points": "21"
       },
       {
         "position": "4",
@@ -2675,18 +2675,30 @@
       },
       {
         "position": "6",
+        "nom": "NEOM SC",
+        "matchs": "9",
+        "victoires": "5",
+        "nuls": "1",
+        "defaites": "3",
+        "buts_pour": "13",
+        "buts_contre": "13",
+        "difference": "0",
+        "points": "16"
+      },
+      {
+        "position": "7",
         "nom": "Al-Khaleej",
         "matchs": "9",
         "victoires": "4",
         "nuls": "2",
         "defaites": "3",
         "buts_pour": "22",
-        "buts_contre": "14",
-        "difference": "8",
+        "buts_contre": "15",
+        "difference": "7",
         "points": "14"
       },
       {
-        "position": "7",
+        "position": "8",
         "nom": "Al-Ittihad",
         "matchs": "9",
         "victoires": "4",
@@ -2695,18 +2707,6 @@
         "buts_pour": "17",
         "buts_contre": "15",
         "difference": "2",
-        "points": "14"
-      },
-      {
-        "position": "8",
-        "nom": "NEOM SC",
-        "matchs": "9",
-        "victoires": "4",
-        "nuls": "2",
-        "defaites": "3",
-        "buts_pour": "12",
-        "buts_contre": "13",
-        "difference": "-1",
         "points": "14"
       },
       {
@@ -3443,6 +3443,18 @@
       },
       {
         "position": "3",
+        "nom": "RSC Anderlecht",
+        "matchs": "15",
+        "victoires": "8",
+        "nuls": "4",
+        "defaites": "3",
+        "buts_pour": "22",
+        "buts_contre": "13",
+        "difference": "9",
+        "points": "28"
+      },
+      {
+        "position": "4",
         "nom": "Saint-Trond",
         "matchs": "15",
         "victoires": "8",
@@ -3452,18 +3464,6 @@
         "buts_contre": "17",
         "difference": "4",
         "points": "27"
-      },
-      {
-        "position": "4",
-        "nom": "RSC Anderlecht",
-        "matchs": "15",
-        "victoires": "7",
-        "nuls": "5",
-        "defaites": "3",
-        "buts_pour": "21",
-        "buts_contre": "13",
-        "difference": "8",
-        "points": "26"
       },
       {
         "position": "5",
@@ -3542,12 +3542,12 @@
         "nom": "La Louvière",
         "matchs": "15",
         "victoires": "4",
-        "nuls": "6",
-        "defaites": "5",
+        "nuls": "5",
+        "defaites": "6",
         "buts_pour": "11",
-        "buts_contre": "14",
-        "difference": "-3",
-        "points": "18"
+        "buts_contre": "15",
+        "difference": "-4",
+        "points": "17"
       },
       {
         "position": "12",
@@ -10232,18 +10232,6 @@
       },
       {
         "position": "10",
-        "nom": "Petrojet",
-        "matchs": "13",
-        "victoires": "4",
-        "nuls": "6",
-        "defaites": "3",
-        "buts_pour": "12",
-        "buts_contre": "13",
-        "difference": "-1",
-        "points": "18"
-      },
-      {
-        "position": "11",
         "nom": "Bank El Ahly",
         "matchs": "13",
         "victoires": "3",
@@ -10255,7 +10243,7 @@
         "points": "17"
       },
       {
-        "position": "12",
+        "position": "11",
         "nom": "Modern Sport",
         "matchs": "13",
         "victoires": "4",
@@ -10267,7 +10255,7 @@
         "points": "17"
       },
       {
-        "position": "13",
+        "position": "12",
         "nom": "El Mahalla",
         "matchs": "13",
         "victoires": "2",
@@ -10279,7 +10267,7 @@
         "points": "16"
       },
       {
-        "position": "14",
+        "position": "13",
         "nom": "Smouha",
         "matchs": "12",
         "victoires": "3",
@@ -10291,16 +10279,28 @@
         "points": "16"
       },
       {
+        "position": "14",
+        "nom": "Petrojet",
+        "matchs": "13",
+        "victoires": "3",
+        "nuls": "7",
+        "defaites": "3",
+        "buts_pour": "12",
+        "buts_contre": "14",
+        "difference": "-2",
+        "points": "16"
+      },
+      {
         "position": "15",
         "nom": "Harras Hodoud",
         "matchs": "13",
         "victoires": "3",
-        "nuls": "4",
-        "defaites": "6",
-        "buts_pour": "9",
+        "nuls": "5",
+        "defaites": "5",
+        "buts_pour": "10",
         "buts_contre": "15",
-        "difference": "-6",
-        "points": "13"
+        "difference": "-5",
+        "points": "14"
       },
       {
         "position": "16",
@@ -16548,17 +16548,29 @@
       {
         "position": "5",
         "nom": "FC Cartagena",
-        "matchs": "12",
+        "matchs": "13",
         "victoires": "5",
-        "nuls": "4",
+        "nuls": "5",
         "defaites": "3",
         "buts_pour": "12",
         "buts_contre": "11",
         "difference": "1",
-        "points": "19"
+        "points": "20"
       },
       {
         "position": "6",
+        "nom": "Eldense",
+        "matchs": "13",
+        "victoires": "4",
+        "nuls": "7",
+        "defaites": "2",
+        "buts_pour": "14",
+        "buts_contre": "13",
+        "difference": "1",
+        "points": "19"
+      },
+      {
+        "position": "7",
         "nom": "AD Alcorcón",
         "matchs": "13",
         "victoires": "5",
@@ -16570,7 +16582,7 @@
         "points": "19"
       },
       {
-        "position": "7",
+        "position": "8",
         "nom": "Torremolinos",
         "matchs": "13",
         "victoires": "4",
@@ -16582,7 +16594,7 @@
         "points": "18"
       },
       {
-        "position": "8",
+        "position": "9",
         "nom": "Algeciras CF",
         "matchs": "13",
         "victoires": "5",
@@ -16590,18 +16602,6 @@
         "defaites": "5",
         "buts_pour": "15",
         "buts_contre": "14",
-        "difference": "1",
-        "points": "18"
-      },
-      {
-        "position": "9",
-        "nom": "Eldense",
-        "matchs": "12",
-        "victoires": "4",
-        "nuls": "6",
-        "defaites": "2",
-        "buts_pour": "14",
-        "buts_contre": "13",
         "difference": "1",
         "points": "18"
       },
@@ -30600,14 +30600,14 @@
       {
         "position": "7",
         "nom": "SD Logroñés",
-        "matchs": "11",
+        "matchs": "12",
         "victoires": "5",
-        "nuls": "3",
+        "nuls": "4",
         "defaites": "3",
         "buts_pour": "12",
         "buts_contre": "10",
         "difference": "2",
-        "points": "18"
+        "points": "19"
       },
       {
         "position": "8",
@@ -30635,6 +30635,18 @@
       },
       {
         "position": "10",
+        "nom": "SD Ejea",
+        "matchs": "12",
+        "victoires": "4",
+        "nuls": "3",
+        "defaites": "5",
+        "buts_pour": "14",
+        "buts_contre": "16",
+        "difference": "-2",
+        "points": "15"
+      },
+      {
+        "position": "11",
         "nom": "UD Mutilvera",
         "matchs": "12",
         "victoires": "4",
@@ -30646,7 +30658,7 @@
         "points": "14"
       },
       {
-        "position": "11",
+        "position": "12",
         "nom": "SD Eibar B",
         "matchs": "12",
         "victoires": "4",
@@ -30655,18 +30667,6 @@
         "buts_pour": "12",
         "buts_contre": "15",
         "difference": "-3",
-        "points": "14"
-      },
-      {
-        "position": "12",
-        "nom": "SD Ejea",
-        "matchs": "11",
-        "victoires": "4",
-        "nuls": "2",
-        "defaites": "5",
-        "buts_pour": "14",
-        "buts_contre": "16",
-        "difference": "-2",
         "points": "14"
       },
       {
@@ -34154,6 +34154,18 @@
       },
       {
         "position": "14",
+        "nom": "UP Langreo",
+        "matchs": "12",
+        "victoires": "2",
+        "nuls": "4",
+        "defaites": "6",
+        "buts_pour": "10",
+        "buts_contre": "14",
+        "difference": "-4",
+        "points": "10"
+      },
+      {
+        "position": "15",
         "nom": "Burgos Promesas",
         "matchs": "12",
         "victoires": "1",
@@ -34165,7 +34177,7 @@
         "points": "10"
       },
       {
-        "position": "15",
+        "position": "16",
         "nom": "Astorga",
         "matchs": "12",
         "victoires": "2",
@@ -34177,7 +34189,7 @@
         "points": "10"
       },
       {
-        "position": "16",
+        "position": "17",
         "nom": "UD Sámano",
         "matchs": "12",
         "victoires": "2",
@@ -34189,27 +34201,15 @@
         "points": "9"
       },
       {
-        "position": "17",
-        "nom": "UP Langreo",
-        "matchs": "11",
-        "victoires": "1",
-        "nuls": "4",
-        "defaites": "6",
-        "buts_pour": "6",
-        "buts_contre": "14",
-        "difference": "-8",
-        "points": "7"
-      },
-      {
         "position": "18",
         "nom": "CD Lealtad",
-        "matchs": "11",
+        "matchs": "12",
         "victoires": "1",
         "nuls": "4",
-        "defaites": "6",
+        "defaites": "7",
         "buts_pour": "8",
-        "buts_contre": "17",
-        "difference": "-9",
+        "buts_contre": "21",
+        "difference": "-13",
         "points": "7"
       }
     ]
