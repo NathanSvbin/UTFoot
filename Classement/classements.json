@@ -1028,6 +1028,18 @@
       },
       {
         "position": "5",
+        "nom": "LOSC Lille",
+        "matchs": "13",
+        "victoires": "6",
+        "nuls": "3",
+        "defaites": "4",
+        "buts_pour": "23",
+        "buts_contre": "15",
+        "difference": "8",
+        "points": "21"
+      },
+      {
+        "position": "6",
         "nom": "Stade Rennais",
         "matchs": "13",
         "victoires": "5",
@@ -1039,7 +1051,7 @@
         "points": "21"
       },
       {
-        "position": "6",
+        "position": "7",
         "nom": "Ol. Lyonnais",
         "matchs": "13",
         "victoires": "6",
@@ -1049,18 +1061,6 @@
         "buts_contre": "15",
         "difference": "3",
         "points": "21"
-      },
-      {
-        "position": "7",
-        "nom": "LOSC Lille",
-        "matchs": "12",
-        "victoires": "6",
-        "nuls": "2",
-        "defaites": "4",
-        "buts_pour": "23",
-        "buts_contre": "15",
-        "difference": "8",
-        "points": "20"
       },
       {
         "position": "8",
@@ -1113,14 +1113,14 @@
       {
         "position": "12",
         "nom": "Paris FC",
-        "matchs": "12",
+        "matchs": "13",
         "victoires": "4",
-        "nuls": "2",
+        "nuls": "3",
         "defaites": "6",
         "buts_pour": "18",
         "buts_contre": "21",
         "difference": "-3",
-        "points": "14"
+        "points": "15"
       },
       {
         "position": "13",
@@ -7940,12 +7940,12 @@
         "nom": "FC Rapid 1923",
         "matchs": "17",
         "victoires": "10",
-        "nuls": "6",
-        "defaites": "1",
+        "nuls": "5",
+        "defaites": "2",
         "buts_pour": "29",
-        "buts_contre": "12",
-        "difference": "17",
-        "points": "36"
+        "buts_contre": "13",
+        "difference": "16",
+        "points": "35"
       },
       {
         "position": "2",
@@ -8057,6 +8057,18 @@
       },
       {
         "position": "11",
+        "nom": "CFR Cluj",
+        "matchs": "17",
+        "victoires": "4",
+        "nuls": "7",
+        "defaites": "6",
+        "buts_pour": "22",
+        "buts_contre": "28",
+        "difference": "-6",
+        "points": "19"
+      },
+      {
+        "position": "12",
         "nom": "Unirea Slobozia",
         "matchs": "17",
         "victoires": "5",
@@ -8066,18 +8078,6 @@
         "buts_contre": "23",
         "difference": "-5",
         "points": "18"
-      },
-      {
-        "position": "12",
-        "nom": "CFR Cluj",
-        "matchs": "17",
-        "victoires": "3",
-        "nuls": "8",
-        "defaites": "6",
-        "buts_pour": "21",
-        "buts_contre": "28",
-        "difference": "-7",
-        "points": "17"
       },
       {
         "position": "13",
@@ -8150,6 +8150,18 @@
       },
       {
         "position": "2",
+        "nom": "Goiás",
+        "matchs": "38",
+        "victoires": "18",
+        "nuls": "10",
+        "defaites": "10",
+        "buts_pour": "42",
+        "buts_contre": "34",
+        "difference": "8",
+        "points": "64"
+      },
+      {
+        "position": "3",
         "nom": "Athletico-PR",
         "matchs": "38",
         "victoires": "18",
@@ -8161,7 +8173,7 @@
         "points": "63"
       },
       {
-        "position": "3",
+        "position": "4",
         "nom": "Criciúma",
         "matchs": "38",
         "victoires": "17",
@@ -8171,18 +8183,6 @@
         "buts_contre": "32",
         "difference": "15",
         "points": "62"
-      },
-      {
-        "position": "4",
-        "nom": "Goiás",
-        "matchs": "37",
-        "victoires": "17",
-        "nuls": "10",
-        "defaites": "10",
-        "buts_pour": "41",
-        "buts_contre": "34",
-        "difference": "7",
-        "points": "61"
       },
       {
         "position": "5",
@@ -8211,13 +8211,13 @@
       {
         "position": "7",
         "nom": "Remo",
-        "matchs": "37",
+        "matchs": "38",
         "victoires": "15",
         "nuls": "14",
-        "defaites": "8",
+        "defaites": "9",
         "buts_pour": "48",
-        "buts_contre": "38",
-        "difference": "10",
+        "buts_contre": "39",
+        "difference": "9",
         "points": "59"
       },
       {
@@ -8297,24 +8297,24 @@
         "nom": "Operário-PR",
         "matchs": "38",
         "victoires": "11",
-        "nuls": "13",
-        "defaites": "14",
+        "nuls": "12",
+        "defaites": "15",
         "buts_pour": "38",
-        "buts_contre": "43",
-        "difference": "-5",
-        "points": "46"
+        "buts_contre": "44",
+        "difference": "-6",
+        "points": "45"
       },
       {
         "position": "15",
-        "nom": "Athletic",
+        "nom": "Ferroviária",
         "matchs": "38",
-        "victoires": "11",
-        "nuls": "9",
-        "defaites": "18",
-        "buts_pour": "41",
-        "buts_contre": "52",
-        "difference": "-11",
-        "points": "42"
+        "victoires": "9",
+        "nuls": "16",
+        "defaites": "13",
+        "buts_pour": "43",
+        "buts_contre": "50",
+        "difference": "-7",
+        "points": "43"
       },
       {
         "position": "16",
@@ -8330,14 +8330,14 @@
       },
       {
         "position": "17",
-        "nom": "Ferroviária",
+        "nom": "Athletic",
         "matchs": "38",
-        "victoires": "8",
-        "nuls": "17",
-        "defaites": "13",
-        "buts_pour": "42",
-        "buts_contre": "50",
-        "difference": "-8",
+        "victoires": "11",
+        "nuls": "8",
+        "defaites": "19",
+        "buts_pour": "41",
+        "buts_contre": "53",
+        "difference": "-12",
         "points": "41"
       },
       {
@@ -8368,13 +8368,13 @@
         "position": "20",
         "nom": "Paysandu",
         "matchs": "38",
-        "victoires": "5",
-        "nuls": "14",
+        "victoires": "6",
+        "nuls": "13",
         "defaites": "19",
-        "buts_pour": "35",
+        "buts_pour": "36",
         "buts_contre": "50",
-        "difference": "-15",
-        "points": "29"
+        "difference": "-14",
+        "points": "31"
       }
     ]
   },
@@ -11572,9 +11572,9 @@
         "victoires": "9",
         "nuls": "2",
         "defaites": "4",
-        "buts_pour": "31",
+        "buts_pour": "32",
         "buts_contre": "22",
-        "difference": "9",
+        "difference": "10",
         "points": "29"
       },
       {
@@ -11621,8 +11621,8 @@
         "nuls": "5",
         "defaites": "3",
         "buts_pour": "27",
-        "buts_contre": "23",
-        "difference": "4",
+        "buts_contre": "24",
+        "difference": "3",
         "points": "26"
       },
       {
