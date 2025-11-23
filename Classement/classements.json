@@ -1562,6 +1562,18 @@
       },
       {
         "position": "6",
+        "nom": "EC Bahia",
+        "matchs": "35",
+        "victoires": "16",
+        "nuls": "8",
+        "defaites": "11",
+        "buts_pour": "47",
+        "buts_contre": "43",
+        "difference": "4",
+        "points": "56"
+      },
+      {
+        "position": "7",
         "nom": "Fluminense",
         "matchs": "35",
         "victoires": "16",
@@ -1571,18 +1583,6 @@
         "buts_contre": "38",
         "difference": "2",
         "points": "55"
-      },
-      {
-        "position": "7",
-        "nom": "EC Bahia",
-        "matchs": "35",
-        "victoires": "15",
-        "nuls": "9",
-        "defaites": "11",
-        "buts_pour": "46",
-        "buts_contre": "43",
-        "difference": "3",
-        "points": "54"
       },
       {
         "position": "8",
@@ -1634,18 +1634,6 @@
       },
       {
         "position": "12",
-        "nom": "Vasco da Gama",
-        "matchs": "35",
-        "victoires": "12",
-        "nuls": "7",
-        "defaites": "16",
-        "buts_pour": "50",
-        "buts_contre": "51",
-        "difference": "-1",
-        "points": "43"
-      },
-      {
-        "position": "13",
         "nom": "Grêmio",
         "matchs": "35",
         "victoires": "11",
@@ -1655,6 +1643,18 @@
         "buts_contre": "46",
         "difference": "-7",
         "points": "43"
+      },
+      {
+        "position": "13",
+        "nom": "Vasco da Gama",
+        "matchs": "35",
+        "victoires": "12",
+        "nuls": "6",
+        "defaites": "17",
+        "buts_pour": "50",
+        "buts_contre": "52",
+        "difference": "-2",
+        "points": "42"
       },
       {
         "position": "14",
@@ -13121,6 +13121,18 @@
       },
       {
         "position": "13",
+        "nom": "Alianza UDH",
+        "matchs": "17",
+        "victoires": "5",
+        "nuls": "2",
+        "defaites": "10",
+        "buts_pour": "21",
+        "buts_contre": "33",
+        "difference": "-12",
+        "points": "17"
+      },
+      {
+        "position": "14",
         "nom": "Atlético Grau",
         "matchs": "17",
         "victoires": "4",
@@ -13132,7 +13144,7 @@
         "points": "16"
       },
       {
-        "position": "14",
+        "position": "15",
         "nom": "Sport Boys",
         "matchs": "17",
         "victoires": "4",
@@ -13142,18 +13154,6 @@
         "buts_contre": "25",
         "difference": "-11",
         "points": "16"
-      },
-      {
-        "position": "15",
-        "nom": "Juan Pablo II",
-        "matchs": "17",
-        "victoires": "3",
-        "nuls": "6",
-        "defaites": "8",
-        "buts_pour": "13",
-        "buts_contre": "20",
-        "difference": "-7",
-        "points": "15"
       },
       {
         "position": "16",
@@ -13169,15 +13169,15 @@
       },
       {
         "position": "17",
-        "nom": "Alianza UDH",
+        "nom": "Juan Pablo II",
         "matchs": "17",
-        "victoires": "4",
-        "nuls": "3",
-        "defaites": "10",
-        "buts_pour": "20",
-        "buts_contre": "33",
-        "difference": "-13",
-        "points": "15"
+        "victoires": "3",
+        "nuls": "5",
+        "defaites": "9",
+        "buts_pour": "13",
+        "buts_contre": "21",
+        "difference": "-8",
+        "points": "14"
       },
       {
         "position": "18",
@@ -15269,6 +15269,18 @@
       },
       {
         "position": "4",
+        "nom": "Pineto",
+        "matchs": "15",
+        "victoires": "7",
+        "nuls": "4",
+        "defaites": "4",
+        "buts_pour": "21",
+        "buts_contre": "15",
+        "difference": "6",
+        "points": "25"
+      },
+      {
+        "position": "5",
         "nom": "Ternana",
         "matchs": "15",
         "victoires": "6",
@@ -15280,7 +15292,7 @@
         "points": "24"
       },
       {
-        "position": "5",
+        "position": "6",
         "nom": "Guidonia",
         "matchs": "15",
         "victoires": "7",
@@ -15292,7 +15304,7 @@
         "points": "24"
       },
       {
-        "position": "6",
+        "position": "7",
         "nom": "Carpi",
         "matchs": "15",
         "victoires": "7",
@@ -15302,18 +15314,6 @@
         "buts_contre": "17",
         "difference": "1",
         "points": "24"
-      },
-      {
-        "position": "7",
-        "nom": "Pineto",
-        "matchs": "15",
-        "victoires": "6",
-        "nuls": "5",
-        "defaites": "4",
-        "buts_pour": "20",
-        "buts_contre": "15",
-        "difference": "5",
-        "points": "23"
       },
       {
         "position": "8",
@@ -15377,18 +15377,6 @@
       },
       {
         "position": "13",
-        "nom": "Sambenedettese",
-        "matchs": "15",
-        "victoires": "4",
-        "nuls": "5",
-        "defaites": "6",
-        "buts_pour": "14",
-        "buts_contre": "14",
-        "difference": "0",
-        "points": "17"
-      },
-      {
-        "position": "14",
         "nom": "Juve Next Gen",
         "matchs": "14",
         "victoires": "5",
@@ -15398,6 +15386,18 @@
         "buts_contre": "20",
         "difference": "-3",
         "points": "17"
+      },
+      {
+        "position": "14",
+        "nom": "Sambenedettese",
+        "matchs": "15",
+        "victoires": "4",
+        "nuls": "4",
+        "defaites": "7",
+        "buts_pour": "14",
+        "buts_contre": "15",
+        "difference": "-1",
+        "points": "16"
       },
       {
         "position": "15",
@@ -38439,14 +38439,14 @@
       {
         "position": "1",
         "nom": "St Joseph's FC",
-        "matchs": "10",
+        "matchs": "11",
         "victoires": "9",
-        "nuls": "0",
+        "nuls": "1",
         "defaites": "1",
-        "buts_pour": "41",
-        "buts_contre": "5",
+        "buts_pour": "42",
+        "buts_contre": "6",
         "difference": "36",
-        "points": "27"
+        "points": "28"
       },
       {
         "position": "2",
@@ -38475,14 +38475,14 @@
       {
         "position": "4",
         "nom": "Lincoln FC",
-        "matchs": "7",
+        "matchs": "8",
         "victoires": "7",
-        "nuls": "0",
+        "nuls": "1",
         "defaites": "0",
-        "buts_pour": "32",
-        "buts_contre": "4",
+        "buts_pour": "33",
+        "buts_contre": "5",
         "difference": "28",
-        "points": "21"
+        "points": "22"
       },
       {
         "position": "5",
@@ -38499,14 +38499,14 @@
       {
         "position": "6",
         "nom": "Lynx FC",
-        "matchs": "11",
-        "victoires": "4",
+        "matchs": "12",
+        "victoires": "5",
         "nuls": "2",
         "defaites": "5",
-        "buts_pour": "19",
+        "buts_pour": "21",
         "buts_contre": "25",
-        "difference": "-6",
-        "points": "14"
+        "difference": "-4",
+        "points": "17"
       },
       {
         "position": "7",
@@ -38559,13 +38559,13 @@
       {
         "position": "11",
         "nom": "FC Hound Dogs",
-        "matchs": "9",
+        "matchs": "10",
         "victoires": "1",
         "nuls": "3",
-        "defaites": "5",
+        "defaites": "6",
         "buts_pour": "6",
-        "buts_contre": "20",
-        "difference": "-14",
+        "buts_contre": "22",
+        "difference": "-16",
         "points": "6"
       },
       {
