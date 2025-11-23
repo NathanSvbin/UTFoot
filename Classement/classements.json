@@ -257,18 +257,6 @@
     "equipes": [
       {
         "position": "1",
-        "nom": "Real Madrid",
-        "matchs": "13",
-        "victoires": "10",
-        "nuls": "2",
-        "defaites": "1",
-        "buts_pour": "26",
-        "buts_contre": "10",
-        "difference": "16",
-        "points": "32"
-      },
-      {
-        "position": "2",
         "nom": "Barcelone",
         "matchs": "13",
         "victoires": "10",
@@ -277,6 +265,18 @@
         "buts_pour": "36",
         "buts_contre": "15",
         "difference": "21",
+        "points": "31"
+      },
+      {
+        "position": "2",
+        "nom": "Real Madrid",
+        "matchs": "13",
+        "victoires": "10",
+        "nuls": "1",
+        "defaites": "2",
+        "buts_pour": "26",
+        "buts_contre": "11",
+        "difference": "15",
         "points": "31"
       },
       {
@@ -329,6 +329,18 @@
       },
       {
         "position": "7",
+        "nom": "Elche CF",
+        "matchs": "13",
+        "victoires": "4",
+        "nuls": "6",
+        "defaites": "3",
+        "buts_pour": "14",
+        "buts_contre": "14",
+        "difference": "0",
+        "points": "18"
+      },
+      {
+        "position": "8",
         "nom": "FC Getafe",
         "matchs": "13",
         "victoires": "5",
@@ -340,7 +352,7 @@
         "points": "17"
       },
       {
-        "position": "8",
+        "position": "9",
         "nom": "Athletic Bilbao",
         "matchs": "13",
         "victoires": "5",
@@ -352,7 +364,7 @@
         "points": "17"
       },
       {
-        "position": "9",
+        "position": "10",
         "nom": "Séville FC",
         "matchs": "12",
         "victoires": "5",
@@ -364,7 +376,7 @@
         "points": "16"
       },
       {
-        "position": "10",
+        "position": "11",
         "nom": "Real Sociedad",
         "matchs": "13",
         "victoires": "4",
@@ -372,18 +384,6 @@
         "defaites": "5",
         "buts_pour": "17",
         "buts_contre": "18",
-        "difference": "-1",
-        "points": "16"
-      },
-      {
-        "position": "11",
-        "nom": "Elche CF",
-        "matchs": "13",
-        "victoires": "3",
-        "nuls": "7",
-        "defaites": "3",
-        "buts_pour": "13",
-        "buts_contre": "14",
         "difference": "-1",
         "points": "16"
       },
@@ -518,14 +518,14 @@
       },
       {
         "position": "2",
-        "nom": "Inter",
+        "nom": "AC Milan",
         "matchs": "12",
-        "victoires": "8",
-        "nuls": "1",
-        "defaites": "3",
-        "buts_pour": "26",
-        "buts_contre": "12",
-        "difference": "14",
+        "victoires": "7",
+        "nuls": "4",
+        "defaites": "1",
+        "buts_pour": "18",
+        "buts_contre": "9",
+        "difference": "9",
         "points": "25"
       },
       {
@@ -542,6 +542,18 @@
       },
       {
         "position": "4",
+        "nom": "Inter",
+        "matchs": "12",
+        "victoires": "8",
+        "nuls": "0",
+        "defaites": "4",
+        "buts_pour": "26",
+        "buts_contre": "13",
+        "difference": "13",
+        "points": "24"
+      },
+      {
+        "position": "5",
         "nom": "FC Bologna",
         "matchs": "12",
         "victoires": "7",
@@ -551,18 +563,6 @@
         "buts_contre": "8",
         "difference": "13",
         "points": "24"
-      },
-      {
-        "position": "5",
-        "nom": "AC Milan",
-        "matchs": "12",
-        "victoires": "6",
-        "nuls": "5",
-        "defaites": "1",
-        "buts_pour": "17",
-        "buts_contre": "9",
-        "difference": "8",
-        "points": "23"
       },
       {
         "position": "6",
@@ -1591,8 +1591,8 @@
         "victoires": "13",
         "nuls": "9",
         "defaites": "13",
-        "buts_pour": "39",
-        "buts_contre": "39",
+        "buts_pour": "40",
+        "buts_contre": "40",
         "difference": "0",
         "points": "48"
       },
@@ -1723,8 +1723,8 @@
         "victoires": "9",
         "nuls": "6",
         "defaites": "20",
-        "buts_pour": "32",
-        "buts_contre": "63",
+        "buts_pour": "33",
+        "buts_contre": "64",
         "difference": "-31",
         "points": "33"
       },
@@ -8174,30 +8174,42 @@
       },
       {
         "position": "4",
-        "nom": "Criciúma",
+        "nom": "Remo",
         "matchs": "38",
-        "victoires": "17",
-        "nuls": "11",
-        "defaites": "10",
-        "buts_pour": "47",
-        "buts_contre": "32",
-        "difference": "15",
+        "victoires": "16",
+        "nuls": "14",
+        "defaites": "8",
+        "buts_pour": "50",
+        "buts_contre": "39",
+        "difference": "11",
         "points": "62"
       },
       {
         "position": "5",
-        "nom": "Goiás",
+        "nom": "Criciúma",
         "matchs": "38",
         "victoires": "17",
-        "nuls": "11",
-        "defaites": "10",
-        "buts_pour": "42",
-        "buts_contre": "35",
-        "difference": "7",
-        "points": "62"
+        "nuls": "10",
+        "defaites": "11",
+        "buts_pour": "47",
+        "buts_contre": "33",
+        "difference": "14",
+        "points": "61"
       },
       {
         "position": "6",
+        "nom": "Goiás",
+        "matchs": "38",
+        "victoires": "17",
+        "nuls": "10",
+        "defaites": "11",
+        "buts_pour": "42",
+        "buts_contre": "36",
+        "difference": "6",
+        "points": "61"
+      },
+      {
+        "position": "7",
         "nom": "Novorizontino",
         "matchs": "38",
         "victoires": "15",
@@ -8206,18 +8218,6 @@
         "buts_pour": "43",
         "buts_contre": "32",
         "difference": "11",
-        "points": "60"
-      },
-      {
-        "position": "7",
-        "nom": "Remo",
-        "matchs": "38",
-        "victoires": "15",
-        "nuls": "15",
-        "defaites": "8",
-        "buts_pour": "49",
-        "buts_contre": "39",
-        "difference": "10",
         "points": "60"
       },
       {
@@ -8246,6 +8246,18 @@
       },
       {
         "position": "10",
+        "nom": "Cuiabá-MT",
+        "matchs": "38",
+        "victoires": "14",
+        "nuls": "12",
+        "defaites": "12",
+        "buts_pour": "43",
+        "buts_contre": "44",
+        "difference": "-1",
+        "points": "54"
+      },
+      {
+        "position": "11",
         "nom": "Atlético-GO",
         "matchs": "38",
         "victoires": "13",
@@ -8254,18 +8266,6 @@
         "buts_pour": "39",
         "buts_contre": "38",
         "difference": "1",
-        "points": "52"
-      },
-      {
-        "position": "11",
-        "nom": "Cuiabá-MT",
-        "matchs": "38",
-        "victoires": "13",
-        "nuls": "13",
-        "defaites": "12",
-        "buts_pour": "42",
-        "buts_contre": "44",
-        "difference": "-2",
         "points": "52"
       },
       {
@@ -9240,26 +9240,26 @@
       {
         "position": "3",
         "nom": "O'Higgins",
-        "matchs": "27",
+        "matchs": "28",
         "victoires": "14",
-        "nuls": "8",
+        "nuls": "9",
         "defaites": "5",
         "buts_pour": "38",
         "buts_contre": "31",
         "difference": "7",
-        "points": "50"
+        "points": "51"
       },
       {
         "position": "4",
         "nom": "U. de Chile",
-        "matchs": "27",
+        "matchs": "28",
         "victoires": "15",
-        "nuls": "3",
+        "nuls": "4",
         "defaites": "9",
         "buts_pour": "53",
         "buts_contre": "29",
         "difference": "24",
-        "points": "48"
+        "points": "49"
       },
       {
         "position": "5",
@@ -13127,8 +13127,8 @@
         "nuls": "2",
         "defaites": "10",
         "buts_pour": "22",
-        "buts_contre": "33",
-        "difference": "-11",
+        "buts_contre": "34",
+        "difference": "-12",
         "points": "17"
       },
       {
@@ -13174,9 +13174,9 @@
         "victoires": "3",
         "nuls": "5",
         "defaites": "9",
-        "buts_pour": "13",
+        "buts_pour": "14",
         "buts_contre": "22",
-        "difference": "-9",
+        "difference": "-8",
         "points": "14"
       },
       {
@@ -13851,26 +13851,26 @@
       {
         "position": "1",
         "nom": "Cerro Porteño",
-        "matchs": "20",
-        "victoires": "11",
+        "matchs": "21",
+        "victoires": "12",
         "nuls": "7",
         "defaites": "2",
-        "buts_pour": "30",
+        "buts_pour": "31",
         "buts_contre": "18",
-        "difference": "12",
-        "points": "40"
+        "difference": "13",
+        "points": "43"
       },
       {
         "position": "2",
         "nom": "Guaraní",
-        "matchs": "20",
+        "matchs": "21",
         "victoires": "12",
-        "nuls": "3",
+        "nuls": "4",
         "defaites": "5",
         "buts_pour": "40",
         "buts_contre": "19",
         "difference": "21",
-        "points": "39"
+        "points": "40"
       },
       {
         "position": "3",
@@ -13934,6 +13934,18 @@
       },
       {
         "position": "8",
+        "nom": "Gen. Caballero",
+        "matchs": "21",
+        "victoires": "6",
+        "nuls": "7",
+        "defaites": "8",
+        "buts_pour": "22",
+        "buts_contre": "29",
+        "difference": "-7",
+        "points": "25"
+      },
+      {
+        "position": "9",
         "nom": "Luqueño",
         "matchs": "21",
         "victoires": "7",
@@ -13945,27 +13957,15 @@
         "points": "25"
       },
       {
-        "position": "9",
-        "nom": "Gen. Caballero",
-        "matchs": "20",
-        "victoires": "6",
-        "nuls": "6",
-        "defaites": "8",
-        "buts_pour": "22",
-        "buts_contre": "29",
-        "difference": "-7",
-        "points": "24"
-      },
-      {
         "position": "10",
         "nom": "Libertad",
-        "matchs": "20",
+        "matchs": "21",
         "victoires": "5",
         "nuls": "8",
-        "defaites": "7",
+        "defaites": "8",
         "buts_pour": "24",
-        "buts_contre": "23",
-        "difference": "1",
+        "buts_contre": "24",
+        "difference": "0",
         "points": "23"
       },
       {
@@ -17659,13 +17659,13 @@
         "position": "1",
         "nom": "Always Ready",
         "matchs": "25",
-        "victoires": "18",
-        "nuls": "5",
+        "victoires": "19",
+        "nuls": "4",
         "defaites": "2",
-        "buts_pour": "67",
+        "buts_pour": "68",
         "buts_contre": "23",
-        "difference": "44",
-        "points": "59"
+        "difference": "45",
+        "points": "61"
       },
       {
         "position": "2",
@@ -17684,12 +17684,12 @@
         "nom": "Bolívar",
         "matchs": "25",
         "victoires": "16",
-        "nuls": "5",
-        "defaites": "4",
+        "nuls": "4",
+        "defaites": "5",
         "buts_pour": "63",
-        "buts_contre": "25",
-        "difference": "38",
-        "points": "53"
+        "buts_contre": "26",
+        "difference": "37",
+        "points": "52"
       },
       {
         "position": "4",
