@@ -10448,12 +10448,12 @@
         "nom": "Erzurumspor FK",
         "matchs": "14",
         "victoires": "5",
-        "nuls": "9",
-        "defaites": "0",
+        "nuls": "8",
+        "defaites": "1",
         "buts_pour": "23",
-        "buts_contre": "11",
-        "difference": "12",
-        "points": "24"
+        "buts_contre": "12",
+        "difference": "11",
+        "points": "23"
       },
       {
         "position": "7",
@@ -10469,6 +10469,18 @@
       },
       {
         "position": "8",
+        "nom": "Igdir FK",
+        "matchs": "14",
+        "victoires": "6",
+        "nuls": "4",
+        "defaites": "4",
+        "buts_pour": "20",
+        "buts_contre": "19",
+        "difference": "1",
+        "points": "22"
+      },
+      {
+        "position": "9",
         "nom": "Boluspor",
         "matchs": "14",
         "victoires": "5",
@@ -10480,7 +10492,7 @@
         "points": "20"
       },
       {
-        "position": "9",
+        "position": "10",
         "nom": "Van Spor FK",
         "matchs": "13",
         "victoires": "5",
@@ -10489,18 +10501,6 @@
         "buts_pour": "18",
         "buts_contre": "14",
         "difference": "4",
-        "points": "20"
-      },
-      {
-        "position": "10",
-        "nom": "Igdir FK",
-        "matchs": "14",
-        "victoires": "5",
-        "nuls": "5",
-        "defaites": "4",
-        "buts_pour": "19",
-        "buts_contre": "19",
-        "difference": "0",
         "points": "20"
       },
       {
@@ -20486,8 +20486,8 @@
         "nuls": "1",
         "defaites": "3",
         "buts_pour": "25",
-        "buts_contre": "13",
-        "difference": "12",
+        "buts_contre": "14",
+        "difference": "11",
         "points": "28"
       },
       {
@@ -20605,9 +20605,9 @@
         "victoires": "5",
         "nuls": "2",
         "defaites": "7",
-        "buts_pour": "16",
+        "buts_pour": "17",
         "buts_contre": "25",
-        "difference": "-9",
+        "difference": "-8",
         "points": "14"
       },
       {
@@ -22222,9 +22222,9 @@
         "victoires": "2",
         "nuls": "3",
         "defaites": "4",
-        "buts_pour": "10",
+        "buts_pour": "11",
         "buts_contre": "17",
-        "difference": "-7",
+        "difference": "-6",
         "points": "9"
       },
       {
@@ -22235,8 +22235,8 @@
         "nuls": "3",
         "defaites": "5",
         "buts_pour": "8",
-        "buts_contre": "26",
-        "difference": "-18",
+        "buts_contre": "27",
+        "difference": "-19",
         "points": "6"
       },
       {
