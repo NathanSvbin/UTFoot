@@ -9040,13 +9040,13 @@
         "position": "3",
         "nom": "Loko Plovdiv",
         "matchs": "16",
-        "victoires": "7",
-        "nuls": "7",
+        "victoires": "8",
+        "nuls": "6",
         "defaites": "2",
-        "buts_pour": "18",
+        "buts_pour": "19",
         "buts_contre": "17",
-        "difference": "1",
-        "points": "28"
+        "difference": "2",
+        "points": "30"
       },
       {
         "position": "4",
@@ -9197,12 +9197,12 @@
         "nom": "Dob. Dobrich",
         "matchs": "16",
         "victoires": "3",
-        "nuls": "2",
-        "defaites": "11",
+        "nuls": "1",
+        "defaites": "12",
         "buts_pour": "11",
-        "buts_contre": "23",
-        "difference": "-12",
-        "points": "11"
+        "buts_contre": "24",
+        "difference": "-13",
+        "points": "10"
       }
     ]
   },
@@ -20485,9 +20485,9 @@
         "victoires": "10",
         "nuls": "1",
         "defaites": "3",
-        "buts_pour": "24",
+        "buts_pour": "25",
         "buts_contre": "13",
-        "difference": "11",
+        "difference": "12",
         "points": "28"
       },
       {
@@ -20606,8 +20606,8 @@
         "nuls": "2",
         "defaites": "7",
         "buts_pour": "16",
-        "buts_contre": "24",
-        "difference": "-8",
+        "buts_contre": "25",
+        "difference": "-9",
         "points": "14"
       },
       {
@@ -22222,9 +22222,9 @@
         "victoires": "2",
         "nuls": "3",
         "defaites": "4",
-        "buts_pour": "9",
+        "buts_pour": "10",
         "buts_contre": "17",
-        "difference": "-8",
+        "difference": "-7",
         "points": "9"
       },
       {
@@ -22235,8 +22235,8 @@
         "nuls": "3",
         "defaites": "5",
         "buts_pour": "8",
-        "buts_contre": "25",
-        "difference": "-17",
+        "buts_contre": "26",
+        "difference": "-18",
         "points": "6"
       },
       {
