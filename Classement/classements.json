@@ -1688,8 +1688,8 @@
         "nuls": "12",
         "defaites": "14",
         "buts_pour": "31",
-        "buts_contre": "47",
-        "difference": "-16",
+        "buts_contre": "48",
+        "difference": "-17",
         "points": "39"
       },
       {
@@ -1735,9 +1735,9 @@
         "victoires": "2",
         "nuls": "11",
         "defaites": "22",
-        "buts_pour": "27",
+        "buts_pour": "28",
         "buts_contre": "65",
-        "difference": "-38",
+        "difference": "-37",
         "points": "17"
       }
     ]
@@ -4877,14 +4877,14 @@
       },
       {
         "position": "14",
-        "nom": "AD Ceuta",
-        "matchs": "14",
+        "nom": "Málaga CF",
+        "matchs": "15",
         "victoires": "5",
         "nuls": "3",
-        "defaites": "6",
-        "buts_pour": "13",
-        "buts_contre": "18",
-        "difference": "-5",
+        "defaites": "7",
+        "buts_pour": "19",
+        "buts_contre": "20",
+        "difference": "-1",
         "points": "18"
       },
       {
@@ -4901,6 +4901,18 @@
       },
       {
         "position": "16",
+        "nom": "AD Ceuta",
+        "matchs": "14",
+        "victoires": "5",
+        "nuls": "3",
+        "defaites": "6",
+        "buts_pour": "13",
+        "buts_contre": "18",
+        "difference": "-5",
+        "points": "18"
+      },
+      {
+        "position": "17",
         "nom": "SD Eibar",
         "matchs": "15",
         "victoires": "4",
@@ -4912,7 +4924,7 @@
         "points": "17"
       },
       {
-        "position": "17",
+        "position": "18",
         "nom": "FC Andorra",
         "matchs": "15",
         "victoires": "4",
@@ -4922,18 +4934,6 @@
         "buts_contre": "23",
         "difference": "-6",
         "points": "17"
-      },
-      {
-        "position": "18",
-        "nom": "Málaga CF",
-        "matchs": "15",
-        "victoires": "4",
-        "nuls": "4",
-        "defaites": "7",
-        "buts_pour": "18",
-        "buts_contre": "20",
-        "difference": "-2",
-        "points": "16"
       },
       {
         "position": "19",
@@ -4964,12 +4964,12 @@
         "nom": "CD Mirandés",
         "matchs": "15",
         "victoires": "3",
-        "nuls": "4",
-        "defaites": "8",
+        "nuls": "3",
+        "defaites": "9",
         "buts_pour": "16",
-        "buts_contre": "25",
-        "difference": "-9",
-        "points": "13"
+        "buts_contre": "26",
+        "difference": "-10",
+        "points": "12"
       },
       {
         "position": "22",
@@ -13018,9 +13018,9 @@
         "victoires": "9",
         "nuls": "4",
         "defaites": "4",
-        "buts_pour": "29",
+        "buts_pour": "30",
         "buts_contre": "19",
-        "difference": "10",
+        "difference": "11",
         "points": "31"
       },
       {
@@ -13187,8 +13187,8 @@
         "nuls": "4",
         "defaites": "10",
         "buts_pour": "16",
-        "buts_contre": "27",
-        "difference": "-11",
+        "buts_contre": "28",
+        "difference": "-12",
         "points": "13"
       }
     ]
@@ -17743,13 +17743,13 @@
         "position": "8",
         "nom": "Nacional Potosí",
         "matchs": "25",
-        "victoires": "8",
-        "nuls": "7",
+        "victoires": "9",
+        "nuls": "6",
         "defaites": "10",
-        "buts_pour": "40",
+        "buts_pour": "41",
         "buts_contre": "32",
-        "difference": "8",
-        "points": "31"
+        "difference": "9",
+        "points": "33"
       },
       {
         "position": "9",
@@ -17789,18 +17789,6 @@
       },
       {
         "position": "12",
-        "nom": "Univ. de Vinto",
-        "matchs": "25",
-        "victoires": "6",
-        "nuls": "8",
-        "defaites": "11",
-        "buts_pour": "28",
-        "buts_contre": "45",
-        "difference": "-17",
-        "points": "26"
-      },
-      {
-        "position": "13",
         "nom": "Real Oruro",
         "matchs": "25",
         "victoires": "6",
@@ -17809,6 +17797,18 @@
         "buts_pour": "40",
         "buts_contre": "53",
         "difference": "-13",
+        "points": "25"
+      },
+      {
+        "position": "13",
+        "nom": "Univ. de Vinto",
+        "matchs": "25",
+        "victoires": "6",
+        "nuls": "7",
+        "defaites": "12",
+        "buts_pour": "28",
+        "buts_contre": "46",
+        "difference": "-18",
         "points": "25"
       },
       {
@@ -24324,14 +24324,14 @@
       {
         "position": "1",
         "nom": "LD Alajuelense",
-        "matchs": "15",
+        "matchs": "16",
         "victoires": "9",
-        "nuls": "4",
+        "nuls": "5",
         "defaites": "2",
         "buts_pour": "23",
         "buts_contre": "10",
         "difference": "13",
-        "points": "31"
+        "points": "32"
       },
       {
         "position": "2",
@@ -24408,14 +24408,14 @@
       {
         "position": "8",
         "nom": "Sporting FC",
-        "matchs": "15",
+        "matchs": "16",
         "victoires": "3",
-        "nuls": "5",
+        "nuls": "6",
         "defaites": "7",
         "buts_pour": "15",
         "buts_contre": "17",
         "difference": "-2",
-        "points": "14"
+        "points": "15"
       },
       {
         "position": "9",
