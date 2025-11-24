@@ -583,8 +583,8 @@
         "victoires": "4",
         "nuls": "7",
         "defaites": "1",
-        "buts_pour": "12",
-        "buts_contre": "6",
+        "buts_pour": "13",
+        "buts_contre": "7",
         "difference": "6",
         "points": "19"
       },
@@ -619,8 +619,8 @@
         "victoires": "3",
         "nuls": "6",
         "defaites": "3",
-        "buts_pour": "10",
-        "buts_contre": "16",
+        "buts_pour": "11",
+        "buts_contre": "17",
         "difference": "-6",
         "points": "15"
       },
@@ -4190,6 +4190,18 @@
       },
       {
         "position": "11",
+        "nom": "OFI Crète",
+        "matchs": "10",
+        "victoires": "3",
+        "nuls": "0",
+        "defaites": "7",
+        "buts_pour": "11",
+        "buts_contre": "21",
+        "difference": "-10",
+        "points": "9"
+      },
+      {
+        "position": "12",
         "nom": "Asteras Aktor",
         "matchs": "11",
         "victoires": "1",
@@ -4201,28 +4213,16 @@
         "points": "8"
       },
       {
-        "position": "12",
+        "position": "13",
         "nom": "AE Larisa",
-        "matchs": "10",
+        "matchs": "11",
         "victoires": "1",
         "nuls": "4",
-        "defaites": "5",
-        "buts_pour": "9",
-        "buts_contre": "18",
-        "difference": "-9",
-        "points": "7"
-      },
-      {
-        "position": "13",
-        "nom": "OFI Crète",
-        "matchs": "9",
-        "victoires": "2",
-        "nuls": "0",
-        "defaites": "7",
-        "buts_pour": "9",
+        "defaites": "6",
+        "buts_pour": "10",
         "buts_contre": "20",
-        "difference": "-11",
-        "points": "6"
+        "difference": "-10",
+        "points": "7"
       },
       {
         "position": "14",
@@ -6129,17 +6129,29 @@
       {
         "position": "9",
         "nom": "Zaglebie Lubin",
-        "matchs": "14",
+        "matchs": "15",
         "victoires": "5",
         "nuls": "6",
-        "defaites": "3",
+        "defaites": "4",
         "buts_pour": "27",
-        "buts_contre": "18",
-        "difference": "9",
+        "buts_contre": "19",
+        "difference": "8",
         "points": "21"
       },
       {
         "position": "10",
+        "nom": "Pogon Szczecin",
+        "matchs": "16",
+        "victoires": "6",
+        "nuls": "2",
+        "defaites": "8",
+        "buts_pour": "22",
+        "buts_contre": "27",
+        "difference": "-5",
+        "points": "20"
+      },
+      {
+        "position": "11",
         "nom": "Motor Lublin",
         "matchs": "15",
         "victoires": "4",
@@ -6151,7 +6163,7 @@
         "points": "19"
       },
       {
-        "position": "11",
+        "position": "12",
         "nom": "Legia Varsovie",
         "matchs": "15",
         "victoires": "4",
@@ -6163,7 +6175,7 @@
         "points": "18"
       },
       {
-        "position": "12",
+        "position": "13",
         "nom": "Arka Gdynia",
         "matchs": "16",
         "victoires": "5",
@@ -6175,7 +6187,7 @@
         "points": "18"
       },
       {
-        "position": "13",
+        "position": "14",
         "nom": "Widzew Lodz",
         "matchs": "16",
         "victoires": "5",
@@ -6187,19 +6199,7 @@
         "points": "17"
       },
       {
-        "position": "14",
-        "nom": "Pogon Szczecin",
-        "matchs": "15",
-        "victoires": "5",
-        "nuls": "2",
-        "defaites": "8",
-        "buts_pour": "21",
-        "buts_contre": "27",
-        "difference": "-6",
-        "points": "17"
-      },
-      {
-        "position": "14",
+        "position": "15",
         "nom": "GKS Katowice",
         "matchs": "15",
         "victoires": "5",
@@ -6495,17 +6495,29 @@
       {
         "position": "8",
         "nom": "Odense BK",
-        "matchs": "15",
+        "matchs": "16",
         "victoires": "5",
-        "nuls": "4",
+        "nuls": "5",
         "defaites": "6",
         "buts_pour": "26",
         "buts_contre": "36",
         "difference": "-10",
-        "points": "19"
+        "points": "20"
       },
       {
         "position": "9",
+        "nom": "Randers FC",
+        "matchs": "16",
+        "victoires": "5",
+        "nuls": "3",
+        "defaites": "8",
+        "buts_pour": "16",
+        "buts_contre": "22",
+        "difference": "-6",
+        "points": "18"
+      },
+      {
+        "position": "10",
         "nom": "Silkeborg IF",
         "matchs": "16",
         "victoires": "5",
@@ -6515,18 +6527,6 @@
         "buts_contre": "31",
         "difference": "-9",
         "points": "18"
-      },
-      {
-        "position": "10",
-        "nom": "Randers FC",
-        "matchs": "15",
-        "victoires": "5",
-        "nuls": "2",
-        "defaites": "8",
-        "buts_pour": "16",
-        "buts_contre": "22",
-        "difference": "-6",
-        "points": "17"
       },
       {
         "position": "11",
@@ -7950,14 +7950,14 @@
       {
         "position": "2",
         "nom": "FC Botoșani",
-        "matchs": "16",
+        "matchs": "17",
         "victoires": "9",
-        "nuls": "5",
+        "nuls": "6",
         "defaites": "2",
         "buts_pour": "28",
         "buts_contre": "13",
         "difference": "15",
-        "points": "32"
+        "points": "33"
       },
       {
         "position": "3",
@@ -7974,14 +7974,14 @@
       {
         "position": "4",
         "nom": "FC Dinamo",
-        "matchs": "16",
+        "matchs": "17",
         "victoires": "8",
-        "nuls": "6",
+        "nuls": "7",
         "defaites": "2",
         "buts_pour": "26",
         "buts_contre": "15",
         "difference": "11",
-        "points": "30"
+        "points": "31"
       },
       {
         "position": "5",
@@ -10486,9 +10486,9 @@
         "victoires": "6",
         "nuls": "4",
         "defaites": "4",
-        "buts_pour": "17",
+        "buts_pour": "19",
         "buts_contre": "20",
-        "difference": "-3",
+        "difference": "-1",
         "points": "22"
       },
       {
@@ -10595,8 +10595,8 @@
         "nuls": "2",
         "defaites": "9",
         "buts_pour": "12",
-        "buts_contre": "20",
-        "difference": "-8",
+        "buts_contre": "22",
+        "difference": "-10",
         "points": "11"
       },
       {
@@ -11491,9 +11491,9 @@
         "victoires": "3",
         "nuls": "3",
         "defaites": "5",
-        "buts_pour": "8",
+        "buts_pour": "9",
         "buts_contre": "16",
-        "difference": "-8",
+        "difference": "-7",
         "points": "12"
       },
       {
@@ -11540,8 +11540,8 @@
         "nuls": "1",
         "defaites": "8",
         "buts_pour": "8",
-        "buts_contre": "16",
-        "difference": "-8",
+        "buts_contre": "17",
+        "difference": "-9",
         "points": "7"
       },
       {
@@ -12568,9 +12568,9 @@
         "victoires": "8",
         "nuls": "8",
         "defaites": "4",
-        "buts_pour": "26",
+        "buts_pour": "27",
         "buts_contre": "18",
-        "difference": "8",
+        "difference": "9",
         "points": "32"
       },
       {
@@ -12593,8 +12593,8 @@
         "nuls": "5",
         "defaites": "7",
         "buts_pour": "24",
-        "buts_contre": "16",
-        "difference": "8",
+        "buts_contre": "17",
+        "difference": "7",
         "points": "29"
       },
       {
@@ -20723,8 +20723,8 @@
         "nuls": "4",
         "defaites": "5",
         "buts_pour": "32",
-        "buts_contre": "25",
-        "difference": "7",
+        "buts_contre": "26",
+        "difference": "6",
         "points": "25"
       },
       {
@@ -20746,9 +20746,9 @@
         "victoires": "6",
         "nuls": "4",
         "defaites": "6",
-        "buts_pour": "21",
+        "buts_pour": "22",
         "buts_contre": "28",
-        "difference": "-7",
+        "difference": "-6",
         "points": "22"
       },
       {
