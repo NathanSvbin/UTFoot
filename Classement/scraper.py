@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import json
 import os
 import csv
+import chardet
 
 print("Répertoire courant :", os.getcwd())
 print("Fichiers dans Championnat :", os.listdir("Championnat"))
@@ -21,51 +22,83 @@ HEADERS = {
     "DNT": "1"
 }
 
+PROXIES = [
+    "http://51.159.66.45:3128",
+    "http://134.209.29.120:8080",
+    "http://195.201.231.22:8080"
+]
 
-import chardet
+
+def get_with_proxy(url):
+    """Essaye les proxys un par un jusqu'à trouver celui qui fonctionne."""
+    for proxy in PROXIES:
+        try:
+            print(f"🌐 Test proxy : {proxy}")
+            response = requests.get(
+                url,
+                headers=HEADERS,
+                proxies={"http": proxy, "https": proxy},
+                timeout=15
+            )
+
+            if response.status_code == 200:
+                print(f"✔ Proxy OK : {proxy}")
+                return response
+            else:
+                print(f"❌ HTTP {response.status_code} via {proxy}")
+
+        except Exception as e:
+            print(f"⚠️ Erreur avec proxy {proxy} : {e}")
+
+    print("🚨 Aucun proxy valide n’a été trouvé.")
+    return None
 
 def lire_championnats_csv(fichier_csv):
     with open(fichier_csv, "rb") as f:
         encodage = chardet.detect(f.read())["encoding"]
+
     with open(fichier_csv, "r", encoding=encodage) as f:
         reader = csv.reader(f)
         next(reader)
         championnats = []
+
         for row in reader:
             if len(row) >= 3 and row[2].startswith("https"):
                 id = row[0]
                 nom = row[1].strip()
                 lien = row[2].strip()
                 pays = row[4]
+
                 lien_classement = lien.replace("startseite", "tabelle") + "/saison_id/2025"
                 championnats.append((id, nom, lien_classement, pays))
+
     return championnats
 
-
-
-
 def scrape_championnat(nom, url):
-    """Scrape le classement d’un championnat donné."""
     print(f"\n📥 Récupération du championnat : {nom}")
-    response = requests.get(url, headers=HEADERS)
-    if response.status_code != 200:
-        print(f"❌ Erreur {response.status_code} pour {nom}")
+
+    response = get_with_proxy(url)
+    if not response or response.status_code != 200:
+        print(f"❌ Erreur pour {nom}")
         return []
 
     soup = BeautifulSoup(response.text, "html.parser")
     table = soup.find("table", class_="items")
+
     if not table:
         print(f"⚠️ Tableau non trouvé pour {nom}")
         return []
 
     equipes = []
     rows = table.find("tbody").find_all("tr")
+
     for row in rows:
         cols = row.find_all("td")
         if len(cols) < 9:
             continue
 
         buts = cols[7].get_text(strip=True).split(":")
+
         equipe = {
             "position": cols[0].get_text(strip=True).split()[0],
             "nom": cols[2].get_text(strip=True),
@@ -78,17 +111,16 @@ def scrape_championnat(nom, url):
             "difference": cols[8].get_text(strip=True),
             "points": cols[9].get_text(strip=True)
         }
+
         equipes.append(equipe)
 
     print(f"✅ {len(equipes)} équipes trouvées pour {nom}")
     return equipes
 
-
 def main():
-    os.makedirs("classement", exist_ok=True)
+    os.makedirs("Classement", exist_ok=True)
     all_data = []
 
-    # 🔽 Lire les championnats depuis le CSV
     championnats = lire_championnats_csv("Championnat/championnat_finalV3_lien.csv")
 
     for id, nom, url, pays in championnats:
@@ -96,13 +128,14 @@ def main():
             equipes = scrape_championnat(nom, url)
             if equipes:
                 all_data.append({
-                    "id_championnat" : id,
+                    "id_championnat": id,
                     "championnat": nom,
                     "url": url,
                     "id_pays": pays,
                     "saison": 2025,
-                    "equipes": equipes,
+                    "equipes": equipes
                 })
+
         except Exception as e:
             print(f"❌ Erreur sur {nom}: {e}")
 
@@ -116,6 +149,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
 
 
 
