@@ -1,37 +1,76 @@
-h1 { text-align:center; }
-
-table { width: 80%; margin:auto; border-collapse: collapse; background: white; }
-
-th, td { border: 1px solid #ddd; padding: 10px; }
-
-th { background: #eee; }
-
-a { color: #007bff; text-decoration: none; }
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap');
 
 body{
-    background-color: white;
+    background-color: #D7E9ED;
+}
+
+.navbar-brand{
+  color: #D0662A;
+  font-family: "Rubik Glitch";
 }
 
 
 nav{
-    background-color: #1ed2f0;
+    background-color: #58B6D0;
 }
 
 .btn{
-    background-color: #0197B3;
+    background-color: #387586;
     color: white;
     border-color: white;
 }
 
 .btn:hover{
-    background-color: #008299;
+    background-color: #438FA8;
     color: white;
     border-color: black;
 }
 
 .btn-outline-success {
     --bs-btn-active-color: #fff;
-    --bs-btn-active-bg: #00d9ff;
+    --bs-btn-active-bg: #58B6D0;
     --bs-btn-active-border-color: black;
     --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
 }
+
+.card-champ {
+    background: #f2f4f7;
+    border-radius: 20px;
+    padding: 15px;
+    text-align: center;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    transition: 0.2s;
+}
+.card-champ:hover {
+    transform: scale(1.05);
+}
+
+.card-champ img.logo {
+    width: 90px;
+    height: 90px;
+    object-fit: contain;
+    margin-bottom: 10px;
+}
+
+.card-champ img.flag {
+    width: 25px;
+    margin-top: 5px;
+}
+
+.row-champ {
+    background: #f2f4f7;
+    border-radius: 15px;
+    padding: 10px;
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.row-champ img.logo {
+    height: 35px;
+}
+.row-champ img.flag {
+    height: 25px;
+}
+

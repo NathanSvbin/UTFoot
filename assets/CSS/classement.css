@@ -1,0 +1,99 @@
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.filter-container {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 5%;
+    margin-top: 20px;
+}
+
+#championnat-select {
+    display: none;
+    margin-right: 5%;
+    padding: 6px 10px;
+}
+
+#championnat-name {
+    margin-left: 5%;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: #fff;
+}
+
+th, td {
+    padding: 8px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+th {
+    background-color: #D0662A;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #F5E0D8;
+}
+
+.top-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.champ-name {
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+.search-container {
+    position: relative;
+    width: 280px;
+}
+
+/* Bouton reset */
+#clear-search {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    display: none;
+}
+
+/* Liste déroulante résultats */
+.results-list {
+    position: absolute;
+    width: 100%;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 0;
+    margin-top: 3px;
+    list-style: none;
+    max-height: 250px;
+    overflow-y: auto;
+    display: none;
+    z-index: 1000;
+}
+
+.results-list li {
+    padding: 8px 10px;
+    cursor: pointer;
+}
+
+.results-list li:hover {
+    background: #f0f0f0;
+}
+
