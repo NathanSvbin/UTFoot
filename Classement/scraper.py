@@ -22,13 +22,6 @@ HEADERS = {
     "DNT": "1"
 }
 
-PROXIES = [
-    "http://51.159.66.45:3128",
-    "http://134.209.29.120:8080",
-    "http://195.201.231.22:8080"
-]
-
-
 SCRAPER_API_KEY = "6262014094981633c9ac440de291c0af"
 
 def get_with_proxy(url):
@@ -150,6 +143,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
