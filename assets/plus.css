@@ -1,0 +1,54 @@
+@media (max-width: 900px) {
+  
+}
+@media (max-width: 1400px) and (min-width: 900px) {
+
+}
+
+
+@media (max-width: 1200px) {
+
+}
+  
+@media (min-width: 1200px) {
+
+}
+
+.ad-container {
+    width: 10%;  /* Taille des blocs publicitaires */
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+  	height: 100%
+}
+
+.ad-container2 {
+    width: 100%;  
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+  	height: 7vh;
+}
+
+#left-ad-container {
+    order: 1;  /* Publicité à gauche */
+  	position: sticky;
+    top: 0; 
+}
+
+#right-ad-container {
+    order: 3;  /* Publicité à droite */
+  	height: 100%;
+  	position: sticky;
+    top: 0; 
+}
+
+#top-ad-container {
+    order: 1;  /* Publicité à gauche */
+}
+
+#bottom-ad-container {
+    order: 3;  /* Publicité à droite */
+}
