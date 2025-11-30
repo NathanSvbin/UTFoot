@@ -1,31 +1,28 @@
-import Fotmob from "@max-xoo/fotmob";
-
 async function loadTeam(teamId) {
-    const playersUl = document.getElementById('players');
-    const clubLogo = document.getElementById('clubLogo');
+    const ul = document.getElementById('players');
+    const logo = document.getElementById('clubLogo');
 
     try {
-        const res = await fetch(`https://ton-serveur.com/api/get_team.php?id=${teamId}`);
+        const res = await fetch(`../Generateur/get_team.php?id=${teamId}`);
         const data = await res.json();
 
         // Logo
-        if (data?.info?.imageUrl) clubLogo.src = data.info.imageUrl;
+        if (data?.info?.imageUrl) logo.src = data.info.imageUrl;
 
         // Joueurs
-        playersUl.innerHTML = '';
+        ul.innerHTML = '';
         const squad = data?.squad?.squad || [];
         if (squad.length > 0) {
             squad.forEach(p => {
                 const li = document.createElement('li');
                 li.textContent = `${p.name} - ${p.position ?? ''}`;
-                playersUl.appendChild(li);
+                ul.appendChild(li);
             });
         } else {
-            playersUl.innerHTML = '<li>Aucun joueur trouvé</li>';
+            ul.innerHTML = '<li>Aucun joueur trouvé</li>';
         }
-
     } catch (err) {
-        playersUl.innerHTML = '<li>Erreur de chargement API</li>';
+        ul.innerHTML = '<li>Erreur de chargement API</li>';
         console.error(err);
     }
 }
