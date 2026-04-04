@@ -187,6 +187,3 @@ def daily(date_str):
 
 # Flask handler pour Vercel
 app = app
-# Pour le test local
-if __name__ == "__main__":
-    app.run(debug=True)
