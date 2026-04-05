@@ -163,19 +163,23 @@ class FotMobScraper:
                 browser = await p.chromium.connect_over_cdp(ws_url)
                 context = await browser.new_context()
                 page = await context.new_page()
-                result = {}
-                async def handle_response(response):
-                    if "data/playerData" in response.url and str(player_id) in response.url:
-                        if response.status == 200:
-                            try:
-                                result['data'] = await response.json()
-                            except:
-                                pass
-                page.on("response", handle_response)
-                await page.goto(f"https://www.fotmob.com/fr/players/{player_id}/x", wait_until="domcontentloaded", timeout=60000)
-                await page.wait_for_timeout(5000)
+
+                await page.goto(
+                    f"https://www.fotmob.com/fr/players/{player_id}/x",
+                    wait_until="domcontentloaded",
+                    timeout=60000
+                )
+                await page.wait_for_timeout(3000)
+
+                data = await page.evaluate("""
+                    () => {
+                        const el = document.getElementById('__NEXT_DATA__');
+                        return el ? JSON.parse(el.innerText) : null;
+                    }
+                """)
+
                 await browser.close()
-                return result.get('data')
+                return data
         return asyncio.run(_fetch())
 
 
