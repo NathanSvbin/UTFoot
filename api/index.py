@@ -135,28 +135,25 @@ class FotMobScraper:
         path = f"/api/data/leagues?id={league_id}&tab={tab}&type=league&timeZone=Europe/Paris"
         return self._request(path)
 
-     def get_match_details(self, match_id):
+    def get_match_details(self, match_id):
         async def _fetch():
             ws_url = f"wss://chrome.browserless.io?token={BROWSERLESS_API_KEY}"
             async with async_playwright() as p:
                 browser = await p.chromium.connect_over_cdp(ws_url)
                 context = await browser.new_context()
                 page = await context.new_page()
-
                 await page.goto(
                     f"https://www.fotmob.com/fr/matches/x/x#{match_id}",
                     wait_until="domcontentloaded",
                     timeout=60000
                 )
                 await page.wait_for_timeout(3000)
-
                 data = await page.evaluate("""
                     () => {
                         const el = document.getElementById('__NEXT_DATA__');
                         return el ? JSON.parse(el.innerText) : null;
                     }
                 """)
-
                 await browser.close()
                 return data
         return asyncio.run(_fetch())
@@ -168,21 +165,18 @@ class FotMobScraper:
                 browser = await p.chromium.connect_over_cdp(ws_url)
                 context = await browser.new_context()
                 page = await context.new_page()
-
                 await page.goto(
                     f"https://www.fotmob.com/fr/players/{player_id}/x",
                     wait_until="domcontentloaded",
                     timeout=60000
                 )
                 await page.wait_for_timeout(3000)
-
                 data = await page.evaluate("""
                     () => {
                         const el = document.getElementById('__NEXT_DATA__');
                         return el ? JSON.parse(el.innerText) : null;
                     }
                 """)
-
                 await browser.close()
                 return data
         return asyncio.run(_fetch())
@@ -214,5 +208,3 @@ def league(league_id):
 @app.route('/api/daily/<date_str>')
 def daily(date_str):
     return jsonify(bot.get_daily_schedule(date_str))
-
-app = app
