@@ -135,18 +135,21 @@ class FotMobScraper:
         path = f"/api/data/leagues?id={league_id}&tab={tab}&type=league&timeZone=Europe/Paris"
         return self._request(path)
 
-    def get_match_details(self, player_id):
+    def get_match_details(self, match_id): # Correction du paramètre : match_id au lieu de player_id
         async def _fetch():
             ws_url = f"wss://chrome.browserless.io?token={BROWSERLESS_API_KEY}"
             async with async_playwright() as p:
                 browser = await p.chromium.connect_over_cdp(ws_url)
                 context = await browser.new_context()
                 page = await context.new_page()
+                
+                # Correction de l'URL pour correspondre à la structure réelle de FotMob
                 await page.goto(
-                    f"https://www.fotmob.com/matches/x/x#{match_id}",
+                    f"https://www.fotmob.com/matches/{match_id}", 
                     wait_until="domcontentloaded",
                     timeout=60000
                 )
+                
                 await page.wait_for_timeout(3000)
                 data = await page.evaluate("""
                     () => {
@@ -156,7 +159,11 @@ class FotMobScraper:
                 """)
                 await browser.close()
                 return data
-        return asyncio.run(_fetch())
+        
+        try:
+            return asyncio.run(_fetch())
+        except Exception as e:
+            return {"error": str(e)}
 
     def get_player_details(self, player_id):
         async def _fetch():
