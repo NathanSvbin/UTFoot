@@ -154,28 +154,17 @@ class FotMobScraper:
 
                 page.on("response", handle_response)
 
+                # Naviguer directement avec le matchId dans le fragment
+                # FotMob redirige automatiquement vers le bon match via le hash
                 await page.goto(
-                    f"https://www.fotmob.com/fr/matches/x/x#{match_id}",
+                    f"https://www.fotmob.com/fr/matches/match/match#{match_id}",
                     wait_until="domcontentloaded",
                     timeout=60000
                 )
                 await page.wait_for_timeout(5000)
 
-                # Si l'API a répondu, on retourne ça
-                if result.get('data'):
-                    await browser.close()
-                    return result['data']
-
-                # Sinon fallback sur __NEXT_DATA__
-                data = await page.evaluate("""
-                    () => {
-                        const el = document.getElementById('__NEXT_DATA__');
-                        return el ? JSON.parse(el.innerText) : null;
-                    }
-                """)
-
                 await browser.close()
-                return data
+                return result.get('data')
 
         return asyncio.run(_fetch())
 
